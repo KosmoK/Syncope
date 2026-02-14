@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: c63ca8c0f7bc1fd49845f4d07377c364
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4165711843757631651
+    second: SHEETRattlebones_0
+  - first:
+      213: 5999426047634448748
+    second: SHEETRattlebones_1
+  - first:
+      213: -1113694177356256787
+    second: SHEETRattlebones_2
+  - first:
+      213: 2311518976353305801
+    second: SHEETRattlebones_3
+  - first:
+      213: -4128138854952078435
+    second: SHEETRattlebones_4
+  - first:
+      213: -4905369624753497992
+    second: SHEETRattlebones_5
+  - first:
+      213: 4462102572691611706
+    second: SHEETRattlebones_6
+  - first:
+      213: -567140589667384107
+    second: SHEETRattlebones_7
+  - first:
+      213: 5032240060295628564
+    second: SHEETRattlebones_8
+  - first:
+      213: 6600708969649825217
+    second: SHEETRattlebones_9
+  - first:
+      213: -7078323541495445121
+    second: SHEETRattlebones_10
+  - first:
+      213: 8853972339025084204
+    second: SHEETRattlebones_11
+  - first:
+      213: -2639462054036816559
+    second: SHEETRattlebones_12
+  - first:
+      213: 401431709983013028
+    second: SHEETRattlebones_13
+  - first:
+      213: 8191358001610859991
+    second: SHEETRattlebones_14
+  - first:
+      213: -5873270198525568391
+    second: SHEETRattlebones_15
+  - first:
+      213: -8952212575663135779
+    second: SHEETRattlebones_16
+  - first:
+      213: 2138613719446519606
+    second: SHEETRattlebones_17
+  - first:
+      213: 8677252216712548277
+    second: SHEETRattlebones_18
+  - first:
+      213: 3659860079018414056
+    second: SHEETRattlebones_19
+  - first:
+      213: -8056891226370085910
+    second: SHEETRattlebones_20
+  - first:
+      213: 138706070695866123
+    second: SHEETRattlebones_21
+  - first:
+      213: -4748221265640708932
+    second: SHEETRattlebones_22
+  - first:
+      213: -583179196092099007
+    second: SHEETRattlebones_23
+  - first:
+      213: 8182085272068169426
+    second: SHEETRattlebones_24
+  - first:
+      213: -1985557601741070846
+    second: SHEETRattlebones_25
+  - first:
+      213: -4207571183454260833
+    second: SHEETRattlebones_26
+  - first:
+      213: -8017607424850387601
+    second: SHEETRattlebones_27
+  - first:
+      213: 5897275790974394196
+    second: SHEETRattlebones_28
+  - first:
+      213: -1972669385955021581
+    second: SHEETRattlebones_29
+  - first:
+      213: 4667268292567859835
+    second: SHEETRattlebones_30
+  - first:
+      213: 7487600391859662794
+    second: SHEETRattlebones_31
+  - first:
+      213: 2713313938094020175
+    second: SHEETRattlebones_32
+  - first:
+      213: 5277536852746191178
+    second: SHEETRattlebones_33
+  - first:
+      213: -8869507321277770129
+    second: SHEETRattlebones_34
+  - first:
+      213: 3281854312698672232
+    second: SHEETRattlebones_35
+  - first:
+      213: -3618526327329697345
+    second: SHEETRattlebones_36
+  - first:
+      213: -2080745373658448345
+    second: SHEETRattlebones_37
+  - first:
+      213: -8417419400576533441
+    second: SHEETRattlebones_38
+  - first:
+      213: 3394371810980093871
+    second: SHEETRattlebones_39
+  - first:
+      213: 7842263060941642026
+    second: SHEETRattlebones_40
+  - first:
+      213: 266734178684396331
+    second: SHEETRattlebones_41
+  - first:
+      213: 5072891078570094015
+    second: SHEETRattlebones_42
+  - first:
+      213: 7602521232417360891
+    second: SHEETRattlebones_43
+  - first:
+      213: -8931162664337643159
+    second: SHEETRattlebones_44
+  - first:
+      213: 2243947750759272471
+    second: SHEETRattlebones_45
+  - first:
+      213: -1699049127180900005
+    second: SHEETRattlebones_46
+  - first:
+      213: 6073969810494737748
+    second: SHEETRattlebones_47
+  - first:
+      213: -3683461635140830976
+    second: SHEETRattlebones_48
+  - first:
+      213: 506102594097473243
+    second: SHEETRattlebones_49
+  - first:
+      213: 2862692637872178119
+    second: SHEETRattlebones_50
+  - first:
+      213: 5384555366984136437
+    second: SHEETRattlebones_51
+  - first:
+      213: -5188640082979531615
+    second: SHEETRattlebones_52
+  - first:
+      213: -782668206834504720
+    second: SHEETRattlebones_53
+  - first:
+      213: 5681003750400922291
+    second: SHEETRattlebones_54
+  - first:
+      213: -6240323373367452535
+    second: SHEETRattlebones_55
+  - first:
+      213: -54300763311265330
+    second: SHEETRattlebones_56
+  - first:
+      213: -9071440293319351818
+    second: SHEETRattlebones_57
+  - first:
+      213: 4423101965600928928
+    second: SHEETRattlebones_58
+  - first:
+      213: -3001919710780515676
+    second: SHEETRattlebones_59
+  - first:
+      213: -58391190131715773
+    second: SHEETRattlebones_60
+  - first:
+      213: 5650864037790705655
+    second: SHEETRattlebones_61
+  - first:
+      213: 1663728392863742880
+    second: SHEETRattlebones_62
+  - first:
+      213: 6484039807921151144
+    second: SHEETRattlebones_63
+  - first:
+      213: 5538961629308483039
+    second: SHEETRattlebones_64
+  - first:
+      213: -6027326975188537735
+    second: SHEETRattlebones_65
+  - first:
+      213: 5431236896539279570
+    second: SHEETRattlebones_66
+  - first:
+      213: 7686346924164077299
+    second: SHEETRattlebones_67
+  - first:
+      213: 2150576215103095234
+    second: SHEETRattlebones_68
+  - first:
+      213: -768907223455610640
+    second: SHEETRattlebones_69
+  - first:
+      213: -4008995010042501345
+    second: SHEETRattlebones_70
+  - first:
+      213: -1149015564764502512
+    second: SHEETRattlebones_71
+  - first:
+      213: 7410144051313522498
+    second: SHEETRattlebones_72
+  - first:
+      213: 1050312779239150887
+    second: SHEETRattlebones_73
+  - first:
+      213: -6054635355338034567
+    second: SHEETRattlebones_74
+  - first:
+      213: -8669656465723968228
+    second: SHEETRattlebones_75
+  - first:
+      213: -1348448901186663036
+    second: SHEETRattlebones_76
+  - first:
+      213: 6244324186230992772
+    second: SHEETRattlebones_77
+  - first:
+      213: -931783985972430568
+    second: SHEETRattlebones_78
+  - first:
+      213: -8452540352297401027
+    second: SHEETRattlebones_79
+  - first:
+      213: -6193012708678540645
+    second: SHEETRattlebones_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHEETRattlebones_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 805
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8afcbd9d49fc930800000000000000
+      internalID: 4165711843757631651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 805
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c612a79343e324350800000000000000
+      internalID: 5999426047634448748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 804
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9624adb0d5b80f0800000000000000
+      internalID: -1113694177356256787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 804
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c40d15134a241020800000000000000
+      internalID: 2311518976353305801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 805
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93f71f4597e5b6c0800000000000000
+      internalID: -4128138854952078435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 737
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8789398e050acebb0800000000000000
+      internalID: -4905369624753497992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 774
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30e3ac06a29ced30800000000000000
+      internalID: 4462102572691611706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 777
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d48b2773ac1128f0800000000000000
+      internalID: -567140589667384107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 765
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41749624cab16d540800000000000000
+      internalID: 5032240060295628564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 747
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c566b9f5dd6a9b50800000000000000
+      internalID: 6600708969649825217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 747
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7901e7dd3eb4cd90800000000000000
+      internalID: -7078323541495445121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 659
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f79b69ee0afda70800000000000000
+      internalID: 8853972339025084204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 624
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d330f0f3fbe5bd0800000000000000
+      internalID: -2639462054036816559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 659
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a87d1b630c229500800000000000000
+      internalID: 401431709983013028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 659
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a11ae3bc8da170800000000000000
+      internalID: 8191358001610859991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 659
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97adef25fd3fd7ea0800000000000000
+      internalID: -5873270198525568391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_16
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 660
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd360d1e71a53c380800000000000000
+      internalID: -8952212575663135779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 661
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ff263d8d1edad10800000000000000
+      internalID: 2138613719446519606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 623
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf4f93caeacb6870800000000000000
+      internalID: 8677252216712548277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 515
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef8681e95f6ac230800000000000000
+      internalID: 3659860079018414056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 515
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebef3aed1c203090800000000000000
+      internalID: -8056891226370085910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 515
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f6408bf68cce100800000000000000
+      internalID: 138706070695866123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_22
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 453
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4a7828aedea1eb0800000000000000
+      internalID: -4748221265640708932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 451
+        width: 62
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14658886c9128e7f0800000000000000
+      internalID: -583179196092099007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_24
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 446
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de1493543b9c8170800000000000000
+      internalID: 8182085272068169426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 372
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e952391e1e174e0800000000000000
+      internalID: -1985557601741070846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 371
+        width: 87
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91f9032d44bb95c0800000000000000
+      internalID: -4207571183454260833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 373
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d1245b68cbbb090800000000000000
+      internalID: -8017607424850387601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 370
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f1a87361557d150800000000000000
+      internalID: 5897275790974394196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 369
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcecd625abaf94e0800000000000000
+      internalID: -1972669385955021581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_30
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 371
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7283f9a8c775c040800000000000000
+      internalID: 4667268292567859835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 296
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfeed8a2ec49e760800000000000000
+      internalID: 7487600391859662794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_32
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 297
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46d534a6a0a7a520800000000000000
+      internalID: 2713313938094020175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 349
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4148f45ec39d3940800000000000000
+      internalID: 5277536852746191178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_34
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 296
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66138e751e29e480800000000000000
+      internalID: -8869507321277770129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_35
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 296
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864fcf00c1d7b8d20800000000000000
+      internalID: 3281854312698672232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb15d112a7968cdc0800000000000000
+      internalID: -3618526327329697345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_37
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 224
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72efc0f5b15bf13e0800000000000000
+      internalID: -2080745373658448345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_38
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 276
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c772f07a15f2b80800000000000000
+      internalID: -8417419400576533441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 225
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf511d8d2b3b1f20800000000000000
+      internalID: 3394371810980093871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_40
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 223
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29189e24b055dc60800000000000000
+      internalID: 7842263060941642026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_41
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 249
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2360f18251a3b300800000000000000
+      internalID: 266734178684396331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_42
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 156
+        width: 44
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd2b620f87866640800000000000000
+      internalID: 5072891078570094015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_43
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 223
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb0a9fe7c4918960800000000000000
+      internalID: 7602521232417360891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_44
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 223
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9696ce840e22e0480800000000000000
+      internalID: -8931162664337643159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_45
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 223
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7101b82279a142f10800000000000000
+      internalID: 2243947750759272471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_46
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 223
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59e17e12d3cb68e0800000000000000
+      internalID: -1699049127180900005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_47
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 223
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d4cf28c531b4450800000000000000
+      internalID: 6073969810494737748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_48
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 223
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b6ad9827b1ecc0800000000000000
+      internalID: -3683461635140830976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_49
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 229
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6651db0a9060700800000000000000
+      internalID: 506102594097473243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_50
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 229
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c34f7579c35ab720800000000000000
+      internalID: 2862692637872178119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_51
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 255
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f63382e398c9ba40800000000000000
+      internalID: 5384555366984136437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_52
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 251
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4d6aac55f3ef7b0800000000000000
+      internalID: -5188640082979531615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_53
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 238
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb23a2a9676325f0800000000000000
+      internalID: -782668206834504720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_54
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 227
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b21f4ecfcaf6de40800000000000000
+      internalID: 5681003750400922291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 151
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c9dde54fae569a0800000000000000
+      internalID: -6240323373367452535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 162
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9acc35eb51f3ff0800000000000000
+      internalID: -54300763311265330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_57
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 162
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1e883ad15cb1280800000000000000
+      internalID: -9071440293319351818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_58
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 149
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4b9f89dc3026d30800000000000000
+      internalID: 4423101965600928928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_59
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 148
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa1faa8de90756d0800000000000000
+      internalID: -3001919710780515676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_60
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 166
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341df2e958d803ff0800000000000000
+      internalID: -58391190131715773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_61
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 166
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f76b8e17e6eb6e40800000000000000
+      internalID: 5650864037790705655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_62
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 166
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abff539820c61710800000000000000
+      internalID: 1663728392863742880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_63
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 166
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acd1a4f9dfebf950800000000000000
+      internalID: 6484039807921151144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_64
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 166
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5737351485edc40800000000000000
+      internalID: 5538961629308483039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_65
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 156
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ee1cadc02aa5ca0800000000000000
+      internalID: -6027326975188537735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_66
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 156
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d008357e21af5b40800000000000000
+      internalID: 5431236896539279570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_67
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 156
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f65733bdc36baa60800000000000000
+      internalID: 7686346924164077299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_68
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 109
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1cf936ca168dd10800000000000000
+      internalID: 2150576215103095234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_69
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 91
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f842b044fa4455f0800000000000000
+      internalID: -768907223455610640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_70
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 121
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f176a1867403d58c0800000000000000
+      internalID: -4008995010042501345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 121
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01621dc7e60ed00f0800000000000000
+      internalID: -1149015564764502512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_72
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 90
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247340901ce16d660800000000000000
+      internalID: 7410144051313522498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_73
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 96
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7255a9d68e5739e00800000000000000
+      internalID: 1050312779239150887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_74
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 104
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9723e80293d99fba0800000000000000
+      internalID: -6054635355338034567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_75
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 80
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15bad3d0613fa780800000000000000
+      internalID: -8669656465723968228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_76
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 82
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dc0076ed8594de0800000000000000
+      internalID: -1348448901186663036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_77
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fada673cb48a650800000000000000
+      internalID: 6244324186230992772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 31
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81937bcc663a113f0800000000000000
+      internalID: -931783985972430568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3588a3455b82ba80800000000000000
+      internalID: -8452540352297401027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETRattlebones_80
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 7
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b926cb1e0cffd0aa0800000000000000
+      internalID: -6193012708678540645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SHEETRattlebones_0: 4165711843757631651
+      SHEETRattlebones_1: 5999426047634448748
+      SHEETRattlebones_10: -7078323541495445121
+      SHEETRattlebones_11: 8853972339025084204
+      SHEETRattlebones_12: -2639462054036816559
+      SHEETRattlebones_13: 401431709983013028
+      SHEETRattlebones_14: 8191358001610859991
+      SHEETRattlebones_15: -5873270198525568391
+      SHEETRattlebones_16: -8952212575663135779
+      SHEETRattlebones_17: 2138613719446519606
+      SHEETRattlebones_18: 8677252216712548277
+      SHEETRattlebones_19: 3659860079018414056
+      SHEETRattlebones_2: -1113694177356256787
+      SHEETRattlebones_20: -8056891226370085910
+      SHEETRattlebones_21: 138706070695866123
+      SHEETRattlebones_22: -4748221265640708932
+      SHEETRattlebones_23: -583179196092099007
+      SHEETRattlebones_24: 8182085272068169426
+      SHEETRattlebones_25: -1985557601741070846
+      SHEETRattlebones_26: -4207571183454260833
+      SHEETRattlebones_27: -8017607424850387601
+      SHEETRattlebones_28: 5897275790974394196
+      SHEETRattlebones_29: -1972669385955021581
+      SHEETRattlebones_3: 2311518976353305801
+      SHEETRattlebones_30: 4667268292567859835
+      SHEETRattlebones_31: 7487600391859662794
+      SHEETRattlebones_32: 2713313938094020175
+      SHEETRattlebones_33: 5277536852746191178
+      SHEETRattlebones_34: -8869507321277770129
+      SHEETRattlebones_35: 3281854312698672232
+      SHEETRattlebones_36: -3618526327329697345
+      SHEETRattlebones_37: -2080745373658448345
+      SHEETRattlebones_38: -8417419400576533441
+      SHEETRattlebones_39: 3394371810980093871
+      SHEETRattlebones_4: -4128138854952078435
+      SHEETRattlebones_40: 7842263060941642026
+      SHEETRattlebones_41: 266734178684396331
+      SHEETRattlebones_42: 5072891078570094015
+      SHEETRattlebones_43: 7602521232417360891
+      SHEETRattlebones_44: -8931162664337643159
+      SHEETRattlebones_45: 2243947750759272471
+      SHEETRattlebones_46: -1699049127180900005
+      SHEETRattlebones_47: 6073969810494737748
+      SHEETRattlebones_48: -3683461635140830976
+      SHEETRattlebones_49: 506102594097473243
+      SHEETRattlebones_5: -4905369624753497992
+      SHEETRattlebones_50: 2862692637872178119
+      SHEETRattlebones_51: 5384555366984136437
+      SHEETRattlebones_52: -5188640082979531615
+      SHEETRattlebones_53: -782668206834504720
+      SHEETRattlebones_54: 5681003750400922291
+      SHEETRattlebones_55: -6240323373367452535
+      SHEETRattlebones_56: -54300763311265330
+      SHEETRattlebones_57: -9071440293319351818
+      SHEETRattlebones_58: 4423101965600928928
+      SHEETRattlebones_59: -3001919710780515676
+      SHEETRattlebones_6: 4462102572691611706
+      SHEETRattlebones_60: -58391190131715773
+      SHEETRattlebones_61: 5650864037790705655
+      SHEETRattlebones_62: 1663728392863742880
+      SHEETRattlebones_63: 6484039807921151144
+      SHEETRattlebones_64: 5538961629308483039
+      SHEETRattlebones_65: -6027326975188537735
+      SHEETRattlebones_66: 5431236896539279570
+      SHEETRattlebones_67: 7686346924164077299
+      SHEETRattlebones_68: 2150576215103095234
+      SHEETRattlebones_69: -768907223455610640
+      SHEETRattlebones_7: -567140589667384107
+      SHEETRattlebones_70: -4008995010042501345
+      SHEETRattlebones_71: -1149015564764502512
+      SHEETRattlebones_72: 7410144051313522498
+      SHEETRattlebones_73: 1050312779239150887
+      SHEETRattlebones_74: -6054635355338034567
+      SHEETRattlebones_75: -8669656465723968228
+      SHEETRattlebones_76: -1348448901186663036
+      SHEETRattlebones_77: 6244324186230992772
+      SHEETRattlebones_78: -931783985972430568
+      SHEETRattlebones_79: -8452540352297401027
+      SHEETRattlebones_8: 5032240060295628564
+      SHEETRattlebones_80: -6193012708678540645
+      SHEETRattlebones_9: 6600708969649825217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
