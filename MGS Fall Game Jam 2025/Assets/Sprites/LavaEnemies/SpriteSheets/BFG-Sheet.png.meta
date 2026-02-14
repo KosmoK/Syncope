@@ -1,0 +1,3783 @@
+fileFormatVersion: 2
+guid: cb48332c9acded7478b65d6bdf8fa3ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4629215011487406910
+    second: BFG-Sheet_0
+  - first:
+      213: -1467058418740497806
+    second: BFG-Sheet_1
+  - first:
+      213: -208327106562839414
+    second: BFG-Sheet_2
+  - first:
+      213: -6456861770232116228
+    second: BFG-Sheet_3
+  - first:
+      213: 6039739471846254822
+    second: BFG-Sheet_4
+  - first:
+      213: 4556951800744009563
+    second: BFG-Sheet_5
+  - first:
+      213: 9153538861361548688
+    second: BFG-Sheet_6
+  - first:
+      213: 2772944422872129145
+    second: BFG-Sheet_7
+  - first:
+      213: -4350060996866361610
+    second: BFG-Sheet_8
+  - first:
+      213: -5487782527512575035
+    second: BFG-Sheet_9
+  - first:
+      213: 2097498363821324319
+    second: BFG-Sheet_10
+  - first:
+      213: -8750976347260309121
+    second: BFG-Sheet_11
+  - first:
+      213: -2685954144931915991
+    second: BFG-Sheet_12
+  - first:
+      213: 853074979894086038
+    second: BFG-Sheet_13
+  - first:
+      213: 556765248638453356
+    second: BFG-Sheet_14
+  - first:
+      213: -1042841209661337346
+    second: BFG-Sheet_15
+  - first:
+      213: -8597499739045282384
+    second: BFG-Sheet_16
+  - first:
+      213: 6814801468263560127
+    second: BFG-Sheet_17
+  - first:
+      213: 3166016538284858067
+    second: BFG-Sheet_18
+  - first:
+      213: 4359768111553008343
+    second: BFG-Sheet_19
+  - first:
+      213: 4135632706918246966
+    second: BFG-Sheet_20
+  - first:
+      213: 54231155514830858
+    second: BFG-Sheet_21
+  - first:
+      213: 1103479021172971511
+    second: BFG-Sheet_22
+  - first:
+      213: 4335388865631021492
+    second: BFG-Sheet_23
+  - first:
+      213: -8005307773881438119
+    second: BFG-Sheet_24
+  - first:
+      213: 4746896283476514746
+    second: BFG-Sheet_25
+  - first:
+      213: -160828005091427371
+    second: BFG-Sheet_26
+  - first:
+      213: -4621022064082545423
+    second: BFG-Sheet_27
+  - first:
+      213: 2430969707612585088
+    second: BFG-Sheet_28
+  - first:
+      213: -7692353378837071144
+    second: BFG-Sheet_29
+  - first:
+      213: -2105797391799340362
+    second: BFG-Sheet_30
+  - first:
+      213: -4198576336478014277
+    second: BFG-Sheet_31
+  - first:
+      213: 5724020537007184051
+    second: BFG-Sheet_32
+  - first:
+      213: -2176550875935064345
+    second: BFG-Sheet_33
+  - first:
+      213: 2530291613374463982
+    second: BFG-Sheet_34
+  - first:
+      213: -7632171758246766648
+    second: BFG-Sheet_35
+  - first:
+      213: 1395356162707136510
+    second: BFG-Sheet_36
+  - first:
+      213: -4277913568665249383
+    second: BFG-Sheet_37
+  - first:
+      213: 3592090185015941152
+    second: BFG-Sheet_38
+  - first:
+      213: 2190996632484469995
+    second: BFG-Sheet_39
+  - first:
+      213: -2536894142676193332
+    second: BFG-Sheet_40
+  - first:
+      213: 6709848988561186680
+    second: BFG-Sheet_41
+  - first:
+      213: -6858409460934261065
+    second: BFG-Sheet_42
+  - first:
+      213: -144385351288850865
+    second: BFG-Sheet_43
+  - first:
+      213: -8686255589511573817
+    second: BFG-Sheet_44
+  - first:
+      213: 8350833701722012653
+    second: BFG-Sheet_45
+  - first:
+      213: -1913349124831950289
+    second: BFG-Sheet_46
+  - first:
+      213: -4617395380968892987
+    second: BFG-Sheet_47
+  - first:
+      213: -5876698699311583379
+    second: BFG-Sheet_48
+  - first:
+      213: 2591669149257153862
+    second: BFG-Sheet_49
+  - first:
+      213: -7471110491197649422
+    second: BFG-Sheet_50
+  - first:
+      213: 6536598381947741304
+    second: BFG-Sheet_51
+  - first:
+      213: 6588945327064957368
+    second: BFG-Sheet_52
+  - first:
+      213: -8558794594261295260
+    second: BFG-Sheet_53
+  - first:
+      213: 5924503060636866537
+    second: BFG-Sheet_54
+  - first:
+      213: 3762072302773804742
+    second: BFG-Sheet_55
+  - first:
+      213: 7499604258673526692
+    second: BFG-Sheet_56
+  - first:
+      213: 5841112956189623672
+    second: BFG-Sheet_57
+  - first:
+      213: 5415998184410614599
+    second: BFG-Sheet_58
+  - first:
+      213: 6932482523704646821
+    second: BFG-Sheet_59
+  - first:
+      213: 4476317037439172284
+    second: BFG-Sheet_60
+  - first:
+      213: -4657834274842466643
+    second: BFG-Sheet_61
+  - first:
+      213: 8969000759120008544
+    second: BFG-Sheet_62
+  - first:
+      213: 2601077684083595602
+    second: BFG-Sheet_63
+  - first:
+      213: 1124012863677364856
+    second: BFG-Sheet_64
+  - first:
+      213: 7480632705641867825
+    second: BFG-Sheet_65
+  - first:
+      213: -7636180190770287650
+    second: BFG-Sheet_66
+  - first:
+      213: 4534261374447867721
+    second: BFG-Sheet_67
+  - first:
+      213: 6749795970234951366
+    second: BFG-Sheet_68
+  - first:
+      213: 5426060427628923507
+    second: BFG-Sheet_69
+  - first:
+      213: -7156280982465103667
+    second: BFG-Sheet_70
+  - first:
+      213: 7744836550598887100
+    second: BFG-Sheet_71
+  - first:
+      213: -8426081609076836270
+    second: BFG-Sheet_72
+  - first:
+      213: 777151470749854067
+    second: BFG-Sheet_73
+  - first:
+      213: 5699261320909906286
+    second: BFG-Sheet_74
+  - first:
+      213: 7094479321241454823
+    second: BFG-Sheet_75
+  - first:
+      213: -3558106403757915224
+    second: BFG-Sheet_76
+  - first:
+      213: -4410460716318749317
+    second: BFG-Sheet_77
+  - first:
+      213: 96287276370079754
+    second: BFG-Sheet_78
+  - first:
+      213: 4979996816653437087
+    second: BFG-Sheet_79
+  - first:
+      213: 1624672954110689529
+    second: BFG-Sheet_80
+  - first:
+      213: 2409417455876853684
+    second: BFG-Sheet_81
+  - first:
+      213: -2612559466942056310
+    second: BFG-Sheet_82
+  - first:
+      213: 4637650923433203682
+    second: BFG-Sheet_83
+  - first:
+      213: 8745542467354263212
+    second: BFG-Sheet_84
+  - first:
+      213: -3333364653590972153
+    second: BFG-Sheet_85
+  - first:
+      213: -5247249967907033566
+    second: BFG-Sheet_86
+  - first:
+      213: -79225861378515162
+    second: BFG-Sheet_87
+  - first:
+      213: 2798951351565032589
+    second: BFG-Sheet_88
+  - first:
+      213: -2808955969065057048
+    second: BFG-Sheet_89
+  - first:
+      213: 5668614860592493153
+    second: BFG-Sheet_90
+  - first:
+      213: 2909540944028332268
+    second: BFG-Sheet_91
+  - first:
+      213: -9032673108081603288
+    second: BFG-Sheet_92
+  - first:
+      213: 3980818381440750236
+    second: BFG-Sheet_93
+  - first:
+      213: 5502224414059617185
+    second: BFG-Sheet_94
+  - first:
+      213: 5606223174194149775
+    second: BFG-Sheet_95
+  - first:
+      213: 4922826674669611261
+    second: BFG-Sheet_96
+  - first:
+      213: -8866104839198286164
+    second: BFG-Sheet_97
+  - first:
+      213: -5393935334544268559
+    second: BFG-Sheet_98
+  - first:
+      213: 3604931027961547701
+    second: BFG-Sheet_99
+  - first:
+      213: -1838798486497019643
+    second: BFG-Sheet_100
+  - first:
+      213: -550113316906241970
+    second: BFG-Sheet_101
+  - first:
+      213: -6460707484795437754
+    second: BFG-Sheet_102
+  - first:
+      213: -1826720710467837336
+    second: BFG-Sheet_103
+  - first:
+      213: -3586743886662324090
+    second: BFG-Sheet_104
+  - first:
+      213: 402256491744489713
+    second: BFG-Sheet_105
+  - first:
+      213: 5549333480529378230
+    second: BFG-Sheet_106
+  - first:
+      213: 4390441272196312324
+    second: BFG-Sheet_107
+  - first:
+      213: -75290388573099241
+    second: BFG-Sheet_108
+  - first:
+      213: -5980547303576050807
+    second: BFG-Sheet_109
+  - first:
+      213: 7449099677230429139
+    second: BFG-Sheet_110
+  - first:
+      213: 9201219773263549383
+    second: BFG-Sheet_111
+  - first:
+      213: 8862635645591598928
+    second: BFG-Sheet_112
+  - first:
+      213: -7373409273869194853
+    second: BFG-Sheet_113
+  - first:
+      213: 7588523291569868024
+    second: BFG-Sheet_114
+  - first:
+      213: 241094368779226557
+    second: BFG-Sheet_115
+  - first:
+      213: 1299107762762840347
+    second: BFG-Sheet_116
+  - first:
+      213: 2878356498903152807
+    second: BFG-Sheet_117
+  - first:
+      213: 3472609588566587710
+    second: BFG-Sheet_118
+  - first:
+      213: -1983326545914208660
+    second: BFG-Sheet_119
+  - first:
+      213: -706225179423091505
+    second: BFG-Sheet_120
+  - first:
+      213: -5141851397801948763
+    second: BFG-Sheet_121
+  - first:
+      213: 8192498427388824688
+    second: BFG-Sheet_122
+  - first:
+      213: 1400944375206211545
+    second: BFG-Sheet_123
+  - first:
+      213: -7829914942660642250
+    second: BFG-Sheet_124
+  - first:
+      213: -8818458328576998201
+    second: BFG-Sheet_125
+  - first:
+      213: -8791435762892829186
+    second: BFG-Sheet_126
+  - first:
+      213: 6848693267652298545
+    second: BFG-Sheet_127
+  - first:
+      213: 103549818804320953
+    second: BFG-Sheet_128
+  - first:
+      213: -634781966211537047
+    second: BFG-Sheet_129
+  - first:
+      213: 1336671408500668076
+    second: BFG-Sheet_130
+  - first:
+      213: 8770948251520684080
+    second: BFG-Sheet_131
+  - first:
+      213: 2037740661773235590
+    second: BFG-Sheet_132
+  - first:
+      213: -3381420739614257365
+    second: BFG-Sheet_133
+  - first:
+      213: -5520541641145682696
+    second: BFG-Sheet_134
+  - first:
+      213: 7982867203610740314
+    second: BFG-Sheet_135
+  - first:
+      213: 3699312650278027576
+    second: BFG-Sheet_136
+  - first:
+      213: -9178243051850825438
+    second: BFG-Sheet_137
+  - first:
+      213: 2897183147443686067
+    second: BFG-Sheet_138
+  - first:
+      213: 7016605386603523107
+    second: BFG-Sheet_139
+  - first:
+      213: -6952707359404451661
+    second: BFG-Sheet_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BFG-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 714
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c423634979b1cfb0800000000000000
+      internalID: -4629215011487406910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 775
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272f9361426f3abe0800000000000000
+      internalID: -1467058418740497806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 775
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cac30b99fdb1df0800000000000000
+      internalID: -208327106562839414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 775
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbc38d0e6e9466a0800000000000000
+      internalID: -6456861770232116228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 775
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e82d4bbc0771d350800000000000000
+      internalID: 6039739471846254822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 717
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f5cedd48b8d3f30800000000000000
+      internalID: 4556951800744009563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 721
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d403dc817e70f70800000000000000
+      internalID: 9153538861361548688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 723
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e913bc24a7b7620800000000000000
+      internalID: 2772944422872129145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 623
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6bf7a229a71a3c0800000000000000
+      internalID: -4350060996866361610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 623
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c38403edda77d3b0800000000000000
+      internalID: -5487782527512575035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 623
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18788c16afcb1d10800000000000000
+      internalID: 2097498363821324319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 623
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7134b770694e8680800000000000000
+      internalID: -8750976347260309121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 623
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927585c9fe299bad0800000000000000
+      internalID: -2685954144931915991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 621
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6994c57ac2bb6db00800000000000000
+      internalID: 853074979894086038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 621
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6680643b070ab700800000000000000
+      internalID: 556765248638453356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 621
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef05ffce1751781f0800000000000000
+      internalID: -1042841209661337346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 623
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd31b1f98b8fa880800000000000000
+      internalID: -8597499739045282384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 625
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3f8aa34d9039e50800000000000000
+      internalID: 6814801468263560127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 625
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1b7d6443ffeb20800000000000000
+      internalID: 3166016538284858067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 627
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d251389ff1018c30800000000000000
+      internalID: 4359768111553008343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 628
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a69511908b46930800000000000000
+      internalID: 4135632706918246966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 566
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a007838d2faa0c000800000000000000
+      internalID: 54231155514830858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 569
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f75c12c258505f00800000000000000
+      internalID: 1103479021172971511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 563
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9ee1314356a2c30800000000000000
+      internalID: 4335388865631021492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 565
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950bf1c5efe67e090800000000000000
+      internalID: -8005307773881438119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 568
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab75d3a050d50e140800000000000000
+      internalID: 4746896283476514746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 559
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db379e08cf94cdf0800000000000000
+      internalID: -160828005091427371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 560
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f41e1b7ae4dedfb0800000000000000
+      internalID: -4621022064082545423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 476
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cbbf9b11a8cb120800000000000000
+      internalID: 2430969707612585088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 477
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daf3a79b554f3590800000000000000
+      internalID: -7692353378837071144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 479
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b23bdcdd64b6c2e0800000000000000
+      internalID: -2105797391799340362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 480
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4fdd52119abb5c0800000000000000
+      internalID: -4198576336478014277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 482
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b89a5be95ecf6f40800000000000000
+      internalID: 5724020537007184051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 501
+        width: 71
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee335c92865bc1e0800000000000000
+      internalID: -2176550875935064345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 497
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefb559f0d66d1320800000000000000
+      internalID: 2530291613374463982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 481
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7deec0934151690800000000000000
+      internalID: -7632171758246766648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 478
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff9f4d790d4d5310800000000000000
+      internalID: 1395356162707136510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 476
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99952ef464cc1a4c0800000000000000
+      internalID: -4277913568665249383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 475
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028da07ddfaa9d130800000000000000
+      internalID: 3592090185015941152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 474
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec505f24dbf76e10800000000000000
+      internalID: 2190996632484469995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 476
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf2401e7342bccd0800000000000000
+      internalID: -2536894142676193332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 433
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f14b3da1c2e1d50800000000000000
+      internalID: 6709848988561186680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 437
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6c5d4cee802d0a0800000000000000
+      internalID: -6858409460934261065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 423
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4678a9b94a0ffdf0800000000000000
+      internalID: -144385351288850865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 418
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce49e62098347780800000000000000
+      internalID: -8686255589511573817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 439
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb3081d10f14e370800000000000000
+      internalID: 8350833701722012653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 430
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a461bbb1b6275e0800000000000000
+      internalID: -1913349124831950289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 435
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5d1d17d57bbefb0800000000000000
+      internalID: -4617395380968892987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 433
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f68874ba5c17ea0800000000000000
+      internalID: -5876698699311583379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 434
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dbfc82c5577f320800000000000000
+      internalID: 2591669149257153862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 427
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd48768798415890800000000000000
+      internalID: -7471110491197649422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 419
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87463639899a6ba50800000000000000
+      internalID: 6536598381947741304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 416
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b14d208dd2a07b50800000000000000
+      internalID: 6588945327064957368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 407
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9587b9ad093980800000000000000
+      internalID: -8558794594261295260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 425
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e799ffe420183250800000000000000
+      internalID: 5924503060636866537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 415
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce1b2ab3d0953430800000000000000
+      internalID: 3762072302773804742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 417
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a70e32b652f31860800000000000000
+      internalID: 7499604258673526692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 420
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8754d9e394dcf0150800000000000000
+      internalID: 5841112956189623672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 403
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b84fd47ad792b40800000000000000
+      internalID: 5415998184410614599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 402
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acd40d1020253060800000000000000
+      internalID: 6932482523704646821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 399
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe379601a21f1e30800000000000000
+      internalID: 4476317037439172284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 411
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da62061c76c0c5fb0800000000000000
+      internalID: -4657834274842466643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 402
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0659e8dabaa487c70800000000000000
+      internalID: 8969000759120008544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 409
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2599ff06f52e81420800000000000000
+      internalID: 2601077684083595602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 404
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a75768ebb499f00800000000000000
+      internalID: 1124012863677364856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 407
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ae3facfcb80d760800000000000000
+      internalID: 7480632705641867825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 402
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb23402396d60690800000000000000
+      internalID: -7636180190770287650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 401
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475dbe42beecee30800000000000000
+      internalID: 4534261374447867721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 402
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6a7384ca71cad50800000000000000
+      internalID: 6749795970234951366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 400
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a40aed53d3d4b40800000000000000
+      internalID: 5426060427628923507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 397
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8b84fac58cfac90800000000000000
+      internalID: -7156280982465103667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 398
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb688e11fcf2b7b60800000000000000
+      internalID: 7744836550598887100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 403
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f58a7b6b801b80800000000000000
+      internalID: -8426081609076836270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 399
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379a7b6252ff8ca00800000000000000
+      internalID: 777151470749854067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 400
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6165f2b9f7d71f40800000000000000
+      internalID: 5699261320909906286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 402
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e883f0ca57a47260800000000000000
+      internalID: 7094479321241454823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 401
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a387f2d3111f9ec0800000000000000
+      internalID: -3558106403757915224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 399
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d810c9855eac2c0800000000000000
+      internalID: -4410460716318749317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 324
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00bd6884c4165100800000000000000
+      internalID: 96287276370079754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 404
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98443738b08c1540800000000000000
+      internalID: 4979996816653437087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 399
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0c3f1a17ffb8610800000000000000
+      internalID: 1624672954110689529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 399
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf4a251968ff6120800000000000000
+      internalID: 2409417455876853684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 397
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88b55ab1035ebbd0800000000000000
+      internalID: -2612559466942056310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 398
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e79f7b81fe3c5040800000000000000
+      internalID: 4637650923433203682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 398
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae7eb6c9886e5970800000000000000
+      internalID: 8745542467354263212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 399
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709fddb22828db1d0800000000000000
+      internalID: -3333364653590972153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 400
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ea83f84f50e27b0800000000000000
+      internalID: -5247249967907033566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 392
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f5283bf7886eef0800000000000000
+      internalID: -79225861378515162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 325
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c12adbc6fd7d620800000000000000
+      internalID: 2798951351565032589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 324
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e40a2abd659409d0800000000000000
+      internalID: -2808955969065057048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 324
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162bd1e9e27faae40800000000000000
+      internalID: 5668614860592493153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 248
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0734cb214c06820800000000000000
+      internalID: 2909540944028332268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 249
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d82945aaf75a280800000000000000
+      internalID: -9032673108081603288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 249
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c921f150a35be3730800000000000000
+      internalID: 3980818381440750236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 248
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab518ad3f3db5c40800000000000000
+      internalID: 5502224414059617185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 242
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b76d164e4dcd40800000000000000
+      internalID: 5606223174194149775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 242
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8ef7247c4615440800000000000000
+      internalID: 4922826674669611261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 242
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caed6369f9445f480800000000000000
+      internalID: -8866104839198286164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 242
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2af0b3464e425b0800000000000000
+      internalID: -5393935334544268559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 249
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb8e619ba9470230800000000000000
+      internalID: 3604931027961547701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 268
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509b1d6d4864b76e0800000000000000
+      internalID: -1838798486497019643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 258
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4077975ada9d58f0800000000000000
+      internalID: -550113316906241970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 172
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d7f0bd5c4f656a0800000000000000
+      internalID: -6460707484795437754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 172
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86227b4313f26a6e0800000000000000
+      internalID: -1826720710467837336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 172
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680303f3073593ec0800000000000000
+      internalID: -3586743886662324090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 172
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f07603e52a159500800000000000000
+      internalID: 402256491744489713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 172
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbb22f1661330d40800000000000000
+      internalID: 5549333480529378230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 172
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40da974531bfdec30800000000000000
+      internalID: 4390441272196312324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 172
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b691e5ac384fef0800000000000000
+      internalID: -75290388573099241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 172
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983ede7e9e3d00da0800000000000000
+      internalID: -5980547303576050807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 172
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3fbcd70b4806760800000000000000
+      internalID: 7449099677230429139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 172
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c39ca532ac41bf70800000000000000
+      internalID: 9201219773263549383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 172
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057b335d9286efa70800000000000000
+      internalID: 8862635645591598928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 172
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99a477d4536ca990800000000000000
+      internalID: -7373409273869194853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 172
+        width: 73
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fccccb5ab9df4960800000000000000
+      internalID: 7588523291569868024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 172
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdce601d0a885300800000000000000
+      internalID: 241094368779226557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 172
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b197e6490ab570210800000000000000
+      internalID: 1299107762762840347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 172
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a83f0e4cf9f1f720800000000000000
+      internalID: 2878356498903152807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 172
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39702aa500313030800000000000000
+      internalID: 3472609588566587710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 172
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e5e2db30fc974e0800000000000000
+      internalID: -1983326545914208660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 172
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4dc09e0fbf236f0800000000000000
+      internalID: -706225179423091505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 114
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a94b2a756974a8b0800000000000000
+      internalID: -5141851397801948763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 112
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c057bf9e991b170800000000000000
+      internalID: 8192498427388824688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 109
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df6f3a9c77217310800000000000000
+      internalID: 1400944375206211545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 107
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a703528dd865390800000000000000
+      internalID: -7829914942660642250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 106
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c445925fda8e9580800000000000000
+      internalID: -8818458328576998201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 34
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8b1fa0cb8ef580800000000000000
+      internalID: -8791435762892829186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1374602bd327b0f50800000000000000
+      internalID: 6848693267652298545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 47
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba3366f202ef6100800000000000000
+      internalID: 103549818804320953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 28
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967232a3a2dc037f0800000000000000
+      internalID: -634781966211537047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 43
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca67a15609fcc8210800000000000000
+      internalID: 1336671408500668076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 48
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030593bd6faa8b970800000000000000
+      internalID: 8770948251520684080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 23
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685fc51e552874c10800000000000000
+      internalID: 2037740661773235590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 16
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f472bb0c7c211d0800000000000000
+      internalID: -3381420739614257365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f472cf50a81363b0800000000000000
+      internalID: -5520541641145682696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 28
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5685583d67d8ce60800000000000000
+      internalID: 7982867203610740314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 47
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8314ee07149965330800000000000000
+      internalID: 3699312650278027576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 27
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2210c30a29450a080800000000000000
+      internalID: -9178243051850825438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 18
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba01a009bcd43820800000000000000
+      internalID: 2897183147443686067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 24
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c689d6c6dff5160800000000000000
+      internalID: 7016605386603523107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BFG-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 16
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8147f5e75038f90800000000000000
+      internalID: -6952707359404451661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BFG-Sheet_0: -4629215011487406910
+      BFG-Sheet_1: -1467058418740497806
+      BFG-Sheet_10: 2097498363821324319
+      BFG-Sheet_100: -1838798486497019643
+      BFG-Sheet_101: -550113316906241970
+      BFG-Sheet_102: -6460707484795437754
+      BFG-Sheet_103: -1826720710467837336
+      BFG-Sheet_104: -3586743886662324090
+      BFG-Sheet_105: 402256491744489713
+      BFG-Sheet_106: 5549333480529378230
+      BFG-Sheet_107: 4390441272196312324
+      BFG-Sheet_108: -75290388573099241
+      BFG-Sheet_109: -5980547303576050807
+      BFG-Sheet_11: -8750976347260309121
+      BFG-Sheet_110: 7449099677230429139
+      BFG-Sheet_111: 9201219773263549383
+      BFG-Sheet_112: 8862635645591598928
+      BFG-Sheet_113: -7373409273869194853
+      BFG-Sheet_114: 7588523291569868024
+      BFG-Sheet_115: 241094368779226557
+      BFG-Sheet_116: 1299107762762840347
+      BFG-Sheet_117: 2878356498903152807
+      BFG-Sheet_118: 3472609588566587710
+      BFG-Sheet_119: -1983326545914208660
+      BFG-Sheet_12: -2685954144931915991
+      BFG-Sheet_120: -706225179423091505
+      BFG-Sheet_121: -5141851397801948763
+      BFG-Sheet_122: 8192498427388824688
+      BFG-Sheet_123: 1400944375206211545
+      BFG-Sheet_124: -7829914942660642250
+      BFG-Sheet_125: -8818458328576998201
+      BFG-Sheet_126: -8791435762892829186
+      BFG-Sheet_127: 6848693267652298545
+      BFG-Sheet_128: 103549818804320953
+      BFG-Sheet_129: -634781966211537047
+      BFG-Sheet_13: 853074979894086038
+      BFG-Sheet_130: 1336671408500668076
+      BFG-Sheet_131: 8770948251520684080
+      BFG-Sheet_132: 2037740661773235590
+      BFG-Sheet_133: -3381420739614257365
+      BFG-Sheet_134: -5520541641145682696
+      BFG-Sheet_135: 7982867203610740314
+      BFG-Sheet_136: 3699312650278027576
+      BFG-Sheet_137: -9178243051850825438
+      BFG-Sheet_138: 2897183147443686067
+      BFG-Sheet_139: 7016605386603523107
+      BFG-Sheet_14: 556765248638453356
+      BFG-Sheet_140: -6952707359404451661
+      BFG-Sheet_15: -1042841209661337346
+      BFG-Sheet_16: -8597499739045282384
+      BFG-Sheet_17: 6814801468263560127
+      BFG-Sheet_18: 3166016538284858067
+      BFG-Sheet_19: 4359768111553008343
+      BFG-Sheet_2: -208327106562839414
+      BFG-Sheet_20: 4135632706918246966
+      BFG-Sheet_21: 54231155514830858
+      BFG-Sheet_22: 1103479021172971511
+      BFG-Sheet_23: 4335388865631021492
+      BFG-Sheet_24: -8005307773881438119
+      BFG-Sheet_25: 4746896283476514746
+      BFG-Sheet_26: -160828005091427371
+      BFG-Sheet_27: -4621022064082545423
+      BFG-Sheet_28: 2430969707612585088
+      BFG-Sheet_29: -7692353378837071144
+      BFG-Sheet_3: -6456861770232116228
+      BFG-Sheet_30: -2105797391799340362
+      BFG-Sheet_31: -4198576336478014277
+      BFG-Sheet_32: 5724020537007184051
+      BFG-Sheet_33: -2176550875935064345
+      BFG-Sheet_34: 2530291613374463982
+      BFG-Sheet_35: -7632171758246766648
+      BFG-Sheet_36: 1395356162707136510
+      BFG-Sheet_37: -4277913568665249383
+      BFG-Sheet_38: 3592090185015941152
+      BFG-Sheet_39: 2190996632484469995
+      BFG-Sheet_4: 6039739471846254822
+      BFG-Sheet_40: -2536894142676193332
+      BFG-Sheet_41: 6709848988561186680
+      BFG-Sheet_42: -6858409460934261065
+      BFG-Sheet_43: -144385351288850865
+      BFG-Sheet_44: -8686255589511573817
+      BFG-Sheet_45: 8350833701722012653
+      BFG-Sheet_46: -1913349124831950289
+      BFG-Sheet_47: -4617395380968892987
+      BFG-Sheet_48: -5876698699311583379
+      BFG-Sheet_49: 2591669149257153862
+      BFG-Sheet_5: 4556951800744009563
+      BFG-Sheet_50: -7471110491197649422
+      BFG-Sheet_51: 6536598381947741304
+      BFG-Sheet_52: 6588945327064957368
+      BFG-Sheet_53: -8558794594261295260
+      BFG-Sheet_54: 5924503060636866537
+      BFG-Sheet_55: 3762072302773804742
+      BFG-Sheet_56: 7499604258673526692
+      BFG-Sheet_57: 5841112956189623672
+      BFG-Sheet_58: 5415998184410614599
+      BFG-Sheet_59: 6932482523704646821
+      BFG-Sheet_6: 9153538861361548688
+      BFG-Sheet_60: 4476317037439172284
+      BFG-Sheet_61: -4657834274842466643
+      BFG-Sheet_62: 8969000759120008544
+      BFG-Sheet_63: 2601077684083595602
+      BFG-Sheet_64: 1124012863677364856
+      BFG-Sheet_65: 7480632705641867825
+      BFG-Sheet_66: -7636180190770287650
+      BFG-Sheet_67: 4534261374447867721
+      BFG-Sheet_68: 6749795970234951366
+      BFG-Sheet_69: 5426060427628923507
+      BFG-Sheet_7: 2772944422872129145
+      BFG-Sheet_70: -7156280982465103667
+      BFG-Sheet_71: 7744836550598887100
+      BFG-Sheet_72: -8426081609076836270
+      BFG-Sheet_73: 777151470749854067
+      BFG-Sheet_74: 5699261320909906286
+      BFG-Sheet_75: 7094479321241454823
+      BFG-Sheet_76: -3558106403757915224
+      BFG-Sheet_77: -4410460716318749317
+      BFG-Sheet_78: 96287276370079754
+      BFG-Sheet_79: 4979996816653437087
+      BFG-Sheet_8: -4350060996866361610
+      BFG-Sheet_80: 1624672954110689529
+      BFG-Sheet_81: 2409417455876853684
+      BFG-Sheet_82: -2612559466942056310
+      BFG-Sheet_83: 4637650923433203682
+      BFG-Sheet_84: 8745542467354263212
+      BFG-Sheet_85: -3333364653590972153
+      BFG-Sheet_86: -5247249967907033566
+      BFG-Sheet_87: -79225861378515162
+      BFG-Sheet_88: 2798951351565032589
+      BFG-Sheet_89: -2808955969065057048
+      BFG-Sheet_9: -5487782527512575035
+      BFG-Sheet_90: 5668614860592493153
+      BFG-Sheet_91: 2909540944028332268
+      BFG-Sheet_92: -9032673108081603288
+      BFG-Sheet_93: 3980818381440750236
+      BFG-Sheet_94: 5502224414059617185
+      BFG-Sheet_95: 5606223174194149775
+      BFG-Sheet_96: 4922826674669611261
+      BFG-Sheet_97: -8866104839198286164
+      BFG-Sheet_98: -5393935334544268559
+      BFG-Sheet_99: 3604931027961547701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

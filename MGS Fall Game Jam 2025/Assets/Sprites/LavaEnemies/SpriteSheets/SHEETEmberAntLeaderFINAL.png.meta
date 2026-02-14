@@ -1,0 +1,2275 @@
+fileFormatVersion: 2
+guid: 0a50dae71e137734caed75a08b511d01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6643639325516032477
+    second: SHEETEmberAntLeaderFINAL_0
+  - first:
+      213: 5169309384787381913
+    second: SHEETEmberAntLeaderFINAL_1
+  - first:
+      213: 428049598410118828
+    second: SHEETEmberAntLeaderFINAL_2
+  - first:
+      213: 7840336443016974467
+    second: SHEETEmberAntLeaderFINAL_3
+  - first:
+      213: -7929553402173251944
+    second: SHEETEmberAntLeaderFINAL_4
+  - first:
+      213: -1139230987808684023
+    second: SHEETEmberAntLeaderFINAL_5
+  - first:
+      213: -5949363214448874149
+    second: SHEETEmberAntLeaderFINAL_6
+  - first:
+      213: 2851303620579830604
+    second: SHEETEmberAntLeaderFINAL_7
+  - first:
+      213: 2075834315713391119
+    second: SHEETEmberAntLeaderFINAL_8
+  - first:
+      213: -5464796142365402474
+    second: SHEETEmberAntLeaderFINAL_9
+  - first:
+      213: -919893692099949003
+    second: SHEETEmberAntLeaderFINAL_10
+  - first:
+      213: 5732496290332927383
+    second: SHEETEmberAntLeaderFINAL_11
+  - first:
+      213: 7774158378714375465
+    second: SHEETEmberAntLeaderFINAL_12
+  - first:
+      213: -1509082006232336569
+    second: SHEETEmberAntLeaderFINAL_13
+  - first:
+      213: 3696583868010911035
+    second: SHEETEmberAntLeaderFINAL_14
+  - first:
+      213: -5772379340229681964
+    second: SHEETEmberAntLeaderFINAL_15
+  - first:
+      213: 8655960453825865771
+    second: SHEETEmberAntLeaderFINAL_16
+  - first:
+      213: 3924276467496935302
+    second: SHEETEmberAntLeaderFINAL_17
+  - first:
+      213: -1653398869750702424
+    second: SHEETEmberAntLeaderFINAL_18
+  - first:
+      213: 5548156952500837718
+    second: SHEETEmberAntLeaderFINAL_19
+  - first:
+      213: -1235308607376676494
+    second: SHEETEmberAntLeaderFINAL_20
+  - first:
+      213: 7772623488396586114
+    second: SHEETEmberAntLeaderFINAL_21
+  - first:
+      213: -111989927668085550
+    second: SHEETEmberAntLeaderFINAL_22
+  - first:
+      213: 3897193828949614447
+    second: SHEETEmberAntLeaderFINAL_23
+  - first:
+      213: 9154357251359841630
+    second: SHEETEmberAntLeaderFINAL_24
+  - first:
+      213: 3397921959458583403
+    second: SHEETEmberAntLeaderFINAL_25
+  - first:
+      213: 4460396723230878835
+    second: SHEETEmberAntLeaderFINAL_26
+  - first:
+      213: 3398130232179057746
+    second: SHEETEmberAntLeaderFINAL_27
+  - first:
+      213: -8725266135109784255
+    second: SHEETEmberAntLeaderFINAL_28
+  - first:
+      213: 6622544110719343337
+    second: SHEETEmberAntLeaderFINAL_29
+  - first:
+      213: -681267122405245566
+    second: SHEETEmberAntLeaderFINAL_30
+  - first:
+      213: 3069866192767641881
+    second: SHEETEmberAntLeaderFINAL_31
+  - first:
+      213: 2277763310980512774
+    second: SHEETEmberAntLeaderFINAL_32
+  - first:
+      213: -1881779965679573080
+    second: SHEETEmberAntLeaderFINAL_33
+  - first:
+      213: -6456070252559290590
+    second: SHEETEmberAntLeaderFINAL_34
+  - first:
+      213: 4064061398912858680
+    second: SHEETEmberAntLeaderFINAL_35
+  - first:
+      213: 4949732236550276044
+    second: SHEETEmberAntLeaderFINAL_36
+  - first:
+      213: -8053663375268674343
+    second: SHEETEmberAntLeaderFINAL_37
+  - first:
+      213: -5017186227581375110
+    second: SHEETEmberAntLeaderFINAL_38
+  - first:
+      213: -7443270476930082506
+    second: SHEETEmberAntLeaderFINAL_39
+  - first:
+      213: 6985987610519405667
+    second: SHEETEmberAntLeaderFINAL_40
+  - first:
+      213: -3395673203900020181
+    second: SHEETEmberAntLeaderFINAL_41
+  - first:
+      213: 3670318947502377523
+    second: SHEETEmberAntLeaderFINAL_42
+  - first:
+      213: 3541159516345163860
+    second: SHEETEmberAntLeaderFINAL_43
+  - first:
+      213: -3782936765804053001
+    second: SHEETEmberAntLeaderFINAL_44
+  - first:
+      213: -4865937120885155862
+    second: SHEETEmberAntLeaderFINAL_45
+  - first:
+      213: 4245748891913610473
+    second: SHEETEmberAntLeaderFINAL_46
+  - first:
+      213: 3168979901810652297
+    second: SHEETEmberAntLeaderFINAL_47
+  - first:
+      213: -3602917009334534074
+    second: SHEETEmberAntLeaderFINAL_48
+  - first:
+      213: -4532150475866012227
+    second: SHEETEmberAntLeaderFINAL_49
+  - first:
+      213: 5394298901502912030
+    second: SHEETEmberAntLeaderFINAL_50
+  - first:
+      213: 801409757612727697
+    second: SHEETEmberAntLeaderFINAL_51
+  - first:
+      213: 1270987940915134128
+    second: SHEETEmberAntLeaderFINAL_52
+  - first:
+      213: 8832227070956942297
+    second: SHEETEmberAntLeaderFINAL_53
+  - first:
+      213: -4078439789778862098
+    second: SHEETEmberAntLeaderFINAL_54
+  - first:
+      213: 8598928147190953803
+    second: SHEETEmberAntLeaderFINAL_55
+  - first:
+      213: 3466318512160700655
+    second: SHEETEmberAntLeaderFINAL_56
+  - first:
+      213: 3503253957814442253
+    second: SHEETEmberAntLeaderFINAL_57
+  - first:
+      213: -3177978596300216150
+    second: SHEETEmberAntLeaderFINAL_58
+  - first:
+      213: -6544155442944593753
+    second: SHEETEmberAntLeaderFINAL_59
+  - first:
+      213: 5421532849935875613
+    second: SHEETEmberAntLeaderFINAL_60
+  - first:
+      213: 2820686664760151018
+    second: SHEETEmberAntLeaderFINAL_61
+  - first:
+      213: -3376807048838901833
+    second: SHEETEmberAntLeaderFINAL_62
+  - first:
+      213: 4551860636993546766
+    second: SHEETEmberAntLeaderFINAL_63
+  - first:
+      213: 2892335752575588037
+    second: SHEETEmberAntLeaderFINAL_64
+  - first:
+      213: -5717126107981170923
+    second: SHEETEmberAntLeaderFINAL_65
+  - first:
+      213: 2578141446429972681
+    second: SHEETEmberAntLeaderFINAL_66
+  - first:
+      213: 3466040862011959289
+    second: SHEETEmberAntLeaderFINAL_67
+  - first:
+      213: -431352540502086751
+    second: SHEETEmberAntLeaderFINAL_68
+  - first:
+      213: -8393897167998663605
+    second: SHEETEmberAntLeaderFINAL_69
+  - first:
+      213: 6265184835301910277
+    second: SHEETEmberAntLeaderFINAL_70
+  - first:
+      213: -1856219176306904794
+    second: SHEETEmberAntLeaderFINAL_71
+  - first:
+      213: -4735271631448568179
+    second: SHEETEmberAntLeaderFINAL_72
+  - first:
+      213: 4269940885714069582
+    second: SHEETEmberAntLeaderFINAL_73
+  - first:
+      213: -6380919016798677208
+    second: SHEETEmberAntLeaderFINAL_74
+  - first:
+      213: 6653999408754953937
+    second: SHEETEmberAntLeaderFINAL_75
+  - first:
+      213: 3018091196272137036
+    second: SHEETEmberAntLeaderFINAL_76
+  - first:
+      213: -2893183402969105135
+    second: SHEETEmberAntLeaderFINAL_77
+  - first:
+      213: 1824173775798284495
+    second: SHEETEmberAntLeaderFINAL_78
+  - first:
+      213: -1390195180434782889
+    second: SHEETEmberAntLeaderFINAL_79
+  - first:
+      213: 7286540302736729814
+    second: SHEETEmberAntLeaderFINAL_80
+  - first:
+      213: -4643716440700833668
+    second: SHEETEmberAntLeaderFINAL_81
+  - first:
+      213: 6972355960724258079
+    second: SHEETEmberAntLeaderFINAL_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 483
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3261dc2ab3d0dc3a0800000000000000
+      internalID: -6643639325516032477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 483
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e485e4f731db740800000000000000
+      internalID: 5169309384787381913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 483
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6db7387dcb0f500800000000000000
+      internalID: 428049598410118828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 483
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380939d74787ecc60800000000000000
+      internalID: 7840336443016974467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 483
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e19fb713194f190800000000000000
+      internalID: -7929553402173251944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908cb86d373a030f0800000000000000
+      internalID: -1139230987808684023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 450
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5daff27dad9f6da0800000000000000
+      internalID: -5949363214448874149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 453
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b227b398dd19720800000000000000
+      internalID: 2851303620579830604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aa9a8df48decc10800000000000000
+      internalID: 2075834315713391119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 387
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a926cbcd42924b0800000000000000
+      internalID: -5464796142365402474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 353
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e82439f81eb33f0800000000000000
+      internalID: -919893692099949003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 387
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795e985010bed8f40800000000000000
+      internalID: 5732496290332927383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 387
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a5ee2bdb53eb60800000000000000
+      internalID: 7774158378714375465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 387
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747769929e9ae0be0800000000000000
+      internalID: -1509082006232336569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 387
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35da3f4177ec4330800000000000000
+      internalID: 3696583868010911035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 352
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc5eccc29364efa0800000000000000
+      internalID: -5772379340229681964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 291
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28ae18eb26202870800000000000000
+      internalID: 8655960453825865771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 291
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f549dc7a4d57630800000000000000
+      internalID: 3924276467496935302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 242
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae1a70fc72fd09e0800000000000000
+      internalID: -1653398869750702424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 243
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d1de75a530ffc40800000000000000
+      internalID: 5548156952500837718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 244
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a455dd5d4bdee0800000000000000
+      internalID: -1235308607376676494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 196
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c6cbea1e7eddb60800000000000000
+      internalID: 7772623488396586114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 196
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc0cee01c1227ef0800000000000000
+      internalID: -111989927668085550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 196
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fd263a32d951630800000000000000
+      internalID: 3897193828949614447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 195
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d13521b6fca0f70800000000000000
+      internalID: 9154357251359841630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 148
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b633708e408d72f20800000000000000
+      internalID: 3397921959458583403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 148
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c2e75003386ed30800000000000000
+      internalID: 4460396723230878835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_27
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 149
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2546c8d2175982f20800000000000000
+      internalID: 3398130232179057746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 147
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d2906bda0a9e680800000000000000
+      internalID: -8725266135109784255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_29
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 147
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea18cce7c008eb50800000000000000
+      internalID: 6622544110719343337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_30
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 147
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df1e36927ab86f0800000000000000
+      internalID: -681267122405245566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_31
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 147
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91965e7990b5a9a20800000000000000
+      internalID: 3069866192767641881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_32
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 147
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c3969c9ad3c9f10800000000000000
+      internalID: 2277763310980512774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_33
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 147
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7e830671392e5e0800000000000000
+      internalID: -1881779965679573080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_34
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 147
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fac3f9f4e6766a0800000000000000
+      internalID: -6456070252559290590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_35
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 147
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83af39b5f42766830800000000000000
+      internalID: 4064061398912858680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_36
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 148
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc301ec8e3bf0b440800000000000000
+      internalID: 4949732236550276044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_37
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 156
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4898094d3ab3090800000000000000
+      internalID: -8053663375268674343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_38
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 156
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7da70d45bf5f5ab0800000000000000
+      internalID: -5017186227581375110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_39
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 154
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6391e67ffe034b890800000000000000
+      internalID: -7443270476930082506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_40
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 153
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3640a4ae7b633f060800000000000000
+      internalID: 6985987610519405667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_41
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 158
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a0a3c463520e0d0800000000000000
+      internalID: -3395673203900020181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_42
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 153
+        width: 253
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ac346f2a79fe230800000000000000
+      internalID: 3670318947502377523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 98
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4506fb871d9b42130800000000000000
+      internalID: 3541159516345163860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 98
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdfb7aed0f408bc0800000000000000
+      internalID: -3782936765804053001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 98
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7d04a28f7b87cb0800000000000000
+      internalID: -4865937120885155862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_46
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 100
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4e40c4f1eebea30800000000000000
+      internalID: 4245748891913610473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_47
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 99
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984b6c34e6a7afb20800000000000000
+      internalID: 3168979901810652297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_48
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 100
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640076fa11edffdc0800000000000000
+      internalID: -3602917009334534074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_49
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 53
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5836197219a11c0800000000000000
+      internalID: -4532150475866012227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_50
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 100
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e166c5c45466cda40800000000000000
+      internalID: 5394298901502912030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_51
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 100
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dd902bded2f1b00800000000000000
+      internalID: 801409757612727697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_52
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 100
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be3d0c5cc473a110800000000000000
+      internalID: 1270987940915134128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_53
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d33af3d9bf529a70800000000000000
+      internalID: 8832227070956942297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 49
+        width: 59
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef7964ae987667c0800000000000000
+      internalID: -4078439789778862098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_55
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 51
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47bc6e3797855770800000000000000
+      internalID: 8598928147190953803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_56
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 69
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8f2bb4256da1030800000000000000
+      internalID: 3466318512160700655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_57
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d281e9ee0e9030800000000000000
+      internalID: 3503253957814442253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_58
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 50
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa82bb7ed4d85e3d0800000000000000
+      internalID: -3177978596300216150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_59
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 54
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0395c0c4d7e25a0800000000000000
+      internalID: -6544155442944593753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_60
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 58
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ef98a07672d3b40800000000000000
+      internalID: 5421532849935875613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_61
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 62
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebc5b3b397152720800000000000000
+      internalID: 2820686664760151018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 50
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf0ce251eb2321d0800000000000000
+      internalID: -3376807048838901833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 53
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a651fe1257b2f30800000000000000
+      internalID: 4551860636993546766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_64
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 49
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c61e6fea04a32820800000000000000
+      internalID: 2892335752575588037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_65
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 52
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517bbad6810b8a0b0800000000000000
+      internalID: -5717126107981170923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_66
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 49
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c89b276cf567c320800000000000000
+      internalID: 2578141446429972681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 52
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f72635dcc9d91030800000000000000
+      internalID: 3466040862011959289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_68
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 54
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab296a5627830af0800000000000000
+      internalID: -431352540502086751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_69
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44484c9ff2e28b80800000000000000
+      internalID: -8393897167998663605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_70
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 53
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507a550d96862f650800000000000000
+      internalID: 6265184835301910277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_71
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 50
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62175fa6e726d36e0800000000000000
+      internalID: -1856219176306904794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_72
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 55
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e068c2a8fe84eb0800000000000000
+      internalID: -4735271631448568179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_73
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4867e8cc90e14b30800000000000000
+      internalID: 4269940885714069582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_74
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 9
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8271e2736fb6277a0800000000000000
+      internalID: -6380919016798677208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_75
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de8f763531c75c50800000000000000
+      internalID: 6653999408754953937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_76
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43d885d3f962e920800000000000000
+      internalID: 3018091196272137036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d78f3160959d7d0800000000000000
+      internalID: -2893183402969105135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_78
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 3
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc03a0b5264c05910800000000000000
+      internalID: 1824173775798284495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_79
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 10
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75589b559d805bce0800000000000000
+      internalID: -1390195180434782889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_80
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 17
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6a032bccdfe1560800000000000000
+      internalID: 7286540302736729814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_81
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 27
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70b26a20843e8fb0800000000000000
+      internalID: -4643716440700833668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHEETEmberAntLeaderFINAL_82
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 8
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dfb8e1ec8c2c060800000000000000
+      internalID: 6972355960724258079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SHEETEmberAntLeaderFINAL_0: -6643639325516032477
+      SHEETEmberAntLeaderFINAL_1: 5169309384787381913
+      SHEETEmberAntLeaderFINAL_10: -919893692099949003
+      SHEETEmberAntLeaderFINAL_11: 5732496290332927383
+      SHEETEmberAntLeaderFINAL_12: 7774158378714375465
+      SHEETEmberAntLeaderFINAL_13: -1509082006232336569
+      SHEETEmberAntLeaderFINAL_14: 3696583868010911035
+      SHEETEmberAntLeaderFINAL_15: -5772379340229681964
+      SHEETEmberAntLeaderFINAL_16: 8655960453825865771
+      SHEETEmberAntLeaderFINAL_17: 3924276467496935302
+      SHEETEmberAntLeaderFINAL_18: -1653398869750702424
+      SHEETEmberAntLeaderFINAL_19: 5548156952500837718
+      SHEETEmberAntLeaderFINAL_2: 428049598410118828
+      SHEETEmberAntLeaderFINAL_20: -1235308607376676494
+      SHEETEmberAntLeaderFINAL_21: 7772623488396586114
+      SHEETEmberAntLeaderFINAL_22: -111989927668085550
+      SHEETEmberAntLeaderFINAL_23: 3897193828949614447
+      SHEETEmberAntLeaderFINAL_24: 9154357251359841630
+      SHEETEmberAntLeaderFINAL_25: 3397921959458583403
+      SHEETEmberAntLeaderFINAL_26: 4460396723230878835
+      SHEETEmberAntLeaderFINAL_27: 3398130232179057746
+      SHEETEmberAntLeaderFINAL_28: -8725266135109784255
+      SHEETEmberAntLeaderFINAL_29: 6622544110719343337
+      SHEETEmberAntLeaderFINAL_3: 7840336443016974467
+      SHEETEmberAntLeaderFINAL_30: -681267122405245566
+      SHEETEmberAntLeaderFINAL_31: 3069866192767641881
+      SHEETEmberAntLeaderFINAL_32: 2277763310980512774
+      SHEETEmberAntLeaderFINAL_33: -1881779965679573080
+      SHEETEmberAntLeaderFINAL_34: -6456070252559290590
+      SHEETEmberAntLeaderFINAL_35: 4064061398912858680
+      SHEETEmberAntLeaderFINAL_36: 4949732236550276044
+      SHEETEmberAntLeaderFINAL_37: -8053663375268674343
+      SHEETEmberAntLeaderFINAL_38: -5017186227581375110
+      SHEETEmberAntLeaderFINAL_39: -7443270476930082506
+      SHEETEmberAntLeaderFINAL_4: -7929553402173251944
+      SHEETEmberAntLeaderFINAL_40: 6985987610519405667
+      SHEETEmberAntLeaderFINAL_41: -3395673203900020181
+      SHEETEmberAntLeaderFINAL_42: 3670318947502377523
+      SHEETEmberAntLeaderFINAL_43: 3541159516345163860
+      SHEETEmberAntLeaderFINAL_44: -3782936765804053001
+      SHEETEmberAntLeaderFINAL_45: -4865937120885155862
+      SHEETEmberAntLeaderFINAL_46: 4245748891913610473
+      SHEETEmberAntLeaderFINAL_47: 3168979901810652297
+      SHEETEmberAntLeaderFINAL_48: -3602917009334534074
+      SHEETEmberAntLeaderFINAL_49: -4532150475866012227
+      SHEETEmberAntLeaderFINAL_5: -1139230987808684023
+      SHEETEmberAntLeaderFINAL_50: 5394298901502912030
+      SHEETEmberAntLeaderFINAL_51: 801409757612727697
+      SHEETEmberAntLeaderFINAL_52: 1270987940915134128
+      SHEETEmberAntLeaderFINAL_53: 8832227070956942297
+      SHEETEmberAntLeaderFINAL_54: -4078439789778862098
+      SHEETEmberAntLeaderFINAL_55: 8598928147190953803
+      SHEETEmberAntLeaderFINAL_56: 3466318512160700655
+      SHEETEmberAntLeaderFINAL_57: 3503253957814442253
+      SHEETEmberAntLeaderFINAL_58: -3177978596300216150
+      SHEETEmberAntLeaderFINAL_59: -6544155442944593753
+      SHEETEmberAntLeaderFINAL_6: -5949363214448874149
+      SHEETEmberAntLeaderFINAL_60: 5421532849935875613
+      SHEETEmberAntLeaderFINAL_61: 2820686664760151018
+      SHEETEmberAntLeaderFINAL_62: -3376807048838901833
+      SHEETEmberAntLeaderFINAL_63: 4551860636993546766
+      SHEETEmberAntLeaderFINAL_64: 2892335752575588037
+      SHEETEmberAntLeaderFINAL_65: -5717126107981170923
+      SHEETEmberAntLeaderFINAL_66: 2578141446429972681
+      SHEETEmberAntLeaderFINAL_67: 3466040862011959289
+      SHEETEmberAntLeaderFINAL_68: -431352540502086751
+      SHEETEmberAntLeaderFINAL_69: -8393897167998663605
+      SHEETEmberAntLeaderFINAL_7: 2851303620579830604
+      SHEETEmberAntLeaderFINAL_70: 6265184835301910277
+      SHEETEmberAntLeaderFINAL_71: -1856219176306904794
+      SHEETEmberAntLeaderFINAL_72: -4735271631448568179
+      SHEETEmberAntLeaderFINAL_73: 4269940885714069582
+      SHEETEmberAntLeaderFINAL_74: -6380919016798677208
+      SHEETEmberAntLeaderFINAL_75: 6653999408754953937
+      SHEETEmberAntLeaderFINAL_76: 3018091196272137036
+      SHEETEmberAntLeaderFINAL_77: -2893183402969105135
+      SHEETEmberAntLeaderFINAL_78: 1824173775798284495
+      SHEETEmberAntLeaderFINAL_79: -1390195180434782889
+      SHEETEmberAntLeaderFINAL_8: 2075834315713391119
+      SHEETEmberAntLeaderFINAL_80: 7286540302736729814
+      SHEETEmberAntLeaderFINAL_81: -4643716440700833668
+      SHEETEmberAntLeaderFINAL_82: 6972355960724258079
+      SHEETEmberAntLeaderFINAL_9: -5464796142365402474
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
