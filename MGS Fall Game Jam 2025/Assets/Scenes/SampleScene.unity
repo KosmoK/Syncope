@@ -10473,6 +10473,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCamera
   followObject: {fileID: 1749576395}
   offset: {x: 0, y: 0, z: 0}
+  changeSize: 0
 --- !u!1 &526101888
 GameObject:
   m_ObjectHideFlags: 0
@@ -10683,6 +10684,7 @@ MonoBehaviour:
   iFramesActive: 0
   isStunned: 0
   iFramesLength: 1
+  isDead: 0
   hurtAnimTime: 0.5
 --- !u!114 &526101898
 MonoBehaviour:
@@ -10701,6 +10703,8 @@ MonoBehaviour:
   dash: {fileID: 0}
   queueFirstAttack: 0
   queueSecondAttack: 0
+  bonusLavaDamage: 0
+  bonusIceDamage: 0
 --- !u!114 &526101899
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15022,6 +15026,8 @@ MonoBehaviour:
   attackSpeed: 0.25
   attackDamage: 4
   attackDuration: 0.6
+  damageCooldownAmount: 0.3
+  attackCooldownAmount: 0.3
   hp: 3
 --- !u!114 &712477366
 MonoBehaviour:
@@ -22658,6 +22664,7 @@ MonoBehaviour:
   iFramesActive: 0
   isStunned: 0
   iFramesLength: 1
+  isDead: 0
   hurtAnimTime: 0.5
 --- !u!114 &1749576398
 MonoBehaviour:
@@ -22676,6 +22683,8 @@ MonoBehaviour:
   dash: {fileID: -8444228808809566427, guid: 32066d54869adce47b3e825bc922035d, type: 3}
   queueFirstAttack: 0
   queueSecondAttack: 0
+  bonusLavaDamage: 0
+  bonusIceDamage: 0
 --- !u!114 &1749576399
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22850,7 +22859,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: 799029587b2b7114fb5abc52e93846cd, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
