@@ -12,6 +12,7 @@ TagManager:
   - GameManager
   - IceEnemy
   - IceBossPong
+  - HPUI
   layers:
   - Default
   - TransparentFX

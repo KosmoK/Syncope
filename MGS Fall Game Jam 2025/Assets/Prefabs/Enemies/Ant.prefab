@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3174778915166048363}
   - component: {fileID: 4919259562264363864}
   - component: {fileID: 8847719286197265130}
-  - component: {fileID: 2830514587264776567}
+  - component: {fileID: 5986044961697544897}
   - component: {fileID: 597870861604441584}
   - component: {fileID: 6972187058653189022}
   m_Layer: 2
@@ -31,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 4780417966172975899}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -26.69, y: 2.31, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -86,7 +86,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 6
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -7999426214938686427, guid: 2e5e32c70f8144742aa28eff349b5101, type: 3}
+  m_Sprite: {fileID: 3053360396814357940, guid: c59da195e400a1d4a94d70c2690c07a8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -134,7 +134,8 @@ MonoBehaviour:
   idleToChaseDist: 18
   chaseFollowDist: 30
   attackDist: 3
---- !u!114 &2830514587264776567
+  animStates: {fileID: 5986044961697544897}
+--- !u!114 &5986044961697544897
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -143,25 +144,25 @@ MonoBehaviour:
   m_GameObject: {fileID: 4780417966172975899}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef1c18d2e9e059341b724e2487f913e1, type: 3}
+  m_Script: {fileID: 11500000, guid: f14992cd4388ae24fb1652432ba0f600, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyAnimStates
+  m_EditorClassIdentifier: Assembly-CSharp::EmberAntAnimStates
+  coinPrefab: {fileID: 4400730675986713337, guid: 853095edeaaa5f34ab3c2b762b7508ce, type: 3}
+  coinAnimMaxX: 2
+  coinAnimMaxY: 2
+  coinAnimDuration: 1.5
+  coinMinMax: {x: 3, y: 5}
+  coinValue: {x: 1, y: 1}
   idle: {fileID: -3100369314251171874, guid: 2e5e32c70f8144742aa28eff349b5101, type: 3}
   alert: {fileID: 0}
   move: {fileID: 2667949614841947897, guid: 2e5e32c70f8144742aa28eff349b5101, type: 3}
   attack: {fileID: 7748559194217966111, guid: 2e5e32c70f8144742aa28eff349b5101, type: 3}
   damaged: {fileID: 8017390324079358001, guid: 2e5e32c70f8144742aa28eff349b5101, type: 3}
   death: {fileID: 4348485665485846014, guid: 2e5e32c70f8144742aa28eff349b5101, type: 3}
-  extraAnims: []
-  attackPrefab: {fileID: 1087606421847976891, guid: 123fd371acc21f840a5abcf8b064fe9d, type: 3}
-  attackDims: {x: 3.5, y: 2.5}
-  attackOffset: {x: -3, y: 3}
-  attackSpeed: 0
-  attackDamage: 5
-  attackDuration: 0.5
+  attackPrefab: {fileID: 5199131817375247810, guid: bd7a643ac5dd6da44b5df0f76a73796d, type: 3}
   damageCooldownAmount: 0.3
   attackCooldownAmount: 0.3
-  hp: 3
+  hp: 10
 --- !u!95 &597870861604441584
 Animator:
   serializedVersion: 7
@@ -222,7 +223,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.39, y: 0.22}
+    oldSize: {x: 0.38, y: 0.22}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

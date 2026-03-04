@@ -28,7 +28,7 @@
                     "name": "Attack",
                     "type": "Button",
                     "id": "6c2ab1b8-8984-453a-af3d-a3c78ae1679a",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -100,6 +100,15 @@
                     "name": "Damage",
                     "type": "Button",
                     "id": "cb59b200-7a0e-40da-bacb-eef67251cccc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Extra Attack",
+                    "type": "Button",
+                    "id": "9ca6ff4c-13b4-444a-bafe-f288c4a97d1e",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -511,6 +520,17 @@
                     "processors": "",
                     "groups": "",
                     "action": "Damage",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1d8900b7-685e-44b7-aa4f-bb0c394c3273",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Extra Attack",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

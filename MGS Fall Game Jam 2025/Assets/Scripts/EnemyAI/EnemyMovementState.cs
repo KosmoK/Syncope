@@ -8,15 +8,16 @@ public class EnemyMovementState : MonoBehaviour
     [SerializeField] float idleToChaseDist;
     [SerializeField] float chaseFollowDist;
     [SerializeField] float attackDist;
-    EnemyAnimStates animStates;
+    [SerializeField] AnimStatesBase animStates;
     PlayerMovement player;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         state = "idle";
-        animStates = GetComponent<EnemyAnimStates>();
         player = GameObject.FindGameObjectsWithTag("Player")[0].GetComponent<PlayerMovement>();
+        
+        animStates = GetComponent<AnimStatesBase>();
     }
 
     // Update is called once per frame

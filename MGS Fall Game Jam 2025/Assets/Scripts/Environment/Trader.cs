@@ -9,10 +9,10 @@ public class Trader : MonoBehaviour
     [SerializeField] AnimationCurve traderCurve;
     [SerializeField] float animLength;
 
-    private float initPosPanel = 845;
-    private float initPosTrader = 1010;
-    private float panelDist = 845;
-    private float traderDist = 1010 - 610;
+    private float initPosPanel = 990;
+    private float initPosTrader = 520;
+    private float panelDist = 990; // same as init pos since it just goes to 0
+    private float traderDist = 520 - 0; // init - final
     private bool activated = false;
     
     public bool toggle = false;
@@ -60,8 +60,8 @@ public class Trader : MonoBehaviour
             yield return null;
         }
         
-        primaryPanel.anchoredPosition = new Vector2(panelX, 0);
-        traderImage.anchoredPosition = new Vector2(610, traderY);
+        primaryPanel.anchoredPosition = new Vector2(panelX, initPosPanel-panelDist);
+        traderImage.anchoredPosition = new Vector2(initPosTrader-traderDist, traderY);
     }
 
     IEnumerator deactivateCoroutine()

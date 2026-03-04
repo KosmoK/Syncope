@@ -2,6 +2,8 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Collections;
 using System;
+using System.Collections.Generic;
+using UnityEditor.Animations;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -13,6 +15,7 @@ public class PlayerMovement : MonoBehaviour
     private InputAction moveAction; // Input System for Movement
     private InputAction attackAction; // Input System for Attacking
     private InputAction interactAction; // Input System for Interaction
+    private InputAction extraAttackAction;
     private InputAction dash;
 
     // Adjust Player settings
@@ -28,14 +31,23 @@ public class PlayerMovement : MonoBehaviour
     private bool isHurt = false;
     private bool isDashing = false;
     private bool isAttacking = false;
-    public AnimationClip sideIdlePlayer;
-    public AnimationClip sideMovePlayer;
-    public AnimationClip frontIdlePlayer;
-    public AnimationClip frontMovePlayer;
-    public AnimationClip backIdlePlayer;
-    public AnimationClip backMovePlayer;
-    public AnimationClip dashAnim;
     public Vector2 truePos;
+    [SerializeField] AnimationClip sideIdlePlayer;
+    [SerializeField] AnimationClip sideMovePlayer;
+    [SerializeField] AnimationClip frontIdlePlayer;
+    [SerializeField] AnimationClip frontMovePlayer;
+    [SerializeField] AnimationClip backIdlePlayer;
+    [SerializeField] AnimationClip backMovePlayer;
+    [SerializeField] AnimationClip dashAnim;
+    [SerializeField] AnimationClip attack1Anim;
+    [SerializeField] AnimationClip attack2Anim;
+    [SerializeField] List<AnimationClip> extraAttacks;
+    private int currExtra = 2;
+    private bool queueFirstAttack;
+    private bool queueSecondAttack;
+    private bool queueExtraAttack;
+    [SerializeField] List<GameObject> attackPrefabs;
+    private GameObject attackObject;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -43,6 +55,7 @@ public class PlayerMovement : MonoBehaviour
         // Set InputAction Variables
         moveAction = InputSystem.actions.FindAction("Move");
         attackAction = InputSystem.actions.FindAction("Attack");
+        extraAttackAction = InputSystem.actions.FindAction("Extra Attack");
         interactAction = InputSystem.actions.FindAction("Interact");
         dash = InputSystem.actions.FindAction("Dash");
 
@@ -62,10 +75,11 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per fixed update
     void FixedUpdate()
     {
-        truePos = new Vector2(transform.position.x, transform.position.y+0.3f);
+        truePos = new Vector2(transform.position.x, transform.position.y+0.1f);
+        
         playedAnimationThisFrame = false;
         isHurt = playerStatus.IsStunned();
-        isAttacking = playerAttack.isAttacking();
+        isAttacking = isAttackingFunc();
         isDashing = (animator.GetCurrentAnimatorStateInfo(0).IsName(dashAnim.name) && animator.GetCurrentAnimatorStateInfo(0).normalizedTime < 0.95) ? true : false;
 
         // Movement
@@ -73,20 +87,104 @@ public class PlayerMovement : MonoBehaviour
         {
             hasMovedThisFrame = moveAction.ReadValue<Vector2>() != Vector2.zero;
             movement.moveDirection = moveAction.ReadValue<Vector2>();   
+        } else
+        {
+            movement.moveDirection = Vector2.zero;
         }
-        else{movement.moveDirection = Vector2.zero;}
 
-        if(hasMovedThisFrame) {lastKnownDirection = movement.moveDirection;}
-        if(playerStatus.IsDead()){this.enabled = false;}
+        if (hasMovedThisFrame) 
+        {
+            lastKnownDirection = movement.moveDirection;
+        }
+        if (playerStatus.IsDead())
+        {
+            enabled = false;
+        }
 
         // Update idle sprite to Correct Values
         if (!playerStatus.IsDead())
         {
-            setAnimation(new(0f, 1f), Math.Sqrt(2)/2, backIdlePlayer, backMovePlayer);
-            setAnimation(new(1f, 0f), Math.Sqrt(2)/2, sideIdlePlayer, sideMovePlayer);
-            setAnimation(new(-1f, 0f), Math.Sqrt(2)/2, sideIdlePlayer, sideMovePlayer);
-            setAnimation(new(0f, -1f), Math.Sqrt(2)/2, frontIdlePlayer, frontMovePlayer);
+            setAnimation(Vector2.up, Math.Sqrt(2)/2, backIdlePlayer, backMovePlayer);
+            setAnimation(Vector2.right, Math.Sqrt(2)/2, sideIdlePlayer, sideMovePlayer);
+            setAnimation(Vector2.left, Math.Sqrt(2)/2, sideIdlePlayer, sideMovePlayer);
+            setAnimation(Vector2.down, Math.Sqrt(2)/2, frontIdlePlayer, frontMovePlayer);
         }
+
+        attackLogic();
+    }
+
+    void Update()
+    {
+        if (attackAction.WasPressedThisFrame() && !animator.GetCurrentAnimatorStateInfo(0).IsName(dash.name))
+        {
+            if (animator.GetCurrentAnimatorStateInfo(0).IsName(attack1Anim.name)) //&& animTime > 0.5
+            {
+                queueSecondAttack = true;
+            } else if (!animator.GetCurrentAnimatorStateInfo(0).IsName(attack1Anim.name) && !animator.GetCurrentAnimatorStateInfo(0).IsName(attack2Anim.name))
+            {
+                queueFirstAttack = true;
+            }
+        }
+
+        if (extraAttackAction.WasPressedThisFrame() && !animator.GetCurrentAnimatorStateInfo(0).IsName(dash.name))
+        {
+            queueExtraAttack = true;
+        }
+    }
+
+    private void attackLogic()
+    {
+        if (isDashing && attackObject != null)
+        {
+            Destroy(attackObject);
+        }
+
+        float animTime = animator.GetCurrentAnimatorStateInfo(0).normalizedTime;
+        if (queueSecondAttack && animTime > 0.8)
+        {
+            queueSecondAttack = false;
+            attackObject = Instantiate(attackPrefabs[1], transform);
+            animator.Play(attack2Anim.name, -1, 0f);
+            // StartCoroutine(setAttacking(attack2Anim));
+        } else if (queueFirstAttack)
+        {
+            queueFirstAttack = false;
+            attackObject = Instantiate(attackPrefabs[0], transform);
+            animator.Play(attack1Anim.name, -1, 0f);
+            // StartCoroutine(setAttacking(attack1Anim));
+        }
+
+        if (queueExtraAttack)
+        {
+            queueExtraAttack = false;
+            attackObject = Instantiate(attackPrefabs[currExtra], transform);
+            animator.Play(extraAttacks[currExtra-2].name, -1, 0f);
+        }
+    }
+
+    // IEnumerator setAttacking(AnimationClip clip)
+    // {
+    //     isAttacking = true;
+    //     yield return new WaitForSeconds(clip.length);
+    //     Debug.Log($"finished attacking, norm time: {animator.GetCurrentAnimatorStateInfo(0).normalizedTime}, len: {clip.length}, {animator.GetCurrentAnimatorClipInfoCount(0)}, {animator.GetCurrentAnimatorClipInfo(0)}");
+    //     isAttacking = false;
+    // }
+
+    private bool isAttackingFunc()
+    {
+        float animTime = animator.GetCurrentAnimatorStateInfo(0).normalizedTime;
+
+        if (queueSecondAttack || queueFirstAttack)
+        {
+            return true;
+        }
+        if ((animator.GetCurrentAnimatorStateInfo(0).IsName(attack1Anim.name) || animator.GetCurrentAnimatorStateInfo(0).IsName(attack2Anim.name) || 
+            animator.GetCurrentAnimatorStateInfo(0).IsName(extraAttacks[currExtra-2].name)) && animTime < 0.95)
+        {
+            return true;
+        }
+
+        return false;
     }
 
     IEnumerator DashCoroutine()
@@ -97,8 +195,15 @@ public class PlayerMovement : MonoBehaviour
             {
                 movement.velocity += lastKnownDirection * dashStrength;
                 
-                if(Vector2.Dot(lastKnownDirection, new(1f,0f)) < 0 && !isHurt){transform.localScale = new(-1, transform.localScale.y);}
-                if(Vector2.Dot(lastKnownDirection, new(-1f,0f)) < 0 && !isHurt){transform.localScale = new(1, transform.localScale.y);}
+                if (Vector2.Dot(lastKnownDirection, new(1f,0f)) < 0 && !isHurt)
+                {
+                    transform.localScale = new(-1, transform.localScale.y);
+                }
+                if (Vector2.Dot(lastKnownDirection, new(-1f,0f)) < 0 && !isHurt)
+                {
+                    transform.localScale = new(1, transform.localScale.y);
+                }
+
                 animator.Play(dashAnim.name);
                 playedAnimationThisFrame = true;
 
@@ -141,5 +246,13 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    public Vector2 GetLastKnownDirection(){return lastKnownDirection;}
+    public Vector2 GetLastKnownDirection()
+    {
+        return lastKnownDirection;
+    }
+
+    public void setCurrExtra(int extra)
+    {
+        currExtra = extra;
+    }
 }
