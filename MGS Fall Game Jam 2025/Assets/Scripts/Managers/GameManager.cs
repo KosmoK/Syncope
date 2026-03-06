@@ -102,13 +102,13 @@ public class GameManager : MonoBehaviour
         } else if (drug == "dash")
         {
             player.GetComponent<PlayerMovement>().dashStrength = 0.05f;
-        } else if (drug == "fire")
-        {
-            player.GetComponent<PlayerAttack>().bonusIceDamage = 1;
-        } else if (drug == "ice")
-        {
-            player.GetComponent<PlayerAttack>().bonusLavaDamage = 1;
-        }
+        } // else if (drug == "fire")
+        // {
+        //     player.GetComponent<PlayerAttack>().bonusIceDamage = 1;
+        // } else if (drug == "ice")
+        // {
+        //     player.GetComponent<PlayerAttack>().bonusLavaDamage = 1;
+        // }
 
         appliedDrugs = true;
     }

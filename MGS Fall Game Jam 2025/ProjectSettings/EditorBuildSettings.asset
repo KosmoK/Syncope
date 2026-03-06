@@ -30,5 +30,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Endscreen.unity
     guid: 9befd4c9ce08d1648b77c543d82ff92f
   m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 32b966e0e24e8f641ae4c0559ec3b9f1, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -57,8 +57,8 @@ public class Phoenix : MonoBehaviour
 
     void Start()
     {
-        gm = GameObject.FindGameObjectsWithTag("GameManager")[0].GetComponent<GameManager>();
-        player = GameObject.FindGameObjectsWithTag("Player")[0];
+        gm = GameObject.FindGameObjectWithTag("GameManager").GetComponent<GameManager>();
+        player = GameObject.FindGameObjectWithTag("Player");
         playerMovement = player.GetComponent<PlayerMovement>();
         entityMovement = player.GetComponent<Movement>();
         animator = GetComponent<Animator>();

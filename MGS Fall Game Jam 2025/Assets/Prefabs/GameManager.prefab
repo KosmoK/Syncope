@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1818837961985957445}
   - component: {fileID: 2494264833009573576}
+  - component: {fileID: 6611396608064577892}
+  - component: {fileID: 2962046754415809977}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: GameManager
@@ -46,14 +48,38 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   screenFader: {fileID: 1361741020641885115}
-  sceneTransition1: 0
   sceneTransition: 0
-  scene: Titlescreen
+  scene: Level1Lava
   drug: 
   level1Transition: 
   phoenixDefeated: 0
   golemDefeated: 0
   playerDied: 0
+--- !u!114 &6611396608064577892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6711324882229464683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86c6aac489b9f0458e6111b2b9b11fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CurrencyManager
+  currency: 0
+--- !u!114 &2962046754415809977
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6711324882229464683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cb7a6343c09cb14198f9f29658abeba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SoundAtlas
 --- !u!1 &8428961671382060567
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,3 +284,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScreenFader
   alphaStatus: 0
+  fadeInVar: 0
+  fadeOutVar: 0

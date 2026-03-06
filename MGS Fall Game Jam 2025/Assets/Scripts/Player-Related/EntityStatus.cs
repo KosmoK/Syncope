@@ -16,6 +16,7 @@ public class EntityStatus : MonoBehaviour
     private Animator animator;
     private Movement entityMovement;
     private PlayerMovement pm;
+    HPBar hpBar;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -25,6 +26,7 @@ public class EntityStatus : MonoBehaviour
         entityMovement = GetComponent<Movement>();
         pm = GetComponent<PlayerMovement>();
         gm = GameObject.FindGameObjectsWithTag("GameManager")[0].GetComponent<GameManager>();
+        hpBar = GameObject.FindGameObjectWithTag("HPUI").GetComponent<HPBar>();
     }
 
     IEnumerator IFramesCoroutine()
@@ -55,6 +57,7 @@ public class EntityStatus : MonoBehaviour
         {
             iFramesActive = true; 
             TrueHurt(damage);
+            hpBar.takeDamage(damage);
         }
     }
     public void TrueHurt(int damage)
@@ -62,7 +65,7 @@ public class EntityStatus : MonoBehaviour
         if(damage >= health) {health = 0; KillEntity();}
         else {health = health - damage;}
         
-        if(!isDead){animator.Play("Hurt"); Debug.Log("I got hurt!");}
+        if(!isDead){animator.Play("Hurt", -1, 0f); Debug.Log("I got hurt!");}
     }
     public void KillEntity()
     {
