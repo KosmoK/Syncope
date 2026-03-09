@@ -255,4 +255,5 @@ public class PlayerMovement : MonoBehaviour
     {
         currExtra = extra;
     }
+    public bool HasMovedThisFrame(){return hasMovedThisFrame;}
 }

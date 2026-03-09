@@ -1144,8 +1144,8 @@
     "m_ObjectId": "47f59f0627af41cab0eba06a7c6f78a2",
     "m_Title": "Offset for each cardinal direction",
     "m_Position": {
-        "x": 357.0000915527344,
-        "y": 572.0000610351563
+        "x": 357.0000305175781,
+        "y": 572.0
     }
 }
 
@@ -2143,7 +2143,7 @@
         "m_Id": "5cceab0c2fa94d08996c5a4ccd8f05b4"
     },
     "m_AllowMaterialOverride": false,
-    "m_SurfaceType": 0,
+    "m_SurfaceType": 1,
     "m_ZTestMode": 4,
     "m_ZWriteControl": 0,
     "m_AlphaMode": 0,

@@ -10698,13 +10698,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b8255f3b4ae7314da6a099e6af24d5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAttack
-  attack1: {fileID: 0}
-  attack2: {fileID: 0}
-  dash: {fileID: 0}
-  queueFirstAttack: 0
-  queueSecondAttack: 0
-  bonusLavaDamage: 0
-  bonusIceDamage: 0
+  damageClip: {fileID: 0}
+  frames: 0
+  damage: 0
 --- !u!114 &526101899
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10719,6 +10715,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   dashStrength: 0.05
   dashCooldown: 0.75
+  truePos: {x: 0, y: 0}
   sideIdlePlayer: {fileID: -5977097384829635539, guid: 32066d54869adce47b3e825bc922035d, type: 3}
   sideMovePlayer: {fileID: 5522812681064789136, guid: 32066d54869adce47b3e825bc922035d, type: 3}
   frontIdlePlayer: {fileID: -3377090090002668403, guid: 32066d54869adce47b3e825bc922035d, type: 3}
@@ -10726,7 +10723,10 @@ MonoBehaviour:
   backIdlePlayer: {fileID: -5977097384829635539, guid: 32066d54869adce47b3e825bc922035d, type: 3}
   backMovePlayer: {fileID: 5522812681064789136, guid: 32066d54869adce47b3e825bc922035d, type: 3}
   dashAnim: {fileID: -8444228808809566427, guid: 32066d54869adce47b3e825bc922035d, type: 3}
-  truePos: {x: 0, y: 0}
+  attack1Anim: {fileID: 0}
+  attack2Anim: {fileID: 0}
+  extraAttacks: []
+  attackPrefabs: []
 --- !u!114 &526101900
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15045,6 +15045,7 @@ MonoBehaviour:
   idleToChaseDist: 3
   chaseFollowDist: 15
   attackDist: 1.5
+  animStates: {fileID: 0}
 --- !u!195 &712477367
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -22678,13 +22679,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b8255f3b4ae7314da6a099e6af24d5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAttack
-  attack1: {fileID: -2290339137063607040, guid: 32066d54869adce47b3e825bc922035d, type: 3}
-  attack2: {fileID: -7757975313451463942, guid: 32066d54869adce47b3e825bc922035d, type: 3}
-  dash: {fileID: -8444228808809566427, guid: 32066d54869adce47b3e825bc922035d, type: 3}
-  queueFirstAttack: 0
-  queueSecondAttack: 0
-  bonusLavaDamage: 0
-  bonusIceDamage: 0
+  damageClip: {fileID: 0}
+  frames: 0
+  damage: 0
 --- !u!114 &1749576399
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22699,6 +22696,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   dashStrength: 0.05
   dashCooldown: 0.75
+  truePos: {x: 0, y: 0}
   sideIdlePlayer: {fileID: -5977097384829635539, guid: 32066d54869adce47b3e825bc922035d, type: 3}
   sideMovePlayer: {fileID: 5522812681064789136, guid: 32066d54869adce47b3e825bc922035d, type: 3}
   frontIdlePlayer: {fileID: -3377090090002668403, guid: 32066d54869adce47b3e825bc922035d, type: 3}
@@ -22706,7 +22704,10 @@ MonoBehaviour:
   backIdlePlayer: {fileID: -5977097384829635539, guid: 32066d54869adce47b3e825bc922035d, type: 3}
   backMovePlayer: {fileID: 5522812681064789136, guid: 32066d54869adce47b3e825bc922035d, type: 3}
   dashAnim: {fileID: -8444228808809566427, guid: 32066d54869adce47b3e825bc922035d, type: 3}
-  truePos: {x: 0, y: 0}
+  attack1Anim: {fileID: 0}
+  attack2Anim: {fileID: 0}
+  extraAttacks: []
+  attackPrefabs: []
 --- !u!114 &1749576400
 MonoBehaviour:
   m_ObjectHideFlags: 0
