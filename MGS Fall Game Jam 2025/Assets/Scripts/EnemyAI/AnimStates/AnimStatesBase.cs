@@ -71,7 +71,7 @@ public class AnimStatesBase : MonoBehaviour
     protected float idleWaitTime = 0;
     [Header("Enemy Data")]
     [SerializeField] int hp;
-    protected bool dead = false;
+    public bool dead = false;
 
 
     void Start()
@@ -109,7 +109,7 @@ public class AnimStatesBase : MonoBehaviour
             {
                 agent.enabled = false;   
             }
-            if (animator.GetCurrentAnimatorStateInfo(0).IsName(death.name) && animTime >= 1)
+            if (animator.GetCurrentAnimatorStateInfo(0).IsName(death.name) && animTime >= 0.95)
             {
                 spawnCoins();
                 Destroy(gameObject);
@@ -239,8 +239,8 @@ public class AnimStatesBase : MonoBehaviour
         if (damageAmount >= hp)
         {
             hp = 0;
-            setAnimation(death.name, true, "DeathSfx");
             dead = true;
+            setAnimation(death.name, true, "DeathSfx");
         } else
         {
             hp -= damageAmount;
@@ -251,24 +251,16 @@ public class AnimStatesBase : MonoBehaviour
 
     protected void playSound(string sound, float volume = 1)
     {
-        string atlasName = "";
         foreach (SoundEntry soundEntry in sounds)
         {
             if (soundEntry.getName() == sound)
             {
-                atlasName = soundEntry.getAtlasName();
-                break;
+                soundAtlas.playSound(soundEntry.getAtlasName(), audioSource, volume);
+                return;
             }
         }
 
-        AudioClip clip = soundAtlas.GetClip(atlasName);
-        if (clip != null)
-        {
-            audioSource.PlayOneShot(clip, volume);
-        } else
-        {
-            Debug.LogError($"No clip found with name: {sound}");
-        }
+        Debug.LogError($"No atlas entry found for {sound}");
     }
 
 }
