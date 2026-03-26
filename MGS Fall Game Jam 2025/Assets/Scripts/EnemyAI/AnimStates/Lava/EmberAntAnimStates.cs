@@ -53,6 +53,7 @@ public class EmberAntAnimStates : AnimStatesBase
         if (success)
         {
             createAttack();
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.antAttack, this.transform.position);
         }
     }
 }

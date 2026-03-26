@@ -36,15 +36,27 @@ public class SoundAtlas : MonoBehaviour
             entries.Add(entry.getName(), entry.getClip());
         }
     }
-    
+
     public AudioClip GetClip(string clip)
     {
         if (entries[clip])
         {
             return entries[clip];
-        } else
+        }
+        else
         {
             return null;
         }
+    }
+
+    public void playSound(string name, AudioSource audioSource, float volume = 1)
+    {
+        AudioClip clip;
+        if (!entries.TryGetValue(name, out clip))
+        {
+            Debug.LogError($"Clip {name} not in atlas");
+        }
+
+        audioSource.PlayOneShot(clip, volume);
     }
 }

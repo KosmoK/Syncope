@@ -27,7 +27,7 @@ public class AnimStatesBase : MonoBehaviour
         }
     }
 
-    [SerializeField] protected List<SoundEntry> sounds = new List<SoundEntry> {new SoundEntry("AttackSfx"), new SoundEntry("DeathSfx"), new SoundEntry("WalkSfx"), new SoundEntry("DamagedSfx")};
+    [SerializeField] protected List<SoundEntry> sounds = new List<SoundEntry> { new SoundEntry("AttackSfx"), new SoundEntry("DeathSfx"), new SoundEntry("WalkSfx"), new SoundEntry("DamagedSfx") };
 
     EnemyMovementState movStates;
     protected string enemyType;
@@ -45,7 +45,7 @@ public class AnimStatesBase : MonoBehaviour
     [SerializeField] float coinAnimDuration;
     [SerializeField] Vector2 coinMinMax;
     [SerializeField] Vector2 coinValue;
-    
+
     [Header("Animation clips")]
 
     [SerializeField] protected AnimationClip idle;
@@ -71,14 +71,14 @@ public class AnimStatesBase : MonoBehaviour
     protected float idleWaitTime = 0;
     [Header("Enemy Data")]
     [SerializeField] int hp;
-    protected bool dead = false;
+    public bool dead = false;
 
 
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
-        agent.updateUpAxis = false; 
+        agent.updateUpAxis = false;
 
         animator = GetComponent<Animator>();
         movStates = GetComponent<EnemyMovementState>();
@@ -107,13 +107,14 @@ public class AnimStatesBase : MonoBehaviour
         {
             if (agent.enabled == true)
             {
-                agent.enabled = false;   
+                agent.enabled = false;
             }
-            if (animator.GetCurrentAnimatorStateInfo(0).IsName(death.name) && animTime >= 1)
+            if (animator.GetCurrentAnimatorStateInfo(0).IsName(death.name) && animTime >= 0.95)
             {
                 spawnCoins();
                 Destroy(gameObject);
-            } else
+            }
+            else
             {
                 return;
             }
@@ -127,14 +128,14 @@ public class AnimStatesBase : MonoBehaviour
 
     private void spawnCoins()
     {
-        int coinNum = (int) UnityEngine.Random.Range(coinMinMax.x, coinMinMax.y);
+        int coinNum = (int)UnityEngine.Random.Range(coinMinMax.x, coinMinMax.y);
         int parity = UnityEngine.Random.Range(0, 1);
         for (int i = 0; i < coinNum; i++)
         {
             Coin c = Instantiate(coinPrefab, transform.position, Quaternion.identity).GetComponent<Coin>();
             Vector2 dir = new Vector2(UnityEngine.Random.Range(1, coinAnimMaxX), UnityEngine.Random.Range(1, coinAnimMaxY));
-            dir.x *= ((i+parity)%2 == 0) ? 1 : -1;
-            c.SetValsAndLenAndAmount(dir, coinAnimDuration*UnityEngine.Random.Range(0.5f, 1f), (int) UnityEngine.Random.Range(coinValue.x, coinValue.y));
+            dir.x *= ((i + parity) % 2 == 0) ? 1 : -1;
+            c.SetValsAndLenAndAmount(dir, coinAnimDuration * UnityEngine.Random.Range(0.5f, 1f), (int)UnityEngine.Random.Range(coinValue.x, coinValue.y));
         }
     }
 
@@ -155,7 +156,8 @@ public class AnimStatesBase : MonoBehaviour
         if (damageCooldown <= 0)
         {
             damageCooldown = 0;
-        } else
+        }
+        else
         {
             damageCooldown -= Time.deltaTime;
         }
@@ -166,7 +168,8 @@ public class AnimStatesBase : MonoBehaviour
         if (attackCooldown <= 0)
         {
             attackCooldown = 0;
-        } else
+        }
+        else
         {
             attackCooldown -= Time.deltaTime;
         }
@@ -204,7 +207,7 @@ public class AnimStatesBase : MonoBehaviour
 
         if (pos != lastKnownPosition)
         {
-            
+
             lastKnownPosition = pos;
         }
     }
@@ -214,7 +217,8 @@ public class AnimStatesBase : MonoBehaviour
         if (lastKnownPosition.x < transform.position.x)
         {
             spriteRenderer.flipX = true;
-        } else if (lastKnownPosition.x > transform.position.x)
+        }
+        else if (lastKnownPosition.x > transform.position.x)
         {
             spriteRenderer.flipX = false;
         }
@@ -239,36 +243,29 @@ public class AnimStatesBase : MonoBehaviour
         if (damageAmount >= hp)
         {
             hp = 0;
-            setAnimation(death.name, true, "DeathSfx");
             dead = true;
-        } else
+            setAnimation(death.name, true, "DeathSfx");
+        }
+        else
         {
             hp -= damageAmount;
-            damageCooldown = damageCooldownAmount+damaged.length;
+            damageCooldown = damageCooldownAmount + damaged.length;
             setAnimation(damaged.name, true, "DamagedSfx");
         }
     }
 
     protected void playSound(string sound, float volume = 1)
     {
-        string atlasName = "";
         foreach (SoundEntry soundEntry in sounds)
         {
             if (soundEntry.getName() == sound)
             {
-                atlasName = soundEntry.getAtlasName();
-                break;
+                soundAtlas.playSound(soundEntry.getAtlasName(), audioSource, volume);
+                return;
             }
         }
 
-        AudioClip clip = soundAtlas.GetClip(atlasName);
-        if (clip != null)
-        {
-            audioSource.PlayOneShot(clip, volume);
-        } else
-        {
-            Debug.LogError($"No clip found with name: {sound}");
-        }
+        Debug.LogError($"No atlas entry found for {sound}");
     }
 
 }
