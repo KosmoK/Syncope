@@ -151,12 +151,14 @@ public class PlayerMovement : MonoBehaviour
             queueSecondAttack = false;
             attackObject = Instantiate(attackPrefabs[1], transform);
             animator.Play(attack2Anim.name, -1, 0f);
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.playerAttack, this.transform.position);
             // StartCoroutine(setAttacking(attack2Anim));
         } else if (queueFirstAttack)
         {
             queueFirstAttack = false;
             attackObject = Instantiate(attackPrefabs[0], transform);
             animator.Play(attack1Anim.name, -1, 0f);
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.playerAttack, this.transform.position);
             // StartCoroutine(setAttacking(attack1Anim));
         }
 

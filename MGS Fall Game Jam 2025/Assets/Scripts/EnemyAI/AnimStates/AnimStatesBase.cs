@@ -240,11 +240,18 @@ public class AnimStatesBase : MonoBehaviour
         {
             return;
         }
+
+        AudioManager.instance.PlayOneShot(FMODEvents.instance.enemyGenericHit, this.transform.position);
+
         if (damageAmount >= hp)
         {
             hp = 0;
             dead = true;
             setAnimation(death.name, true, "DeathSfx");
+            if (enemyType == "ember_ant" || enemyType == "ember_ant_leader")
+            {
+                AudioManager.instance.PlayOneShot(FMODEvents.instance.antDeath, this.transform.position);
+            }
         }
         else
         {
