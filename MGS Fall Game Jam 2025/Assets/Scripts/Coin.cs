@@ -65,6 +65,7 @@ public class Coin : MonoBehaviour
         if (collision.gameObject.tag == "PlayerCollider" && !bouncing)
         {
             GameObject.FindGameObjectWithTag("GameManager").GetComponent<CurrencyManager>().addMoney(amount);
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.coinGet, this.transform.position);
             Destroy(gameObject);
         }
         if (collision.gameObject.GetComponent<Coin>() != null)

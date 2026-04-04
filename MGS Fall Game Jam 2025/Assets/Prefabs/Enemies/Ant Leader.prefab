@@ -12,9 +12,12 @@ GameObject:
   - component: {fileID: 5897493650854043917}
   - component: {fileID: 3258636236563465357}
   - component: {fileID: 8467896424587185114}
-  - component: {fileID: 832827645648228612}
+  - component: {fileID: 1426562144549387437}
   - component: {fileID: 2033983983180918497}
   - component: {fileID: 8833254106700184211}
+  - component: {fileID: 6898237467728040950}
+  - component: {fileID: 4779241544640273902}
+  - component: {fileID: 44626015645589273}
   m_Layer: 2
   m_Name: Ant Leader
   m_TagString: LavaEnemy
@@ -134,7 +137,8 @@ MonoBehaviour:
   idleToChaseDist: 15
   chaseFollowDist: 25
   attackDist: 1
---- !u!114 &832827645648228612
+  animStates: {fileID: 1426562144549387437}
+--- !u!114 &1426562144549387437
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -143,26 +147,36 @@ MonoBehaviour:
   m_GameObject: {fileID: 5806956607736347407}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef1c18d2e9e059341b724e2487f913e1, type: 3}
+  m_Script: {fileID: 11500000, guid: 487904fb3cc25d64588429b903e8d09e, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::EnemyAnimStates
+  m_EditorClassIdentifier: Assembly-CSharp::EmberAntLeaderAnimStates
+  sounds:
+  - name: AttackSfx
+    atlasName: 
+  - name: DeathSfx
+    atlasName: phoenixscreech
+  - name: WalkSfx
+    atlasName: 
+  - name: DamagedSfx
+    atlasName: 
+  coinPrefab: {fileID: 4400730675986713337, guid: 853095edeaaa5f34ab3c2b762b7508ce, type: 3}
+  coinAnimMaxX: 4
+  coinAnimMaxY: 5
+  coinAnimDuration: 1
+  coinMinMax: {x: 4, y: 8}
+  coinValue: {x: 4, y: 8}
   idle: {fileID: -4574197161511090041, guid: a8d4a25dce41c164f91ccbd71a752f3d, type: 3}
   alert: {fileID: -3745917278484660868, guid: a8d4a25dce41c164f91ccbd71a752f3d, type: 3}
   move: {fileID: 2667949614841947897, guid: a8d4a25dce41c164f91ccbd71a752f3d, type: 3}
   attack: {fileID: 842011099488704110, guid: a8d4a25dce41c164f91ccbd71a752f3d, type: 3}
   damaged: {fileID: 8017390324079358001, guid: a8d4a25dce41c164f91ccbd71a752f3d, type: 3}
   death: {fileID: 4348485665485846014, guid: a8d4a25dce41c164f91ccbd71a752f3d, type: 3}
-  extraAnims:
-  - {fileID: 5137946214674073354, guid: a8d4a25dce41c164f91ccbd71a752f3d, type: 3}
-  attackPrefab: {fileID: 1087606421847976891, guid: 123fd371acc21f840a5abcf8b064fe9d, type: 3}
-  attackDims: {x: 0.5, y: 2}
-  attackOffset: {x: 0, y: 0}
-  attackSpeed: 0.5
-  attackDamage: 20
-  attackDuration: 0.7
+  attackPrefab: {fileID: 7780372124814157417, guid: 7c5b45bfe68cec145806065568b7c222, type: 3}
   damageCooldownAmount: 0.3
-  attackCooldownAmount: 0.7
-  hp: 10
+  attackCooldownAmount: 0.3
+  hp: 15
+  dead: 0
+  idleAwake: {fileID: 5137946214674073354, guid: a8d4a25dce41c164f91ccbd71a752f3d, type: 3}
 --- !u!95 &2033983983180918497
 Animator:
   serializedVersion: 7
@@ -215,7 +229,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -231,3 +245,158 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.4953773, y: 0.26691353}
   m_EdgeRadius: 0
+--- !u!50 &6898237467728040950
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5806956607736347407}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!82 &4779241544640273902
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5806956607736347407}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &44626015645589273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5806956607736347407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioEventEmitter
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: 1247093396
+      Data2: 1243594544
+      Data3: 41861545
+      Data4: -1691905755
+    Path: event:/SFX/Ant/AntMoving
+  Event: 
+  EventPlayTrigger: 1
+  EventStopTrigger: 2
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  NonRigidbodyVelocity: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20

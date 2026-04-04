@@ -4,6 +4,7 @@ using System.Collections;
 using System;
 using System.Collections.Generic;
 using UnityEditor.Animations;
+using FMOD.Studio;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -49,6 +50,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] List<GameObject> attackPrefabs;
     private GameObject attackObject;
 
+    private EventInstance playerFootsteps;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -70,6 +72,8 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
 
         playerAttack = GetComponent<PlayerAttack>();
+
+        playerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.playerFootsteps);
     }
 
     // Update is called once per fixed update
@@ -111,6 +115,8 @@ public class PlayerMovement : MonoBehaviour
         }
 
         attackLogic();
+
+        UpdateSound();
     }
 
     void Update()
@@ -145,12 +151,14 @@ public class PlayerMovement : MonoBehaviour
             queueSecondAttack = false;
             attackObject = Instantiate(attackPrefabs[1], transform);
             animator.Play(attack2Anim.name, -1, 0f);
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.playerAttack, this.transform.position);
             // StartCoroutine(setAttacking(attack2Anim));
         } else if (queueFirstAttack)
         {
             queueFirstAttack = false;
             attackObject = Instantiate(attackPrefabs[0], transform);
             animator.Play(attack1Anim.name, -1, 0f);
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.playerAttack, this.transform.position);
             // StartCoroutine(setAttacking(attack1Anim));
         }
 
@@ -256,4 +264,19 @@ public class PlayerMovement : MonoBehaviour
         currExtra = extra;
     }
     public bool HasMovedThisFrame(){return hasMovedThisFrame;}
+
+    private void UpdateSound() {
+        if (hasMovedThisFrame)
+        {
+            PLAYBACK_STATE playbackState;
+            playerFootsteps.getPlaybackState(out playbackState);
+            if (playbackState.Equals(PLAYBACK_STATE.STOPPED))
+            {
+                playerFootsteps.start();
+            }
+        }
+        else {
+            playerFootsteps.stop(STOP_MODE.ALLOWFADEOUT);
+        }
+    }
 }
