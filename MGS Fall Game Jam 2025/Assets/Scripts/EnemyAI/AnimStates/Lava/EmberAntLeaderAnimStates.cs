@@ -5,22 +5,6 @@ public class EmberAntLeaderAnimStates : AnimStatesBase
     [SerializeField] AnimationClip idleAwake;
     protected override void animHandler()
     {
-        animTime = animator.GetCurrentAnimatorStateInfo(0).normalizedTime;
-
-        if (dead)
-        {
-            if (agent.enabled == true)
-            {
-                agent.enabled = false;   
-            }
-            if (animator.GetCurrentAnimatorStateInfo(0).IsName(death.name) && animTime >= 1)
-            {
-                Destroy(gameObject);
-            } else
-            {
-                return;
-            }
-        }
 
         if (state == "idle")
         {

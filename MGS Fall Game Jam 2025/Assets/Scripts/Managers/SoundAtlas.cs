@@ -56,7 +56,7 @@ public class SoundAtlas : MonoBehaviour
         {
             Debug.LogError($"Clip {name} not in atlas");
         }
-
+        
         audioSource.PlayOneShot(clip, volume);
     }
 }
