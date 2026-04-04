@@ -27,6 +27,60 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-7305551115906622847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ant/AntAttackNew
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Ant/AntAttackNew
+  Guid:
+    Data1: -17090314
+    Data2: 1109911937
+    Data3: 1634106505
+    Data4: -756808206
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1092
+--- !u!114 &-6449514969893315999
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Level1Fire
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Music/Level1Fire
+  Guid:
+    Data1: 707949460
+    Data2: 1163219283
+    Data3: -1088813396
+    Data4: -1215300634
+  Banks:
+  - {fileID: -4412135076566300874}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 161280
 --- !u!114 &-6381008181124657756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -148,6 +202,150 @@ MonoBehaviour:
   - Name: Desktop
     Value: 1074
   Exists: 1
+--- !u!114 &-4914304169766729448
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/SFX.bank
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
+  Path: Assets/StreamingAssets/SFX.bank
+  Name: SFX
+  StudioPath: bank:/SFX
+  lastModified: 639109159828597549
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-4717428545338542047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ant/AntLeaderAttack
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Ant/AntLeaderAttack
+  Guid:
+    Data1: 1260631942
+    Data2: 1103644714
+    Data3: -1803970415
+    Data4: -2043467155
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4412135076566300874
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Music.bank
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
+  Path: Assets/StreamingAssets/Music.bank
+  Name: Music
+  StudioPath: bank:/Music
+  lastModified: 639109159828572424
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-4235166930105093141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/PlayerHurt
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Player/PlayerHurt
+  Guid:
+    Data1: -456193827
+    Data2: 1193253618
+    Data3: 958737849
+    Data4: -18502596
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-4189965082134232469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Misc/CoinGet
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Misc/CoinGet
+  Guid:
+    Data1: 1517383423
+    Data2: 1309886968
+    Data3: 1638275493
+    Data4: -12918127
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3530817508880444565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ant/AntAttack
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Ant/AntAttack
+  Guid:
+    Data1: -1269270733
+    Data2: 1310557072
+    Data3: 1280036029
+    Data4: 216897290
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &-3421941637192541653
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -229,6 +427,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 161280
+--- !u!114 &-30053884819823272
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Snake/SnakeMoving
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Snake/SnakeMoving
+  Guid:
+    Data1: 647493206
+    Data2: 1274076507
+    Data3: 179276695
+    Data4: -1992645618
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1776
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -242,58 +467,112 @@ MonoBehaviour:
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EventCache
   EditorBanks:
-  - {fileID: -6381008181124657756}
-  - {fileID: -5537951767801682604}
-  - {fileID: 1553577216254823481}
-  - {fileID: 3340186371826694604}
+  - {fileID: 5158833279107523115}
+  - {fileID: 5747198883242238024}
+  - {fileID: -4412135076566300874}
+  - {fileID: -4914304169766729448}
   EditorEvents:
-  - {fileID: 5771347126735104431}
-  - {fileID: 6080206837859221963}
-  - {fileID: -2589591728897396627}
-  - {fileID: 5519010807118625554}
-  - {fileID: -131033037099607067}
-  - {fileID: 4417140568326241391}
-  - {fileID: -3421941637192541653}
-  - {fileID: -5736428025527999343}
-  - {fileID: 6564735961406234453}
-  - {fileID: -6366462483715493448}
-  - {fileID: 4627987988189828029}
-  - {fileID: -6275592075419036392}
-  - {fileID: -8727663639220263970}
+  - {fileID: 773262878672849875}
+  - {fileID: -6449514969893315999}
+  - {fileID: -3530817508880444565}
+  - {fileID: -30053884819823272}
+  - {fileID: 3330141286293858460}
+  - {fileID: -4717428545338542047}
+  - {fileID: 4221397864641737511}
+  - {fileID: 7871255386084873077}
+  - {fileID: 4999959310517714074}
+  - {fileID: -4235166930105093141}
+  - {fileID: 1036289932115809695}
+  - {fileID: -7305551115906622847}
+  - {fileID: -4189965082134232469}
   EditorParameters: []
   MasterBanks:
-  - {fileID: -5537951767801682604}
+  - {fileID: 5747198883242238024}
   StringsBanks:
-  - {fileID: -6381008181124657756}
+  - {fileID: 5158833279107523115}
   cacheVersion: 131858
-  cacheTime: 639106639255231757
+  cacheTime: 639109159828597549
   SerializableEventsDict:
-  - key: event:/SFX/Ant/AntAttack
-    index: 0
-  - key: event:/SFX/Snake/SnakeMoving
-    index: 1
-  - key: event:/SFX/Player/PlayerFootsteps
-    index: 2
   - key: event:/Music/Level1Ice
-    index: 3
+    index: 0
   - key: event:/Music/Level1Fire
-    index: 4
-  - key: event:/SFX/Ant/AntMoving
-    index: 5
-  - key: event:/SFX/Ant/AntAttackNew
-    index: 6
-  - key: event:/SFX/Player/PlayerHurt
-    index: 7
-  - key: event:/SFX/Player/PlayerAttack
-    index: 8
+    index: 1
+  - key: event:/SFX/Ant/AntAttack
+    index: 2
+  - key: event:/SFX/Snake/SnakeMoving
+    index: 3
   - key: event:/SFX/Enemy Generic/EnemyHit
-    index: 9
-  - key: event:/SFX/Ant/AntDeath
-    index: 10
-  - key: event:/Misc/CoinGet
-    index: 11
+    index: 4
   - key: event:/SFX/Ant/AntLeaderAttack
+    index: 5
+  - key: event:/SFX/Ant/AntMoving
+    index: 6
+  - key: event:/SFX/Ant/AntDeath
+    index: 7
+  - key: event:/SFX/Player/PlayerFootsteps
+    index: 8
+  - key: event:/SFX/Player/PlayerHurt
+    index: 9
+  - key: event:/SFX/Player/PlayerAttack
+    index: 10
+  - key: event:/SFX/Ant/AntAttackNew
+    index: 11
+  - key: event:/Misc/CoinGet
     index: 12
+--- !u!114 &773262878672849875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Level1Ice
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Music/Level1Ice
+  Guid:
+    Data1: -698037123
+    Data2: 1285530945
+    Data3: 367593354
+    Data4: -1572912297
+  Banks:
+  - {fileID: -4412135076566300874}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 161280
+--- !u!114 &1036289932115809695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/PlayerAttack
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Player/PlayerAttack
+  Guid:
+    Data1: 894491625
+    Data2: 1167347261
+    Data3: -980605047
+    Data4: -730343592
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &1553577216254823481
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -314,6 +593,33 @@ MonoBehaviour:
   - Name: Desktop
     Value: 139136
   Exists: 1
+--- !u!114 &3330141286293858460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Enemy Generic/EnemyHit
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Enemy Generic/EnemyHit
+  Guid:
+    Data1: 264001390
+    Data2: 1266894861
+    Data3: 168423870
+    Data4: 2049625275
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &3340186371826694604
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -334,6 +640,33 @@ MonoBehaviour:
   - Name: Desktop
     Value: 4252576
   Exists: 1
+--- !u!114 &4221397864641737511
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ant/AntMoving
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Ant/AntMoving
+  Guid:
+    Data1: 1247093396
+    Data2: 1243594544
+    Data3: 41861545
+    Data4: -1691905755
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 420
 --- !u!114 &4417140568326241391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -388,6 +721,53 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &4999959310517714074
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/PlayerFootsteps
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Player/PlayerFootsteps
+  Guid:
+    Data1: -1545568815
+    Data2: 1263326673
+    Data3: -1622425962
+    Data4: 1823110976
+  Banks:
+  - {fileID: -4914304169766729448}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 660
+--- !u!114 &5158833279107523115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
+  Path: Assets/StreamingAssets/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 639109159828323007
+  FileSizes:
+  - Name: 
+    Value: 1454
+  Exists: 1
 --- !u!114 &5519010807118625554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -415,6 +795,24 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 161280
+--- !u!114 &5747198883242238024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorBankRef
+  Path: Assets/StreamingAssets/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 639109159828301891
+  FileSizes: []
+  Exists: 1
 --- !u!114 &5771347126735104431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -489,6 +887,33 @@ MonoBehaviour:
     Data4: -730343592
   Banks:
   - {fileID: 1553577216254823481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &7871255386084873077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ant/AntDeath
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Ant/AntDeath
+  Guid:
+    Data1: 400231355
+    Data2: 1117768205
+    Data3: 1098478768
+    Data4: -1122599711
+  Banks:
+  - {fileID: -4914304169766729448}
   IsStream: 0
   Is3D: 0
   IsOneShot: 1
