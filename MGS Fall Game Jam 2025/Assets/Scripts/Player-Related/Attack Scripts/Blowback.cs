@@ -4,6 +4,11 @@ public class Blowback : MonoBehaviour
 {
     [SerializeField] float amount;
 
+    void Start()
+    {
+        Debug.Log("Spawned blowback");
+    }
+
     void OnTriggerEnter2D(Collider2D collision)
     {
         GameObject gameObject = collision.gameObject;
@@ -14,6 +19,7 @@ public class Blowback : MonoBehaviour
         }
 
         Vector3 vec = gameObject.transform.position - transform.position;
+        vec = vec.normalized;
         rb.AddForce(vec * amount, ForceMode2D.Impulse);
     }
 }
