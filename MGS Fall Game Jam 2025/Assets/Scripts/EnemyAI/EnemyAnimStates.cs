@@ -188,6 +188,7 @@ public class EnemyAnimStates : MonoBehaviour
 
     public void dealDamage(int damageAmount)
     {
+        
         if (animator.GetCurrentAnimatorStateInfo(0).IsName(death.name) || damageCooldown != 0)
         {
             return;
@@ -218,6 +219,7 @@ public class EnemyAnimStates : MonoBehaviour
             }
             if (animator.GetCurrentAnimatorStateInfo(0).IsName(death.name) && animTime >= 1)
             {
+                
                 Destroy(gameObject);
             } else
             {
@@ -301,6 +303,7 @@ public class EnemyAnimStates : MonoBehaviour
             }
             if (animator.GetCurrentAnimatorStateInfo(0).IsName(death.name) && animTime >= 1)
             {
+
                 Destroy(gameObject);
             } else
             {

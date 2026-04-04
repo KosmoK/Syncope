@@ -17,6 +17,7 @@ public class EntityStatus : MonoBehaviour
     private Movement entityMovement;
     private PlayerMovement pm;
     HPBar hpBar;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -58,6 +59,7 @@ public class EntityStatus : MonoBehaviour
             iFramesActive = true; 
             TrueHurt(damage);
             hpBar.takeDamage(damage);
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.playerHurt, this.transform.position);
         }
     }
     public void TrueHurt(int damage)

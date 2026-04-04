@@ -12,11 +12,12 @@ GameObject:
   - component: {fileID: 5897493650854043917}
   - component: {fileID: 3258636236563465357}
   - component: {fileID: 8467896424587185114}
-  - component: {fileID: 9010743757067428250}
+  - component: {fileID: 1426562144549387437}
   - component: {fileID: 2033983983180918497}
   - component: {fileID: 8833254106700184211}
-  - component: {fileID: 8418084054380014797}
-  - component: {fileID: 3430613272965060224}
+  - component: {fileID: 6898237467728040950}
+  - component: {fileID: 4779241544640273902}
+  - component: {fileID: 44626015645589273}
   m_Layer: 2
   m_Name: Ant Leader
   m_TagString: LavaEnemy
@@ -136,8 +137,8 @@ MonoBehaviour:
   idleToChaseDist: 15
   chaseFollowDist: 25
   attackDist: 1
-  animStates: {fileID: 9010743757067428250}
---- !u!114 &9010743757067428250
+  animStates: {fileID: 1426562144549387437}
+--- !u!114 &1426562144549387437
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -153,6 +154,10 @@ MonoBehaviour:
   - name: AttackSfx
     atlasName: 
   - name: DeathSfx
+    atlasName: phoenixscreech
+  - name: WalkSfx
+    atlasName: 
+  - name: DamagedSfx
     atlasName: 
   coinPrefab: {fileID: 4400730675986713337, guid: 853095edeaaa5f34ab3c2b762b7508ce, type: 3}
   coinAnimMaxX: 4
@@ -240,7 +245,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.4953773, y: 0.26691353}
   m_EdgeRadius: 0
---- !u!50 &8418084054380014797
+--- !u!50 &6898237467728040950
 Rigidbody2D:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -267,7 +272,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!82 &3430613272965060224
+--- !u!82 &4779241544640273902
 AudioSource:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -364,3 +369,34 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &44626015645589273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5806956607736347407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioEventEmitter
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: 1247093396
+      Data2: 1243594544
+      Data3: 41861545
+      Data4: -1691905755
+    Path: event:/SFX/Ant/AntMoving
+  Event: 
+  EventPlayTrigger: 1
+  EventStopTrigger: 2
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  NonRigidbodyVelocity: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
