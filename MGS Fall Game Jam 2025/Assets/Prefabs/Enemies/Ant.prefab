@@ -151,7 +151,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EmberAntAnimStates
   sounds:
   - name: AttackSfx
-    atlasName: 
+    atlasName: PhoenixScreech
   - name: DeathSfx
     atlasName: phoenixscreech
   - name: WalkSfx
@@ -177,7 +177,7 @@ MonoBehaviour:
   damaged: {fileID: 8017390324079358001, guid: 2e5e32c70f8144742aa28eff349b5101, type: 3}
   death: {fileID: 4348485665485846014, guid: 2e5e32c70f8144742aa28eff349b5101, type: 3}
   attackPrefab: {fileID: 5199131817375247810, guid: bd7a643ac5dd6da44b5df0f76a73796d, type: 3}
-  damageCooldownAmount: 0.3
+  damageCooldownAmount: 0
   attackCooldownAmount: 0.3
   hp: 10
   dead: 0

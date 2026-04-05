@@ -14,6 +14,7 @@ public class PhoenixSlash : MonoBehaviour
     void Awake()
     {
         animator = GetComponent<Animator>();
+        
     }
 
     public void setDirection(Vector3 newDir)

@@ -131,7 +131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e23dfbd5187ebc94d891ee66496161d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyMovementState
-  enemyType: ember_ant_leader
+  enemyType: bfg
   idleToChaseDist: 15
   chaseFollowDist: 25
   attackDist: 1

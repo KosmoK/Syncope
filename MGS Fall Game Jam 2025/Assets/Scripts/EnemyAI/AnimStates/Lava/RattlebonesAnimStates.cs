@@ -74,6 +74,7 @@ public class RattlebonesAnimStates : AnimStatesBase
         if (success)
         {
             createAttack();
+            playAttackSound(FMODEvents.instance.snakeAttack);
         }
     }
 }
