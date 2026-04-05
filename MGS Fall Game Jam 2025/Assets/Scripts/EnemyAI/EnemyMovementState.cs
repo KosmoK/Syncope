@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class EnemyMovementState : MonoBehaviour
@@ -10,6 +11,7 @@ public class EnemyMovementState : MonoBehaviour
     [SerializeField] float attackDist;
     [SerializeField] AnimStatesBase animStates;
     PlayerMovement player;
+    public LayerMask layermask;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -18,6 +20,9 @@ public class EnemyMovementState : MonoBehaviour
         player = GameObject.FindGameObjectsWithTag("Player")[0].GetComponent<PlayerMovement>();
         
         animStates = GetComponent<AnimStatesBase>();
+
+        layermask = ~LayerMask.GetMask("Enemies", "Ignore Raycast");
+        Debug.Log($"mask: {layermask.value}, {~layermask.value}");
     }
 
     // Update is called once per frame
@@ -75,8 +80,8 @@ public class EnemyMovementState : MonoBehaviour
             return -1;
         }
         Vector2 myPos = new Vector2(transform.position.x, transform.position.y);
-        RaycastHit2D hit = Physics2D.Raycast(transform.position, player.truePos - myPos);
-        Debug.DrawRay(transform.position, player.truePos - myPos);
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, player.truePos - myPos, 1000, layermask.value);
+        // Debug.DrawRay(transform.position, player.truePos - myPos);
 
         if (hit && hit.transform.gameObject.name == "Player")
         {
