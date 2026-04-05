@@ -72,7 +72,7 @@ public class PlayerAttack : MonoBehaviour
             return;
         }
 
-        if (asb != null)
+        if (asb != null && damage != -1)
         {
             asb.dealDamage(damage);
         }

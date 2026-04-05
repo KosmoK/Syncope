@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[RequireComponent(typeof(Animator))]
 public class EntityStatus : MonoBehaviour
 {
     GameManager gm;
@@ -23,7 +22,7 @@ public class EntityStatus : MonoBehaviour
     {
         // IFrames Coroutine
         StartCoroutine(IFramesCoroutine());
-        animator = GetComponent<Animator>();
+        animator = transform.GetChild(0).GetComponent<Animator>();
         entityMovement = GetComponent<Movement>();
         pm = GetComponent<PlayerMovement>();
         gm = GameObject.FindGameObjectsWithTag("GameManager")[0].GetComponent<GameManager>();

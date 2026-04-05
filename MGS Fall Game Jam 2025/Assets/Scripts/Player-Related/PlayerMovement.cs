@@ -42,8 +42,10 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] AnimationClip dashAnim;
     [SerializeField] AnimationClip attack1Anim;
     [SerializeField] AnimationClip attack2Anim;
+    [SerializeField] GameObject attack1Prefab;
+    [SerializeField] GameObject attack2Prefab;
     [SerializeField] List<AnimationClip> extraAttacks;
-    private int currExtra = 2;
+    [SerializeField] int currExtra = 1;
     private bool queueFirstAttack;
     private bool queueSecondAttack;
     private bool queueExtraAttack;
@@ -69,7 +71,7 @@ public class PlayerMovement : MonoBehaviour
         playerStatus = GetComponent<EntityStatus>();
 
         // Getting Animation
-        animator = GetComponent<Animator>();
+        animator = transform.GetChild(0).GetComponent<Animator>();
 
         playerAttack = GetComponent<PlayerAttack>();
 
@@ -149,14 +151,14 @@ public class PlayerMovement : MonoBehaviour
         if (queueSecondAttack && animTime > 0.8)
         {
             queueSecondAttack = false;
-            attackObject = Instantiate(attackPrefabs[1], transform);
+            attackObject = Instantiate(attack2Prefab, transform);
             animator.Play(attack2Anim.name, -1, 0f);
             AudioManager.instance.PlayOneShot(FMODEvents.instance.playerAttack, this.transform.position);
             // StartCoroutine(setAttacking(attack2Anim));
         } else if (queueFirstAttack)
         {
             queueFirstAttack = false;
-            attackObject = Instantiate(attackPrefabs[0], transform);
+            attackObject = Instantiate(attack1Prefab, transform);
             animator.Play(attack1Anim.name, -1, 0f);
             AudioManager.instance.PlayOneShot(FMODEvents.instance.playerAttack, this.transform.position);
             // StartCoroutine(setAttacking(attack1Anim));
@@ -166,7 +168,7 @@ public class PlayerMovement : MonoBehaviour
         {
             queueExtraAttack = false;
             attackObject = Instantiate(attackPrefabs[currExtra], transform);
-            animator.Play(extraAttacks[currExtra-2].name, -1, 0f);
+            animator.Play(extraAttacks[currExtra].name, -1, 0f);
         }
     }
 
@@ -187,7 +189,7 @@ public class PlayerMovement : MonoBehaviour
             return true;
         }
         if ((animator.GetCurrentAnimatorStateInfo(0).IsName(attack1Anim.name) || animator.GetCurrentAnimatorStateInfo(0).IsName(attack2Anim.name) || 
-            animator.GetCurrentAnimatorStateInfo(0).IsName(extraAttacks[currExtra-2].name)) && animTime < 0.95)
+            animator.GetCurrentAnimatorStateInfo(0).IsName(extraAttacks[currExtra].name)) && animTime < 0.95)
         {
             return true;
         }
