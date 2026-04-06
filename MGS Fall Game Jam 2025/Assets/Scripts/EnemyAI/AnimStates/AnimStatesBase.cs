@@ -288,7 +288,7 @@ public class AnimStatesBase : MonoBehaviour
         else
         {
             hp -= damageAmount;
-            damageCooldown = damageCooldownAmount + damaged.length;
+            damageCooldown = damageCooldownAmount;
             setAnimation(damaged.name, true, "DamagedSfx");
         }
     }

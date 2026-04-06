@@ -1,4 +1,5 @@
 using System.Collections;
+using TMPro;
 using UnityEngine;
 
 public class Trader : MonoBehaviour
@@ -8,6 +9,9 @@ public class Trader : MonoBehaviour
     [SerializeField] RectTransform traderImage;
     [SerializeField] AnimationCurve traderCurve;
     [SerializeField] float animLength;
+    [SerializeField] GameObject moneyText;
+    private TextMeshProUGUI tmp;
+    private CurrencyManager currencyManager;
 
     private float initPosPanel = 990;
     private float initPosTrader = 520;
@@ -15,29 +19,47 @@ public class Trader : MonoBehaviour
     private float traderDist = 520 - 0; // init - final
     private bool activated = false;
     
-    public bool toggle = false;
     void Start()
     {
         primaryPanel.gameObject.SetActive(false);
         traderImage.gameObject.SetActive(false);
+
+        tmp = moneyText.GetComponent<TextMeshProUGUI>();
+
+        currencyManager = GameObject.FindGameObjectWithTag("GameManager").GetComponent<CurrencyManager>();
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        if (toggle)
-        {
-            toggle = false;
-            activated = !activated;
+    // void Update()
+    // {
+    //     if (toggle)
+    //     {
+    //         toggle = false;
+    //         activated = !activated;
 
-            if (activated)
-            {
-                StartCoroutine(activateCoroutine());
-            } else
-            {
-                StartCoroutine(deactivateCoroutine());
-            }
-        }
+    //         if (activated)
+    //         {
+    //             StartCoroutine(activateCoroutine());
+    //         } else
+    //         {
+    //             StartCoroutine(deactivateCoroutine());
+    //         }
+    //     }
+    // }
+
+    public void activateUI()
+    {
+        StartCoroutine(activateCoroutine());
+    }
+    public void deactivateUI()
+    {
+        StartCoroutine(deactivateCoroutine());
+    }
+
+    public void setFunds()
+    {
+        int money = currencyManager.getMoney();
+        tmp.text = $"${money}";
     }
 
     IEnumerator activateCoroutine()

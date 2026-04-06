@@ -409,7 +409,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -7928372348097552081, guid: 173d7d2c17b83254783de51da01756e8, type: 3}
+  m_Sprite: {fileID: -2263256681564545795, guid: 4c47f98edf94da4478a158b10c22add7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0
@@ -713,6 +713,10 @@ MonoBehaviour:
   damageClip: {fileID: -7552387036519475859, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
   frames: 7
   damage: 3
+  shakeFrame: -1
+  shakeDuration: 0
+  shakeIntensity: 0
+  shakeFrequency: 0
 --- !u!50 &1960563833245273047
 Rigidbody2D:
   serializedVersion: 5
