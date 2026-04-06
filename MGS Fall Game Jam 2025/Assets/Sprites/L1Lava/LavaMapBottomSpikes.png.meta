@@ -1,0 +1,3352 @@
+fileFormatVersion: 2
+guid: 3b28b69002942d3448eb3ff86b75f972
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5100816693379840071
+    second: LavaMapBottomSpikes_0
+  - first:
+      213: -8602457417632715876
+    second: LavaMapBottomSpikes_1
+  - first:
+      213: 4033723379883051129
+    second: LavaMapBottomSpikes_2
+  - first:
+      213: -8592173157725019805
+    second: LavaMapBottomSpikes_3
+  - first:
+      213: 5972234865497388494
+    second: LavaMapBottomSpikes_4
+  - first:
+      213: 363927700250104523
+    second: LavaMapBottomSpikes_5
+  - first:
+      213: -5044039535541404276
+    second: LavaMapBottomSpikes_6
+  - first:
+      213: -8115928049124609349
+    second: LavaMapBottomSpikes_7
+  - first:
+      213: 572232436191921455
+    second: LavaMapBottomSpikes_8
+  - first:
+      213: 6387817389030148696
+    second: LavaMapBottomSpikes_9
+  - first:
+      213: -7316597923398710653
+    second: LavaMapBottomSpikes_10
+  - first:
+      213: -3339438856695944358
+    second: LavaMapBottomSpikes_11
+  - first:
+      213: -8818012415930540865
+    second: LavaMapBottomSpikes_12
+  - first:
+      213: -6239041131194301389
+    second: LavaMapBottomSpikes_13
+  - first:
+      213: 2085565632919382076
+    second: LavaMapBottomSpikes_14
+  - first:
+      213: 2703485058533675885
+    second: LavaMapBottomSpikes_15
+  - first:
+      213: 3459697963099703370
+    second: LavaMapBottomSpikes_16
+  - first:
+      213: 5965506493029028698
+    second: LavaMapBottomSpikes_17
+  - first:
+      213: -1702667225456470414
+    second: LavaMapBottomSpikes_18
+  - first:
+      213: -4637030068430271542
+    second: LavaMapBottomSpikes_19
+  - first:
+      213: -4181835162592512172
+    second: LavaMapBottomSpikes_20
+  - first:
+      213: -8899507660538620459
+    second: LavaMapBottomSpikes_21
+  - first:
+      213: 1862088432707178607
+    second: LavaMapBottomSpikes_22
+  - first:
+      213: -6181332311952855070
+    second: LavaMapBottomSpikes_23
+  - first:
+      213: -3509530440351589075
+    second: LavaMapBottomSpikes_24
+  - first:
+      213: 1556253977616467168
+    second: LavaMapBottomSpikes_25
+  - first:
+      213: -4330378346327971190
+    second: LavaMapBottomSpikes_26
+  - first:
+      213: 6037691049564446120
+    second: LavaMapBottomSpikes_27
+  - first:
+      213: 2890023025322763431
+    second: LavaMapBottomSpikes_28
+  - first:
+      213: -1731475299818737841
+    second: LavaMapBottomSpikes_29
+  - first:
+      213: -3444355913283252024
+    second: LavaMapBottomSpikes_30
+  - first:
+      213: 2169354004892442523
+    second: LavaMapBottomSpikes_31
+  - first:
+      213: 2938804348050620868
+    second: LavaMapBottomSpikes_32
+  - first:
+      213: -6416147675883734845
+    second: LavaMapBottomSpikes_33
+  - first:
+      213: 1578200000825618302
+    second: LavaMapBottomSpikes_34
+  - first:
+      213: 3289186788416350486
+    second: LavaMapBottomSpikes_35
+  - first:
+      213: -5915943345618184266
+    second: LavaMapBottomSpikes_36
+  - first:
+      213: 2224931691457758764
+    second: LavaMapBottomSpikes_37
+  - first:
+      213: -2753527909297565682
+    second: LavaMapBottomSpikes_38
+  - first:
+      213: 3461947828502306067
+    second: LavaMapBottomSpikes_39
+  - first:
+      213: 2236238399925487931
+    second: LavaMapBottomSpikes_40
+  - first:
+      213: 5791682246100848014
+    second: LavaMapBottomSpikes_41
+  - first:
+      213: -4406762208533569077
+    second: LavaMapBottomSpikes_42
+  - first:
+      213: -7213595374011144673
+    second: LavaMapBottomSpikes_43
+  - first:
+      213: -4761474601644847986
+    second: LavaMapBottomSpikes_44
+  - first:
+      213: -2344501624025859264
+    second: LavaMapBottomSpikes_45
+  - first:
+      213: 4304089382033376934
+    second: LavaMapBottomSpikes_46
+  - first:
+      213: 3977356457091384569
+    second: LavaMapBottomSpikes_47
+  - first:
+      213: 811863012325744956
+    second: LavaMapBottomSpikes_48
+  - first:
+      213: -2833669243079137579
+    second: LavaMapBottomSpikes_49
+  - first:
+      213: -6263565794524461965
+    second: LavaMapBottomSpikes_50
+  - first:
+      213: 1864692657345311789
+    second: LavaMapBottomSpikes_51
+  - first:
+      213: -7180250935395709747
+    second: LavaMapBottomSpikes_52
+  - first:
+      213: 4791640291819863396
+    second: LavaMapBottomSpikes_53
+  - first:
+      213: -1562749877081832097
+    second: LavaMapBottomSpikes_54
+  - first:
+      213: -5935167960467362312
+    second: LavaMapBottomSpikes_55
+  - first:
+      213: 1412562569783424468
+    second: LavaMapBottomSpikes_56
+  - first:
+      213: 6761043570307884051
+    second: LavaMapBottomSpikes_57
+  - first:
+      213: 7869499234705389979
+    second: LavaMapBottomSpikes_58
+  - first:
+      213: -5578836730964917720
+    second: LavaMapBottomSpikes_59
+  - first:
+      213: 6246624937806653912
+    second: LavaMapBottomSpikes_60
+  - first:
+      213: -6560831893186693759
+    second: LavaMapBottomSpikes_61
+  - first:
+      213: 2896450636896317013
+    second: LavaMapBottomSpikes_62
+  - first:
+      213: 4935920817161662854
+    second: LavaMapBottomSpikes_63
+  - first:
+      213: -2087252770960587561
+    second: LavaMapBottomSpikes_64
+  - first:
+      213: -2703750009078196180
+    second: LavaMapBottomSpikes_65
+  - first:
+      213: 4996795356330033729
+    second: LavaMapBottomSpikes_66
+  - first:
+      213: -235896064149836480
+    second: LavaMapBottomSpikes_67
+  - first:
+      213: -8253666377104869038
+    second: LavaMapBottomSpikes_68
+  - first:
+      213: 8402071142346456419
+    second: LavaMapBottomSpikes_69
+  - first:
+      213: -472033937009522303
+    second: LavaMapBottomSpikes_70
+  - first:
+      213: -1924331577378329503
+    second: LavaMapBottomSpikes_71
+  - first:
+      213: 1776798732457025983
+    second: LavaMapBottomSpikes_72
+  - first:
+      213: 4728949164954956753
+    second: LavaMapBottomSpikes_73
+  - first:
+      213: -6023999811497774831
+    second: LavaMapBottomSpikes_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.275
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_0
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2214
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b746be1e324639b0800000000000000
+      internalID: -5100816693379840071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_1
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2214
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be3927e8eed9880800000000000000
+      internalID: -8602457417632715876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_2
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 2232
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9780e1cda0aaaf730800000000000000
+      internalID: 4033723379883051129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_3
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 2194
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361672d490872c880800000000000000
+      internalID: -8592173157725019805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_4
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 2181
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5bc29c7f3a1e250800000000000000
+      internalID: 5972234865497388494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_5
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2187
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc21551b05eec0500800000000000000
+      internalID: 363927700250104523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_6
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 2211
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d370354c8fff9b0800000000000000
+      internalID: -5044039535541404276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2116
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb27c49707e6e5f80800000000000000
+      internalID: -8115928049124609349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_8
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2127
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f250d207e5af0f700800000000000000
+      internalID: 572232436191921455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_9
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 2114
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a843b321616a850800000000000000
+      internalID: 6387817389030148696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_10
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 2152
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a857324f8367a90800000000000000
+      internalID: -7316597923398710653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_11
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 2096
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b608d8d0ee7a1d0800000000000000
+      internalID: -3339438856695944358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_12
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd9737d6020a580800000000000000
+      internalID: -8818012415930540865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_13
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2113
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334cc14a5297a69a0800000000000000
+      internalID: -6239041131194301389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_14
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 2122
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c382ce1b4ea61fc10800000000000000
+      internalID: 2085565632919382076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_15
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 2105
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63d9794655b48520800000000000000
+      internalID: 2703485058533675885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2021
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4843b897f0530030800000000000000
+      internalID: 3459697963099703370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_17
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2051
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53184e7c8cb9c250800000000000000
+      internalID: 5965506493029028698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_18
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2044
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27697f7fd29ee58e0800000000000000
+      internalID: -1702667225456470414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_19
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2008
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb886688b5f5afb0800000000000000
+      internalID: -4637030068430271542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_20
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1923
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4577f60731327f5c0800000000000000
+      internalID: -4181835162592512172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_21
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1934
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d55ab13fe89e7480800000000000000
+      internalID: -8899507660538620459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_22
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2003
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6010e3509777d910800000000000000
+      internalID: 1862088432707178607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_23
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1976
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efe76b230f773aa0800000000000000
+      internalID: -6181332311952855070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_24
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1954
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5c66a8a4ab4fc0800000000000000
+      internalID: -3509530440351589075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_25
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1946
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e44e1c4fbce89510800000000000000
+      internalID: 1556253977616467168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_26
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1931
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae31c56d767e3c0800000000000000
+      internalID: -4330378346327971190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_27
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1865
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad18d045003ac350800000000000000
+      internalID: 6037691049564446120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_28
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1863
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4201921ac6b1820800000000000000
+      internalID: 2890023025322763431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_29
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1836
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe0f8736098f7e0800000000000000
+      internalID: -1731475299818737841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_30
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1788
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05cbcbb803330d0800000000000000
+      internalID: -3444355913283252024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_31
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 1797
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f5fa549f71b1e10800000000000000
+      internalID: 2169354004892442523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_32
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1809
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c14eedebfab8c820800000000000000
+      internalID: 2938804348050620868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_33
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1726
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c87088dea345f6a0800000000000000
+      internalID: -6416147675883734845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_34
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1766
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f6bb10a84e6e510800000000000000
+      internalID: 1578200000825618302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_35
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1771
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619e67b05f985ad20800000000000000
+      internalID: 3289186788416350486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_36
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1748
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b797150fd856eda0800000000000000
+      internalID: -5915943345618184266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_37
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 1749
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2649dec59b80ee10800000000000000
+      internalID: 2224931691457758764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_38
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 1744
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00d13f84f089c9d0800000000000000
+      internalID: -2753527909297565682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_39
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1704
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d90d4353f4b0030800000000000000
+      internalID: 3461947828502306067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_40
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1718
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3985a40af6b80f10800000000000000
+      internalID: 2236238399925487931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_41
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1721
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d07c23150306050800000000000000
+      internalID: 5791682246100848014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_42
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1641
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1adbe8e1908d2c0800000000000000
+      internalID: -4406762208533569077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_43
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1664
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f162aa20a3924eb90800000000000000
+      internalID: -7213595374011144673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_44
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1678
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c0ae1c318dbedb0800000000000000
+      internalID: -4761474601644847986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_45
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1681
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bbc94d138a67fd0800000000000000
+      internalID: -2344501624025859264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_46
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1646
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a641a92d723bbb30800000000000000
+      internalID: 4304089382033376934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_47
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1683
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c902ff98623730800000000000000
+      internalID: 3977356457091384569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_48
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1578
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3164f7bb11544b00800000000000000
+      internalID: 811863012325744956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_49
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1595
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6615b36d8cca8d0800000000000000
+      internalID: -2833669243079137579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_50
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1595
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374051e78185319a0800000000000000
+      internalID: -6263565794524461965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_51
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 1515
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24b850a718b0e910800000000000000
+      internalID: 1864692657345311789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_52
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1519
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc829d11df9a5c90800000000000000
+      internalID: -7180250935395709747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_53
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1487
+        width: 156
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d3f5d45735f7240800000000000000
+      internalID: 4791640291819863396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_54
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1506
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5580cf344fff4ae0800000000000000
+      internalID: -1562749877081832097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_55
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1495
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd20129f2c02ada0800000000000000
+      internalID: -5935167960467362312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_56
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1508
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d534f25c2e6a9310800000000000000
+      internalID: 1412562569783424468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_57
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 1553
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314e32f3e4d04dd50800000000000000
+      internalID: 6761043570307884051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_58
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1490
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99b2dc0cd3163d60800000000000000
+      internalID: 7869499234705389979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_59
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1491
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8224fe61d8df392b0800000000000000
+      internalID: -5578836730964917720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_60
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1478
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9ef0fe84870b650800000000000000
+      internalID: 6246624937806653912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_61
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1503
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185bd87672e33f4a0800000000000000
+      internalID: -6560831893186693759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_62
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 1477
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea8a91282423820800000000000000
+      internalID: 2896450636896317013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_63
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1473
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6817062e4d9ef7440800000000000000
+      internalID: 4935920817161662854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_64
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1396
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c17ed9a69803e0800000000000000
+      internalID: -2087252770960587561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_65
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1438
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c285f6b11b95a7ad0800000000000000
+      internalID: -2703750009078196180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_66
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1443
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1428f5507ee285540800000000000000
+      internalID: 4996795356330033729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_67
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 1435
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04daf6c87cde9bcf0800000000000000
+      internalID: -235896064149836480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_68
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1426
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259341ae826157d80800000000000000
+      internalID: -8253666377104869038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_69
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1401
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dfe1910372a9470800000000000000
+      internalID: 8402071142346456419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_70
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1380
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1894e9e92aff279f0800000000000000
+      internalID: -472033937009522303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_71
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1342
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c2c4c30a66b45e0800000000000000
+      internalID: -1924331577378329503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_72
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1300
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb12775880578a810800000000000000
+      internalID: 1776798732457025983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_73
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1227
+        width: 156
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33502e53a90a140800000000000000
+      internalID: 4728949164954956753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_74
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1236
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111b7a48614766ca0800000000000000
+      internalID: -6023999811497774831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: -1065, y: -783}
+      - {x: -1053, y: -779}
+      - {x: -1044, y: -772}
+      - {x: -1039, y: -766}
+      - {x: -1039, y: -749}
+      - {x: -1040, y: -749}
+      - {x: -1054, y: -734}
+      - {x: -1066, y: -717}
+      - {x: -1074, y: -703}
+      - {x: -1076, y: -703}
+      - {x: -1079, y: -708}
+      - {x: -1083, y: -726}
+      - {x: -1089, y: -750}
+      - {x: -1093, y: -756}
+      - {x: -1099, y: -758}
+      - {x: -1108, y: -766}
+      - {x: -1108, y: -770}
+      - {x: -1098, y: -781}
+      - {x: -1092, y: -783}
+      - {x: -1084, y: -780}
+      - {x: -1090, y: -784}
+      - {x: -1090, y: -785}
+      - {x: -1082, y: -785}
+    - - {x: 1461, y: -804}
+      - {x: 1473, y: -800}
+      - {x: 1482, y: -793}
+      - {x: 1487, y: -787}
+      - {x: 1487, y: -770}
+      - {x: 1486, y: -770}
+      - {x: 1472, y: -755}
+      - {x: 1460, y: -738}
+      - {x: 1452, y: -724}
+      - {x: 1451, y: -724}
+      - {x: 1447, y: -729}
+      - {x: 1442, y: -747}
+      - {x: 1436, y: -741}
+      - {x: 1433, y: -742}
+      - {x: 1429, y: -729}
+      - {x: 1424, y: -732}
+      - {x: 1422, y: -741}
+      - {x: 1415, y: -750}
+      - {x: 1413, y: -757}
+      - {x: 1413, y: -760}
+      - {x: 1418, y: -768}
+      - {x: 1426, y: -768}
+      - {x: 1431, y: -766}
+      - {x: 1440, y: -759}
+      - {x: 1437, y: -771}
+      - {x: 1433, y: -777}
+      - {x: 1427, y: -779}
+      - {x: 1417, y: -788}
+      - {x: 1417, y: -790}
+      - {x: 1422, y: -793}
+      - {x: 1431, y: -804}
+      - {x: 1442, y: -802}
+      - {x: 1436, y: -805}
+      - {x: 1436, y: -806}
+      - {x: 1444, y: -806}
+    - - {x: 1588, y: -816}
+      - {x: 1604, y: -818}
+      - {x: 1606, y: -816}
+      - {x: 1606, y: -815}
+      - {x: 1615, y: -801}
+      - {x: 1619, y: -788}
+      - {x: 1619, y: -779}
+      - {x: 1607, y: -769}
+      - {x: 1598, y: -766}
+      - {x: 1594, y: -757}
+      - {x: 1585, y: -749}
+      - {x: 1582, y: -749}
+      - {x: 1574, y: -757}
+      - {x: 1564, y: -749}
+      - {x: 1553, y: -759}
+      - {x: 1550, y: -757}
+      - {x: 1545, y: -758}
+      - {x: 1545, y: -762}
+      - {x: 1551, y: -772}
+      - {x: 1552, y: -779}
+      - {x: 1558, y: -781}
+      - {x: 1559, y: -781}
+      - {x: 1560, y: -788}
+      - {x: 1559, y: -801}
+      - {x: 1571, y: -811}
+      - {x: 1575, y: -818}
+      - {x: 1582, y: -818}
+    - - {x: -884, y: -780}
+      - {x: -883, y: -778}
+      - {x: -883, y: -764}
+      - {x: -893, y: -763}
+      - {x: -898, y: -753}
+      - {x: -900, y: -754}
+      - {x: -906, y: -768}
+      - {x: -910, y: -766}
+      - {x: -917, y: -771}
+      - {x: -917, y: -776}
+      - {x: -912, y: -785}
+      - {x: -905, y: -785}
+    - - {x: -860, y: -811}
+      - {x: -852, y: -803}
+      - {x: -852, y: -802}
+      - {x: -850, y: -794}
+      - {x: -850, y: -791}
+      - {x: -854, y: -786}
+      - {x: -863, y: -776}
+      - {x: -866, y: -776}
+      - {x: -869, y: -782}
+      - {x: -876, y: -795}
+      - {x: -878, y: -802}
+      - {x: -878, y: -805}
+      - {x: -873, y: -812}
+      - {x: -863, y: -812}
+    - - {x: 1449, y: -835}
+      - {x: 1449, y: -834}
+      - {x: 1443, y: -832}
+      - {x: 1441, y: -823}
+      - {x: 1435, y: -823}
+      - {x: 1431, y: -812}
+      - {x: 1427, y: -805}
+      - {x: 1423, y: -805}
+      - {x: 1409, y: -822}
+      - {x: 1401, y: -826}
+      - {x: 1400, y: -829}
+      - {x: 1400, y: -839}
+      - {x: 1407, y: -837}
+      - {x: 1410, y: -840}
+      - {x: 1423, y: -846}
+      - {x: 1429, y: -847}
+      - {x: 1433, y: -847}
+    - - {x: 1059, y: -883}
+      - {x: 1064, y: -884}
+      - {x: 1069, y: -884}
+      - {x: 1071, y: -882}
+      - {x: 1071, y: -881}
+      - {x: 1081, y: -877}
+      - {x: 1087, y: -873}
+      - {x: 1087, y: -861}
+      - {x: 1078, y: -859}
+      - {x: 1065, y: -858}
+      - {x: 1058, y: -827}
+      - {x: 1056, y: -822}
+      - {x: 1048, y: -818}
+      - {x: 1045, y: -811}
+      - {x: 1041, y: -807}
+      - {x: 1039, y: -808}
+      - {x: 1032, y: -818}
+      - {x: 1025, y: -819}
+      - {x: 1025, y: -824}
+      - {x: 1027, y: -828}
+      - {x: 1044, y: -831}
+      - {x: 1052, y: -830}
+      - {x: 1046, y: -839}
+      - {x: 1035, y: -859}
+      - {x: 1030, y: -861}
+      - {x: 1023, y: -867}
+      - {x: 1023, y: -870}
+      - {x: 1024, y: -875}
+      - {x: 1030, y: -879}
+      - {x: 1049, y: -885}
+      - {x: 1060, y: -885}
+    - - {x: -656, y: -866}
+      - {x: -654, y: -865}
+      - {x: -654, y: -861}
+      - {x: -656, y: -853}
+      - {x: -664, y: -848}
+      - {x: -667, y: -841}
+      - {x: -675, y: -828}
+      - {x: -678, y: -828}
+      - {x: -691, y: -847}
+      - {x: -695, y: -845}
+      - {x: -700, y: -852}
+      - {x: -701, y: -855}
+      - {x: -701, y: -859}
+      - {x: -699, y: -861}
+      - {x: -681, y: -872}
+      - {x: -667, y: -872}
+    - - {x: -1398, y: -882}
+      - {x: -1390, y: -873}
+      - {x: -1389, y: -866}
+      - {x: -1389, y: -862}
+      - {x: -1397, y: -853}
+      - {x: -1402, y: -847}
+      - {x: -1405, y: -847}
+      - {x: -1408, y: -853}
+      - {x: -1408, y: -857}
+      - {x: -1415, y: -866}
+      - {x: -1417, y: -873}
+      - {x: -1417, y: -876}
+      - {x: -1412, y: -883}
+      - {x: -1401, y: -883}
+    - - {x: -730, y: -898}
+      - {x: -729, y: -890}
+      - {x: -731, y: -883}
+      - {x: -728, y: -887}
+      - {x: -725, y: -888}
+      - {x: -722, y: -890}
+      - {x: -712, y: -889}
+      - {x: -705, y: -888}
+      - {x: -704, y: -874}
+      - {x: -704, y: -869}
+      - {x: -705, y: -868}
+      - {x: -710, y: -871}
+      - {x: -713, y: -859}
+      - {x: -715, y: -857}
+      - {x: -717, y: -857}
+      - {x: -725, y: -866}
+      - {x: -737, y: -871}
+      - {x: -742, y: -875}
+      - {x: -750, y: -860}
+      - {x: -751, y: -859}
+      - {x: -757, y: -869}
+      - {x: -761, y: -875}
+      - {x: -771, y: -878}
+      - {x: -771, y: -879}
+      - {x: -776, y: -881}
+      - {x: -776, y: -885}
+      - {x: -771, y: -890}
+      - {x: -770, y: -893}
+      - {x: -762, y: -898}
+      - {x: -753, y: -903}
+      - {x: -744, y: -903}
+    - - {x: 1106, y: -893}
+      - {x: 1114, y: -885}
+      - {x: 1114, y: -884}
+      - {x: 1116, y: -876}
+      - {x: 1116, y: -873}
+      - {x: 1111, y: -868}
+      - {x: 1105, y: -858}
+      - {x: 1101, y: -858}
+      - {x: 1099, y: -859}
+      - {x: 1090, y: -877}
+      - {x: 1088, y: -884}
+      - {x: 1088, y: -887}
+      - {x: 1093, y: -894}
+      - {x: 1103, y: -894}
+    - - {x: -1326, y: -976}
+      - {x: -1310, y: -978}
+      - {x: -1308, y: -976}
+      - {x: -1308, y: -975}
+      - {x: -1295, y: -949}
+      - {x: -1295, y: -941}
+      - {x: -1307, y: -929}
+      - {x: -1316, y: -926}
+      - {x: -1320, y: -917}
+      - {x: -1329, y: -909}
+      - {x: -1332, y: -909}
+      - {x: -1340, y: -917}
+      - {x: -1350, y: -909}
+      - {x: -1361, y: -919}
+      - {x: -1364, y: -917}
+      - {x: -1369, y: -918}
+      - {x: -1369, y: -921}
+      - {x: -1367, y: -925}
+      - {x: -1362, y: -938}
+      - {x: -1354, y: -942}
+      - {x: -1354, y: -959}
+      - {x: -1347, y: -967}
+      - {x: -1340, y: -977}
+      - {x: -1338, y: -978}
+      - {x: -1332, y: -978}
+    - - {x: -1037, y: -950}
+      - {x: -1035, y: -947}
+      - {x: -1035, y: -941}
+      - {x: -1036, y: -939}
+      - {x: -1035, y: -936}
+      - {x: -1035, y: -934}
+      - {x: -1045, y: -933}
+      - {x: -1050, y: -923}
+      - {x: -1052, y: -924}
+      - {x: -1059, y: -938}
+      - {x: -1068, y: -938}
+      - {x: -1069, y: -941}
+      - {x: -1069, y: -949}
+      - {x: -1065, y: -955}
+      - {x: -1055, y: -955}
+    - - {x: 1451, y: -989}
+      - {x: 1454, y: -986}
+      - {x: 1453, y: -982}
+      - {x: 1450, y: -975}
+      - {x: 1439, y: -964}
+      - {x: 1428, y: -946}
+      - {x: 1426, y: -946}
+      - {x: 1425, y: -947}
+      - {x: 1416, y: -961}
+      - {x: 1401, y: -968}
+      - {x: 1401, y: -976}
+      - {x: 1406, y: -982}
+      - {x: 1411, y: -986}
+      - {x: 1429, y: -991}
+      - {x: 1446, y: -991}
+    - - {x: -859, y: -994}
+      - {x: -856, y: -991}
+      - {x: -857, y: -987}
+      - {x: -860, y: -980}
+      - {x: -868, y: -974}
+      - {x: -871, y: -969}
+      - {x: -882, y: -951}
+      - {x: -884, y: -951}
+      - {x: -885, y: -952}
+      - {x: -894, y: -966}
+      - {x: -909, y: -973}
+      - {x: -909, y: -982}
+      - {x: -899, y: -992}
+      - {x: -882, y: -996}
+      - {x: -864, y: -996}
+    - - {x: -1146, y: -1063}
+      - {x: -1147, y: -1050}
+      - {x: -1153, y: -1046}
+      - {x: -1153, y: -1033}
+      - {x: -1143, y: -1038}
+      - {x: -1144, y: -1034}
+      - {x: -1141, y: -1035}
+      - {x: -1133, y: -1027}
+      - {x: -1118, y: -1024}
+      - {x: -1112, y: -1022}
+      - {x: -1112, y: -1013}
+      - {x: -1115, y: -1010}
+      - {x: -1116, y: -1001}
+      - {x: -1122, y: -996}
+      - {x: -1123, y: -996}
+      - {x: -1129, y: -987}
+      - {x: -1133, y: -978}
+      - {x: -1137, y: -971}
+      - {x: -1139, y: -972}
+      - {x: -1149, y: -991}
+      - {x: -1153, y: -989}
+      - {x: -1162, y: -985}
+      - {x: -1163, y: -985}
+      - {x: -1165, y: -990}
+      - {x: -1179, y: -968}
+      - {x: -1181, y: -968}
+      - {x: -1182, y: -969}
+      - {x: -1189, y: -977}
+      - {x: -1195, y: -991}
+      - {x: -1202, y: -993}
+      - {x: -1210, y: -999}
+      - {x: -1210, y: -1006}
+      - {x: -1212, y: -1004}
+      - {x: -1212, y: -1008}
+      - {x: -1207, y: -1019}
+      - {x: -1197, y: -1025}
+      - {x: -1192, y: -1031}
+      - {x: -1197, y: -1033}
+      - {x: -1197, y: -1037}
+      - {x: -1190, y: -1042}
+      - {x: -1183, y: -1050}
+      - {x: -1175, y: -1048}
+      - {x: -1169, y: -1045}
+      - {x: -1181, y: -1054}
+      - {x: -1179, y: -1062}
+      - {x: -1172, y: -1065}
+      - {x: -1161, y: -1065}
+    - - {x: -1214, y: -1074}
+      - {x: -1209, y: -1075}
+      - {x: -1204, y: -1075}
+      - {x: -1202, y: -1073}
+      - {x: -1202, y: -1072}
+      - {x: -1192, y: -1068}
+      - {x: -1186, y: -1064}
+      - {x: -1186, y: -1059}
+      - {x: -1187, y: -1056}
+      - {x: -1190, y: -1056}
+      - {x: -1192, y: -1058}
+      - {x: -1195, y: -1052}
+      - {x: -1201, y: -1053}
+      - {x: -1208, y: -1049}
+      - {x: -1215, y: -1018}
+      - {x: -1217, y: -1013}
+      - {x: -1232, y: -998}
+      - {x: -1234, y: -999}
+      - {x: -1248, y: -1010}
+      - {x: -1248, y: -1015}
+      - {x: -1246, y: -1019}
+      - {x: -1229, y: -1022}
+      - {x: -1227, y: -1030}
+      - {x: -1243, y: -1051}
+      - {x: -1250, y: -1058}
+      - {x: -1250, y: -1061}
+      - {x: -1249, y: -1066}
+      - {x: -1243, y: -1069}
+      - {x: -1238, y: -1070}
+      - {x: -1224, y: -1076}
+      - {x: -1213, y: -1076}
+    - - {x: -1078, y: -1040}
+      - {x: -1077, y: -1038}
+      - {x: -1077, y: -1031}
+      - {x: -1078, y: -1029}
+      - {x: -1077, y: -1026}
+      - {x: -1077, y: -1025}
+      - {x: -1085, y: -1028}
+      - {x: -1092, y: -1013}
+      - {x: -1094, y: -1014}
+      - {x: -1098, y: -1022}
+      - {x: -1111, y: -1031}
+      - {x: -1111, y: -1036}
+      - {x: -1110, y: -1039}
+      - {x: -1106, y: -1045}
+      - {x: -1100, y: -1045}
+    - - {x: -517, y: -1052}
+      - {x: -509, y: -1044}
+      - {x: -509, y: -1043}
+      - {x: -507, y: -1035}
+      - {x: -507, y: -1032}
+      - {x: -515, y: -1023}
+      - {x: -520, y: -1017}
+      - {x: -523, y: -1017}
+      - {x: -526, y: -1023}
+      - {x: -533, y: -1036}
+      - {x: -535, y: -1043}
+      - {x: -535, y: -1046}
+      - {x: -530, y: -1053}
+      - {x: -520, y: -1053}
+    - - {x: -254, y: -1132}
+      - {x: -242, y: -1128}
+      - {x: -233, y: -1121}
+      - {x: -228, y: -1115}
+      - {x: -228, y: -1098}
+      - {x: -229, y: -1098}
+      - {x: -243, y: -1083}
+      - {x: -255, y: -1066}
+      - {x: -263, y: -1052}
+      - {x: -265, y: -1052}
+      - {x: -268, y: -1057}
+      - {x: -272, y: -1075}
+      - {x: -278, y: -1099}
+      - {x: -282, y: -1105}
+      - {x: -288, y: -1107}
+      - {x: -297, y: -1115}
+      - {x: -297, y: -1119}
+      - {x: -293, y: -1121}
+      - {x: -284, y: -1132}
+      - {x: -273, y: -1130}
+      - {x: -279, y: -1133}
+      - {x: -279, y: -1134}
+      - {x: -271, y: -1134}
+    - - {x: 1043, y: -1135}
+      - {x: 1053, y: -1128}
+      - {x: 1053, y: -1114}
+      - {x: 1048, y: -1110}
+      - {x: 1045, y: -1111}
+      - {x: 1041, y: -1100}
+      - {x: 1038, y: -1100}
+      - {x: 1036, y: -1101}
+      - {x: 1027, y: -1119}
+      - {x: 1025, y: -1126}
+      - {x: 1025, y: -1129}
+      - {x: 1030, y: -1136}
+      - {x: 1040, y: -1136}
+    - - {x: 1338, y: -1157}
+      - {x: 1340, y: -1156}
+      - {x: 1340, y: -1152}
+      - {x: 1338, y: -1144}
+      - {x: 1327, y: -1132}
+      - {x: 1323, y: -1126}
+      - {x: 1319, y: -1119}
+      - {x: 1317, y: -1119}
+      - {x: 1312, y: -1123}
+      - {x: 1303, y: -1139}
+      - {x: 1299, y: -1136}
+      - {x: 1294, y: -1143}
+      - {x: 1293, y: -1146}
+      - {x: 1293, y: -1150}
+      - {x: 1295, y: -1152}
+      - {x: 1313, y: -1163}
+      - {x: 1327, y: -1163}
+    - - {x: 1391, y: -1189}
+      - {x: 1401, y: -1182}
+      - {x: 1401, y: -1168}
+      - {x: 1396, y: -1164}
+      - {x: 1393, y: -1165}
+      - {x: 1389, y: -1154}
+      - {x: 1386, y: -1154}
+      - {x: 1384, y: -1155}
+      - {x: 1375, y: -1173}
+      - {x: 1373, y: -1180}
+      - {x: 1373, y: -1183}
+      - {x: 1378, y: -1190}
+      - {x: 1388, y: -1190}
+    - - {x: 909, y: -1200}
+      - {x: 912, y: -1197}
+      - {x: 911, y: -1193}
+      - {x: 908, y: -1186}
+      - {x: 901, y: -1180}
+      - {x: 897, y: -1175}
+      - {x: 887, y: -1157}
+      - {x: 884, y: -1157}
+      - {x: 874, y: -1171}
+      - {x: 859, y: -1179}
+      - {x: 859, y: -1187}
+      - {x: 864, y: -1193}
+      - {x: 869, y: -1197}
+      - {x: 887, y: -1202}
+      - {x: 904, y: -1202}
+    - - {x: -33, y: -1227}
+      - {x: -26, y: -1228}
+      - {x: -15, y: -1219}
+      - {x: -14, y: -1210}
+      - {x: -14.241379, y: -1209.5518}
+      - {x: -13, y: -1211}
+      - {x: 4, y: -1211}
+      - {x: 7, y: -1204}
+      - {x: 7, y: -1195}
+      - {x: -1, y: -1184}
+      - {x: 2, y: -1181}
+      - {x: 4, y: -1176}
+      - {x: -7, y: -1171}
+      - {x: -15, y: -1158}
+      - {x: -18, y: -1158}
+      - {x: -21, y: -1160}
+      - {x: -35, y: -1174}
+      - {x: -35, y: -1180}
+      - {x: -32, y: -1186}
+      - {x: -23, y: -1192}
+      - {x: -15, y: -1191}
+      - {x: -7, y: -1189}
+      - {x: -19, y: -1200}
+      - {x: -19, y: -1200.7142}
+      - {x: -21, y: -1197}
+      - {x: -29, y: -1197}
+      - {x: -40, y: -1208}
+      - {x: -41, y: -1210}
+      - {x: -41, y: -1217}
+      - {x: -36, y: -1228}
+      - {x: -34, y: -1228}
+    - - {x: -691, y: -1268}
+      - {x: -688, y: -1263}
+      - {x: -687, y: -1254}
+      - {x: -699, y: -1256}
+      - {x: -703, y: -1248}
+      - {x: -712, y: -1251}
+      - {x: -722, y: -1252}
+      - {x: -728, y: -1242}
+      - {x: -722, y: -1246}
+      - {x: -713, y: -1248}
+      - {x: -698, y: -1247}
+      - {x: -691, y: -1246}
+      - {x: -689, y: -1242}
+      - {x: -688, y: -1234}
+      - {x: -680, y: -1236}
+      - {x: -671, y: -1232}
+      - {x: -667, y: -1225}
+      - {x: -667, y: -1215}
+      - {x: -678, y: -1214}
+      - {x: -683, y: -1206}
+      - {x: -698, y: -1216}
+      - {x: -708, y: -1211}
+      - {x: -717, y: -1217}
+      - {x: -727, y: -1214}
+      - {x: -729, y: -1207}
+      - {x: -736, y: -1199}
+      - {x: -738, y: -1199}
+      - {x: -741, y: -1204}
+      - {x: -743, y: -1215}
+      - {x: -754, y: -1218}
+      - {x: -760, y: -1226}
+      - {x: -760, y: -1227}
+      - {x: -758, y: -1235}
+      - {x: -742, y: -1245}
+      - {x: -735, y: -1244}
+      - {x: -737, y: -1252}
+      - {x: -746, y: -1256}
+      - {x: -742, y: -1265}
+      - {x: -739, y: -1271}
+      - {x: -727, y: -1273}
+      - {x: -718, y: -1272}
+      - {x: -717, y: -1268}
+      - {x: -712, y: -1271}
+      - {x: -709, y: -1273}
+      - {x: -696, y: -1273}
+    - - {x: -346, y: -1228}
+      - {x: -345, y: -1226}
+      - {x: -344, y: -1222}
+      - {x: -344, y: -1215}
+      - {x: -345, y: -1214}
+      - {x: -352, y: -1216}
+      - {x: -354, y: -1211}
+      - {x: -359, y: -1201}
+      - {x: -361, y: -1202}
+      - {x: -365, y: -1210}
+      - {x: -378, y: -1218}
+      - {x: -378, y: -1224}
+      - {x: -374, y: -1233}
+      - {x: -362, y: -1233}
+    - - {x: 479, y: -1244}
+      - {x: 481, y: -1243}
+      - {x: 481, y: -1239}
+      - {x: 479, y: -1231}
+      - {x: 468, y: -1219}
+      - {x: 464, y: -1213}
+      - {x: 460, y: -1206}
+      - {x: 458, y: -1206}
+      - {x: 453, y: -1210}
+      - {x: 444, y: -1226}
+      - {x: 440, y: -1223}
+      - {x: 435, y: -1230}
+      - {x: 434, y: -1233}
+      - {x: 434, y: -1237}
+      - {x: 436, y: -1239}
+      - {x: 454, y: -1250}
+      - {x: 468, y: -1250}
+    - - {x: 403, y: -1249}
+      - {x: 406, y: -1246}
+      - {x: 405, y: -1242}
+      - {x: 402, y: -1235}
+      - {x: 395, y: -1229}
+      - {x: 391, y: -1224}
+      - {x: 381, y: -1206}
+      - {x: 378, y: -1206}
+      - {x: 368, y: -1220}
+      - {x: 353, y: -1228}
+      - {x: 353, y: -1236}
+      - {x: 358, y: -1242}
+      - {x: 363, y: -1246}
+      - {x: 381, y: -1251}
+      - {x: 398, y: -1251}
+    - - {x: 1364, y: -1250}
+      - {x: 1366, y: -1247}
+      - {x: 1366, y: -1241}
+      - {x: 1365, y: -1239}
+      - {x: 1366, y: -1236}
+      - {x: 1366, y: -1235}
+      - {x: 1358, y: -1238}
+      - {x: 1351, y: -1223}
+      - {x: 1349, y: -1224}
+      - {x: 1342, y: -1238}
+      - {x: 1333, y: -1238}
+      - {x: 1332, y: -1241}
+      - {x: 1332, y: -1249}
+      - {x: 1336, y: -1255}
+      - {x: 1346, y: -1255}
+    - - {x: 82, y: -1290}
+      - {x: 83, y: -1282}
+      - {x: 81, y: -1275}
+      - {x: 84, y: -1279}
+      - {x: 87, y: -1280}
+      - {x: 90, y: -1282}
+      - {x: 100, y: -1281}
+      - {x: 100, y: -1276}
+      - {x: 107, y: -1280}
+      - {x: 108, y: -1266}
+      - {x: 108, y: -1261}
+      - {x: 107, y: -1260}
+      - {x: 102, y: -1263}
+      - {x: 99, y: -1251}
+      - {x: 97, y: -1249}
+      - {x: 95, y: -1249}
+      - {x: 87, y: -1258}
+      - {x: 75, y: -1263}
+      - {x: 73, y: -1265}
+      - {x: 70, y: -1265}
+      - {x: 60, y: -1249}
+      - {x: 51, y: -1267}
+      - {x: 41, y: -1270}
+      - {x: 41, y: -1271}
+      - {x: 36, y: -1273}
+      - {x: 36, y: -1277}
+      - {x: 41, y: -1282}
+      - {x: 42, y: -1285}
+      - {x: 58, y: -1295}
+      - {x: 68, y: -1295}
+    - - {x: 920, y: -1356}
+      - {x: 919, y: -1343}
+      - {x: 913, y: -1339}
+      - {x: 913, y: -1326}
+      - {x: 923, y: -1331}
+      - {x: 922, y: -1327}
+      - {x: 925, y: -1328}
+      - {x: 933, y: -1320}
+      - {x: 948, y: -1317}
+      - {x: 954, y: -1314}
+      - {x: 954, y: -1306}
+      - {x: 950, y: -1294}
+      - {x: 944, y: -1289}
+      - {x: 943, y: -1289}
+      - {x: 937, y: -1280}
+      - {x: 933, y: -1271}
+      - {x: 929, y: -1264}
+      - {x: 927, y: -1265}
+      - {x: 922, y: -1274}
+      - {x: 918, y: -1284}
+      - {x: 913, y: -1281}
+      - {x: 902, y: -1277}
+      - {x: 901, y: -1283}
+      - {x: 890, y: -1268}
+      - {x: 887, y: -1261}
+      - {x: 885, y: -1261}
+      - {x: 877, y: -1269}
+      - {x: 871, y: -1284}
+      - {x: 864, y: -1286}
+      - {x: 856, y: -1292}
+      - {x: 856, y: -1299}
+      - {x: 854, y: -1297}
+      - {x: 854, y: -1301}
+      - {x: 856, y: -1308}
+      - {x: 863, y: -1316}
+      - {x: 875, y: -1319}
+      - {x: 875, y: -1325}
+      - {x: 869, y: -1326}
+      - {x: 869, y: -1330}
+      - {x: 880, y: -1339}
+      - {x: 884, y: -1341}
+      - {x: 891, y: -1341}
+      - {x: 897, y: -1338}
+      - {x: 885, y: -1348}
+      - {x: 888, y: -1354}
+      - {x: 894, y: -1358}
+      - {x: 905, y: -1358}
+    - - {x: -648, y: -1330}
+      - {x: -647, y: -1322}
+      - {x: -649, y: -1315}
+      - {x: -646, y: -1319}
+      - {x: -643, y: -1320}
+      - {x: -640, y: -1322}
+      - {x: -630, y: -1321}
+      - {x: -623, y: -1319}
+      - {x: -623, y: -1314}
+      - {x: -622, y: -1305}
+      - {x: -622, y: -1301}
+      - {x: -623, y: -1300}
+      - {x: -628, y: -1303}
+      - {x: -631, y: -1291}
+      - {x: -634, y: -1289}
+      - {x: -636, y: -1290}
+      - {x: -643, y: -1299}
+      - {x: -655, y: -1303}
+      - {x: -660, y: -1305}
+      - {x: -670, y: -1289}
+      - {x: -679, y: -1307}
+      - {x: -689, y: -1310}
+      - {x: -689, y: -1311}
+      - {x: -694, y: -1313}
+      - {x: -694, y: -1317}
+      - {x: -689, y: -1322}
+      - {x: -688, y: -1325}
+      - {x: -672, y: -1335}
+      - {x: -662, y: -1335}
+    - - {x: 641, y: -1351}
+      - {x: 644, y: -1348}
+      - {x: 643, y: -1344}
+      - {x: 640, y: -1337}
+      - {x: 633, y: -1331}
+      - {x: 629, y: -1326}
+      - {x: 619, y: -1308}
+      - {x: 616, y: -1308}
+      - {x: 606, y: -1322}
+      - {x: 591, y: -1330}
+      - {x: 591, y: -1338}
+      - {x: 596, y: -1344}
+      - {x: 601, y: -1348}
+      - {x: 619, y: -1353}
+      - {x: 636, y: -1353}
+    - - {x: 818, y: -1402}
+      - {x: 830, y: -1398}
+      - {x: 839, y: -1391}
+      - {x: 844, y: -1385}
+      - {x: 844, y: -1368}
+      - {x: 843, y: -1368}
+      - {x: 829, y: -1353}
+      - {x: 817, y: -1336}
+      - {x: 809, y: -1322}
+      - {x: 807, y: -1322}
+      - {x: 804, y: -1327}
+      - {x: 797, y: -1357}
+      - {x: 794, y: -1369}
+      - {x: 790, y: -1375}
+      - {x: 784, y: -1377}
+      - {x: 775, y: -1385}
+      - {x: 775, y: -1389}
+      - {x: 779, y: -1391}
+      - {x: 788, y: -1402}
+      - {x: 799, y: -1400}
+      - {x: 793, y: -1403}
+      - {x: 793, y: -1404}
+      - {x: 801, y: -1404}
+    - - {x: 574, y: -1420}
+      - {x: 581, y: -1421}
+      - {x: 592, y: -1412}
+      - {x: 593, y: -1403}
+      - {x: 592.4, y: -1402.1333}
+      - {x: 594, y: -1404}
+      - {x: 601, y: -1404}
+      - {x: 614, y: -1400}
+      - {x: 614, y: -1392}
+      - {x: 606, y: -1377}
+      - {x: 609, y: -1374}
+      - {x: 611, y: -1369}
+      - {x: 602, y: -1365}
+      - {x: 594, y: -1353}
+      - {x: 591, y: -1351}
+      - {x: 590, y: -1351}
+      - {x: 586, y: -1354}
+      - {x: 572, y: -1367}
+      - {x: 572, y: -1373}
+      - {x: 575, y: -1379}
+      - {x: 584, y: -1385}
+      - {x: 600, y: -1383}
+      - {x: 587, y: -1393}
+      - {x: 587.5217, y: -1395.0869}
+      - {x: 584, y: -1390}
+      - {x: 580, y: -1390}
+      - {x: 579, y: -1391}
+      - {x: 567, y: -1401}
+      - {x: 566, y: -1403}
+      - {x: 566, y: -1410}
+      - {x: 571, y: -1421}
+      - {x: 573, y: -1421}
+    - - {x: 1182, y: -1483}
+      - {x: 1194, y: -1479}
+      - {x: 1203, y: -1472}
+      - {x: 1208, y: -1466}
+      - {x: 1208, y: -1449}
+      - {x: 1207, y: -1449}
+      - {x: 1193, y: -1434}
+      - {x: 1181, y: -1417}
+      - {x: 1173, y: -1403}
+      - {x: 1171, y: -1403}
+      - {x: 1168, y: -1408}
+      - {x: 1165, y: -1420}
+      - {x: 1164, y: -1426}
+      - {x: 1160, y: -1436}
+      - {x: 1163, y: -1426}
+      - {x: 1157, y: -1420}
+      - {x: 1154, y: -1421}
+      - {x: 1150, y: -1408}
+      - {x: 1145, y: -1411}
+      - {x: 1143, y: -1420}
+      - {x: 1136, y: -1429}
+      - {x: 1134, y: -1436}
+      - {x: 1134, y: -1439}
+      - {x: 1139, y: -1447}
+      - {x: 1147, y: -1447}
+      - {x: 1152, y: -1445}
+      - {x: 1161, y: -1438}
+      - {x: 1154, y: -1456}
+      - {x: 1148, y: -1458}
+      - {x: 1138, y: -1467}
+      - {x: 1138, y: -1469}
+      - {x: 1143, y: -1472}
+      - {x: 1152, y: -1483}
+      - {x: 1163, y: -1481}
+      - {x: 1157, y: -1484}
+      - {x: 1157, y: -1485}
+      - {x: 1165, y: -1485}
+    - - {x: 418, y: -1491}
+      - {x: 425, y: -1489}
+      - {x: 426, y: -1482}
+      - {x: 426, y: -1476}
+      - {x: 417, y: -1476}
+      - {x: 411, y: -1468}
+      - {x: 402, y: -1471}
+      - {x: 392, y: -1472}
+      - {x: 386, y: -1462}
+      - {x: 392, y: -1466}
+      - {x: 401, y: -1468}
+      - {x: 420, y: -1465}
+      - {x: 425, y: -1463}
+      - {x: 430, y: -1455}
+      - {x: 434, y: -1455}
+      - {x: 442, y: -1451}
+      - {x: 447, y: -1445}
+      - {x: 447, y: -1435}
+      - {x: 436, y: -1433}
+      - {x: 431, y: -1426}
+      - {x: 424, y: -1432}
+      - {x: 416, y: -1436}
+      - {x: 408, y: -1431}
+      - {x: 397, y: -1436}
+      - {x: 387, y: -1434}
+      - {x: 385, y: -1426}
+      - {x: 378, y: -1419}
+      - {x: 376, y: -1419}
+      - {x: 373, y: -1424}
+      - {x: 371, y: -1435}
+      - {x: 360, y: -1438}
+      - {x: 354, y: -1446}
+      - {x: 354, y: -1447}
+      - {x: 357, y: -1454}
+      - {x: 368, y: -1462}
+      - {x: 372, y: -1465}
+      - {x: 379, y: -1464}
+      - {x: 377, y: -1472}
+      - {x: 368, y: -1476}
+      - {x: 372, y: -1485}
+      - {x: 375, y: -1491}
+      - {x: 387, y: -1493}
+      - {x: 396, y: -1492}
+      - {x: 397, y: -1488}
+      - {x: 402, y: -1491}
+      - {x: 408, y: -1493}
+    - - {x: 611, y: -1502}
+      - {x: 616, y: -1503}
+      - {x: 621, y: -1503}
+      - {x: 623, y: -1501}
+      - {x: 623, y: -1500}
+      - {x: 633, y: -1496}
+      - {x: 639, y: -1492}
+      - {x: 639, y: -1485}
+      - {x: 634, y: -1481}
+      - {x: 624, y: -1481}
+      - {x: 617, y: -1477}
+      - {x: 609, y: -1441}
+      - {x: 601, y: -1436}
+      - {x: 594, y: -1426}
+      - {x: 592, y: -1426}
+      - {x: 591, y: -1427}
+      - {x: 587, y: -1437}
+      - {x: 577, y: -1437}
+      - {x: 577, y: -1443}
+      - {x: 586, y: -1449}
+      - {x: 603, y: -1449}
+      - {x: 594, y: -1464}
+      - {x: 588, y: -1479}
+      - {x: 584, y: -1479}
+      - {x: 583, y: -1480}
+      - {x: 581, y: -1483}
+      - {x: 575, y: -1487}
+      - {x: 575, y: -1493}
+      - {x: 579, y: -1497}
+      - {x: 587, y: -1499}
+      - {x: 601, y: -1504}
+      - {x: 612, y: -1504}
+    - - {x: 769, y: -1489}
+      - {x: 772, y: -1486}
+      - {x: 771, y: -1482}
+      - {x: 768, y: -1475}
+      - {x: 761, y: -1469}
+      - {x: 757, y: -1464}
+      - {x: 747, y: -1446}
+      - {x: 744, y: -1446}
+      - {x: 734, y: -1460}
+      - {x: 719, y: -1468}
+      - {x: 719, y: -1476}
+      - {x: 724, y: -1482}
+      - {x: 729, y: -1486}
+      - {x: 747, y: -1491}
+      - {x: 764, y: -1491}
+    - - {x: -293, y: -1475}
+      - {x: -292, y: -1473}
+      - {x: -291, y: -1469}
+      - {x: -291, y: -1462}
+      - {x: -292, y: -1461}
+      - {x: -299, y: -1463}
+      - {x: -301, y: -1458}
+      - {x: -306, y: -1448}
+      - {x: -308, y: -1449}
+      - {x: -312, y: -1457}
+      - {x: -325, y: -1465}
+      - {x: -325, y: -1471}
+      - {x: -321, y: -1480}
+      - {x: -309, y: -1480}
+    - - {x: 228, y: -1511}
+      - {x: 228, y: -1487}
+      - {x: 220, y: -1486}
+      - {x: 217, y: -1481}
+      - {x: 219, y: -1475}
+      - {x: 219, y: -1474}
+      - {x: 208, y: -1465}
+      - {x: 195, y: -1463}
+      - {x: 185, y: -1448}
+      - {x: 183, y: -1449}
+      - {x: 174, y: -1466}
+      - {x: 161, y: -1469}
+      - {x: 161, y: -1470}
+      - {x: 168, y: -1472}
+      - {x: 156, y: -1470}
+      - {x: 151, y: -1462}
+      - {x: 142, y: -1467}
+      - {x: 136, y: -1464}
+      - {x: 131, y: -1465}
+      - {x: 125, y: -1460}
+      - {x: 119, y: -1449}
+      - {x: 118, y: -1448}
+      - {x: 116, y: -1449}
+      - {x: 107, y: -1460}
+      - {x: 102, y: -1467}
+      - {x: 96, y: -1467}
+      - {x: 84, y: -1471}
+      - {x: 83, y: -1475}
+      - {x: 74, y: -1480}
+      - {x: 74, y: -1482}
+      - {x: 77, y: -1488}
+      - {x: 90, y: -1492}
+      - {x: 99, y: -1503}
+      - {x: 113, y: -1506}
+      - {x: 131, y: -1504}
+      - {x: 150, y: -1505}
+      - {x: 151, y: -1503}
+      - {x: 146, y: -1499}
+      - {x: 133, y: -1499}
+      - {x: 146, y: -1497}
+      - {x: 151, y: -1498}
+      - {x: 165, y: -1498}
+      - {x: 160, y: -1500}
+      - {x: 159, y: -1502}
+      - {x: 169, y: -1502}
+      - {x: 168, y: -1510}
+      - {x: 174, y: -1509}
+      - {x: 176, y: -1507}
+      - {x: 176, y: -1506}
+      - {x: 186, y: -1502}
+      - {x: 189, y: -1506}
+      - {x: 198, y: -1509}
+      - {x: 209, y: -1512}
+      - {x: 226, y: -1512}
+    - - {x: 75, y: -1506}
+      - {x: 78, y: -1503}
+      - {x: 77, y: -1499}
+      - {x: 74, y: -1492}
+      - {x: 67, y: -1486}
+      - {x: 63, y: -1481}
+      - {x: 52, y: -1463}
+      - {x: 50, y: -1463}
+      - {x: 49, y: -1464}
+      - {x: 40, y: -1478}
+      - {x: 25, y: -1485}
+      - {x: 25, y: -1494}
+      - {x: 35, y: -1504}
+      - {x: 52, y: -1508}
+      - {x: 70, y: -1508}
+    - - {x: -40, y: -1508}
+      - {x: -32, y: -1500}
+      - {x: -32, y: -1499}
+      - {x: -30, y: -1491}
+      - {x: -30, y: -1488}
+      - {x: -38, y: -1479}
+      - {x: -43, y: -1473}
+      - {x: -46, y: -1473}
+      - {x: -49, y: -1479}
+      - {x: -56, y: -1492}
+      - {x: -58, y: -1499}
+      - {x: -58, y: -1502}
+      - {x: -53, y: -1509}
+      - {x: -43, y: -1509}
+    - - {x: 1160, y: -1523}
+      - {x: 1170, y: -1517}
+      - {x: 1170, y: -1513}
+      - {x: 1165, y: -1510}
+      - {x: 1162, y: -1502}
+      - {x: 1156, y: -1502}
+      - {x: 1152, y: -1491}
+      - {x: 1148, y: -1484}
+      - {x: 1144, y: -1484}
+      - {x: 1130, y: -1501}
+      - {x: 1122, y: -1505}
+      - {x: 1121, y: -1508}
+      - {x: 1121, y: -1518}
+      - {x: 1135, y: -1520}
+      - {x: 1144, y: -1524}
+      - {x: 1151, y: -1526}
+      - {x: 1152, y: -1526}
+    - - {x: 933, y: -1521}
+      - {x: 943, y: -1514}
+      - {x: 943, y: -1500}
+      - {x: 938, y: -1496}
+      - {x: 935, y: -1497}
+      - {x: 931, y: -1486}
+      - {x: 928, y: -1486}
+      - {x: 926, y: -1487}
+      - {x: 917, y: -1505}
+      - {x: 915, y: -1512}
+      - {x: 915, y: -1515}
+      - {x: 920, y: -1522}
+      - {x: 930, y: -1522}
+    - - {x: 445, y: -1516}
+      - {x: 447, y: -1513}
+      - {x: 447, y: -1507}
+      - {x: 446, y: -1505}
+      - {x: 447, y: -1502}
+      - {x: 447, y: -1501}
+      - {x: 439, y: -1504}
+      - {x: 432, y: -1489}
+      - {x: 430, y: -1490}
+      - {x: 423, y: -1504}
+      - {x: 414, y: -1504}
+      - {x: 413, y: -1507}
+      - {x: 413, y: -1515}
+      - {x: 417, y: -1521}
+      - {x: 427, y: -1521}
+    - - {x: -267, y: -1554}
+      - {x: -264, y: -1551}
+      - {x: -265, y: -1547}
+      - {x: -268, y: -1540}
+      - {x: -276, y: -1534}
+      - {x: -279, y: -1529}
+      - {x: -290, y: -1511}
+      - {x: -292, y: -1511}
+      - {x: -293, y: -1512}
+      - {x: -302, y: -1526}
+      - {x: -317, y: -1533}
+      - {x: -317, y: -1542}
+      - {x: -307, y: -1552}
+      - {x: -290, y: -1556}
+      - {x: -272, y: -1556}
+    - - {x: 964, y: -1558}
+      - {x: 966, y: -1557}
+      - {x: 966, y: -1553}
+      - {x: 964, y: -1545}
+      - {x: 953, y: -1533}
+      - {x: 949, y: -1527}
+      - {x: 945, y: -1520}
+      - {x: 943, y: -1520}
+      - {x: 938, y: -1524}
+      - {x: 929, y: -1540}
+      - {x: 925, y: -1537}
+      - {x: 920, y: -1544}
+      - {x: 919, y: -1547}
+      - {x: 919, y: -1551}
+      - {x: 921, y: -1553}
+      - {x: 939, y: -1564}
+      - {x: 953, y: -1564}
+    - - {x: -520, y: -1560}
+      - {x: -512, y: -1552}
+      - {x: -512, y: -1551}
+      - {x: -510, y: -1543}
+      - {x: -510, y: -1540}
+      - {x: -518, y: -1531}
+      - {x: -523, y: -1525}
+      - {x: -526, y: -1525}
+      - {x: -529, y: -1531}
+      - {x: -536, y: -1544}
+      - {x: -538, y: -1551}
+      - {x: -538, y: -1554}
+      - {x: -533, y: -1561}
+      - {x: -523, y: -1561}
+    - - {x: -548, y: -1601}
+      - {x: -548, y: -1600}
+      - {x: -535, y: -1574}
+      - {x: -535, y: -1566}
+      - {x: -547, y: -1554}
+      - {x: -556, y: -1551}
+      - {x: -560, y: -1542}
+      - {x: -569, y: -1534}
+      - {x: -572, y: -1534}
+      - {x: -580, y: -1542}
+      - {x: -590, y: -1534}
+      - {x: -601, y: -1544}
+      - {x: -604, y: -1542}
+      - {x: -609, y: -1543}
+      - {x: -609, y: -1551}
+      - {x: -597, y: -1568}
+      - {x: -595, y: -1566}
+      - {x: -594, y: -1573}
+      - {x: -594, y: -1584}
+      - {x: -587, y: -1592}
+      - {x: -580, y: -1602}
+      - {x: -578, y: -1603}
+      - {x: -550, y: -1603}
+    - - {x: -325, y: -1597}
+      - {x: -317, y: -1589}
+      - {x: -317, y: -1588}
+      - {x: -315, y: -1580}
+      - {x: -315, y: -1577}
+      - {x: -323, y: -1568}
+      - {x: -328, y: -1562}
+      - {x: -331, y: -1562}
+      - {x: -334, y: -1568}
+      - {x: -341, y: -1581}
+      - {x: -343, y: -1588}
+      - {x: -343, y: -1591}
+      - {x: -338, y: -1598}
+      - {x: -328, y: -1598}
+    - - {x: -160, y: -1656}
+      - {x: -158, y: -1655}
+      - {x: -148, y: -1652}
+      - {x: -139, y: -1645}
+      - {x: -134, y: -1639}
+      - {x: -134, y: -1622}
+      - {x: -135, y: -1622}
+      - {x: -149, y: -1607}
+      - {x: -161, y: -1590}
+      - {x: -169, y: -1576}
+      - {x: -171, y: -1576}
+      - {x: -174, y: -1581}
+      - {x: -178, y: -1599}
+      - {x: -179, y: -1608}
+      - {x: -179, y: -1599}
+      - {x: -188, y: -1589}
+      - {x: -195, y: -1581}
+      - {x: -199, y: -1589}
+      - {x: -206, y: -1602}
+      - {x: -208, y: -1609}
+      - {x: -208, y: -1612}
+      - {x: -203, y: -1620}
+      - {x: -195, y: -1620}
+      - {x: -190, y: -1618}
+      - {x: -181, y: -1611}
+      - {x: -184, y: -1623}
+      - {x: -188, y: -1629}
+      - {x: -194, y: -1631}
+      - {x: -204, y: -1640}
+      - {x: -204, y: -1642}
+      - {x: -199, y: -1645}
+      - {x: -190, y: -1656}
+      - {x: -179, y: -1654}
+      - {x: -185, y: -1657}
+      - {x: -185, y: -1658}
+      - {x: -175, y: -1658}
+    - - {x: -182, y: -1696}
+      - {x: -172, y: -1690}
+      - {x: -172, y: -1686}
+      - {x: -177, y: -1683}
+      - {x: -180, y: -1675}
+      - {x: -186, y: -1675}
+      - {x: -190, y: -1664}
+      - {x: -194, y: -1657}
+      - {x: -198, y: -1657}
+      - {x: -212, y: -1674}
+      - {x: -220, y: -1678}
+      - {x: -221, y: -1681}
+      - {x: -221, y: -1691}
+      - {x: -207, y: -1693}
+      - {x: -198, y: -1697}
+      - {x: -191, y: -1699}
+      - {x: -190, y: -1699}
+    - - {x: -7, y: -1769}
+      - {x: -8, y: -1767}
+      - {x: -7, y: -1759}
+      - {x: -7, y: -1748}
+      - {x: -15, y: -1746}
+      - {x: -16, y: -1735}
+      - {x: -16, y: -1734}
+      - {x: -24, y: -1726}
+      - {x: -38, y: -1725}
+      - {x: -50, y: -1708}
+      - {x: -52, y: -1709}
+      - {x: -61, y: -1726}
+      - {x: -74, y: -1729}
+      - {x: -74, y: -1730}
+      - {x: -67, y: -1732}
+      - {x: -79, y: -1730}
+      - {x: -84, y: -1722}
+      - {x: -93, y: -1727}
+      - {x: -99, y: -1724}
+      - {x: -104, y: -1725}
+      - {x: -112, y: -1716}
+      - {x: -116, y: -1708}
+      - {x: -118, y: -1708}
+      - {x: -129, y: -1719}
+      - {x: -133, y: -1727}
+      - {x: -139, y: -1727}
+      - {x: -151, y: -1731}
+      - {x: -152, y: -1735}
+      - {x: -161, y: -1740}
+      - {x: -161, y: -1742}
+      - {x: -158, y: -1748}
+      - {x: -144, y: -1751}
+      - {x: -140, y: -1759}
+      - {x: -135, y: -1762}
+      - {x: -130, y: -1764}
+      - {x: -123, y: -1765}
+      - {x: -113, y: -1765}
+      - {x: -104, y: -1764}
+      - {x: -85, y: -1765}
+      - {x: -84, y: -1763}
+      - {x: -89, y: -1759}
+      - {x: -102, y: -1759}
+      - {x: -89, y: -1757}
+      - {x: -84, y: -1758}
+      - {x: -70, y: -1758}
+      - {x: -75, y: -1760}
+      - {x: -76, y: -1762}
+      - {x: -66, y: -1762}
+      - {x: -67, y: -1770}
+      - {x: -61, y: -1769}
+      - {x: -59, y: -1767}
+      - {x: -59, y: -1766}
+      - {x: -49, y: -1762}
+      - {x: -46, y: -1766}
+      - {x: -37, y: -1769}
+      - {x: -26, y: -1772}
+      - {x: -7, y: -1772}
+    - - {x: 472, y: -1758}
+      - {x: 474, y: -1755}
+      - {x: 474, y: -1749}
+      - {x: 473, y: -1747}
+      - {x: 474, y: -1744}
+      - {x: 474, y: -1743}
+      - {x: 466, y: -1746}
+      - {x: 459, y: -1731}
+      - {x: 457, y: -1732}
+      - {x: 450, y: -1746}
+      - {x: 441, y: -1746}
+      - {x: 440, y: -1749}
+      - {x: 440, y: -1757}
+      - {x: 444, y: -1763}
+      - {x: 454, y: -1763}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapBottomSpikes_0: -5100816693379840071
+      LavaMapBottomSpikes_1: -8602457417632715876
+      LavaMapBottomSpikes_10: -7316597923398710653
+      LavaMapBottomSpikes_11: -3339438856695944358
+      LavaMapBottomSpikes_12: -8818012415930540865
+      LavaMapBottomSpikes_13: -6239041131194301389
+      LavaMapBottomSpikes_14: 2085565632919382076
+      LavaMapBottomSpikes_15: 2703485058533675885
+      LavaMapBottomSpikes_16: 3459697963099703370
+      LavaMapBottomSpikes_17: 5965506493029028698
+      LavaMapBottomSpikes_18: -1702667225456470414
+      LavaMapBottomSpikes_19: -4637030068430271542
+      LavaMapBottomSpikes_2: 4033723379883051129
+      LavaMapBottomSpikes_20: -4181835162592512172
+      LavaMapBottomSpikes_21: -8899507660538620459
+      LavaMapBottomSpikes_22: 1862088432707178607
+      LavaMapBottomSpikes_23: -6181332311952855070
+      LavaMapBottomSpikes_24: -3509530440351589075
+      LavaMapBottomSpikes_25: 1556253977616467168
+      LavaMapBottomSpikes_26: -4330378346327971190
+      LavaMapBottomSpikes_27: 6037691049564446120
+      LavaMapBottomSpikes_28: 2890023025322763431
+      LavaMapBottomSpikes_29: -1731475299818737841
+      LavaMapBottomSpikes_3: -8592173157725019805
+      LavaMapBottomSpikes_30: -3444355913283252024
+      LavaMapBottomSpikes_31: 2169354004892442523
+      LavaMapBottomSpikes_32: 2938804348050620868
+      LavaMapBottomSpikes_33: -6416147675883734845
+      LavaMapBottomSpikes_34: 1578200000825618302
+      LavaMapBottomSpikes_35: 3289186788416350486
+      LavaMapBottomSpikes_36: -5915943345618184266
+      LavaMapBottomSpikes_37: 2224931691457758764
+      LavaMapBottomSpikes_38: -2753527909297565682
+      LavaMapBottomSpikes_39: 3461947828502306067
+      LavaMapBottomSpikes_4: 5972234865497388494
+      LavaMapBottomSpikes_40: 2236238399925487931
+      LavaMapBottomSpikes_41: 5791682246100848014
+      LavaMapBottomSpikes_42: -4406762208533569077
+      LavaMapBottomSpikes_43: -7213595374011144673
+      LavaMapBottomSpikes_44: -4761474601644847986
+      LavaMapBottomSpikes_45: -2344501624025859264
+      LavaMapBottomSpikes_46: 4304089382033376934
+      LavaMapBottomSpikes_47: 3977356457091384569
+      LavaMapBottomSpikes_48: 811863012325744956
+      LavaMapBottomSpikes_49: -2833669243079137579
+      LavaMapBottomSpikes_5: 363927700250104523
+      LavaMapBottomSpikes_50: -6263565794524461965
+      LavaMapBottomSpikes_51: 1864692657345311789
+      LavaMapBottomSpikes_52: -7180250935395709747
+      LavaMapBottomSpikes_53: 4791640291819863396
+      LavaMapBottomSpikes_54: -1562749877081832097
+      LavaMapBottomSpikes_55: -5935167960467362312
+      LavaMapBottomSpikes_56: 1412562569783424468
+      LavaMapBottomSpikes_57: 6761043570307884051
+      LavaMapBottomSpikes_58: 7869499234705389979
+      LavaMapBottomSpikes_59: -5578836730964917720
+      LavaMapBottomSpikes_6: -5044039535541404276
+      LavaMapBottomSpikes_60: 6246624937806653912
+      LavaMapBottomSpikes_61: -6560831893186693759
+      LavaMapBottomSpikes_62: 2896450636896317013
+      LavaMapBottomSpikes_63: 4935920817161662854
+      LavaMapBottomSpikes_64: -2087252770960587561
+      LavaMapBottomSpikes_65: -2703750009078196180
+      LavaMapBottomSpikes_66: 4996795356330033729
+      LavaMapBottomSpikes_67: -235896064149836480
+      LavaMapBottomSpikes_68: -8253666377104869038
+      LavaMapBottomSpikes_69: 8402071142346456419
+      LavaMapBottomSpikes_7: -8115928049124609349
+      LavaMapBottomSpikes_70: -472033937009522303
+      LavaMapBottomSpikes_71: -1924331577378329503
+      LavaMapBottomSpikes_72: 1776798732457025983
+      LavaMapBottomSpikes_73: 4728949164954956753
+      LavaMapBottomSpikes_74: -6023999811497774831
+      LavaMapBottomSpikes_8: 572232436191921455
+      LavaMapBottomSpikes_9: 6387817389030148696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

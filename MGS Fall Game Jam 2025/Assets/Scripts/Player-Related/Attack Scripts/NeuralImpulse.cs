@@ -7,6 +7,11 @@ public class NeuralImpulse : MonoBehaviour
     [SerializeField] float duration;
     [SerializeField] Vector2 size;
 
+    void Start()
+    {
+        GameObject.FindGameObjectWithTag("Player").GetComponent<Movement>().setDontMove(true);
+    }
+
     void OnDestroy()
     {
         GameObject spawner = Instantiate(spawnerPrefab);
@@ -15,6 +20,8 @@ public class NeuralImpulse : MonoBehaviour
         nis.setSpawnNum(spawnNum);
         nis.setDuration(duration);
         nis.setSize(size);
+
+        GameObject.FindGameObjectWithTag("Player").GetComponent<Movement>().setDontMove(false);
     }
 
     public void setSLS(int sn, float d, Vector2 s)

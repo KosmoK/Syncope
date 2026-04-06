@@ -176,7 +176,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!61 &1747776302912280528
 BoxCollider2D:
@@ -297,7 +297,7 @@ MonoBehaviour:
   dashStrength: 0.03
   dashCooldown: 1
   truePos: {x: 0, y: 0}
-  sideIdlePlayer: {fileID: -5977097384829635539, guid: 1f4a42d484bd13d4a947c4186995b2dd, type: 3}
+  sideIdlePlayer: {fileID: -5977097384829635539, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
   sideMovePlayer: {fileID: 5522812681064789136, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
   frontIdlePlayer: {fileID: -3377090090002668403, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
   frontMovePlayer: {fileID: 5522812681064789136, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}

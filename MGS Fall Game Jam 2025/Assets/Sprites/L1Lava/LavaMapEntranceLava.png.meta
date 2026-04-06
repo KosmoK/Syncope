@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: 278580dc05966974480b647f13f8dd77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3888130572284254879
+    second: LavaMapEntranceLava_0
+  - first:
+      213: 3439798740238771629
+    second: LavaMapEntranceLava_1
+  - first:
+      213: 5963288410079998421
+    second: LavaMapEntranceLava_2
+  - first:
+      213: 3436154540806667012
+    second: LavaMapEntranceLava_3
+  - first:
+      213: -5353012457614973045
+    second: LavaMapEntranceLava_4
+  - first:
+      213: -8357266033690867473
+    second: LavaMapEntranceLava_5
+  - first:
+      213: 3223882775642458991
+    second: LavaMapEntranceLava_6
+  - first:
+      213: 6337426905262515515
+    second: LavaMapEntranceLava_7
+  - first:
+      213: -8688151118972508193
+    second: LavaMapEntranceLava_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.275
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapEntranceLava_0
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 3146
+        width: 106
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16529ae38d59a0ac0800000000000000
+      internalID: -3888130572284254879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapEntranceLava_1
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 3112
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5a4cababe9cbf20800000000000000
+      internalID: 3439798740238771629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapEntranceLava_2
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 3165
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1b500d63bd1c250800000000000000
+      internalID: 5963288410079998421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapEntranceLava_3
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 2929
+        width: 109
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b702e695cafaf20800000000000000
+      internalID: 3436154540806667012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapEntranceLava_4
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2947
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b876e91088746b5b0800000000000000
+      internalID: -5353012457614973045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapEntranceLava_5
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 2840
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe80b6032d6050c80800000000000000
+      internalID: -8357266033690867473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapEntranceLava_6
+      rect:
+        serializedVersion: 2
+        x: 3395
+        y: 2890
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b4ba7bd488dbc20800000000000000
+      internalID: 3223882775642458991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapEntranceLava_7
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 2659
+        width: 152
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35ec26713013f750800000000000000
+      internalID: 6337426905262515515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapEntranceLava_8
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 2499
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd72bbec69c7d6780800000000000000
+      internalID: -8688151118972508193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: 1328, y: 155}
+      - {x: 1336, y: 164}
+      - {x: 1337, y: 173}
+      - {x: 1350, y: 183}
+      - {x: 1366, y: 203}
+      - {x: 1369, y: 216}
+      - {x: 1369, y: 235}
+      - {x: 1368, y: 241}
+      - {x: 1351, y: 287}
+      - {x: 1345, y: 293}
+      - {x: 1338, y: 293}
+      - {x: 1332, y: 290}
+      - {x: 1339, y: 265}
+      - {x: 1326, y: 282}
+      - {x: 1337, y: 304}
+      - {x: 1336, y: 317}
+      - {x: 1328, y: 330}
+      - {x: 1297, y: 361}
+      - {x: 1299, y: 366}
+      - {x: 1293, y: 381}
+      - {x: 1285, y: 387}
+      - {x: 1277, y: 387}
+      - {x: 1268, y: 380}
+      - {x: 1265, y: 375}
+      - {x: 1265, y: 345}
+      - {x: 1266, y: 309}
+      - {x: 1273, y: 279}
+      - {x: 1279, y: 275}
+      - {x: 1282, y: 278}
+      - {x: 1283, y: 298}
+      - {x: 1293, y: 299}
+      - {x: 1293, y: 280}
+      - {x: 1302, y: 266}
+      - {x: 1309, y: 259}
+      - {x: 1304, y: 242}
+      - {x: 1305, y: 228}
+      - {x: 1311, y: 222}
+      - {x: 1308, y: 183}
+      - {x: 1314, y: 174}
+      - {x: 1314, y: 152}
+      - {x: 1320, y: 147}
+      - {x: 1325, y: 147}
+    - - {x: 1395, y: 168}
+      - {x: 1395, y: 184}
+      - {x: 1394, y: 186}
+      - {x: 1385, y: 191}
+      - {x: 1378, y: 191}
+      - {x: 1373, y: 186}
+      - {x: 1373, y: 182}
+      - {x: 1374, y: 179}
+      - {x: 1382, y: 166}
+      - {x: 1392, y: 166}
+    - - {x: 1377, y: 114}
+      - {x: 1381, y: 118}
+      - {x: 1383, y: 135}
+      - {x: 1383, y: 158}
+      - {x: 1374, y: 174}
+      - {x: 1351, y: 174}
+      - {x: 1343, y: 167}
+      - {x: 1341, y: 157}
+      - {x: 1341, y: 132}
+      - {x: 1342, y: 125}
+      - {x: 1344, y: 120}
+      - {x: 1352, y: 113}
+      - {x: 1371, y: 113}
+    - - {x: 1467, y: -68}
+      - {x: 1475, y: -64}
+      - {x: 1463, y: -52}
+      - {x: 1453, y: -49}
+      - {x: 1480, y: -53}
+      - {x: 1486, y: -50}
+      - {x: 1486, y: -42}
+      - {x: 1483, y: -34}
+      - {x: 1469, y: -32}
+      - {x: 1462, y: -32}
+      - {x: 1446, y: -27}
+      - {x: 1441, y: -33}
+      - {x: 1441, y: -41}
+      - {x: 1428, y: -34}
+      - {x: 1436, y: -28}
+      - {x: 1447, y: -17}
+      - {x: 1449, y: -10}
+      - {x: 1448, y: 4}
+      - {x: 1440, y: 27}
+      - {x: 1440, y: 38}
+      - {x: 1433, y: 49}
+      - {x: 1406, y: 60}
+      - {x: 1393, y: 62}
+      - {x: 1388, y: 62}
+      - {x: 1384, y: 59}
+      - {x: 1383, y: 38}
+      - {x: 1369, y: 33}
+      - {x: 1365, y: 29}
+      - {x: 1365, y: 17}
+      - {x: 1367, y: -30}
+      - {x: 1372, y: -47}
+      - {x: 1381, y: -56}
+      - {x: 1391, y: -64}
+      - {x: 1407, y: -70}
+      - {x: 1449, y: -70}
+    - - {x: 1385, y: -153}
+      - {x: 1387, y: -146}
+      - {x: 1385, y: -140}
+      - {x: 1391, y: -141}
+      - {x: 1396, y: -141}
+      - {x: 1400, y: -137}
+      - {x: 1415, y: -126}
+      - {x: 1415, y: -117}
+      - {x: 1409.6666, y: -109}
+      - {x: 1443, y: -109}
+      - {x: 1446, y: -107}
+      - {x: 1446, y: -102}
+      - {x: 1442, y: -95}
+      - {x: 1411, y: -88}
+      - {x: 1397, y: -88}
+      - {x: 1396, y: -89}
+      - {x: 1396, y: -101}
+      - {x: 1397.129, y: -102.80646}
+      - {x: 1393, y: -101}
+      - {x: 1394, y: -92}
+      - {x: 1389, y: -80}
+      - {x: 1370, y: -76}
+      - {x: 1356, y: -76}
+      - {x: 1355, y: -79}
+      - {x: 1355, y: -88}
+      - {x: 1360, y: -99}
+      - {x: 1355, y: -102}
+      - {x: 1355, y: -109}
+      - {x: 1358, y: -123}
+      - {x: 1360, y: -155}
+      - {x: 1367, y: -159}
+      - {x: 1378, y: -159}
+    - - {x: 1469, y: -338}
+      - {x: 1475, y: -333}
+      - {x: 1472, y: -327}
+      - {x: 1484, y: -323}
+      - {x: 1478, y: -315}
+      - {x: 1440, y: -313}
+      - {x: 1442, y: -279}
+      - {x: 1454, y: -270}
+      - {x: 1450, y: -261}
+      - {x: 1484, y: -251}
+      - {x: 1489, y: -246}
+      - {x: 1494, y: -236}
+      - {x: 1515, y: -223}
+      - {x: 1515, y: -208}
+      - {x: 1497, y: -190}
+      - {x: 1465, y: -172}
+      - {x: 1469, y: -156}
+      - {x: 1473, y: -149}
+      - {x: 1472, y: -146}
+      - {x: 1455, y: -129}
+      - {x: 1448, y: -126}
+      - {x: 1431, y: -126}
+      - {x: 1409, y: -137}
+      - {x: 1399, y: -145}
+      - {x: 1401, y: -165}
+      - {x: 1376, y: -184}
+      - {x: 1367, y: -207}
+      - {x: 1371, y: -232}
+      - {x: 1375, y: -244}
+      - {x: 1367, y: -250}
+      - {x: 1372, y: -256}
+      - {x: 1377, y: -258}
+      - {x: 1405, y: -257}
+      - {x: 1413, y: -251}
+      - {x: 1419, y: -265}
+      - {x: 1401, y: -272}
+      - {x: 1396, y: -284}
+      - {x: 1405, y: -289}
+      - {x: 1408, y: -310}
+      - {x: 1394, y: -316}
+      - {x: 1383, y: -323}
+      - {x: 1376, y: -319}
+      - {x: 1371, y: -320}
+      - {x: 1365, y: -326}
+      - {x: 1365, y: -328}
+      - {x: 1370, y: -334}
+      - {x: 1373, y: -337}
+      - {x: 1384, y: -334}
+      - {x: 1397, y: -340}
+      - {x: 1449, y: -340}
+    - - {x: 1431, y: -308}
+      - {x: 1431, y: -306}
+      - {x: 1430, y: -305}
+      - {x: 1430, y: -287}
+      - {x: 1433, y: -292}
+      - {x: 1433, y: -304}
+      - {x: 1434, y: -305}
+      - {x: 1434, y: -313}
+    - - {x: 1308, y: -493}
+      - {x: 1319, y: -485}
+      - {x: 1315, y: -472}
+      - {x: 1336, y: -462}
+      - {x: 1340, y: -452}
+      - {x: 1334, y: -448}
+      - {x: 1346, y: -453}
+      - {x: 1353, y: -455}
+      - {x: 1363, y: -442}
+      - {x: 1364, y: -430}
+      - {x: 1377, y: -430}
+      - {x: 1391, y: -420}
+      - {x: 1391, y: -396}
+      - {x: 1390, y: -390}
+      - {x: 1375, y: -372}
+      - {x: 1362, y: -355}
+      - {x: 1357, y: -350}
+      - {x: 1330, y: -350}
+      - {x: 1318, y: -356}
+      - {x: 1304, y: -374}
+      - {x: 1280, y: -396}
+      - {x: 1274, y: -405}
+      - {x: 1265, y: -424}
+      - {x: 1252, y: -440}
+      - {x: 1248, y: -453}
+      - {x: 1236, y: -463}
+      - {x: 1236, y: -472}
+      - {x: 1239, y: -488}
+      - {x: 1254, y: -500}
+      - {x: 1293, y: -500}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapEntranceLava_0: -3888130572284254879
+      LavaMapEntranceLava_1: 3439798740238771629
+      LavaMapEntranceLava_2: 5963288410079998421
+      LavaMapEntranceLava_3: 3436154540806667012
+      LavaMapEntranceLava_4: -5353012457614973045
+      LavaMapEntranceLava_5: -8357266033690867473
+      LavaMapEntranceLava_6: 3223882775642458991
+      LavaMapEntranceLava_7: 6337426905262515515
+      LavaMapEntranceLava_8: -8688151118972508193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1815 @@
+fileFormatVersion: 2
+guid: 9c531a251aa98364a941b96f0305fb2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5278845044676674438
+    second: LavaMapBossSpikes_0
+  - first:
+      213: 3696951784137849691
+    second: LavaMapBossSpikes_1
+  - first:
+      213: -1235129466868395086
+    second: LavaMapBossSpikes_2
+  - first:
+      213: -6312522180776604103
+    second: LavaMapBossSpikes_3
+  - first:
+      213: 8946885260859074684
+    second: LavaMapBossSpikes_4
+  - first:
+      213: -686837952451782349
+    second: LavaMapBossSpikes_5
+  - first:
+      213: -5820635930238752348
+    second: LavaMapBossSpikes_6
+  - first:
+      213: 7892334182448107402
+    second: LavaMapBossSpikes_7
+  - first:
+      213: -6237307955023170352
+    second: LavaMapBossSpikes_8
+  - first:
+      213: 7384674088364715343
+    second: LavaMapBossSpikes_9
+  - first:
+      213: 4656634034564268739
+    second: LavaMapBossSpikes_10
+  - first:
+      213: -4977819761011655694
+    second: LavaMapBossSpikes_11
+  - first:
+      213: 4754329254870358388
+    second: LavaMapBossSpikes_12
+  - first:
+      213: -4193412859815789521
+    second: LavaMapBossSpikes_13
+  - first:
+      213: 8063634309320712027
+    second: LavaMapBossSpikes_14
+  - first:
+      213: 7275165805506465435
+    second: LavaMapBossSpikes_15
+  - first:
+      213: 3096531211667399069
+    second: LavaMapBossSpikes_16
+  - first:
+      213: -4476382722498215549
+    second: LavaMapBossSpikes_17
+  - first:
+      213: 8809896410911552572
+    second: LavaMapBossSpikes_18
+  - first:
+      213: 7850782048737185030
+    second: LavaMapBossSpikes_19
+  - first:
+      213: -7525160504027510068
+    second: LavaMapBossSpikes_20
+  - first:
+      213: 3721157591814886834
+    second: LavaMapBossSpikes_21
+  - first:
+      213: -301562990909037776
+    second: LavaMapBossSpikes_22
+  - first:
+      213: 7082422916275200878
+    second: LavaMapBossSpikes_23
+  - first:
+      213: 1512278086844732721
+    second: LavaMapBossSpikes_24
+  - first:
+      213: 4299567020062302270
+    second: LavaMapBossSpikes_25
+  - first:
+      213: 594223541335261266
+    second: LavaMapBossSpikes_26
+  - first:
+      213: -4112219351681246219
+    second: LavaMapBossSpikes_27
+  - first:
+      213: 8604508111149002793
+    second: LavaMapBossSpikes_28
+  - first:
+      213: -3160245136235513659
+    second: LavaMapBossSpikes_29
+  - first:
+      213: 4672665995970012447
+    second: LavaMapBossSpikes_30
+  - first:
+      213: 6042944520418126126
+    second: LavaMapBossSpikes_31
+  - first:
+      213: -1989795612033409809
+    second: LavaMapBossSpikes_32
+  - first:
+      213: 681109592024738595
+    second: LavaMapBossSpikes_33
+  - first:
+      213: 6973222257263735398
+    second: LavaMapBossSpikes_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.275
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_0
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 3350
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683c8408999324940800000000000000
+      internalID: 5278845044676674438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_1
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 3374
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b78457f063e4330800000000000000
+      internalID: 3696951784137849691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_2
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 3357
+        width: 120
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b311bb3b40fbdee0800000000000000
+      internalID: -1235129466868395086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_3
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 3373
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e4902958a6568a0800000000000000
+      internalID: -6312522180776604103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_4
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 3372
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78eeabfdb8b92c70800000000000000
+      internalID: 8946885260859074684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_5
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 3368
+        width: 156
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339dad1758cd776f0800000000000000
+      internalID: -686837952451782349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_6
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3322
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a96e33e572f83fa0800000000000000
+      internalID: -5820635930238752348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_7
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 3353
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0e71af14378d60800000000000000
+      internalID: 7892334182448107402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_8
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3307
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4302a2671a079a0800000000000000
+      internalID: -6237307955023170352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_9
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 3321
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da20b25f1ab7660800000000000000
+      internalID: 7384674088364715343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_10
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 3324
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c282378bffaf9040800000000000000
+      internalID: 4656634034564268739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_11
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 3323
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbfafc0d4b3beab0800000000000000
+      internalID: -4977819761011655694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_12
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 3184
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799bcd8445caf140800000000000000
+      internalID: 4754329254870358388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_13
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3145
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cff1eb8310ec5c0800000000000000
+      internalID: -4193412859815789521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_14
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 3187
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f96bd6ea8c7ef60800000000000000
+      internalID: 8063634309320712027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_15
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 3054
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e084f21c496f460800000000000000
+      internalID: 7275165805506465435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_16
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3071
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91685b1bb619fa20800000000000000
+      internalID: 3096531211667399069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_17
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 3021
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3814cca71a1b0e1c0800000000000000
+      internalID: -4476382722498215549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_18
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 2979
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c343f50eb1a034a70800000000000000
+      internalID: 8809896410911552572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_19
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 2671
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d4ef79da493fc60800000000000000
+      internalID: 7850782048737185030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_20
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2679
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca04af3462419790800000000000000
+      internalID: -7525160504027510068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_21
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 2666
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5df5d3d1534a330800000000000000
+      internalID: 3721157591814886834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_22
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 2628
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0336679be02a0dbf0800000000000000
+      internalID: -301562990909037776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_23
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 2576
+        width: 155
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e636ba93e12d94260800000000000000
+      internalID: 7082422916275200878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_24
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2643
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135dcf758e0bcf410800000000000000
+      internalID: 1512278086844732721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_25
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2632
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e306cc6bc612bab30800000000000000
+      internalID: 4299567020062302270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_26
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2586
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250867a992b1f3800800000000000000
+      internalID: 594223541335261266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_27
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 2508
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb5d8089467ee6c0800000000000000
+      internalID: -4112219351681246219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_28
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 2405
+        width: 126
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920f008d98a596770800000000000000
+      internalID: 8604508111149002793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_29
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 2459
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8b683dacd8424d0800000000000000
+      internalID: -3160245136235513659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_30
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 2404
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15e6db67f4a8d040800000000000000
+      internalID: 4672665995970012447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_31
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2345
+        width: 211
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e296ae0460adcd350800000000000000
+      internalID: 6042944520418126126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_32
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 2356
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec1e19ee63d264e0800000000000000
+      internalID: -1989795612033409809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_33
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2344
+        width: 172
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32beeb5b099c37900800000000000000
+      internalID: 681109592024738595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_34
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2386
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6627d0082bcd5c060800000000000000
+      internalID: 6973222257263735398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: 520, y: 370}
+      - {x: 520, y: 394}
+      - {x: 512, y: 395}
+      - {x: 511, y: 407}
+      - {x: 502, y: 412}
+      - {x: 503, y: 415}
+      - {x: 500, y: 416}
+      - {x: 487, y: 418}
+      - {x: 477, y: 433}
+      - {x: 475, y: 432}
+      - {x: 467, y: 415}
+      - {x: 460, y: 414}
+      - {x: 453, y: 412}
+      - {x: 453, y: 411}
+      - {x: 444, y: 419}
+      - {x: 442, y: 418}
+      - {x: 428, y: 417}
+      - {x: 423, y: 416}
+      - {x: 417, y: 421}
+      - {x: 411, y: 432}
+      - {x: 410, y: 433}
+      - {x: 408, y: 432}
+      - {x: 399, y: 421}
+      - {x: 392, y: 415}
+      - {x: 376, y: 411}
+      - {x: 375, y: 406}
+      - {x: 366, y: 402}
+      - {x: 366, y: 396}
+      - {x: 368, y: 392}
+      - {x: 383, y: 389}
+      - {x: 387, y: 382}
+      - {x: 391, y: 378}
+      - {x: 405, y: 375}
+      - {x: 414, y: 376}
+      - {x: 431, y: 379}
+      - {x: 434, y: 376}
+      - {x: 441, y: 375}
+      - {x: 444, y: 378}
+      - {x: 438, y: 382}
+      - {x: 425, y: 382}
+      - {x: 438, y: 384}
+      - {x: 443, y: 383}
+      - {x: 457, y: 383}
+      - {x: 452, y: 381}
+      - {x: 451, y: 379}
+      - {x: 461, y: 379}
+      - {x: 460, y: 371}
+      - {x: 466, y: 372}
+      - {x: 468, y: 374}
+      - {x: 468, y: 375}
+      - {x: 478, y: 379}
+      - {x: 481, y: 375}
+      - {x: 490, y: 372}
+      - {x: 501, y: 369}
+      - {x: 518, y: 369}
+    - - {x: 345, y: 376}
+      - {x: 345, y: 377}
+      - {x: 344, y: 377}
+      - {x: 343, y: 379}
+      - {x: 353, y: 379}
+      - {x: 360, y: 384}
+      - {x: 360, y: 386}
+      - {x: 357, y: 386}
+      - {x: 360, y: 392}
+      - {x: 360, y: 399}
+      - {x: 356, y: 405}
+      - {x: 347, y: 404}
+      - {x: 334, y: 422}
+      - {x: 331, y: 422}
+      - {x: 327, y: 420}
+      - {x: 316, y: 399}
+      - {x: 308, y: 397}
+      - {x: 306, y: 391}
+      - {x: 297, y: 385}
+      - {x: 297, y: 384}
+      - {x: 300, y: 384}
+      - {x: 304, y: 379}
+      - {x: 312, y: 374}
+      - {x: 333, y: 373}
+      - {x: 339, y: 373}
+    - - {x: 80, y: 355}
+      - {x: 98, y: 362}
+      - {x: 106, y: 364}
+      - {x: 109, y: 373}
+      - {x: 119, y: 375}
+      - {x: 125, y: 378}
+      - {x: 125, y: 387}
+      - {x: 120, y: 392}
+      - {x: 119, y: 399}
+      - {x: 109, y: 399}
+      - {x: 103, y: 408}
+      - {x: 95, y: 400}
+      - {x: 89, y: 400}
+      - {x: 80, y: 398}
+      - {x: 73, y: 413}
+      - {x: 68, y: 417}
+      - {x: 66, y: 417}
+      - {x: 55, y: 398}
+      - {x: 47, y: 399}
+      - {x: 44, y: 393}
+      - {x: 36, y: 399}
+      - {x: 26, y: 389}
+      - {x: 18, y: 382}
+      - {x: 18, y: 381}
+      - {x: 21, y: 371}
+      - {x: 36, y: 362}
+      - {x: 40, y: 363}
+      - {x: 49, y: 357}
+      - {x: 60, y: 352}
+      - {x: 70, y: 351}
+      - {x: 75, y: 351}
+    - - {x: 234, y: 366}
+      - {x: 237, y: 372}
+      - {x: 248, y: 373}
+      - {x: 261, y: 379}
+      - {x: 272, y: 388}
+      - {x: 272, y: 393}
+      - {x: 270, y: 400}
+      - {x: 259, y: 399}
+      - {x: 253, y: 396}
+      - {x: 250, y: 404}
+      - {x: 246, y: 406}
+      - {x: 238, y: 397}
+      - {x: 228, y: 395}
+      - {x: 222, y: 408}
+      - {x: 219, y: 409}
+      - {x: 217, y: 409}
+      - {x: 215, y: 407}
+      - {x: 207, y: 391}
+      - {x: 204, y: 393}
+      - {x: 189, y: 389}
+      - {x: 186, y: 395}
+      - {x: 184, y: 397}
+      - {x: 182, y: 396}
+      - {x: 166, y: 379}
+      - {x: 158, y: 380}
+      - {x: 154, y: 378}
+      - {x: 154, y: 376}
+      - {x: 160, y: 368}
+      - {x: 173, y: 362}
+      - {x: 182, y: 361}
+      - {x: 190, y: 365}
+      - {x: 204, y: 358}
+      - {x: 222, y: 358}
+    - - {x: 656, y: 356}
+      - {x: 659, y: 359}
+      - {x: 658, y: 363}
+      - {x: 655, y: 370}
+      - {x: 644, y: 380}
+      - {x: 632, y: 399}
+      - {x: 631, y: 399}
+      - {x: 630, y: 398}
+      - {x: 621, y: 384}
+      - {x: 606, y: 377}
+      - {x: 606, y: 369}
+      - {x: 611, y: 363}
+      - {x: 616, y: 359}
+      - {x: 634, y: 354}
+      - {x: 651, y: 354}
+    - - {x: 265, y: 379}
+      - {x: 265, y: 380}
+      - {x: 263, y: 380}
+      - {x: 262, y: 379}
+      - {x: 262, y: 378}
+      - {x: 264, y: 378}
+    - - {x: 634, y: 324}
+      - {x: 636, y: 327}
+      - {x: 650, y: 324}
+      - {x: 653, y: 326}
+      - {x: 653, y: 327}
+      - {x: 652, y: 343}
+      - {x: 641, y: 345}
+      - {x: 634, y: 343}
+      - {x: 629, y: 354}
+      - {x: 623, y: 348}
+      - {x: 619, y: 351}
+      - {x: 607, y: 356}
+      - {x: 601, y: 360}
+      - {x: 592, y: 375}
+      - {x: 591, y: 375}
+      - {x: 589, y: 374}
+      - {x: 584, y: 364}
+      - {x: 577, y: 352}
+      - {x: 567, y: 353}
+      - {x: 564, y: 348}
+      - {x: 564, y: 347}
+      - {x: 565, y: 339}
+      - {x: 571, y: 330}
+      - {x: 578, y: 326}
+      - {x: 598, y: 325}
+      - {x: 606, y: 323}
+      - {x: 609, y: 332}
+      - {x: 621, y: 323}
+      - {x: 634, y: 323}
+    - - {x: 56, y: 309}
+      - {x: 67, y: 311}
+      - {x: 71, y: 313}
+      - {x: 73, y: 321}
+      - {x: 77, y: 323}
+      - {x: 80, y: 321}
+      - {x: 90, y: 322}
+      - {x: 97, y: 323}
+      - {x: 98, y: 337}
+      - {x: 98, y: 342}
+      - {x: 97, y: 343}
+      - {x: 92, y: 340}
+      - {x: 89, y: 352}
+      - {x: 86, y: 354}
+      - {x: 84, y: 353}
+      - {x: 77, y: 344}
+      - {x: 65, y: 340}
+      - {x: 60, y: 336}
+      - {x: 52, y: 351}
+      - {x: 51, y: 352}
+      - {x: 45, y: 342}
+      - {x: 41, y: 336}
+      - {x: 31, y: 333}
+      - {x: 31, y: 332}
+      - {x: 26, y: 330}
+      - {x: 26, y: 325}
+      - {x: 32, y: 318}
+      - {x: 40, y: 313}
+      - {x: 49, y: 308}
+      - {x: 53, y: 308}
+    - - {x: -76, y: 195}
+      - {x: -76, y: 204}
+      - {x: -88, y: 202}
+      - {x: -92, y: 210}
+      - {x: -97, y: 206}
+      - {x: -101, y: 207}
+      - {x: -111, y: 205}
+      - {x: -113, y: 209}
+      - {x: -118, y: 216}
+      - {x: -111, y: 212}
+      - {x: -102, y: 210}
+      - {x: -93, y: 212}
+      - {x: -87, y: 211}
+      - {x: -80, y: 211}
+      - {x: -76, y: 223}
+      - {x: -69, y: 223}
+      - {x: -61, y: 227}
+      - {x: -56, y: 232}
+      - {x: -56, y: 235}
+      - {x: -57, y: 239}
+      - {x: -56, y: 240}
+      - {x: -56, y: 243}
+      - {x: -67, y: 245}
+      - {x: -72, y: 252}
+      - {x: -87, y: 241}
+      - {x: -95, y: 247}
+      - {x: -101, y: 244}
+      - {x: -109, y: 241}
+      - {x: -115, y: 244}
+      - {x: -118, y: 252}
+      - {x: -125, y: 259}
+      - {x: -127, y: 259}
+      - {x: -130, y: 254}
+      - {x: -130, y: 247}
+      - {x: -133, y: 242}
+      - {x: -139, y: 241}
+      - {x: -149, y: 233}
+      - {x: -149, y: 230}
+      - {x: -147, y: 223}
+      - {x: -131, y: 213}
+      - {x: -124, y: 214}
+      - {x: -126, y: 206}
+      - {x: -135, y: 202}
+      - {x: -131, y: 191}
+      - {x: -125, y: 186}
+      - {x: -116, y: 185}
+      - {x: -107, y: 186}
+      - {x: -106, y: 190}
+      - {x: -98, y: 185}
+      - {x: -84, y: 185}
+    - - {x: 839, y: 148}
+      - {x: 838, y: 161}
+      - {x: 832, y: 165}
+      - {x: 832, y: 178}
+      - {x: 842, y: 173}
+      - {x: 849, y: 179}
+      - {x: 852, y: 184}
+      - {x: 867, y: 187}
+      - {x: 873, y: 190}
+      - {x: 873, y: 198}
+      - {x: 869, y: 210}
+      - {x: 863, y: 215}
+      - {x: 862, y: 215}
+      - {x: 856, y: 224}
+      - {x: 852, y: 233}
+      - {x: 848, y: 240}
+      - {x: 846, y: 239}
+      - {x: 836, y: 221}
+      - {x: 823, y: 227}
+      - {x: 822, y: 226}
+      - {x: 820, y: 221}
+      - {x: 809, y: 236}
+      - {x: 806, y: 243}
+      - {x: 804, y: 243}
+      - {x: 796, y: 235}
+      - {x: 790, y: 220}
+      - {x: 779, y: 216}
+      - {x: 776, y: 212}
+      - {x: 776, y: 211}
+      - {x: 780, y: 210}
+      - {x: 773, y: 206}
+      - {x: 773, y: 203}
+      - {x: 778, y: 192}
+      - {x: 788, y: 186}
+      - {x: 793, y: 181}
+      - {x: 789, y: 177}
+      - {x: 788, y: 174}
+      - {x: 799, y: 165}
+      - {x: 811, y: 163}
+      - {x: 816, y: 167}
+      - {x: 805, y: 156}
+      - {x: 805, y: 154}
+      - {x: 811, y: 148}
+      - {x: 814, y: 146}
+      - {x: 829, y: 146}
+    - - {x: -218, y: 61}
+      - {x: -218, y: 73}
+      - {x: -218.24138, y: 73.44827}
+      - {x: -217, y: 72}
+      - {x: -200, y: 72}
+      - {x: -197, y: 79}
+      - {x: -197, y: 88}
+      - {x: -205, y: 99}
+      - {x: -202, y: 102}
+      - {x: -200, y: 107}
+      - {x: -215, y: 119}
+      - {x: -219, y: 125}
+      - {x: -225, y: 125}
+      - {x: -237, y: 114}
+      - {x: -239, y: 111}
+      - {x: -239, y: 103}
+      - {x: -236, y: 97}
+      - {x: -227, y: 91}
+      - {x: -219, y: 92}
+      - {x: -211, y: 94}
+      - {x: -223, y: 83}
+      - {x: -223, y: 82.28572}
+      - {x: -225, y: 86}
+      - {x: -231, y: 86}
+      - {x: -238, y: 74}
+      - {x: -244, y: 75}
+      - {x: -245, y: 73}
+      - {x: -245, y: 66}
+      - {x: -240, y: 55}
+      - {x: -229, y: 55}
+    - - {x: 906, y: -19}
+      - {x: 916, y: -20}
+      - {x: 934, y: -20}
+      - {x: 947, y: -12}
+      - {x: 947, y: -4}
+      - {x: 944, y: 2}
+      - {x: 939, y: 7}
+      - {x: 935, y: 20}
+      - {x: 927, y: 36}
+      - {x: 924, y: 39}
+      - {x: 924, y: 51}
+      - {x: 919, y: 53}
+      - {x: 918, y: 53}
+      - {x: 912, y: 59}
+      - {x: 905, y: 77}
+      - {x: 903, y: 77}
+      - {x: 899, y: 75}
+      - {x: 887, y: 50}
+      - {x: 879, y: 47}
+      - {x: 879, y: 36}
+      - {x: 887, y: 24}
+      - {x: 898, y: 24}
+      - {x: 903, y: 21}
+      - {x: 911, y: 23}
+      - {x: 921, y: 36}
+      - {x: 908, y: 1}
+      - {x: 895, y: -6}
+      - {x: 892, y: -10}
+      - {x: 895, y: -18}
+      - {x: 900, y: -20}
+      - {x: 902, y: -20}
+    - - {x: -151, y: -326}
+      - {x: -146, y: -327}
+      - {x: -141, y: -327}
+      - {x: -139, y: -325}
+      - {x: -139, y: -324}
+      - {x: -129, y: -320}
+      - {x: -123, y: -316}
+      - {x: -123, y: -314}
+      - {x: -124, y: -314}
+      - {x: -124, y: -308}
+      - {x: -127, y: -308}
+      - {x: -129, y: -310}
+      - {x: -133, y: -305}
+      - {x: -145, y: -301}
+      - {x: -153, y: -265}
+      - {x: -161, y: -260}
+      - {x: -168, y: -250}
+      - {x: -170, y: -250}
+      - {x: -171, y: -251}
+      - {x: -185, y: -262}
+      - {x: -185, y: -267}
+      - {x: -183, y: -271}
+      - {x: -166, y: -274}
+      - {x: -164, y: -282}
+      - {x: -174, y: -303}
+      - {x: -179, y: -300}
+      - {x: -187, y: -307}
+      - {x: -187, y: -316}
+      - {x: -186, y: -318}
+      - {x: -180, y: -322}
+      - {x: -161, y: -328}
+      - {x: -150, y: -328}
+    - - {x: 878, y: -370}
+      - {x: 890, y: -366}
+      - {x: 899, y: -359}
+      - {x: 904, y: -353}
+      - {x: 904, y: -336}
+      - {x: 903, y: -336}
+      - {x: 889, y: -321}
+      - {x: 877, y: -304}
+      - {x: 869, y: -290}
+      - {x: 868, y: -290}
+      - {x: 864, y: -295}
+      - {x: 859, y: -313}
+      - {x: 853, y: -307}
+      - {x: 850, y: -308}
+      - {x: 846, y: -295}
+      - {x: 841, y: -298}
+      - {x: 839, y: -307}
+      - {x: 832, y: -316}
+      - {x: 830, y: -323}
+      - {x: 830, y: -326}
+      - {x: 835, y: -334}
+      - {x: 843, y: -334}
+      - {x: 848, y: -332}
+      - {x: 857, y: -325}
+      - {x: 854, y: -337}
+      - {x: 850, y: -343}
+      - {x: 844, y: -345}
+      - {x: 834, y: -354}
+      - {x: 834, y: -356}
+      - {x: 839, y: -359}
+      - {x: 848, y: -370}
+      - {x: 859, y: -368}
+      - {x: 853, y: -371}
+      - {x: 853, y: -372}
+      - {x: 861, y: -372}
+    - - {x: -117, y: -351}
+      - {x: -116, y: -349}
+      - {x: -116, y: -335}
+      - {x: -126, y: -334}
+      - {x: -131, y: -324}
+      - {x: -133, y: -325}
+      - {x: -139, y: -339}
+      - {x: -143, y: -337}
+      - {x: -150, y: -342}
+      - {x: -150, y: -347}
+      - {x: -145, y: -356}
+      - {x: -138, y: -356}
+    - - {x: -123, y: -421}
+      - {x: -124, y: -418}
+      - {x: -107, y: -418}
+      - {x: -109, y: -423}
+      - {x: -106, y: -423}
+      - {x: -90, y: -417}
+      - {x: -85, y: -413}
+      - {x: -81, y: -408}
+      - {x: -81, y: -407}
+      - {x: -84, y: -407}
+      - {x: -99, y: -413}
+      - {x: -96, y: -404}
+      - {x: -102, y: -399}
+      - {x: -107, y: -391}
+      - {x: -113, y: -386}
+      - {x: -118, y: -385}
+      - {x: -128, y: -373}
+      - {x: -137, y: -376}
+      - {x: -143, y: -372}
+      - {x: -144, y: -370.75}
+      - {x: -144, y: -367}
+      - {x: -145, y: -367}
+      - {x: -145, y: -369.5}
+      - {x: -147, y: -367}
+      - {x: -148, y: -367}
+      - {x: -154, y: -365}
+      - {x: -161, y: -365}
+      - {x: -164, y: -360}
+      - {x: -168, y: -348}
+      - {x: -174, y: -327}
+      - {x: -177, y: -327}
+      - {x: -190, y: -342}
+      - {x: -205, y: -359}
+      - {x: -214, y: -360}
+      - {x: -234, y: -368}
+      - {x: -233, y: -370}
+      - {x: -230, y: -372}
+      - {x: -231, y: -381}
+      - {x: -220, y: -389}
+      - {x: -206, y: -398}
+      - {x: -186, y: -407}
+      - {x: -174, y: -411}
+      - {x: -157, y: -414}
+      - {x: -147, y: -418}
+      - {x: -135, y: -423}
+      - {x: -124, y: -423}
+    - - {x: -234, y: -364}
+      - {x: -234, y: -363}
+      - {x: -238, y: -363}
+      - {x: -241, y: -365}
+      - {x: -241, y: -367}
+      - {x: -239, y: -367}
+    - - {x: -156, y: -373}
+      - {x: -157, y: -371}
+      - {x: -157, y: -369}
+      - {x: -155, y: -371}
+      - {x: -155, y: -373}
+      - {x: -154, y: -374}
+    - - {x: 866, y: -401}
+      - {x: 866, y: -400}
+      - {x: 860, y: -398}
+      - {x: 858, y: -389}
+      - {x: 852, y: -389}
+      - {x: 848, y: -378}
+      - {x: 844, y: -371}
+      - {x: 840, y: -371}
+      - {x: 826, y: -388}
+      - {x: 818, y: -392}
+      - {x: 817, y: -395}
+      - {x: 817, y: -405}
+      - {x: 824, y: -403}
+      - {x: 827, y: -406}
+      - {x: 840, y: -412}
+      - {x: 846, y: -413}
+      - {x: 850, y: -413}
+    - - {x: -89, y: -401}
+      - {x: -91, y: -401}
+      - {x: -95, y: -403}
+      - {x: -94, y: -406}
+      - {x: -89, y: -406}
+    - - {x: -15, y: -490}
+      - {x: -3, y: -483}
+      - {x: 5, y: -482}
+      - {x: 14, y: -480}
+      - {x: 19, y: -476}
+      - {x: 19, y: -475}
+      - {x: 12, y: -471}
+      - {x: 3, y: -463}
+      - {x: -1, y: -464}
+      - {x: -17, y: -441}
+      - {x: -23, y: -430}
+      - {x: -28, y: -422}
+      - {x: -31, y: -423}
+      - {x: -39, y: -435}
+      - {x: -48, y: -458}
+      - {x: -57, y: -456}
+      - {x: -65, y: -458}
+      - {x: -65, y: -459}
+      - {x: -68, y: -464}
+      - {x: -67, y: -467}
+      - {x: -53, y: -480}
+      - {x: -45, y: -484}
+      - {x: -35, y: -491}
+      - {x: -19, y: -491}
+    - - {x: 747, y: -533}
+      - {x: 747, y: -527}
+      - {x: 745, y: -521}
+      - {x: 737, y: -516}
+      - {x: 734, y: -509}
+      - {x: 730, y: -503}
+      - {x: 726, y: -496}
+      - {x: 724, y: -496}
+      - {x: 719, y: -500}
+      - {x: 710, y: -515}
+      - {x: 706, y: -513}
+      - {x: 701, y: -520}
+      - {x: 700, y: -523}
+      - {x: 700, y: -527}
+      - {x: 702, y: -529}
+      - {x: 720, y: -540}
+      - {x: 735, y: -540}
+    - - {x: 42, y: -592}
+      - {x: 52, y: -595}
+      - {x: 59, y: -595}
+      - {x: 66, y: -590}
+      - {x: 80, y: -588}
+      - {x: 89, y: -594}
+      - {x: 95, y: -589}
+      - {x: 108, y: -572}
+      - {x: 108, y: -562}
+      - {x: 101, y: -553}
+      - {x: 87, y: -547}
+      - {x: 79, y: -540}
+      - {x: 70, y: -524}
+      - {x: 62, y: -507}
+      - {x: 61, y: -506}
+      - {x: 59, y: -506}
+      - {x: 54, y: -513}
+      - {x: 44, y: -532}
+      - {x: 33, y: -537}
+      - {x: 26, y: -527}
+      - {x: 21, y: -515}
+      - {x: 12, y: -520}
+      - {x: 3, y: -531}
+      - {x: -12, y: -534}
+      - {x: -16, y: -536}
+      - {x: -16, y: -550}
+      - {x: -2, y: -551}
+      - {x: 0, y: -554}
+      - {x: 10, y: -557}
+      - {x: 20, y: -563}
+      - {x: 20, y: -571}
+      - {x: 23, y: -577}
+      - {x: 29, y: -582}
+      - {x: 32, y: -587}
+      - {x: 34, y: -593}
+      - {x: 39, y: -595}
+      - {x: 41, y: -595}
+    - - {x: 560, y: -654}
+      - {x: 562, y: -650}
+      - {x: 567, y: -648}
+      - {x: 576, y: -641}
+      - {x: 580, y: -637}
+      - {x: 579, y: -635}
+      - {x: 591, y: -634}
+      - {x: 593, y: -633}
+      - {x: 616, y: -634}
+      - {x: 623, y: -634}
+      - {x: 626, y: -630}
+      - {x: 627, y: -628}
+      - {x: 623, y: -620}
+      - {x: 621, y: -612}
+      - {x: 627, y: -617}
+      - {x: 637, y: -621}
+      - {x: 648, y: -628}
+      - {x: 656, y: -630}
+      - {x: 655, y: -628}
+      - {x: 667, y: -623}
+      - {x: 684, y: -614}
+      - {x: 684, y: -607}
+      - {x: 688, y: -602}
+      - {x: 691, y: -593}
+      - {x: 691, y: -588}
+      - {x: 690, y: -586}
+      - {x: 688, y: -577}
+      - {x: 671, y: -577}
+      - {x: 655, y: -557}
+      - {x: 651, y: -551}
+      - {x: 649, y: -551}
+      - {x: 645, y: -555}
+      - {x: 643, y: -565}
+      - {x: 638, y: -580}
+      - {x: 635, y: -591}
+      - {x: 628, y: -593}
+      - {x: 620, y: -603}
+      - {x: 619, y: -606}
+      - {x: 606, y: -606}
+      - {x: 598, y: -592}
+      - {x: 596, y: -592}
+      - {x: 585, y: -606}
+      - {x: 580, y: -604}
+      - {x: 576, y: -606}
+      - {x: 575, y: -609}
+      - {x: 569, y: -610}
+      - {x: 557, y: -596}
+      - {x: 548, y: -583}
+      - {x: 547, y: -582}
+      - {x: 541, y: -592}
+      - {x: 533, y: -614}
+      - {x: 527, y: -617}
+      - {x: 522, y: -614}
+      - {x: 521, y: -616}
+      - {x: 521, y: -631}
+      - {x: 522, y: -636}
+      - {x: 528, y: -645}
+      - {x: 542, y: -649}
+      - {x: 546, y: -655}
+      - {x: 555, y: -655}
+    - - {x: 273, y: -653}
+      - {x: 277, y: -653}
+      - {x: 289, y: -649}
+      - {x: 286, y: -646}
+      - {x: 294, y: -638}
+      - {x: 296, y: -633}
+      - {x: 285, y: -621}
+      - {x: 287, y: -616}
+      - {x: 283, y: -612}
+      - {x: 276, y: -610}
+      - {x: 281, y: -606}
+      - {x: 283, y: -600}
+      - {x: 278, y: -598}
+      - {x: 274, y: -603}
+      - {x: 268, y: -591}
+      - {x: 261, y: -581}
+      - {x: 256, y: -586}
+      - {x: 249, y: -599}
+      - {x: 245, y: -600}
+      - {x: 244, y: -601}
+      - {x: 244, y: -602}
+      - {x: 242, y: -601}
+      - {x: 238, y: -600}
+      - {x: 234.97298, y: -599.3513}
+      - {x: 237, y: -598}
+      - {x: 237, y: -592}
+      - {x: 233, y: -592}
+      - {x: 229.47273, y: -598.1727}
+      - {x: 224, y: -597}
+      - {x: 216, y: -597}
+      - {x: 215, y: -598}
+      - {x: 215, y: -599}
+      - {x: 208, y: -601}
+      - {x: 204, y: -596}
+      - {x: 196, y: -593}
+      - {x: 185, y: -588}
+      - {x: 174, y: -571}
+      - {x: 164, y: -556}
+      - {x: 162, y: -556}
+      - {x: 161, y: -557}
+      - {x: 151, y: -571}
+      - {x: 145, y: -581}
+      - {x: 140, y: -592}
+      - {x: 132, y: -596}
+      - {x: 127, y: -601}
+      - {x: 123, y: -594}
+      - {x: 122, y: -593}
+      - {x: 114, y: -600}
+      - {x: 99, y: -602}
+      - {x: 87, y: -604}
+      - {x: 87, y: -607}
+      - {x: 92, y: -611}
+      - {x: 94, y: -615}
+      - {x: 91, y: -620}
+      - {x: 110, y: -623}
+      - {x: 115, y: -626}
+      - {x: 124, y: -627}
+      - {x: 130, y: -623}
+      - {x: 134, y: -629}
+      - {x: 141, y: -633}
+      - {x: 156, y: -637}
+      - {x: 169, y: -639}
+      - {x: 187, y: -638}
+      - {x: 199, y: -632}
+      - {x: 227, y: -636}
+      - {x: 214, y: -636}
+      - {x: 204, y: -640}
+      - {x: 203, y: -642}
+      - {x: 214, y: -643}
+      - {x: 226, y: -641}
+      - {x: 227, y: -646}
+      - {x: 231, y: -651}
+      - {x: 247, y: -654}
+      - {x: 273, y: -654}
+    - - {x: 115, y: -571}
+      - {x: 115, y: -567}
+      - {x: 112, y: -566}
+      - {x: 110, y: -566}
+      - {x: 110, y: -570}
+      - {x: 112, y: -572}
+      - {x: 114, y: -572}
+    - - {x: 430, y: -641}
+      - {x: 446, y: -643}
+      - {x: 448, y: -641}
+      - {x: 448, y: -640}
+      - {x: 457, y: -626}
+      - {x: 461, y: -613}
+      - {x: 461, y: -604}
+      - {x: 449, y: -594}
+      - {x: 440, y: -591}
+      - {x: 436, y: -582}
+      - {x: 427, y: -574}
+      - {x: 424, y: -574}
+      - {x: 416, y: -582}
+      - {x: 406, y: -574}
+      - {x: 395, y: -584}
+      - {x: 392, y: -582}
+      - {x: 387, y: -583}
+      - {x: 387, y: -587}
+      - {x: 393, y: -597}
+      - {x: 394, y: -604}
+      - {x: 400, y: -606}
+      - {x: 401, y: -606}
+      - {x: 402, y: -613}
+      - {x: 401, y: -626}
+      - {x: 413, y: -636}
+      - {x: 417, y: -643}
+      - {x: 424, y: -643}
+    - - {x: 674, y: -580}
+      - {x: 677, y: -579}
+      - {x: 676, y: -582}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapBossSpikes_0: 5278845044676674438
+      LavaMapBossSpikes_1: 3696951784137849691
+      LavaMapBossSpikes_10: 4656634034564268739
+      LavaMapBossSpikes_11: -4977819761011655694
+      LavaMapBossSpikes_12: 4754329254870358388
+      LavaMapBossSpikes_13: -4193412859815789521
+      LavaMapBossSpikes_14: 8063634309320712027
+      LavaMapBossSpikes_15: 7275165805506465435
+      LavaMapBossSpikes_16: 3096531211667399069
+      LavaMapBossSpikes_17: -4476382722498215549
+      LavaMapBossSpikes_18: 8809896410911552572
+      LavaMapBossSpikes_19: 7850782048737185030
+      LavaMapBossSpikes_2: -1235129466868395086
+      LavaMapBossSpikes_20: -7525160504027510068
+      LavaMapBossSpikes_21: 3721157591814886834
+      LavaMapBossSpikes_22: -301562990909037776
+      LavaMapBossSpikes_23: 7082422916275200878
+      LavaMapBossSpikes_24: 1512278086844732721
+      LavaMapBossSpikes_25: 4299567020062302270
+      LavaMapBossSpikes_26: 594223541335261266
+      LavaMapBossSpikes_27: -4112219351681246219
+      LavaMapBossSpikes_28: 8604508111149002793
+      LavaMapBossSpikes_29: -3160245136235513659
+      LavaMapBossSpikes_3: -6312522180776604103
+      LavaMapBossSpikes_30: 4672665995970012447
+      LavaMapBossSpikes_31: 6042944520418126126
+      LavaMapBossSpikes_32: -1989795612033409809
+      LavaMapBossSpikes_33: 681109592024738595
+      LavaMapBossSpikes_34: 6973222257263735398
+      LavaMapBossSpikes_4: 8946885260859074684
+      LavaMapBossSpikes_5: -686837952451782349
+      LavaMapBossSpikes_6: -5820635930238752348
+      LavaMapBossSpikes_7: 7892334182448107402
+      LavaMapBossSpikes_8: -6237307955023170352
+      LavaMapBossSpikes_9: 7384674088364715343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -16,6 +16,7 @@ public class Movement : MonoBehaviour
     public ContactFilter2D movementFilter;
     public float collisionOffset = 0.08f;
     private List<RaycastHit2D> castCollisions = new List<RaycastHit2D>();
+    private bool dontMove = false;
 
 
     // BEGONE!!! 
@@ -71,8 +72,13 @@ public class Movement : MonoBehaviour
             velocity.magnitude + collisionOffset //topSpeed * Time.fixedDeltaTime + collisionOffset
             );
         
-        if(count == 0) {return true;} // If you aren't colliding with anything, you're allowed to move.
-        else{return false;}
+        if(count != 0 || dontMove) {return false;}
+        else{return true;} // If you aren't colliding with anything, you're allowed to move.
+    }
+
+    public void setDontMove(bool dm)
+    {
+        dontMove = dm;
     }
 
     /* Detect a collion
