@@ -2,7 +2,8 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
-
+using FMODUnity;
+using FMOD.Studio;
 [RequireComponent(typeof(AudioSource))]
 public class AnimStatesBase : MonoBehaviour
 {
@@ -73,7 +74,9 @@ public class AnimStatesBase : MonoBehaviour
     [SerializeField] int hp;
     public bool dead = false;
 
+    private StudioEventEmitter movementEmitter;
 
+    protected EventInstance attackInstance;
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
@@ -93,6 +96,8 @@ public class AnimStatesBase : MonoBehaviour
         prevState = movStates.getState();
         lastKnownPosition = transform.position;
         lastKnownDir = Vector2.left;
+
+        movementEmitter = GetComponent<StudioEventEmitter>();
     }
 
     void Update()
@@ -124,6 +129,18 @@ public class AnimStatesBase : MonoBehaviour
 
         prevState = state;
         updateLastKnownVars();
+        bool isMoving = animator.GetCurrentAnimatorStateInfo(0).IsName(move.name);
+
+        if (!isMoving)
+        {
+            if (movementEmitter.IsPlaying())
+                movementEmitter.Stop();
+        }
+        else
+        {
+            if (!movementEmitter.IsPlaying())
+                movementEmitter.Play();
+        }
     }
 
     private void spawnCoins()
@@ -196,6 +213,7 @@ public class AnimStatesBase : MonoBehaviour
             playSound(sfx);
         }
 
+        
         return true;
     }
 
@@ -236,11 +254,11 @@ public class AnimStatesBase : MonoBehaviour
 
     public void dealDamage(int damageAmount)
     {
+        stopAttackSound(true);
         if (animator.GetCurrentAnimatorStateInfo(0).IsName(death.name) || damageCooldown != 0)
         {
             return;
         }
-
         AudioManager.instance.PlayOneShot(FMODEvents.instance.enemyGenericHit, this.transform.position);
 
         if (damageAmount >= hp)
@@ -248,9 +266,23 @@ public class AnimStatesBase : MonoBehaviour
             hp = 0;
             dead = true;
             setAnimation(death.name, true, "DeathSfx");
-            if (enemyType == "ember_ant" || enemyType == "ember_ant_leader")
-            {
-                AudioManager.instance.PlayOneShot(FMODEvents.instance.antDeath, this.transform.position);
+
+                switch (enemyType)
+                {
+                    case "ember_ant":
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.antDeath, this.transform.position);
+                        break;
+                    case "ember_ant_leader":
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.antDeath, this.transform.position);
+                        break;
+                    case "rattlebones":
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.snakeDeath, this.transform.position);
+                        break;
+                    case "bfg":
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.frogDeath, this.transform.position);
+                        break;
+                    default:
+                        break;
             }
         }
         else
@@ -273,6 +305,30 @@ public class AnimStatesBase : MonoBehaviour
         }
 
         Debug.LogError($"No atlas entry found for {sound}");
+    }
+
+    protected void playAttackSound(EventReference sound)
+    {
+
+        if (attackInstance.isValid())
+        {
+            attackInstance.stop(FMOD.Studio.STOP_MODE.IMMEDIATE);
+            attackInstance.release();
+        }
+
+        attackInstance = RuntimeManager.CreateInstance(sound);
+        attackInstance.set3DAttributes(RuntimeUtils.To3DAttributes(transform.position));
+        attackInstance.start();
+    }
+
+    protected void stopAttackSound(bool fade = false)
+    {
+        if (attackInstance.isValid())
+        {
+            attackInstance.stop(fade ? FMOD.Studio.STOP_MODE.ALLOWFADEOUT
+                                    : FMOD.Studio.STOP_MODE.IMMEDIATE);
+            attackInstance.release();
+        }
     }
 
 }

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6873423525517782206}
   - component: {fileID: 1910410992589053212}
   - component: {fileID: 5301294923072591669}
+  - component: {fileID: 7104129461021750261}
   m_Layer: 0
   m_Name: PhoenixSlash
   m_TagString: Untagged
@@ -107,7 +108,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PhoenixSlash
   slashAnim: {fileID: -6483063673624487681, guid: 9edcbb325fbb35c48946b7cc61b92577, type: 3}
-  startSprite: {fileID: 3879051990393607709, guid: 9edcbb325fbb35c48946b7cc61b92577, type: 3}
 --- !u!60 &1910410992589053212
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -203,3 +203,34 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7104129461021750261
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4062576520739372821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioEventEmitter
+  CollisionTag: 
+  EventReference:
+    Guid:
+      Data1: -924973389
+      Data2: 1278726127
+      Data3: -612150121
+      Data4: 1066636739
+    Path: event:/Phoenix Boss/PhoenixSlashLoop
+  Event: 
+  EventPlayTrigger: 1
+  EventStopTrigger: 2
+  AllowFadeout: 1
+  TriggerOnce: 0
+  Preload: 0
+  NonRigidbodyVelocity: 0
+  Params: []
+  OverrideAttenuation: 0
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
