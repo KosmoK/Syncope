@@ -77,7 +77,7 @@ public class AnimStatesBase : MonoBehaviour
     private StudioEventEmitter movementEmitter;
 
     protected EventInstance attackInstance;
-    void Start()
+    protected void Start()
     {
         agent = GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
