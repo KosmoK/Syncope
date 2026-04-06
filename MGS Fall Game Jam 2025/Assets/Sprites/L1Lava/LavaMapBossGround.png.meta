@@ -51,12 +51,12 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 10
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 0.05
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -108,7 +108,7 @@ TextureImporter:
         width: 1425
         height: 1317
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -123,10 +123,41 @@ TextureImporter:
       weights: []
     outline: []
     customData: 
-    physicsShape: []
+    physicsShape:
+    - - {x: 685, y: -773}
+      - {x: 803, y: -701}
+      - {x: 1002, y: -476}
+      - {x: 1055, y: -405}
+      - {x: 1061, y: -348}
+      - {x: 1063, y: -298}
+      - {x: 1063, y: -166}
+      - {x: 1031, y: 39}
+      - {x: 960, y: 204}
+      - {x: 883, y: 367}
+      - {x: 848, y: 433}
+      - {x: 782, y: 494}
+      - {x: 639, y: 528}
+      - {x: 277, y: 537}
+      - {x: 120, y: 537}
+      - {x: -8, y: 520}
+      - {x: -80, y: 494}
+      - {x: -178, y: 376}
+      - {x: -277, y: 268}
+      - {x: -355, y: 157}
+      - {x: -360, y: 112}
+      - {x: -360, y: -238}
+      - {x: -355, y: -280}
+      - {x: -334, y: -404}
+      - {x: -269, y: -495}
+      - {x: -191, y: -565}
+      - {x: -119, y: -688}
+      - {x: 20, y: -758}
+      - {x: 322, y: -769}
+      - {x: 472, y: -778}
+      - {x: 638, y: -778}
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []

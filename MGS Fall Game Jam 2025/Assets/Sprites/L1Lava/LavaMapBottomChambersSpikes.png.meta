@@ -204,12 +204,12 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 10
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 0.2
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -225,7 +225,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -261,7 +261,7 @@ TextureImporter:
         width: 71
         height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -283,7 +283,7 @@ TextureImporter:
         width: 29
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,7 +305,7 @@ TextureImporter:
         width: 44
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -327,7 +327,7 @@ TextureImporter:
         width: 49
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -349,7 +349,7 @@ TextureImporter:
         width: 28
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -371,7 +371,7 @@ TextureImporter:
         width: 7
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -393,7 +393,7 @@ TextureImporter:
         width: 71
         height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -415,7 +415,7 @@ TextureImporter:
         width: 108
         height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -437,7 +437,7 @@ TextureImporter:
         width: 71
         height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -459,7 +459,7 @@ TextureImporter:
         width: 29
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -481,7 +481,7 @@ TextureImporter:
         width: 44
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -503,7 +503,7 @@ TextureImporter:
         width: 13
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -525,7 +525,7 @@ TextureImporter:
         width: 49
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -547,7 +547,7 @@ TextureImporter:
         width: 28
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -569,7 +569,7 @@ TextureImporter:
         width: 7
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -591,7 +591,7 @@ TextureImporter:
         width: 71
         height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -613,7 +613,7 @@ TextureImporter:
         width: 29
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -635,7 +635,7 @@ TextureImporter:
         width: 44
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -657,7 +657,7 @@ TextureImporter:
         width: 33
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -679,7 +679,7 @@ TextureImporter:
         width: 74
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -701,7 +701,7 @@ TextureImporter:
         width: 12
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -723,7 +723,7 @@ TextureImporter:
         width: 33
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -745,7 +745,7 @@ TextureImporter:
         width: 33
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -767,7 +767,7 @@ TextureImporter:
         width: 49
         height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -789,7 +789,7 @@ TextureImporter:
         width: 28
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -811,7 +811,7 @@ TextureImporter:
         width: 7
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -833,7 +833,7 @@ TextureImporter:
         width: 90
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -855,7 +855,7 @@ TextureImporter:
         width: 55
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -877,7 +877,7 @@ TextureImporter:
         width: 133
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -899,7 +899,7 @@ TextureImporter:
         width: 49
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -921,7 +921,7 @@ TextureImporter:
         width: 28
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -943,7 +943,7 @@ TextureImporter:
         width: 7
         height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -965,7 +965,7 @@ TextureImporter:
         width: 11
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -987,7 +987,7 @@ TextureImporter:
         width: 44
         height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1009,7 +1009,7 @@ TextureImporter:
         width: 108
         height: 68
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1031,7 +1031,7 @@ TextureImporter:
         width: 13
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1053,7 +1053,7 @@ TextureImporter:
         width: 74
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1075,7 +1075,7 @@ TextureImporter:
         width: 12
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1097,7 +1097,7 @@ TextureImporter:
         width: 90
         height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1119,7 +1119,7 @@ TextureImporter:
         width: 55
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1141,7 +1141,7 @@ TextureImporter:
         width: 8
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1163,7 +1163,7 @@ TextureImporter:
         width: 29
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1185,7 +1185,7 @@ TextureImporter:
         width: 33
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1207,7 +1207,7 @@ TextureImporter:
         width: 74
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1229,7 +1229,7 @@ TextureImporter:
         width: 12
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1251,7 +1251,7 @@ TextureImporter:
         width: 11
         height: 6
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1273,7 +1273,7 @@ TextureImporter:
         width: 33
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1295,7 +1295,7 @@ TextureImporter:
         width: 33
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1317,7 +1317,7 @@ TextureImporter:
         width: 133
         height: 90
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1339,7 +1339,7 @@ TextureImporter:
         width: 71
         height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1361,7 +1361,7 @@ TextureImporter:
         width: 71
         height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1383,7 +1383,7 @@ TextureImporter:
         width: 8
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1398,10 +1398,609 @@ TextureImporter:
       weights: []
     outline: []
     customData: 
-    physicsShape: []
+    physicsShape:
+    - - {x: 333, y: -1896}
+      - {x: 340, y: -1897}
+      - {x: 351, y: -1888}
+      - {x: 352, y: -1879}
+      - {x: 351.4, y: -1878.1333}
+      - {x: 353, y: -1880}
+      - {x: 360, y: -1880}
+      - {x: 373, y: -1876}
+      - {x: 373, y: -1864}
+      - {x: 368, y: -1850}
+      - {x: 370, y: -1845}
+      - {x: 361, y: -1841}
+      - {x: 352, y: -1827}
+      - {x: 347, y: -1827}
+      - {x: 331, y: -1841}
+      - {x: 331, y: -1851}
+      - {x: 334, y: -1855}
+      - {x: 342, y: -1864}
+      - {x: 356, y: -1860}
+      - {x: 346, y: -1869}
+      - {x: 346.52173, y: -1871.0869}
+      - {x: 343, y: -1866}
+      - {x: 339, y: -1866}
+      - {x: 338, y: -1867}
+      - {x: 326, y: -1877}
+      - {x: 325, y: -1879}
+      - {x: 325, y: -1886}
+      - {x: 330, y: -1897}
+      - {x: 332, y: -1897}
+    - - {x: 289, y: -1926}
+      - {x: 302, y: -1923}
+      - {x: 315, y: -1910}
+      - {x: 315, y: -1890}
+      - {x: 301, y: -1876}
+      - {x: 288, y: -1860}
+      - {x: 280, y: -1846}
+      - {x: 278, y: -1846}
+      - {x: 275, y: -1851}
+      - {x: 264, y: -1893}
+      - {x: 246, y: -1909}
+      - {x: 246, y: -1913}
+      - {x: 259, y: -1926}
+      - {x: 270, y: -1924}
+      - {x: 264, y: -1927}
+      - {x: 264, y: -1928}
+      - {x: 272, y: -1928}
+    - - {x: 7, y: -2051}
+      - {x: 8, y: -2043}
+      - {x: 15, y: -2043}
+      - {x: 25, y: -2042}
+      - {x: 32, y: -2041}
+      - {x: 33, y: -2027}
+      - {x: 33, y: -2022}
+      - {x: 32, y: -2021}
+      - {x: 28, y: -2021}
+      - {x: 23, y: -2010}
+      - {x: 18, y: -2010}
+      - {x: 12, y: -2019}
+      - {x: 0, y: -2024}
+      - {x: -5, y: -2026}
+      - {x: -15, y: -2010}
+      - {x: -24, y: -2028}
+      - {x: -34, y: -2031}
+      - {x: -34, y: -2032}
+      - {x: -39, y: -2034}
+      - {x: -39, y: -2039}
+      - {x: -34, y: -2047}
+      - {x: -19, y: -2056}
+      - {x: -7, y: -2056}
+    - - {x: 870, y: -2144}
+      - {x: 883, y: -2141}
+      - {x: 896, y: -2127}
+      - {x: 896, y: -2107}
+      - {x: 882, y: -2093}
+      - {x: 869, y: -2077}
+      - {x: 861, y: -2063}
+      - {x: 859, y: -2063}
+      - {x: 856, y: -2068}
+      - {x: 845, y: -2110}
+      - {x: 827, y: -2126}
+      - {x: 827, y: -2130}
+      - {x: 840, y: -2143}
+      - {x: 851, y: -2141}
+      - {x: 845, y: -2144}
+      - {x: 845, y: -2145}
+      - {x: 853, y: -2145}
+    - - {x: 1386, y: -2164}
+      - {x: 1399, y: -2161}
+      - {x: 1412, y: -2147}
+      - {x: 1412, y: -2127}
+      - {x: 1398, y: -2113}
+      - {x: 1385, y: -2097}
+      - {x: 1377, y: -2083}
+      - {x: 1375, y: -2083}
+      - {x: 1372, y: -2088}
+      - {x: 1361, y: -2130}
+      - {x: 1343, y: -2146}
+      - {x: 1343, y: -2150}
+      - {x: 1356, y: -2163}
+      - {x: 1367, y: -2161}
+      - {x: 1361, y: -2164}
+      - {x: 1361, y: -2165}
+      - {x: 1369, y: -2165}
+    - - {x: 1456, y: -2154}
+      - {x: 1463, y: -2155}
+      - {x: 1474, y: -2146}
+      - {x: 1474.8986, y: -2137.913}
+      - {x: 1475, y: -2138}
+      - {x: 1483, y: -2138}
+      - {x: 1496, y: -2133}
+      - {x: 1496, y: -2126}
+      - {x: 1495, y: -2102}
+      - {x: 1474, y: -2085}
+      - {x: 1469, y: -2085}
+      - {x: 1457, y: -2098}
+      - {x: 1454, y: -2101}
+      - {x: 1454, y: -2107}
+      - {x: 1457, y: -2113}
+      - {x: 1465, y: -2122}
+      - {x: 1482, y: -2114}
+      - {x: 1473, y: -2121}
+      - {x: 1469.9718, y: -2127.6619}
+      - {x: 1468, y: -2124}
+      - {x: 1460, y: -2124}
+      - {x: 1449, y: -2135}
+      - {x: 1448, y: -2137}
+      - {x: 1448, y: -2144}
+      - {x: 1453, y: -2155}
+      - {x: 1455, y: -2155}
+    - - {x: 965, y: -2176}
+      - {x: 985, y: -2169}
+      - {x: 1004, y: -2155}
+      - {x: 1004, y: -2141}
+      - {x: 999, y: -2134}
+      - {x: 980, y: -2126}
+      - {x: 968, y: -2133}
+      - {x: 959, y: -2135}
+      - {x: 952, y: -2120}
+      - {x: 947, y: -2116}
+      - {x: 945, y: -2116}
+      - {x: 934, y: -2135}
+      - {x: 926, y: -2134}
+      - {x: 923, y: -2141}
+      - {x: 915, y: -2133}
+      - {x: 897, y: -2151}
+      - {x: 897, y: -2155}
+      - {x: 901, y: -2162}
+      - {x: 915, y: -2170}
+      - {x: 919, y: -2170}
+      - {x: 935, y: -2181}
+      - {x: 945, y: -2182}
+      - {x: 955, y: -2182}
+    - - {x: 1094, y: -2261}
+      - {x: 1095, y: -2253}
+      - {x: 1102, y: -2253}
+      - {x: 1112, y: -2252}
+      - {x: 1119, y: -2251}
+      - {x: 1120, y: -2246}
+      - {x: 1120, y: -2230}
+      - {x: 1115, y: -2230}
+      - {x: 1111, y: -2222}
+      - {x: 1109, y: -2220}
+      - {x: 1107, y: -2220}
+      - {x: 1099, y: -2229}
+      - {x: 1087, y: -2234}
+      - {x: 1082, y: -2236}
+      - {x: 1072, y: -2220}
+      - {x: 1067, y: -2232}
+      - {x: 1058, y: -2241}
+      - {x: 1051, y: -2240}
+      - {x: 1048, y: -2243}
+      - {x: 1048, y: -2249}
+      - {x: 1053, y: -2257}
+      - {x: 1067, y: -2266}
+      - {x: 1080, y: -2266}
+    - - {x: 372, y: -2334}
+      - {x: 379, y: -2335}
+      - {x: 390, y: -2326}
+      - {x: 390.89856, y: -2317.913}
+      - {x: 391, y: -2318}
+      - {x: 399, y: -2318}
+      - {x: 412, y: -2313}
+      - {x: 412, y: -2306}
+      - {x: 411, y: -2282}
+      - {x: 390, y: -2265}
+      - {x: 385, y: -2265}
+      - {x: 373, y: -2278}
+      - {x: 370, y: -2281}
+      - {x: 370, y: -2287}
+      - {x: 373, y: -2293}
+      - {x: 381, y: -2302}
+      - {x: 398, y: -2294}
+      - {x: 389, y: -2301}
+      - {x: 385.97183, y: -2307.6619}
+      - {x: 384, y: -2304}
+      - {x: 376, y: -2304}
+      - {x: 365, y: -2315}
+      - {x: 364, y: -2317}
+      - {x: 364, y: -2324}
+      - {x: 369, y: -2335}
+      - {x: 371, y: -2335}
+    - - {x: -263, y: -2361}
+      - {x: -250, y: -2358}
+      - {x: -237, y: -2344}
+      - {x: -237, y: -2324}
+      - {x: -251, y: -2310}
+      - {x: -262, y: -2293}
+      - {x: -272, y: -2280}
+      - {x: -275, y: -2280}
+      - {x: -277, y: -2285}
+      - {x: -288, y: -2327}
+      - {x: -306, y: -2343}
+      - {x: -306, y: -2347}
+      - {x: -296, y: -2358}
+      - {x: -290, y: -2360}
+      - {x: -282, y: -2357}
+      - {x: -288, y: -2361}
+      - {x: -288, y: -2362}
+      - {x: -280, y: -2362}
+    - - {x: 571, y: -2321}
+      - {x: 562, y: -2310}
+      - {x: 549, y: -2310}
+      - {x: 540, y: -2321}
+      - {x: 540, y: -2331}
+      - {x: 547, y: -2333}
+      - {x: 571, y: -2333}
+    - - {x: -202, y: -2416}
+      - {x: -186, y: -2418}
+      - {x: -184, y: -2416}
+      - {x: -175, y: -2401}
+      - {x: -171, y: -2388}
+      - {x: -171, y: -2379}
+      - {x: -183, y: -2369}
+      - {x: -196, y: -2357}
+      - {x: -205, y: -2349}
+      - {x: -208, y: -2349}
+      - {x: -216, y: -2357}
+      - {x: -226, y: -2349}
+      - {x: -237, y: -2357}
+      - {x: -245, y: -2357}
+      - {x: -245, y: -2362}
+      - {x: -244, y: -2363}
+      - {x: -237, y: -2377}
+      - {x: -232, y: -2381}
+      - {x: -231, y: -2381}
+      - {x: -231, y: -2399}
+      - {x: -220, y: -2411}
+      - {x: -216, y: -2418}
+      - {x: -208, y: -2418}
+    - - {x: 1256, y: -2370}
+      - {x: 1247, y: -2359}
+      - {x: 1234, y: -2359}
+      - {x: 1225, y: -2370}
+      - {x: 1225, y: -2380}
+      - {x: 1232, y: -2382}
+      - {x: 1256, y: -2382}
+    - - {x: 1640, y: -2394}
+      - {x: 1631, y: -2383}
+      - {x: 1618, y: -2383}
+      - {x: 1609, y: -2394}
+      - {x: 1609, y: -2404}
+      - {x: 1616, y: -2406}
+      - {x: 1640, y: -2406}
+    - - {x: 248, y: -2461}
+      - {x: 248, y: -2456}
+      - {x: 247, y: -2455}
+      - {x: 244, y: -2448}
+      - {x: 237, y: -2442}
+      - {x: 223, y: -2419}
+      - {x: 219, y: -2419}
+      - {x: 209, y: -2433}
+      - {x: 195, y: -2439}
+      - {x: 195, y: -2449}
+      - {x: 198, y: -2457}
+      - {x: 222, y: -2464}
+      - {x: 243, y: -2464}
+    - - {x: -510, y: -2482}
+      - {x: -509, y: -2474}
+      - {x: -502, y: -2474}
+      - {x: -492, y: -2473}
+      - {x: -485, y: -2472}
+      - {x: -484, y: -2458}
+      - {x: -484, y: -2453}
+      - {x: -485, y: -2452}
+      - {x: -489, y: -2452}
+      - {x: -494, y: -2441}
+      - {x: -499, y: -2441}
+      - {x: -505, y: -2450}
+      - {x: -517, y: -2455}
+      - {x: -522, y: -2457}
+      - {x: -532, y: -2441}
+      - {x: -541, y: -2459}
+      - {x: -551, y: -2462}
+      - {x: -551, y: -2463}
+      - {x: -556, y: -2465}
+      - {x: -556, y: -2470}
+      - {x: -551, y: -2478}
+      - {x: -536, y: -2487}
+      - {x: -524, y: -2487}
+    - - {x: 223, y: -2494}
+      - {x: 239, y: -2494}
+      - {x: 242, y: -2492}
+      - {x: 242, y: -2473}
+      - {x: 224, y: -2472}
+      - {x: 218, y: -2464}
+      - {x: 208, y: -2467}
+      - {x: 196, y: -2462}
+      - {x: 190, y: -2458}
+      - {x: 181, y: -2443}
+      - {x: 180, y: -2443}
+      - {x: 178, y: -2444}
+      - {x: 173, y: -2454}
+      - {x: 166, y: -2466}
+      - {x: 155, y: -2464}
+      - {x: 153, y: -2469}
+      - {x: 153, y: -2477}
+      - {x: 158, y: -2490}
+      - {x: 167, y: -2492}
+      - {x: 187, y: -2493}
+      - {x: 195, y: -2495}
+      - {x: 198, y: -2493}
+      - {x: 211, y: -2495}
+      - {x: 223, y: -2495}
+    - - {x: -1, y: -2510}
+      - {x: 0, y: -2501}
+      - {x: 7, y: -2501}
+      - {x: 17, y: -2500}
+      - {x: 24, y: -2499}
+      - {x: 25, y: -2485}
+      - {x: 25, y: -2480}
+      - {x: 24, y: -2479}
+      - {x: 19, y: -2482}
+      - {x: 16, y: -2470}
+      - {x: 14, y: -2468}
+      - {x: 12, y: -2468}
+      - {x: 4, y: -2477}
+      - {x: -8, y: -2482}
+      - {x: -13, y: -2484}
+      - {x: -23, y: -2468}
+      - {x: -32, y: -2486}
+      - {x: -42, y: -2489}
+      - {x: -42, y: -2490}
+      - {x: -47, y: -2492}
+      - {x: -47, y: -2497}
+      - {x: -42, y: -2505}
+      - {x: -29, y: -2514}
+      - {x: -16, y: -2514}
+    - - {x: -464, y: -2562}
+      - {x: -450, y: -2560}
+      - {x: -441, y: -2566}
+      - {x: -435, y: -2561}
+      - {x: -422, y: -2546}
+      - {x: -422, y: -2532}
+      - {x: -429, y: -2525}
+      - {x: -443, y: -2519}
+      - {x: -451, y: -2512}
+      - {x: -465, y: -2487}
+      - {x: -468, y: -2478}
+      - {x: -470, y: -2478}
+      - {x: -474, y: -2481}
+      - {x: -481, y: -2494}
+      - {x: -497, y: -2509}
+      - {x: -504, y: -2499}
+      - {x: -509, y: -2487}
+      - {x: -518, y: -2492}
+      - {x: -546, y: -2508}
+      - {x: -546, y: -2522}
+      - {x: -541, y: -2527}
+      - {x: -520, y: -2529}
+      - {x: -513, y: -2536}
+      - {x: -507, y: -2551}
+      - {x: -500, y: -2558}
+      - {x: -500, y: -2567}
+      - {x: -471, y: -2567}
+    - - {x: -309, y: -2577}
+      - {x: -285, y: -2569}
+      - {x: -266, y: -2555}
+      - {x: -266, y: -2541}
+      - {x: -270, y: -2534}
+      - {x: -279, y: -2533}
+      - {x: -290, y: -2526}
+      - {x: -311, y: -2535}
+      - {x: -318, y: -2520}
+      - {x: -323, y: -2516}
+      - {x: -325, y: -2516}
+      - {x: -336, y: -2535}
+      - {x: -344, y: -2534}
+      - {x: -347, y: -2541}
+      - {x: -352, y: -2531}
+      - {x: -373, y: -2548}
+      - {x: -373, y: -2554}
+      - {x: -368, y: -2561}
+      - {x: -360, y: -2568}
+      - {x: -351, y: -2570}
+      - {x: -335, y: -2581}
+      - {x: -322, y: -2582}
+      - {x: -315, y: -2582}
+    - - {x: 308, y: -2585}
+      - {x: 324, y: -2587}
+      - {x: 326, y: -2585}
+      - {x: 335, y: -2570}
+      - {x: 339, y: -2557}
+      - {x: 339, y: -2548}
+      - {x: 327, y: -2537}
+      - {x: 319, y: -2533}
+      - {x: 307, y: -2518}
+      - {x: 302, y: -2518}
+      - {x: 294, y: -2526}
+      - {x: 284, y: -2518}
+      - {x: 270, y: -2526}
+      - {x: 265, y: -2527}
+      - {x: 265, y: -2532}
+      - {x: 272, y: -2548}
+      - {x: 278, y: -2550}
+      - {x: 279, y: -2550}
+      - {x: 279, y: -2570}
+      - {x: 294, y: -2587}
+      - {x: 302, y: -2587}
+    - - {x: 1678, y: -2574}
+      - {x: 1678, y: -2568}
+      - {x: 1674, y: -2561}
+      - {x: 1663, y: -2550}
+      - {x: 1652, y: -2532}
+      - {x: 1650, y: -2532}
+      - {x: 1649, y: -2533}
+      - {x: 1640, y: -2547}
+      - {x: 1625, y: -2552}
+      - {x: 1625, y: -2562}
+      - {x: 1628, y: -2570}
+      - {x: 1652, y: -2577}
+      - {x: 1673, y: -2577}
+    - - {x: -415, y: -2543}
+      - {x: -415, y: -2541}
+      - {x: -417, y: -2539}
+      - {x: -419, y: -2538}
+      - {x: -420, y: -2538}
+      - {x: -420, y: -2542}
+      - {x: -418, y: -2544}
+      - {x: -416, y: -2544}
+    - - {x: -435, y: -2622}
+      - {x: -428, y: -2623}
+      - {x: -417, y: -2614}
+      - {x: -416.1111, y: -2606}
+      - {x: -398, y: -2606}
+      - {x: -395, y: -2599}
+      - {x: -395, y: -2584}
+      - {x: -398, y: -2571}
+      - {x: -406, y: -2566}
+      - {x: -417, y: -2553}
+      - {x: -424, y: -2553}
+      - {x: -435, y: -2564}
+      - {x: -437, y: -2567}
+      - {x: -437, y: -2575}
+      - {x: -434, y: -2581}
+      - {x: -426, y: -2590}
+      - {x: -412, y: -2586}
+      - {x: -422.47168, y: -2592.9812}
+      - {x: -423, y: -2592}
+      - {x: -431, y: -2592}
+      - {x: -442, y: -2603}
+      - {x: -443, y: -2605}
+      - {x: -443, y: -2612}
+      - {x: -438, y: -2623}
+      - {x: -436, y: -2623}
+    - - {x: 1653, y: -2607}
+      - {x: 1669, y: -2607}
+      - {x: 1672, y: -2605}
+      - {x: 1672, y: -2588}
+      - {x: 1671, y: -2588}
+      - {x: 1660, y: -2586}
+      - {x: 1648, y: -2577}
+      - {x: 1638, y: -2580}
+      - {x: 1626, y: -2575}
+      - {x: 1611, y: -2556}
+      - {x: 1610, y: -2556}
+      - {x: 1608, y: -2557}
+      - {x: 1603, y: -2567}
+      - {x: 1596, y: -2579}
+      - {x: 1585, y: -2577}
+      - {x: 1583, y: -2582}
+      - {x: 1583, y: -2590}
+      - {x: 1588, y: -2603}
+      - {x: 1597, y: -2605}
+      - {x: 1625, y: -2608}
+      - {x: 1628, y: -2606}
+      - {x: 1641, y: -2608}
+      - {x: 1653, y: -2608}
+    - - {x: 1460, y: -2650}
+      - {x: 1476, y: -2652}
+      - {x: 1478, y: -2650}
+      - {x: 1487, y: -2635}
+      - {x: 1491, y: -2622}
+      - {x: 1491, y: -2613}
+      - {x: 1479, y: -2602}
+      - {x: 1471, y: -2598}
+      - {x: 1459, y: -2583}
+      - {x: 1454, y: -2583}
+      - {x: 1446, y: -2591}
+      - {x: 1436, y: -2583}
+      - {x: 1422, y: -2591}
+      - {x: 1417, y: -2592}
+      - {x: 1417, y: -2597}
+      - {x: 1424, y: -2613}
+      - {x: 1430, y: -2615}
+      - {x: 1431, y: -2615}
+      - {x: 1431, y: -2635}
+      - {x: 1446, y: -2652}
+      - {x: 1454, y: -2652}
+    - - {x: -339, y: -2622}
+      - {x: -351, y: -2607}
+      - {x: -359, y: -2607}
+      - {x: -370, y: -2618}
+      - {x: -370, y: -2627}
+      - {x: -361, y: -2630}
+      - {x: -339, y: -2630}
+    - - {x: 1106, y: -2671}
+      - {x: 1096, y: -2659}
+      - {x: 1084, y: -2659}
+      - {x: 1075, y: -2670}
+      - {x: 1075, y: -2679}
+      - {x: 1085, y: -2682}
+      - {x: 1106, y: -2682}
+    - - {x: 1586, y: -2781}
+      - {x: 1599, y: -2778}
+      - {x: 1612, y: -2764}
+      - {x: 1612, y: -2744}
+      - {x: 1598, y: -2730}
+      - {x: 1585, y: -2714}
+      - {x: 1577, y: -2700}
+      - {x: 1575, y: -2700}
+      - {x: 1572, y: -2705}
+      - {x: 1561, y: -2747}
+      - {x: 1543, y: -2763}
+      - {x: 1543, y: -2767}
+      - {x: 1556, y: -2780}
+      - {x: 1567, y: -2778}
+      - {x: 1561, y: -2781}
+      - {x: 1561, y: -2782}
+      - {x: 1569, y: -2782}
+    - - {x: 1234, y: -2833}
+      - {x: 1247, y: -2830}
+      - {x: 1260, y: -2816}
+      - {x: 1260, y: -2796}
+      - {x: 1246, y: -2782}
+      - {x: 1233, y: -2766}
+      - {x: 1225, y: -2752}
+      - {x: 1223, y: -2752}
+      - {x: 1220, y: -2757}
+      - {x: 1209, y: -2799}
+      - {x: 1191, y: -2815}
+      - {x: 1191, y: -2819}
+      - {x: 1204, y: -2832}
+      - {x: 1215, y: -2830}
+      - {x: 1209, y: -2833}
+      - {x: 1209, y: -2834}
+      - {x: 1217, y: -2834}
+    - - {x: 1099, y: -2844}
+      - {x: 1099, y: -2839}
+      - {x: 1127, y: -2843}
+      - {x: 1132, y: -2832}
+      - {x: 1142, y: -2825}
+      - {x: 1142, y: -2810}
+      - {x: 1128, y: -2799}
+      - {x: 1116, y: -2795}
+      - {x: 1105, y: -2774}
+      - {x: 1096, y: -2757}
+      - {x: 1095, y: -2756}
+      - {x: 1093, y: -2756}
+      - {x: 1088, y: -2763}
+      - {x: 1078, y: -2782}
+      - {x: 1067, y: -2787}
+      - {x: 1060, y: -2777}
+      - {x: 1055, y: -2765}
+      - {x: 1046, y: -2770}
+      - {x: 1022, y: -2784}
+      - {x: 1018, y: -2786}
+      - {x: 1018, y: -2800}
+      - {x: 1044, y: -2807}
+      - {x: 1051, y: -2814}
+      - {x: 1057, y: -2829}
+      - {x: 1064, y: -2836}
+      - {x: 1068, y: -2843}
+      - {x: 1073, y: -2845}
+      - {x: 1083, y: -2845}
+    - - {x: -25, y: -2776}
+      - {x: -37, y: -2761}
+      - {x: -45, y: -2761}
+      - {x: -56, y: -2772}
+      - {x: -56, y: -2781}
+      - {x: -47, y: -2784}
+      - {x: -25, y: -2784}
+    - - {x: 1149, y: -2821}
+      - {x: 1149, y: -2819}
+      - {x: 1148, y: -2819}
+      - {x: 1145, y: -2816}
+      - {x: 1144, y: -2816}
+      - {x: 1144, y: -2820}
+      - {x: 1146, y: -2822}
+      - {x: 1148, y: -2822}
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []

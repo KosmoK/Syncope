@@ -9,10 +9,19 @@ public class IcyBreath : MonoBehaviour
     [SerializeField] float lingerDuration;
     [SerializeField] float slowDuration;
 
+    void Start()
+    {
+        if (p1)
+        {
+            GameObject.FindGameObjectWithTag("Player").GetComponent<Movement>().setDontMove(true);
+        }
+    }
+
     void OnDestroy()
     {
         if (p1)
         {
+            GameObject.FindGameObjectWithTag("Player").GetComponent<Movement>().setDontMove(false);
             GameObject g = Instantiate(p1Prefab);
             g.transform.position = transform.position;
             if (transform.lossyScale.x < 0)

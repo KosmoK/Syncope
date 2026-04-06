@@ -51,12 +51,12 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 20
+  spritePixelsToUnits: 10
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 0.1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -108,7 +108,7 @@ TextureImporter:
         width: 751
         height: 1061
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -123,10 +123,63 @@ TextureImporter:
       weights: []
     outline: []
     customData: 
-    physicsShape: []
+    physicsShape:
+    - - {x: 1552, y: -629}
+      - {x: 1569, y: -603}
+      - {x: 1589, y: -561}
+      - {x: 1610, y: -556}
+      - {x: 1639, y: -525}
+      - {x: 1667, y: -538}
+      - {x: 1710, y: -513}
+      - {x: 1704, y: -505}
+      - {x: 1781, y: -507}
+      - {x: 2000, y: -507}
+      - {x: 2000, y: 232}
+      - {x: 1996, y: 235}
+      - {x: 1851, y: 236}
+      - {x: 1767, y: 234}
+      - {x: 1592, y: 240}
+      - {x: 1583, y: 258}
+      - {x: 1507, y: 334}
+      - {x: 1531, y: 408}
+      - {x: 1509, y: 410}
+      - {x: 1351, y: 410}
+      - {x: 1319, y: 408}
+      - {x: 1306, y: 403}
+      - {x: 1307, y: 402}
+      - {x: 1276, y: 338}
+      - {x: 1277, y: 299}
+      - {x: 1313, y: 266}
+      - {x: 1312, y: 245}
+      - {x: 1330, y: 225}
+      - {x: 1356, y: 69}
+      - {x: 1345, y: 70}
+      - {x: 1318, y: 43}
+      - {x: 1337, y: 7}
+      - {x: 1321, y: -92}
+      - {x: 1324, y: -197}
+      - {x: 1332, y: -209}
+      - {x: 1338, y: -246}
+      - {x: 1330, y: -284}
+      - {x: 1337, y: -299}
+      - {x: 1337, y: -373}
+      - {x: 1322, y: -381}
+      - {x: 1307, y: -393}
+      - {x: 1260, y: -487}
+      - {x: 1250, y: -496}
+      - {x: 1250, y: -509}
+      - {x: 1259, y: -524}
+      - {x: 1290, y: -549}
+      - {x: 1315, y: -569}
+      - {x: 1384, y: -587}
+      - {x: 1405, y: -605}
+      - {x: 1451, y: -612}
+      - {x: 1477, y: -637}
+      - {x: 1518, y: -649}
+      - {x: 1526, y: -649}
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
