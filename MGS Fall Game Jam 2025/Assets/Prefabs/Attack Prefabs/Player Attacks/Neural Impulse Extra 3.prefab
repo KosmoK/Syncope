@@ -939,6 +939,10 @@ MonoBehaviour:
   damageClip: {fileID: -627762734664329010, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
   frames: 5
   damage: 3
+  shakeFrame: 5
+  shakeDuration: 0.2
+  shakeIntensity: 9
+  shakeFrequency: 4
 --- !u!50 &5100962502568907285
 Rigidbody2D:
   serializedVersion: 5

@@ -148,6 +148,10 @@ MonoBehaviour:
   damageClip: {fileID: -1229477869644370370, guid: 4c47f98edf94da4478a158b10c22add7, type: 3}
   frames: 7
   damage: 3
+  shakeFrame: -1
+  shakeDuration: 0
+  shakeIntensity: 0
+  shakeFrequency: 0
 --- !u!50 &1321142269438196659
 Rigidbody2D:
   serializedVersion: 5
@@ -192,6 +196,7 @@ MonoBehaviour:
   p1Prefab: {fileID: 1811954384341548753, guid: ed308fa8af464ca4ea2677902586915c, type: 3}
   p2Prefab: {fileID: 0}
   lingerDuration: 5
+  slowDuration: 0
 --- !u!1 &2765200077229283219
 GameObject:
   m_ObjectHideFlags: 0
@@ -897,7 +902,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -4943234737716907926, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
+  m_Sprite: {fileID: -554212447768684956, guid: 4c47f98edf94da4478a158b10c22add7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_FlipX: 0
   m_FlipY: 0

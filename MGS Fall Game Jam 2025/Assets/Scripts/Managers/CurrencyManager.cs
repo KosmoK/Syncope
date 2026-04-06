@@ -14,4 +14,21 @@ public class CurrencyManager : MonoBehaviour
     {
         currency += amount;
     }
+
+    public int getMoney()
+    {
+        return currency;
+    }
+
+    public bool deductMoney(int amount)
+    {
+        if (currency-amount < 0)
+        {
+            return false;
+        } else
+        {
+            currency -= amount;
+            return true;
+        }
+    }
 }

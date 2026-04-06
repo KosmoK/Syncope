@@ -45,7 +45,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] GameObject attack1Prefab;
     [SerializeField] GameObject attack2Prefab;
     [SerializeField] List<AnimationClip> extraAttacks;
-    [SerializeField] int currExtra = 1;
+    [SerializeField] int currExtra = -1;
     private bool queueFirstAttack;
     private bool queueSecondAttack;
     private bool queueExtraAttack;
@@ -134,7 +134,7 @@ public class PlayerMovement : MonoBehaviour
             }
         }
 
-        if (extraAttackAction.WasPressedThisFrame() && !animator.GetCurrentAnimatorStateInfo(0).IsName(dash.name))
+        if (currExtra >= 0 && extraAttackAction.WasPressedThisFrame() && !animator.GetCurrentAnimatorStateInfo(0).IsName(dash.name))
         {
             queueExtraAttack = true;
         }
@@ -189,7 +189,7 @@ public class PlayerMovement : MonoBehaviour
             return true;
         }
         if ((animator.GetCurrentAnimatorStateInfo(0).IsName(attack1Anim.name) || animator.GetCurrentAnimatorStateInfo(0).IsName(attack2Anim.name) || 
-            animator.GetCurrentAnimatorStateInfo(0).IsName(extraAttacks[currExtra].name)) && animTime < 0.95)
+            ((currExtra != -1) ? animator.GetCurrentAnimatorStateInfo(0).IsName(extraAttacks[currExtra].name) : false)) && animTime < 0.95)
         {
             return true;
         }
