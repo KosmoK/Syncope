@@ -1,0 +1,1252 @@
+fileFormatVersion: 2
+guid: 994220d7ad12ff34c96e77c514c3e2cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8951376551399421621
+    second: IceMapRightIceSpikes_0
+  - first:
+      213: 729502022180993391
+    second: IceMapRightIceSpikes_1
+  - first:
+      213: 4140077318536966691
+    second: IceMapRightIceSpikes_2
+  - first:
+      213: -8401706413150618
+    second: IceMapRightIceSpikes_3
+  - first:
+      213: -1378017848234356909
+    second: IceMapRightIceSpikes_4
+  - first:
+      213: -5030240926375738864
+    second: IceMapRightIceSpikes_5
+  - first:
+      213: 3009030744962629056
+    second: IceMapRightIceSpikes_6
+  - first:
+      213: 4676388267175943592
+    second: IceMapRightIceSpikes_7
+  - first:
+      213: 8807631218044902957
+    second: IceMapRightIceSpikes_8
+  - first:
+      213: -7779597577175658929
+    second: IceMapRightIceSpikes_9
+  - first:
+      213: 6532100596847594354
+    second: IceMapRightIceSpikes_10
+  - first:
+      213: -1791778273848654677
+    second: IceMapRightIceSpikes_11
+  - first:
+      213: 6961640123970609848
+    second: IceMapRightIceSpikes_12
+  - first:
+      213: 4366387416385455628
+    second: IceMapRightIceSpikes_13
+  - first:
+      213: -6020793983990920667
+    second: IceMapRightIceSpikes_14
+  - first:
+      213: -940663395088345656
+    second: IceMapRightIceSpikes_15
+  - first:
+      213: 5921727335629878761
+    second: IceMapRightIceSpikes_16
+  - first:
+      213: 1592627364485491116
+    second: IceMapRightIceSpikes_17
+  - first:
+      213: 2975347386797438892
+    second: IceMapRightIceSpikes_18
+  - first:
+      213: 9053743834084344570
+    second: IceMapRightIceSpikes_19
+  - first:
+      213: -8619291591286918639
+    second: IceMapRightIceSpikes_20
+  - first:
+      213: -2210013236932664315
+    second: IceMapRightIceSpikes_21
+  - first:
+      213: -4111449069758649969
+    second: IceMapRightIceSpikes_22
+  - first:
+      213: -8934164382824471641
+    second: IceMapRightIceSpikes_23
+  - first:
+      213: 7417364935592494014
+    second: IceMapRightIceSpikes_24
+  - first:
+      213: 9217757174170084876
+    second: IceMapRightIceSpikes_25
+  - first:
+      213: 6772247026828320294
+    second: IceMapRightIceSpikes_26
+  - first:
+      213: 7030626073402370986
+    second: IceMapRightIceSpikes_27
+  - first:
+      213: 358814095930691720
+    second: IceMapRightIceSpikes_28
+  - first:
+      213: 9210350686093751460
+    second: IceMapRightIceSpikes_29
+  - first:
+      213: 8316364773376263038
+    second: IceMapRightIceSpikes_30
+  - first:
+      213: -8859726312867995421
+    second: IceMapRightIceSpikes_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.275
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_0
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 3603
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b67cec0c8da93c70800000000000000
+      internalID: 8951376551399421621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_1
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 3608
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69f60f5936bf1a00800000000000000
+      internalID: 729502022180993391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_2
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 3059
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3223c0ad262847930800000000000000
+      internalID: 4140077318536966691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_3
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 3085
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eacb941b622eff0800000000000000
+      internalID: -8401706413150618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_4
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 3062
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fc7dd611c40ece0800000000000000
+      internalID: -1378017848234356909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_5
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3028
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0120eb0678ef03ab0800000000000000
+      internalID: -5030240926375738864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_6
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 2907
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdf9bf158932c920800000000000000
+      internalID: 3009030744962629056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_7
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 2914
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad93d83a5ed5e040800000000000000
+      internalID: 4676388267175943592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_8
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 2817
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e15309dedfa3a70800000000000000
+      internalID: 8807631218044902957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_9
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 2851
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e84fcb831590490800000000000000
+      internalID: -7779597577175658929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_10
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 2850
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bc73062eea6aa50800000000000000
+      internalID: 6532100596847594354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_11
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2825
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba40df637235227e0800000000000000
+      internalID: -1791778273848654677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_12
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 2829
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2ef53fec6bc9060800000000000000
+      internalID: 6961640123970609848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_13
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 2827
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0604699836889c30800000000000000
+      internalID: 4366387416385455628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_14
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 2756
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a896665c7d17ca0800000000000000
+      internalID: -6020793983990920667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_15
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 2732
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5db8240a712f2f0800000000000000
+      internalID: -940663395088345656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_16
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 2774
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e570f813a33e2250800000000000000
+      internalID: 5921727335629878761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_17
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2593
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca969bf56262a1610800000000000000
+      internalID: 1592627364485491116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_18
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 2577
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7b2792fae8a4920800000000000000
+      internalID: 2975347386797438892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_19
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 2606
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af20bfd5c0c55ad70800000000000000
+      internalID: 9053743834084344570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_20
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2605
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112f4d5f6ff126880800000000000000
+      internalID: -8619291591286918639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_21
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 2607
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504a7bf8ba47451e0800000000000000
+      internalID: -2210013236932664315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_22
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 2614
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89ececbad231f6c0800000000000000
+      internalID: -4111449069758649969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_23
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 2560
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3eccc34d8730480800000000000000
+      internalID: -8934164382824471641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_24
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 2583
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3cd6b2c16cfe660800000000000000
+      internalID: 7417364935592494014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_25
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2490
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066738ef4d0cef70800000000000000
+      internalID: 9217757174170084876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_26
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 2495
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e1c4d3acadbfd50800000000000000
+      internalID: 6772247026828320294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_27
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 2484
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab6fb5f92dc19160800000000000000
+      internalID: 7030626073402370986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_28
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2460
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8801a58e483caf400800000000000000
+      internalID: 358814095930691720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_29
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 2435
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4b465862db1df70800000000000000
+      internalID: 9210350686093751460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_30
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 2443
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e730aab03b9a96370800000000000000
+      internalID: 8316364773376263038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightIceSpikes_31
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 2442
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0625afbddeb0580800000000000000
+      internalID: -8859726312867995421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: 802, y: 611}
+      - {x: 802, y: 626}
+      - {x: 800, y: 635}
+      - {x: 798, y: 639}
+      - {x: 793, y: 639}
+      - {x: 784, y: 633}
+      - {x: 780, y: 620}
+      - {x: 780, y: 614}
+      - {x: 785, y: 609}
+      - {x: 797, y: 609}
+    - - {x: 778, y: 606}
+      - {x: 778, y: 624}
+      - {x: 777, y: 630}
+      - {x: 774, y: 632}
+      - {x: 772, y: 632}
+      - {x: 760, y: 617}
+      - {x: 760, y: 608}
+      - {x: 762, y: 604}
+      - {x: 773, y: 604}
+    - - {x: 845, y: 97}
+      - {x: 845, y: 112}
+      - {x: 835, y: 137}
+      - {x: 830, y: 137}
+      - {x: 828, y: 136}
+      - {x: 818, y: 106}
+      - {x: 818, y: 98}
+      - {x: 826, y: 86}
+      - {x: 836, y: 86}
+    - - {x: 824, y: 69}
+      - {x: 826, y: 77}
+      - {x: 820, y: 87}
+      - {x: 805, y: 130}
+      - {x: 801, y: 135}
+      - {x: 799, y: 135}
+      - {x: 795, y: 131}
+      - {x: 793, y: 117}
+      - {x: 791, y: 99}
+      - {x: 784, y: 63}
+      - {x: 786, y: 60}
+      - {x: 816, y: 60}
+    - - {x: 866, y: 64}
+      - {x: 873, y: 72}
+      - {x: 873, y: 73}
+      - {x: 866, y: 102}
+      - {x: 861, y: 121}
+      - {x: 858, y: 123}
+      - {x: 856, y: 123}
+      - {x: 852, y: 118}
+      - {x: 848, y: 102}
+      - {x: 843, y: 92}
+      - {x: 837, y: 79}
+      - {x: 837, y: 72}
+      - {x: 841, y: 64}
+      - {x: 845, y: 63}
+      - {x: 859, y: 63}
+    - - {x: 847, y: 34}
+      - {x: 847, y: 40}
+      - {x: 844, y: 48}
+      - {x: 834, y: 69}
+      - {x: 832, y: 71}
+      - {x: 830, y: 71}
+      - {x: 827, y: 66}
+      - {x: 817, y: 42}
+      - {x: 817, y: 35}
+      - {x: 825, y: 29}
+      - {x: 840, y: 29}
+    - - {x: 1155, y: -85}
+      - {x: 1155, y: -79}
+      - {x: 1147, y: -51}
+      - {x: 1146, y: -49}
+      - {x: 1137, y: -49}
+      - {x: 1132, y: -53}
+      - {x: 1132, y: -86}
+      - {x: 1134, y: -92}
+      - {x: 1148, y: -92}
+    - - {x: 1179, y: -79}
+      - {x: 1179, y: -66}
+      - {x: 1175, y: -53}
+      - {x: 1173, y: -51}
+      - {x: 1171, y: -51}
+      - {x: 1166, y: -57}
+      - {x: 1161, y: -73}
+      - {x: 1161, y: -79}
+      - {x: 1166, y: -85}
+      - {x: 1176, y: -85}
+    - - {x: 1269, y: -147}
+      - {x: 1269, y: -132}
+      - {x: 1267, y: -123}
+      - {x: 1265, y: -119}
+      - {x: 1260, y: -119}
+      - {x: 1251, y: -125}
+      - {x: 1247, y: -138}
+      - {x: 1247, y: -144}
+      - {x: 1252, y: -149}
+      - {x: 1264, y: -149}
+    - - {x: 1241, y: -146}
+      - {x: 1241, y: -128}
+      - {x: 1240, y: -122}
+      - {x: 1237, y: -120}
+      - {x: 1235, y: -120}
+      - {x: 1223, y: -135}
+      - {x: 1223, y: -144}
+      - {x: 1225, y: -148}
+      - {x: 1236, y: -148}
+    - - {x: 1482, y: -166}
+      - {x: 1482, y: -158}
+      - {x: 1471, y: -128}
+      - {x: 1469, y: -125}
+      - {x: 1462, y: -125}
+      - {x: 1451, y: -155}
+      - {x: 1451, y: -172}
+      - {x: 1457, y: -174}
+      - {x: 1477, y: -174}
+    - - {x: 981, y: -174}
+      - {x: 981, y: -166}
+      - {x: 970, y: -136}
+      - {x: 968, y: -133}
+      - {x: 961, y: -133}
+      - {x: 950, y: -163}
+      - {x: 950, y: -180}
+      - {x: 956, y: -182}
+      - {x: 976, y: -182}
+    - - {x: 1508, y: -164}
+      - {x: 1508, y: -152}
+      - {x: 1501, y: -139}
+      - {x: 1495, y: -139}
+      - {x: 1487, y: -150}
+      - {x: 1487, y: -165}
+      - {x: 1491, y: -170}
+      - {x: 1504, y: -170}
+    - - {x: 1560, y: -166}
+      - {x: 1560, y: -154}
+      - {x: 1553, y: -141}
+      - {x: 1547, y: -141}
+      - {x: 1539, y: -152}
+      - {x: 1539, y: -167}
+      - {x: 1543, y: -172}
+      - {x: 1556, y: -172}
+    - - {x: 633, y: -263}
+      - {x: 633, y: -245}
+      - {x: 629, y: -229}
+      - {x: 626, y: -227}
+      - {x: 624, y: -227}
+      - {x: 619, y: -230.33333}
+      - {x: 619, y: -222}
+      - {x: 610, y: -185}
+      - {x: 607, y: -184}
+      - {x: 605, y: -184}
+      - {x: 603, y: -187}
+      - {x: 587, y: -215}
+      - {x: 584, y: -229}
+      - {x: 584, y: -238}
+      - {x: 594, y: -243}
+      - {x: 610.5, y: -243}
+      - {x: 606, y: -253}
+      - {x: 606, y: -263}
+      - {x: 612, y: -267}
+      - {x: 626, y: -267}
+    - - {x: 983, y: -219}
+      - {x: 983, y: -207}
+      - {x: 976, y: -194}
+      - {x: 970, y: -194}
+      - {x: 962, y: -205}
+      - {x: 962, y: -220}
+      - {x: 966, y: -225}
+      - {x: 979, y: -225}
+    - - {x: 1286, y: -377}
+      - {x: 1286, y: -369}
+      - {x: 1275, y: -339}
+      - {x: 1273, y: -336}
+      - {x: 1266, y: -336}
+      - {x: 1255, y: -366}
+      - {x: 1255, y: -383}
+      - {x: 1261, y: -385}
+      - {x: 1281, y: -385}
+    - - {x: 1193, y: -389}
+      - {x: 1193, y: -383}
+      - {x: 1183, y: -352}
+      - {x: 1179, y: -350}
+      - {x: 1177, y: -350}
+      - {x: 1171, y: -360}
+      - {x: 1166, y: -383}
+      - {x: 1166, y: -387}
+      - {x: 1172, y: -392}
+      - {x: 1177, y: -393}
+      - {x: 1187, y: -393}
+    - - {x: 1249, y: -362}
+      - {x: 1243, y: -352}
+      - {x: 1239, y: -350}
+      - {x: 1237, y: -350}
+      - {x: 1236, y: -352}
+      - {x: 1227, y: -371}
+      - {x: 1227, y: -386}
+      - {x: 1231, y: -392}
+      - {x: 1249, y: -392}
+    - - {x: 1223, y: -388}
+      - {x: 1223, y: -376}
+      - {x: 1216, y: -363}
+      - {x: 1210, y: -363}
+      - {x: 1202, y: -374}
+      - {x: 1202, y: -389}
+      - {x: 1206, y: -394}
+      - {x: 1219, y: -394}
+    - - {x: 1108, y: -400}
+      - {x: 1108, y: -388}
+      - {x: 1105, y: -377}
+      - {x: 1103, y: -372}
+      - {x: 1099, y: -372}
+      - {x: 1089, y: -380}
+      - {x: 1085, y: -394}
+      - {x: 1085, y: -403}
+      - {x: 1089, y: -406}
+      - {x: 1099, y: -406}
+    - - {x: 1129, y: -417}
+      - {x: 1129, y: -409}
+      - {x: 1124, y: -387}
+      - {x: 1122, y: -386}
+      - {x: 1119, y: -386}
+      - {x: 1111, y: -396}
+      - {x: 1108, y: -405}
+      - {x: 1108, y: -420}
+      - {x: 1113, y: -422}
+      - {x: 1125, y: -422}
+    - - {x: 1165, y: -413}
+      - {x: 1165, y: -399}
+      - {x: 1161, y: -390}
+      - {x: 1153, y: -390}
+      - {x: 1149, y: -405}
+      - {x: 1149, y: -414}
+      - {x: 1151, y: -416}
+      - {x: 1158, y: -416}
+    - - {x: 1150, y: -434}
+      - {x: 1150, y: -422}
+      - {x: 1146, y: -408}
+      - {x: 1142, y: -406}
+      - {x: 1139, y: -406}
+      - {x: 1138, y: -408}
+      - {x: 1129, y: -424}
+      - {x: 1129, y: -434}
+      - {x: 1134, y: -439}
+      - {x: 1143, y: -439}
+    - - {x: 803, y: -508}
+      - {x: 803, y: -495}
+      - {x: 795, y: -462}
+      - {x: 792, y: -461}
+      - {x: 789, y: -461}
+      - {x: 787, y: -464}
+      - {x: 775, y: -498}
+      - {x: 775, y: -509}
+      - {x: 783, y: -515}
+      - {x: 795, y: -515}
+    - - {x: 766, y: -502}
+      - {x: 766, y: -487}
+      - {x: 764, y: -478}
+      - {x: 762, y: -474}
+      - {x: 757, y: -474}
+      - {x: 748, y: -480}
+      - {x: 744, y: -493}
+      - {x: 744, y: -499}
+      - {x: 749, y: -504}
+      - {x: 761, y: -504}
+    - - {x: 742, y: -507}
+      - {x: 742, y: -489}
+      - {x: 741, y: -483}
+      - {x: 738, y: -481}
+      - {x: 736, y: -481}
+      - {x: 724, y: -496}
+      - {x: 724, y: -505}
+      - {x: 726, y: -509}
+      - {x: 737, y: -509}
+    - - {x: 772, y: -533}
+      - {x: 772, y: -521}
+      - {x: 765, y: -508}
+      - {x: 759, y: -508}
+      - {x: 751, y: -519}
+      - {x: 751, y: -534}
+      - {x: 755, y: -539}
+      - {x: 768, y: -539}
+    - - {x: 1152, y: -551}
+      - {x: 1152, y: -539}
+      - {x: 1145, y: -526}
+      - {x: 1139, y: -526}
+      - {x: 1131, y: -537}
+      - {x: 1131, y: -552}
+      - {x: 1135, y: -557}
+      - {x: 1148, y: -557}
+    - - {x: 1106, y: -553}
+      - {x: 1106, y: -539}
+      - {x: 1102, y: -530}
+      - {x: 1094, y: -530}
+      - {x: 1090, y: -545}
+      - {x: 1090, y: -554}
+      - {x: 1092, y: -556}
+      - {x: 1099, y: -556}
+    - - {x: 1080, y: -562}
+      - {x: 1080, y: -544}
+      - {x: 1079, y: -538}
+      - {x: 1076, y: -536}
+      - {x: 1074, y: -536}
+      - {x: 1062, y: -551}
+      - {x: 1062, y: -560}
+      - {x: 1064, y: -564}
+      - {x: 1075, y: -564}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceMapRightIceSpikes_0: 8951376551399421621
+      IceMapRightIceSpikes_1: 729502022180993391
+      IceMapRightIceSpikes_10: 6532100596847594354
+      IceMapRightIceSpikes_11: -1791778273848654677
+      IceMapRightIceSpikes_12: 6961640123970609848
+      IceMapRightIceSpikes_13: 4366387416385455628
+      IceMapRightIceSpikes_14: -6020793983990920667
+      IceMapRightIceSpikes_15: -940663395088345656
+      IceMapRightIceSpikes_16: 5921727335629878761
+      IceMapRightIceSpikes_17: 1592627364485491116
+      IceMapRightIceSpikes_18: 2975347386797438892
+      IceMapRightIceSpikes_19: 9053743834084344570
+      IceMapRightIceSpikes_2: 4140077318536966691
+      IceMapRightIceSpikes_20: -8619291591286918639
+      IceMapRightIceSpikes_21: -2210013236932664315
+      IceMapRightIceSpikes_22: -4111449069758649969
+      IceMapRightIceSpikes_23: -8934164382824471641
+      IceMapRightIceSpikes_24: 7417364935592494014
+      IceMapRightIceSpikes_25: 9217757174170084876
+      IceMapRightIceSpikes_26: 6772247026828320294
+      IceMapRightIceSpikes_27: 7030626073402370986
+      IceMapRightIceSpikes_28: 358814095930691720
+      IceMapRightIceSpikes_29: 9210350686093751460
+      IceMapRightIceSpikes_3: -8401706413150618
+      IceMapRightIceSpikes_30: 8316364773376263038
+      IceMapRightIceSpikes_31: -8859726312867995421
+      IceMapRightIceSpikes_4: -1378017848234356909
+      IceMapRightIceSpikes_5: -5030240926375738864
+      IceMapRightIceSpikes_6: 3009030744962629056
+      IceMapRightIceSpikes_7: 4676388267175943592
+      IceMapRightIceSpikes_8: 8807631218044902957
+      IceMapRightIceSpikes_9: -7779597577175658929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

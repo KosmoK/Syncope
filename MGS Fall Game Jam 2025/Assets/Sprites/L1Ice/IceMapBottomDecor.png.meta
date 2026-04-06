@@ -1,0 +1,2873 @@
+fileFormatVersion: 2
+guid: 9fa3125731aa7e9438404af0bf3ba069
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9008159156197804299
+    second: IceMapBottomDecor_0
+  - first:
+      213: -4532108974783644965
+    second: IceMapBottomDecor_1
+  - first:
+      213: 1724508267679652102
+    second: IceMapBottomDecor_2
+  - first:
+      213: 3885565669839929714
+    second: IceMapBottomDecor_3
+  - first:
+      213: -4611521469968409103
+    second: IceMapBottomDecor_4
+  - first:
+      213: -4764446915021276327
+    second: IceMapBottomDecor_5
+  - first:
+      213: 7071100715782642815
+    second: IceMapBottomDecor_6
+  - first:
+      213: 7114172851705732594
+    second: IceMapBottomDecor_7
+  - first:
+      213: -4421538650600613250
+    second: IceMapBottomDecor_8
+  - first:
+      213: 408306978171021488
+    second: IceMapBottomDecor_9
+  - first:
+      213: 8455309072369235200
+    second: IceMapBottomDecor_10
+  - first:
+      213: -7604422211701205430
+    second: IceMapBottomDecor_11
+  - first:
+      213: -3300394517128197433
+    second: IceMapBottomDecor_12
+  - first:
+      213: -3267679526925374943
+    second: IceMapBottomDecor_13
+  - first:
+      213: 967801574298904411
+    second: IceMapBottomDecor_14
+  - first:
+      213: 5694694368720428891
+    second: IceMapBottomDecor_15
+  - first:
+      213: 2452118370454699930
+    second: IceMapBottomDecor_16
+  - first:
+      213: 2110336414841356932
+    second: IceMapBottomDecor_17
+  - first:
+      213: -5270665348727916620
+    second: IceMapBottomDecor_18
+  - first:
+      213: 8791526326824530861
+    second: IceMapBottomDecor_19
+  - first:
+      213: 1001414881731001820
+    second: IceMapBottomDecor_20
+  - first:
+      213: -3582044990501440233
+    second: IceMapBottomDecor_21
+  - first:
+      213: -6195035180445692274
+    second: IceMapBottomDecor_22
+  - first:
+      213: -2517305704787304603
+    second: IceMapBottomDecor_23
+  - first:
+      213: -3843579920468945653
+    second: IceMapBottomDecor_24
+  - first:
+      213: 1499881574451151846
+    second: IceMapBottomDecor_25
+  - first:
+      213: -8151734884737126755
+    second: IceMapBottomDecor_26
+  - first:
+      213: 5716587954407748491
+    second: IceMapBottomDecor_27
+  - first:
+      213: -3056842549200215787
+    second: IceMapBottomDecor_28
+  - first:
+      213: -3327291354786362322
+    second: IceMapBottomDecor_29
+  - first:
+      213: 8006622068596283976
+    second: IceMapBottomDecor_30
+  - first:
+      213: -1971630532494392126
+    second: IceMapBottomDecor_31
+  - first:
+      213: 9153090342643074054
+    second: IceMapBottomDecor_32
+  - first:
+      213: 1401305195211090693
+    second: IceMapBottomDecor_33
+  - first:
+      213: 9171896778605607518
+    second: IceMapBottomDecor_34
+  - first:
+      213: -1429682808519556061
+    second: IceMapBottomDecor_35
+  - first:
+      213: 6189983319623245923
+    second: IceMapBottomDecor_36
+  - first:
+      213: 1156484688388254439
+    second: IceMapBottomDecor_37
+  - first:
+      213: -5587944816048501639
+    second: IceMapBottomDecor_38
+  - first:
+      213: -8240572404456431788
+    second: IceMapBottomDecor_39
+  - first:
+      213: 2744305152514765222
+    second: IceMapBottomDecor_40
+  - first:
+      213: -7355154714261351385
+    second: IceMapBottomDecor_41
+  - first:
+      213: -451514664899756464
+    second: IceMapBottomDecor_42
+  - first:
+      213: 6631504204734221969
+    second: IceMapBottomDecor_43
+  - first:
+      213: -9127899337602832588
+    second: IceMapBottomDecor_44
+  - first:
+      213: -7747007651926469953
+    second: IceMapBottomDecor_45
+  - first:
+      213: -3536330380118988047
+    second: IceMapBottomDecor_46
+  - first:
+      213: 8794517390912198980
+    second: IceMapBottomDecor_47
+  - first:
+      213: -1133677226534127332
+    second: IceMapBottomDecor_48
+  - first:
+      213: -4521463690641298131
+    second: IceMapBottomDecor_49
+  - first:
+      213: 4472110036541751585
+    second: IceMapBottomDecor_50
+  - first:
+      213: 4565305093226699459
+    second: IceMapBottomDecor_51
+  - first:
+      213: 9136213636429894062
+    second: IceMapBottomDecor_52
+  - first:
+      213: 1291588273382198767
+    second: IceMapBottomDecor_53
+  - first:
+      213: 329491391946421406
+    second: IceMapBottomDecor_54
+  - first:
+      213: 7054718955663375392
+    second: IceMapBottomDecor_55
+  - first:
+      213: 3539464322781367751
+    second: IceMapBottomDecor_56
+  - first:
+      213: 6053352774003781250
+    second: IceMapBottomDecor_57
+  - first:
+      213: -5625194609714598104
+    second: IceMapBottomDecor_58
+  - first:
+      213: 6943346868410631908
+    second: IceMapBottomDecor_59
+  - first:
+      213: 330456540917548949
+    second: IceMapBottomDecor_60
+  - first:
+      213: -6032524435280930867
+    second: IceMapBottomDecor_61
+  - first:
+      213: -3606631020391650875
+    second: IceMapBottomDecor_62
+  - first:
+      213: 6378656290399618703
+    second: IceMapBottomDecor_63
+  - first:
+      213: -5857467885302828598
+    second: IceMapBottomDecor_64
+  - first:
+      213: -2532040177207990646
+    second: IceMapBottomDecor_65
+  - first:
+      213: 2210208826044908446
+    second: IceMapBottomDecor_66
+  - first:
+      213: 3780047658718030985
+    second: IceMapBottomDecor_67
+  - first:
+      213: 4283322625148408372
+    second: IceMapBottomDecor_68
+  - first:
+      213: -8300495635635594045
+    second: IceMapBottomDecor_69
+  - first:
+      213: 7374018676079230826
+    second: IceMapBottomDecor_70
+  - first:
+      213: -1249798014673883492
+    second: IceMapBottomDecor_71
+  - first:
+      213: -4554670982031425563
+    second: IceMapBottomDecor_72
+  - first:
+      213: 4756732257879515272
+    second: IceMapBottomDecor_73
+  - first:
+      213: 126847612277880455
+    second: IceMapBottomDecor_74
+  - first:
+      213: 7564142770407251681
+    second: IceMapBottomDecor_75
+  - first:
+      213: 7552075660285014661
+    second: IceMapBottomDecor_76
+  - first:
+      213: 7666659947416573114
+    second: IceMapBottomDecor_77
+  - first:
+      213: -3884549346005735665
+    second: IceMapBottomDecor_78
+  - first:
+      213: 2304499018714095165
+    second: IceMapBottomDecor_79
+  - first:
+      213: 6263291782383788316
+    second: IceMapBottomDecor_80
+  - first:
+      213: -397449941830430425
+    second: IceMapBottomDecor_81
+  - first:
+      213: 3027264793873589127
+    second: IceMapBottomDecor_82
+  - first:
+      213: -246661087333990248
+    second: IceMapBottomDecor_83
+  - first:
+      213: 4264680988351636310
+    second: IceMapBottomDecor_84
+  - first:
+      213: -3877361553568362473
+    second: IceMapBottomDecor_85
+  - first:
+      213: 8139229601616979761
+    second: IceMapBottomDecor_86
+  - first:
+      213: 5318060623569891698
+    second: IceMapBottomDecor_87
+  - first:
+      213: -1498559514599304009
+    second: IceMapBottomDecor_88
+  - first:
+      213: 8280370198988372103
+    second: IceMapBottomDecor_89
+  - first:
+      213: 8620480624679429325
+    second: IceMapBottomDecor_90
+  - first:
+      213: 4727774154532980114
+    second: IceMapBottomDecor_91
+  - first:
+      213: 5666861294390968499
+    second: IceMapBottomDecor_92
+  - first:
+      213: -298501554066685098
+    second: IceMapBottomDecor_93
+  - first:
+      213: 7171392935158584842
+    second: IceMapBottomDecor_94
+  - first:
+      213: -345469654802413221
+    second: IceMapBottomDecor_95
+  - first:
+      213: -6688313863323849708
+    second: IceMapBottomDecor_96
+  - first:
+      213: -424265380428174743
+    second: IceMapBottomDecor_97
+  - first:
+      213: 5925773052552031590
+    second: IceMapBottomDecor_98
+  - first:
+      213: -3372698150008735815
+    second: IceMapBottomDecor_99
+  - first:
+      213: -6919529920719790011
+    second: IceMapBottomDecor_100
+  - first:
+      213: 631598305691184718
+    second: IceMapBottomDecor_101
+  - first:
+      213: 8004002173198062359
+    second: IceMapBottomDecor_102
+  - first:
+      213: 2750071305342811969
+    second: IceMapBottomDecor_103
+  - first:
+      213: -2378741644596558907
+    second: IceMapBottomDecor_104
+  - first:
+      213: 2127146475467346625
+    second: IceMapBottomDecor_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceMapBottomDecor_0
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 2296
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b094a597609630d70800000000000000
+      internalID: 9008159156197804299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_1
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 2295
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda39aa46e6ba11c0800000000000000
+      internalID: -4532108974783644965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2246
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6091543f12faee710800000000000000
+      internalID: 1724508267679652102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2198
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271034ed36d4ce530800000000000000
+      internalID: 3885565669839929714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_4
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 2199
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd127ce7a59000c0800000000000000
+      internalID: -4611521469968409103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_5
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 2189
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b73fe16c841edb0800000000000000
+      internalID: -4764446915021276327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_6
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2163
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c1c3ff2a8912260800000000000000
+      internalID: 7071100715782642815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2125
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdd5a0248e9ab260800000000000000
+      internalID: 7114172851705732594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_8
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 2085
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a5a4a060a83a2c0800000000000000
+      internalID: -4421538650600613250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_9
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2067
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8623988099aa500800000000000000
+      internalID: 408306978171021488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_10
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2023
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005b4bc9dca475570800000000000000
+      internalID: 8455309072369235200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_11
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 1993
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a469575d94aa77690800000000000000
+      internalID: -7604422211701205430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_12
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 1985
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4de34ca4a232d0800000000000000
+      internalID: -3300394517128197433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1964
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aebcd78ced6a2d0800000000000000
+      internalID: -3267679526925374943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_14
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1958
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57662977625e6d00800000000000000
+      internalID: 967801574298904411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_15
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1935
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f9ff74b5e970f40800000000000000
+      internalID: 5694694368720428891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1898
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f79228aaca70220800000000000000
+      internalID: 2452118370454699930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_17
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 1903
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c03bc9cb694d10800000000000000
+      internalID: 2110336414841356932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_18
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1904
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7bc1f5ac5dad6b0800000000000000
+      internalID: -5270665348727916620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_19
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 1876
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3fedf5d96c10a70800000000000000
+      internalID: 8791526326824530861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_20
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1887
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddbd5a778db5ed00800000000000000
+      internalID: 1001414881731001820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_21
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 1890
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715b1b34f050a4ec0800000000000000
+      internalID: -3582044990501440233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_22
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1862
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e8c7a7350d60aa0800000000000000
+      internalID: -6195035180445692274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_23
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1873
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f961b7ccbb01dd0800000000000000
+      internalID: -2517305704787304603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_24
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 1866
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05df9e2d6cd8aac0800000000000000
+      internalID: -3843579920468945653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_25
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1862
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e380526856a0d410800000000000000
+      internalID: 1499881574451151846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_26
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1870
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e6514ef483fde80800000000000000
+      internalID: -8151734884737126755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_27
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1863
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8330cde476655f40800000000000000
+      internalID: 5716587954407748491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_28
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1862
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5112f98b5e9e395d0800000000000000
+      internalID: -3056842549200215787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_29
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 1852
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c0bbd342613d1d0800000000000000
+      internalID: -3327291354786362322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_30
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1820
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a1c79b95c3d1f60800000000000000
+      internalID: 8006622068596283976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_31
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 1820
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c48b521a7c53a4e0800000000000000
+      internalID: -1971630532494392126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_32
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 1825
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6048c46eb2f460f70800000000000000
+      internalID: 9153090342643074054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_33
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 1830
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b677e86af627310800000000000000
+      internalID: 1401305195211090693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_34
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 1808
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a365d768f194f70800000000000000
+      internalID: 9171896778605607518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_35
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1774
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32485b87f0fb82ce0800000000000000
+      internalID: -1429682808519556061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_36
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1758
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360acb3880d37e550800000000000000
+      internalID: 6189983319623245923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_37
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1751
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea6f8f52b8ac0010800000000000000
+      internalID: 1156484688388254439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_38
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 1758
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c81f6cbc1a372b0800000000000000
+      internalID: -5587944816048501639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_39
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1737
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fdc7efe0b93ad80800000000000000
+      internalID: -8240572404456431788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_40
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 1731
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1baea0ffab51620800000000000000
+      internalID: 2744305152514765222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_41
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 1723
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7249964b1cd3de990800000000000000
+      internalID: -7355154714261351385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_42
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 1723
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e35c3fdc5ebb9f0800000000000000
+      internalID: -451514664899756464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_43
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 1715
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e41b160f5d70c50800000000000000
+      internalID: 6631504204734221969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_44
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1694
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e8a40aef235180800000000000000
+      internalID: -9127899337602832588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_45
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1642
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb290b206991d7490800000000000000
+      internalID: -7747007651926469953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_46
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1624
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fae59c614e6ceec0800000000000000
+      internalID: -3536330380118988047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_47
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1597
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4491150c8f66c0a70800000000000000
+      internalID: 8794517390912198980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_48
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1584
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19bb76a19e5440f0800000000000000
+      internalID: -1133677226534127332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_49
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1540
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2daf76aab88041c0800000000000000
+      internalID: -4521463690641298131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_50
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1515
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121c78c4260201e30800000000000000
+      internalID: 4472110036541751585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_51
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1481
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca1f055bc83b5f30800000000000000
+      internalID: 4565305093226699459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_52
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 1488
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1db7785e95ace70800000000000000
+      internalID: 9136213636429894062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_53
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 1496
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed810701b4ace110800000000000000
+      internalID: 1291588273382198767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_54
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1446
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94f38ddca6929400800000000000000
+      internalID: 329491391946421406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_55
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1448
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cb78e338567e160800000000000000
+      internalID: 7054718955663375392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_56
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1446
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd4d867c04be1130800000000000000
+      internalID: 3539464322781367751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_57
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1413
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eee92a644d10450800000000000000
+      internalID: 6053352774003781250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_58
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 1387
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fe4875e4b4fe1b0800000000000000
+      internalID: -5625194609714598104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_59
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1360
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6cfeb7039bb5060800000000000000
+      internalID: 6943346868410631908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_60
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1350
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597481f1974069400800000000000000
+      internalID: 330456540917548949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_61
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1346
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc75730ecfa284ca0800000000000000
+      internalID: -6032524435280930867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_62
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1316
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9a6a9123ca2fdc0800000000000000
+      internalID: -3606631020391650875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_63
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1288
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86849db91a858850800000000000000
+      internalID: 6378656290399618703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_64
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 1262
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac134451ef716bea0800000000000000
+      internalID: -5857467885302828598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_65
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 1240
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a862088cfd26cdcd0800000000000000
+      internalID: -2532040177207990646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_66
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 1216
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9307d3973d3cae10800000000000000
+      internalID: 2210208826044908446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_67
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1153
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c6feb615d657430800000000000000
+      internalID: 3780047658718030985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_68
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1112
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4325d5acb3b617b30800000000000000
+      internalID: 4283322625148408372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_69
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1099
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc92428237becc80800000000000000
+      internalID: -8300495635635594045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_70
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1089
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f7ccaaae6c55660800000000000000
+      internalID: 7374018676079230826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_71
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 1022
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eef5ec353d7aee0800000000000000
+      internalID: -1249798014673883492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_72
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 960
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efbc3f9fde8ac0c0800000000000000
+      internalID: -4554670982031425563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_73
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 959
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880ec8a49ce430240800000000000000
+      internalID: 4756732257879515272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_74
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 917
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786fd663b37a2c100800000000000000
+      internalID: 126847612277880455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_75
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 868
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee967ce5cb39f860800000000000000
+      internalID: 7564142770407251681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_76
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 854
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5827928eccc5ec860800000000000000
+      internalID: 7552075660285014661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_77
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 834
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4da7b3a92756a60800000000000000
+      internalID: 7666659947416573114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_78
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 829
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f072ad673fe471ac0800000000000000
+      internalID: -3884549346005735665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_79
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 824
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e90b3d5a93bff10800000000000000
+      internalID: 2304499018714095165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_80
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 814
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11eb9511beabe650800000000000000
+      internalID: 6263291782383788316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_81
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 778
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72192393269fb7af0800000000000000
+      internalID: -397449941830430425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_82
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 768
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783a1e77a41030a20800000000000000
+      internalID: 3027264793873589127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_83
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 747
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890cb854c0fa39cf0800000000000000
+      internalID: -246661087333990248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_84
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 744
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653af0f73c03f2b30800000000000000
+      internalID: 4264680988351636310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_85
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 709
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7101dcdc538d03ac0800000000000000
+      internalID: -3877361553568362473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_86
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 674
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13769bdf23a54f070800000000000000
+      internalID: 8139229601616979761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_87
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 674
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27130e9f5fb8dc940800000000000000
+      internalID: 5318060623569891698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_88
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 689
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4d689af0c043be0800000000000000
+      internalID: -1498559514599304009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_89
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 656
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788be6f13d8c9e270800000000000000
+      internalID: 8280370198988372103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_90
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 653
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4a723747912a770800000000000000
+      internalID: 8620480624679429325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_91
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 638
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29506337b8d6c9140800000000000000
+      internalID: 4727774154532980114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_92
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 596
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0859ba25cb4ae40800000000000000
+      internalID: 5666861294390968499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_93
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 607
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65304f80b628bdbf0800000000000000
+      internalID: -298501554066685098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_94
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 600
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a069fdcf0e7e58360800000000000000
+      internalID: 7171392935158584842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_95
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 599
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5943d8ed25a43bf0800000000000000
+      internalID: -345469654802413221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_96
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 594
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ce24e3af55e23a0800000000000000
+      internalID: -6688313863323849708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_97
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 591
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a251562e4bc1af0800000000000000
+      internalID: -424265380428174743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_98
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 591
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d22f8f1339c3250800000000000000
+      internalID: 5925773052552031590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_99
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 568
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7bc12e6e4c131d0800000000000000
+      internalID: -3372698150008735815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_100
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 558
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5406fc6c234e8ff90800000000000000
+      internalID: -6919529920719790011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_101
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 533
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e267b0053e3c800800000000000000
+      internalID: 631598305691184718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_102
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 536
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713dceac19de31f60800000000000000
+      internalID: 8004002173198062359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_103
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 494
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ff3fd18473a2620800000000000000
+      internalID: 2750071305342811969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_104
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 453
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3c46dc3130dfed0800000000000000
+      internalID: -2378741644596558907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBottomDecor_105
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 295
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c294770374258d10800000000000000
+      internalID: 2127146475467346625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceMapBottomDecor_0: 9008159156197804299
+      IceMapBottomDecor_1: -4532108974783644965
+      IceMapBottomDecor_10: 8455309072369235200
+      IceMapBottomDecor_100: -6919529920719790011
+      IceMapBottomDecor_101: 631598305691184718
+      IceMapBottomDecor_102: 8004002173198062359
+      IceMapBottomDecor_103: 2750071305342811969
+      IceMapBottomDecor_104: -2378741644596558907
+      IceMapBottomDecor_105: 2127146475467346625
+      IceMapBottomDecor_11: -7604422211701205430
+      IceMapBottomDecor_12: -3300394517128197433
+      IceMapBottomDecor_13: -3267679526925374943
+      IceMapBottomDecor_14: 967801574298904411
+      IceMapBottomDecor_15: 5694694368720428891
+      IceMapBottomDecor_16: 2452118370454699930
+      IceMapBottomDecor_17: 2110336414841356932
+      IceMapBottomDecor_18: -5270665348727916620
+      IceMapBottomDecor_19: 8791526326824530861
+      IceMapBottomDecor_2: 1724508267679652102
+      IceMapBottomDecor_20: 1001414881731001820
+      IceMapBottomDecor_21: -3582044990501440233
+      IceMapBottomDecor_22: -6195035180445692274
+      IceMapBottomDecor_23: -2517305704787304603
+      IceMapBottomDecor_24: -3843579920468945653
+      IceMapBottomDecor_25: 1499881574451151846
+      IceMapBottomDecor_26: -8151734884737126755
+      IceMapBottomDecor_27: 5716587954407748491
+      IceMapBottomDecor_28: -3056842549200215787
+      IceMapBottomDecor_29: -3327291354786362322
+      IceMapBottomDecor_3: 3885565669839929714
+      IceMapBottomDecor_30: 8006622068596283976
+      IceMapBottomDecor_31: -1971630532494392126
+      IceMapBottomDecor_32: 9153090342643074054
+      IceMapBottomDecor_33: 1401305195211090693
+      IceMapBottomDecor_34: 9171896778605607518
+      IceMapBottomDecor_35: -1429682808519556061
+      IceMapBottomDecor_36: 6189983319623245923
+      IceMapBottomDecor_37: 1156484688388254439
+      IceMapBottomDecor_38: -5587944816048501639
+      IceMapBottomDecor_39: -8240572404456431788
+      IceMapBottomDecor_4: -4611521469968409103
+      IceMapBottomDecor_40: 2744305152514765222
+      IceMapBottomDecor_41: -7355154714261351385
+      IceMapBottomDecor_42: -451514664899756464
+      IceMapBottomDecor_43: 6631504204734221969
+      IceMapBottomDecor_44: -9127899337602832588
+      IceMapBottomDecor_45: -7747007651926469953
+      IceMapBottomDecor_46: -3536330380118988047
+      IceMapBottomDecor_47: 8794517390912198980
+      IceMapBottomDecor_48: -1133677226534127332
+      IceMapBottomDecor_49: -4521463690641298131
+      IceMapBottomDecor_5: -4764446915021276327
+      IceMapBottomDecor_50: 4472110036541751585
+      IceMapBottomDecor_51: 4565305093226699459
+      IceMapBottomDecor_52: 9136213636429894062
+      IceMapBottomDecor_53: 1291588273382198767
+      IceMapBottomDecor_54: 329491391946421406
+      IceMapBottomDecor_55: 7054718955663375392
+      IceMapBottomDecor_56: 3539464322781367751
+      IceMapBottomDecor_57: 6053352774003781250
+      IceMapBottomDecor_58: -5625194609714598104
+      IceMapBottomDecor_59: 6943346868410631908
+      IceMapBottomDecor_6: 7071100715782642815
+      IceMapBottomDecor_60: 330456540917548949
+      IceMapBottomDecor_61: -6032524435280930867
+      IceMapBottomDecor_62: -3606631020391650875
+      IceMapBottomDecor_63: 6378656290399618703
+      IceMapBottomDecor_64: -5857467885302828598
+      IceMapBottomDecor_65: -2532040177207990646
+      IceMapBottomDecor_66: 2210208826044908446
+      IceMapBottomDecor_67: 3780047658718030985
+      IceMapBottomDecor_68: 4283322625148408372
+      IceMapBottomDecor_69: -8300495635635594045
+      IceMapBottomDecor_7: 7114172851705732594
+      IceMapBottomDecor_70: 7374018676079230826
+      IceMapBottomDecor_71: -1249798014673883492
+      IceMapBottomDecor_72: -4554670982031425563
+      IceMapBottomDecor_73: 4756732257879515272
+      IceMapBottomDecor_74: 126847612277880455
+      IceMapBottomDecor_75: 7564142770407251681
+      IceMapBottomDecor_76: 7552075660285014661
+      IceMapBottomDecor_77: 7666659947416573114
+      IceMapBottomDecor_78: -3884549346005735665
+      IceMapBottomDecor_79: 2304499018714095165
+      IceMapBottomDecor_8: -4421538650600613250
+      IceMapBottomDecor_80: 6263291782383788316
+      IceMapBottomDecor_81: -397449941830430425
+      IceMapBottomDecor_82: 3027264793873589127
+      IceMapBottomDecor_83: -246661087333990248
+      IceMapBottomDecor_84: 4264680988351636310
+      IceMapBottomDecor_85: -3877361553568362473
+      IceMapBottomDecor_86: 8139229601616979761
+      IceMapBottomDecor_87: 5318060623569891698
+      IceMapBottomDecor_88: -1498559514599304009
+      IceMapBottomDecor_89: 8280370198988372103
+      IceMapBottomDecor_9: 408306978171021488
+      IceMapBottomDecor_90: 8620480624679429325
+      IceMapBottomDecor_91: 4727774154532980114
+      IceMapBottomDecor_92: 5666861294390968499
+      IceMapBottomDecor_93: -298501554066685098
+      IceMapBottomDecor_94: 7171392935158584842
+      IceMapBottomDecor_95: -345469654802413221
+      IceMapBottomDecor_96: -6688313863323849708
+      IceMapBottomDecor_97: -424265380428174743
+      IceMapBottomDecor_98: 5925773052552031590
+      IceMapBottomDecor_99: -3372698150008735815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

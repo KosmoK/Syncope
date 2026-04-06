@@ -3470,14 +3470,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
-      propertyPath: currExtra
-      value: -1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6988013043924797171, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
-      propertyPath: m_SortingOrder
-      value: 30
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12156,47 +12148,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!1 &1115023409 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6711324882229464683, guid: 0ebbca7f1c505e14e8776e5982833510, type: 3}
-  m_PrefabInstance: {fileID: 1220618361}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1115023415
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1115023409}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a4160d65f594a424f8000d7293233cfe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Drugs
---- !u!114 &1115023416
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1115023409}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9f714bae1697ecc439b98025d1f9e5c6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SpecialAttacks
---- !u!114 &1115023417
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1115023409}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 84c93ad1cf669d54dbe042314fd2abf1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DrugManager
 --- !u!1 &1125196738
 GameObject:
   m_ObjectHideFlags: 3
@@ -13901,10 +13852,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6611396608064577892, guid: 0ebbca7f1c505e14e8776e5982833510, type: 3}
-      propertyPath: currency
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 6711324882229464683, guid: 0ebbca7f1c505e14e8776e5982833510, type: 3}
       propertyPath: m_Name
       value: GameManager
@@ -13912,16 +13859,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 6711324882229464683, guid: 0ebbca7f1c505e14e8776e5982833510, type: 3}
-      insertIndex: 3
-      addedObject: {fileID: 1115023416}
-    - targetCorrespondingSourceObject: {fileID: 6711324882229464683, guid: 0ebbca7f1c505e14e8776e5982833510, type: 3}
-      insertIndex: 4
-      addedObject: {fileID: 1115023415}
-    - targetCorrespondingSourceObject: {fileID: 6711324882229464683, guid: 0ebbca7f1c505e14e8776e5982833510, type: 3}
-      insertIndex: 5
-      addedObject: {fileID: 1115023417}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ebbca7f1c505e14e8776e5982833510, type: 3}
 --- !u!1 &1225584883
 GameObject:
