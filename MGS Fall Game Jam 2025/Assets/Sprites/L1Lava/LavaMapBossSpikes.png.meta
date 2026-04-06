@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 9c531a251aa98364a941b96f0305fb2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5278845044676674438
+    second: LavaMapBossSpikes_0
+  - first:
+      213: 3696951784137849691
+    second: LavaMapBossSpikes_1
+  - first:
+      213: -1235129466868395086
+    second: LavaMapBossSpikes_2
+  - first:
+      213: -6312522180776604103
+    second: LavaMapBossSpikes_3
+  - first:
+      213: 8946885260859074684
+    second: LavaMapBossSpikes_4
+  - first:
+      213: -686837952451782349
+    second: LavaMapBossSpikes_5
+  - first:
+      213: -5820635930238752348
+    second: LavaMapBossSpikes_6
+  - first:
+      213: 7892334182448107402
+    second: LavaMapBossSpikes_7
+  - first:
+      213: -6237307955023170352
+    second: LavaMapBossSpikes_8
+  - first:
+      213: 7384674088364715343
+    second: LavaMapBossSpikes_9
+  - first:
+      213: 4656634034564268739
+    second: LavaMapBossSpikes_10
+  - first:
+      213: -4977819761011655694
+    second: LavaMapBossSpikes_11
+  - first:
+      213: 4754329254870358388
+    second: LavaMapBossSpikes_12
+  - first:
+      213: -4193412859815789521
+    second: LavaMapBossSpikes_13
+  - first:
+      213: 8063634309320712027
+    second: LavaMapBossSpikes_14
+  - first:
+      213: 7275165805506465435
+    second: LavaMapBossSpikes_15
+  - first:
+      213: 3096531211667399069
+    second: LavaMapBossSpikes_16
+  - first:
+      213: -4476382722498215549
+    second: LavaMapBossSpikes_17
+  - first:
+      213: 8809896410911552572
+    second: LavaMapBossSpikes_18
+  - first:
+      213: 7850782048737185030
+    second: LavaMapBossSpikes_19
+  - first:
+      213: -7525160504027510068
+    second: LavaMapBossSpikes_20
+  - first:
+      213: 3721157591814886834
+    second: LavaMapBossSpikes_21
+  - first:
+      213: -301562990909037776
+    second: LavaMapBossSpikes_22
+  - first:
+      213: 7082422916275200878
+    second: LavaMapBossSpikes_23
+  - first:
+      213: 1512278086844732721
+    second: LavaMapBossSpikes_24
+  - first:
+      213: 4299567020062302270
+    second: LavaMapBossSpikes_25
+  - first:
+      213: 594223541335261266
+    second: LavaMapBossSpikes_26
+  - first:
+      213: -4112219351681246219
+    second: LavaMapBossSpikes_27
+  - first:
+      213: 8604508111149002793
+    second: LavaMapBossSpikes_28
+  - first:
+      213: -3160245136235513659
+    second: LavaMapBossSpikes_29
+  - first:
+      213: 4672665995970012447
+    second: LavaMapBossSpikes_30
+  - first:
+      213: 6042944520418126126
+    second: LavaMapBossSpikes_31
+  - first:
+      213: -1989795612033409809
+    second: LavaMapBossSpikes_32
+  - first:
+      213: 681109592024738595
+    second: LavaMapBossSpikes_33
+  - first:
+      213: 6973222257263735398
+    second: LavaMapBossSpikes_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_0
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 3350
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683c8408999324940800000000000000
+      internalID: 5278845044676674438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_1
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 3374
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b78457f063e4330800000000000000
+      internalID: 3696951784137849691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_2
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 3357
+        width: 120
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b311bb3b40fbdee0800000000000000
+      internalID: -1235129466868395086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_3
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 3373
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e4902958a6568a0800000000000000
+      internalID: -6312522180776604103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_4
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 3372
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78eeabfdb8b92c70800000000000000
+      internalID: 8946885260859074684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_5
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 3368
+        width: 156
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339dad1758cd776f0800000000000000
+      internalID: -686837952451782349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_6
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3322
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a96e33e572f83fa0800000000000000
+      internalID: -5820635930238752348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_7
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 3353
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0e71af14378d60800000000000000
+      internalID: 7892334182448107402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_8
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 3307
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4302a2671a079a0800000000000000
+      internalID: -6237307955023170352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_9
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 3321
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da20b25f1ab7660800000000000000
+      internalID: 7384674088364715343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_10
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 3324
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c282378bffaf9040800000000000000
+      internalID: 4656634034564268739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_11
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 3323
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbfafc0d4b3beab0800000000000000
+      internalID: -4977819761011655694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_12
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 3184
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4799bcd8445caf140800000000000000
+      internalID: 4754329254870358388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_13
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 3145
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cff1eb8310ec5c0800000000000000
+      internalID: -4193412859815789521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_14
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 3187
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f96bd6ea8c7ef60800000000000000
+      internalID: 8063634309320712027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_15
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 3054
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e084f21c496f460800000000000000
+      internalID: 7275165805506465435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_16
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3071
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91685b1bb619fa20800000000000000
+      internalID: 3096531211667399069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_17
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 3021
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3814cca71a1b0e1c0800000000000000
+      internalID: -4476382722498215549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_18
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 2979
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c343f50eb1a034a70800000000000000
+      internalID: 8809896410911552572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_19
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 2671
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d4ef79da493fc60800000000000000
+      internalID: 7850782048737185030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_20
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2679
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca04af3462419790800000000000000
+      internalID: -7525160504027510068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_21
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 2666
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5df5d3d1534a330800000000000000
+      internalID: 3721157591814886834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_22
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 2628
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0336679be02a0dbf0800000000000000
+      internalID: -301562990909037776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_23
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 2576
+        width: 155
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e636ba93e12d94260800000000000000
+      internalID: 7082422916275200878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_24
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2643
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135dcf758e0bcf410800000000000000
+      internalID: 1512278086844732721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_25
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2632
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e306cc6bc612bab30800000000000000
+      internalID: 4299567020062302270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_26
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2586
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250867a992b1f3800800000000000000
+      internalID: 594223541335261266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_27
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 2508
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb5d8089467ee6c0800000000000000
+      internalID: -4112219351681246219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_28
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 2405
+        width: 126
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920f008d98a596770800000000000000
+      internalID: 8604508111149002793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_29
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 2459
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8b683dacd8424d0800000000000000
+      internalID: -3160245136235513659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_30
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 2404
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15e6db67f4a8d040800000000000000
+      internalID: 4672665995970012447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_31
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 2345
+        width: 211
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e296ae0460adcd350800000000000000
+      internalID: 6042944520418126126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_32
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 2356
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec1e19ee63d264e0800000000000000
+      internalID: -1989795612033409809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_33
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2344
+        width: 172
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32beeb5b099c37900800000000000000
+      internalID: 681109592024738595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossSpikes_34
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 2386
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6627d0082bcd5c060800000000000000
+      internalID: 6973222257263735398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapBossSpikes_0: 5278845044676674438
+      LavaMapBossSpikes_1: 3696951784137849691
+      LavaMapBossSpikes_10: 4656634034564268739
+      LavaMapBossSpikes_11: -4977819761011655694
+      LavaMapBossSpikes_12: 4754329254870358388
+      LavaMapBossSpikes_13: -4193412859815789521
+      LavaMapBossSpikes_14: 8063634309320712027
+      LavaMapBossSpikes_15: 7275165805506465435
+      LavaMapBossSpikes_16: 3096531211667399069
+      LavaMapBossSpikes_17: -4476382722498215549
+      LavaMapBossSpikes_18: 8809896410911552572
+      LavaMapBossSpikes_19: 7850782048737185030
+      LavaMapBossSpikes_2: -1235129466868395086
+      LavaMapBossSpikes_20: -7525160504027510068
+      LavaMapBossSpikes_21: 3721157591814886834
+      LavaMapBossSpikes_22: -301562990909037776
+      LavaMapBossSpikes_23: 7082422916275200878
+      LavaMapBossSpikes_24: 1512278086844732721
+      LavaMapBossSpikes_25: 4299567020062302270
+      LavaMapBossSpikes_26: 594223541335261266
+      LavaMapBossSpikes_27: -4112219351681246219
+      LavaMapBossSpikes_28: 8604508111149002793
+      LavaMapBossSpikes_29: -3160245136235513659
+      LavaMapBossSpikes_3: -6312522180776604103
+      LavaMapBossSpikes_30: 4672665995970012447
+      LavaMapBossSpikes_31: 6042944520418126126
+      LavaMapBossSpikes_32: -1989795612033409809
+      LavaMapBossSpikes_33: 681109592024738595
+      LavaMapBossSpikes_34: 6973222257263735398
+      LavaMapBossSpikes_4: 8946885260859074684
+      LavaMapBossSpikes_5: -686837952451782349
+      LavaMapBossSpikes_6: -5820635930238752348
+      LavaMapBossSpikes_7: 7892334182448107402
+      LavaMapBossSpikes_8: -6237307955023170352
+      LavaMapBossSpikes_9: 7384674088364715343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

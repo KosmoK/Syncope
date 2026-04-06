@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: f33c4cc8664eb3e4ba1b365322da9913
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8973493882770887389
+    second: LavaMapTopLava_0
+  - first:
+      213: -7642708279717106732
+    second: LavaMapTopLava_1
+  - first:
+      213: 7751603727800556330
+    second: LavaMapTopLava_2
+  - first:
+      213: -600499166462680311
+    second: LavaMapTopLava_3
+  - first:
+      213: -2755479766627464228
+    second: LavaMapTopLava_4
+  - first:
+      213: -2348954205854506891
+    second: LavaMapTopLava_5
+  - first:
+      213: -3108894764981545264
+    second: LavaMapTopLava_6
+  - first:
+      213: 5632556718933023172
+    second: LavaMapTopLava_7
+  - first:
+      213: -1722301031727895279
+    second: LavaMapTopLava_8
+  - first:
+      213: 4537845554669725103
+    second: LavaMapTopLava_9
+  - first:
+      213: -7316525110507485805
+    second: LavaMapTopLava_10
+  - first:
+      213: -6424743392984754599
+    second: LavaMapTopLava_11
+  - first:
+      213: 7186183269424163673
+    second: LavaMapTopLava_12
+  - first:
+      213: -3647134871481476195
+    second: LavaMapTopLava_13
+  - first:
+      213: 42881726759027225
+    second: LavaMapTopLava_14
+  - first:
+      213: -5534383914364565698
+    second: LavaMapTopLava_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapTopLava_0
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 4253
+        width: 74
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dec437bdeb77380800000000000000
+      internalID: -8973493882770887389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_1
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 4340
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db6689ff45afe590800000000000000
+      internalID: -7642708279717106732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_2
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 3956
+        width: 358
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b552b458a339b60800000000000000
+      internalID: 7751603727800556330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_3
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 4116
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903e21f80399aa7f0800000000000000
+      internalID: -600499166462680311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 3974
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbc46c50c192c9d0800000000000000
+      internalID: -2755479766627464228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_5
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3785
+        width: 348
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570e1665896d66fd0800000000000000
+      internalID: -2348954205854506891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_6
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 4037
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d61431deacfad4d0800000000000000
+      internalID: -3108894764981545264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_7
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 4018
+        width: 125
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c91e394e7cda2e40800000000000000
+      internalID: 5632556718933023172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 4014
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de19736582918e0800000000000000
+      internalID: -1722301031727895279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_9
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 4000
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5acab4d7aa9fe30800000000000000
+      internalID: 4537845554669725103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_10
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 3968
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395c9f53d2b767a90800000000000000
+      internalID: -7316525110507485805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_11
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3698
+        width: 130
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9561b108ce9b6d6a0800000000000000
+      internalID: -6424743392984754599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_12
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3815
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95be1e80c937ab360800000000000000
+      internalID: 7186183269424163673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_13
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 3705
+        width: 122
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b18616826c26dc0800000000000000
+      internalID: -3647134871481476195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_14
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 3300
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912c3da04b8589000800000000000000
+      internalID: 42881726759027225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopLava_15
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3290
+        width: 78
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e370aadf62be133b0800000000000000
+      internalID: -5534383914364565698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapTopLava_0: -8973493882770887389
+      LavaMapTopLava_1: -7642708279717106732
+      LavaMapTopLava_10: -7316525110507485805
+      LavaMapTopLava_11: -6424743392984754599
+      LavaMapTopLava_12: 7186183269424163673
+      LavaMapTopLava_13: -3647134871481476195
+      LavaMapTopLava_14: 42881726759027225
+      LavaMapTopLava_15: -5534383914364565698
+      LavaMapTopLava_2: 7751603727800556330
+      LavaMapTopLava_3: -600499166462680311
+      LavaMapTopLava_4: -2755479766627464228
+      LavaMapTopLava_5: -2348954205854506891
+      LavaMapTopLava_6: -3108894764981545264
+      LavaMapTopLava_7: 5632556718933023172
+      LavaMapTopLava_8: -1722301031727895279
+      LavaMapTopLava_9: 4537845554669725103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

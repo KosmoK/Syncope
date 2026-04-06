@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 18964fef758d60c48ab87c6aa0fb677f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8536550028804223979
+    second: LavaMapTopChambersDecor_0
+  - first:
+      213: 8410664087803435868
+    second: LavaMapTopChambersDecor_1
+  - first:
+      213: -3749602078623365608
+    second: LavaMapTopChambersDecor_2
+  - first:
+      213: 7728345713754254740
+    second: LavaMapTopChambersDecor_3
+  - first:
+      213: -3470666463125316827
+    second: LavaMapTopChambersDecor_4
+  - first:
+      213: -7123769644961094208
+    second: LavaMapTopChambersDecor_5
+  - first:
+      213: -7164050399694115477
+    second: LavaMapTopChambersDecor_6
+  - first:
+      213: 1300342054656489056
+    second: LavaMapTopChambersDecor_7
+  - first:
+      213: -8509003642296491159
+    second: LavaMapTopChambersDecor_8
+  - first:
+      213: -3145522244692786667
+    second: LavaMapTopChambersDecor_9
+  - first:
+      213: -4736794321410681948
+    second: LavaMapTopChambersDecor_10
+  - first:
+      213: -7266527445973945922
+    second: LavaMapTopChambersDecor_11
+  - first:
+      213: -7518748495373872278
+    second: LavaMapTopChambersDecor_12
+  - first:
+      213: -4087968725780924140
+    second: LavaMapTopChambersDecor_13
+  - first:
+      213: 5867002124559391715
+    second: LavaMapTopChambersDecor_14
+  - first:
+      213: 8988089326006781163
+    second: LavaMapTopChambersDecor_15
+  - first:
+      213: -2632297529108152128
+    second: LavaMapTopChambersDecor_16
+  - first:
+      213: 1155614080207980347
+    second: LavaMapTopChambersDecor_17
+  - first:
+      213: -4028894909002399968
+    second: LavaMapTopChambersDecor_18
+  - first:
+      213: -6051977055800242708
+    second: LavaMapTopChambersDecor_19
+  - first:
+      213: -8262149350225968862
+    second: LavaMapTopChambersDecor_20
+  - first:
+      213: 5409072981240740793
+    second: LavaMapTopChambersDecor_21
+  - first:
+      213: -7177583794868877012
+    second: LavaMapTopChambersDecor_22
+  - first:
+      213: 4486301883515223959
+    second: LavaMapTopChambersDecor_23
+  - first:
+      213: 2779388129469880057
+    second: LavaMapTopChambersDecor_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_0
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 5793
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3f93ac50be77670800000000000000
+      internalID: 8536550028804223979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_1
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 5788
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b98ae1d6ea8b470800000000000000
+      internalID: 8410664087803435868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_2
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 5786
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816869696ccb6fbc0800000000000000
+      internalID: -3749602078623365608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_3
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 5727
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d2cb9ea79904b60800000000000000
+      internalID: 7728345713754254740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_4
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 5711
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bdd8b7d37b5dfc0800000000000000
+      internalID: -3470666463125316827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_5
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 5713
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c522625049432d90800000000000000
+      internalID: -7123769644961094208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_6
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 5619
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dac354e1e249c90800000000000000
+      internalID: -7164050399694115477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_7
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 5614
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0663d4e853ebb0210800000000000000
+      internalID: 1300342054656489056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_8
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 5612
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963a96c1542f9e980800000000000000
+      internalID: -8509003642296491159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_9
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 5510
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124ff32f2cd854d0800000000000000
+      internalID: -3145522244692786667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_10
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 5447
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a39a3a49a6834eb0800000000000000
+      internalID: -4736794321410681948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_11
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 5449
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1b810a9cb182b90800000000000000
+      internalID: -7266527445973945922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_12
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 5387
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63dcb9541a08a790800000000000000
+      internalID: -7518748495373872278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_13
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 5389
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419fbe65a1e9447c0800000000000000
+      internalID: -4087968725780924140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_14
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 5326
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb13daf857cb6150800000000000000
+      internalID: 5867002124559391715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_15
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 5328
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44d1efe9b1cbc70800000000000000
+      internalID: 8988089326006781163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_16
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 5278
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0ce520853387bd0800000000000000
+      internalID: -2632297529108152128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_17
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 5276
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b378c3c12e0990010800000000000000
+      internalID: 1155614080207980347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_18
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 5274
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f388f1d6d7618c0800000000000000
+      internalID: -4028894909002399968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_19
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 5179
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced4638beee030ca0800000000000000
+      internalID: -6051977055800242708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_20
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 5170
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2218e82d0f2f65d80800000000000000
+      internalID: -8262149350225968862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_21
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 5164
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb740bc733e01b40800000000000000
+      internalID: 5409072981240740793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_22
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 5166
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c298d392199146c90800000000000000
+      internalID: -7177583794868877012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_23
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 4836
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f371a2bcb824e30800000000000000
+      internalID: 4486301883515223959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersDecor_24
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 4838
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f65df527ce529620800000000000000
+      internalID: 2779388129469880057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapTopChambersDecor_0: 8536550028804223979
+      LavaMapTopChambersDecor_1: 8410664087803435868
+      LavaMapTopChambersDecor_10: -4736794321410681948
+      LavaMapTopChambersDecor_11: -7266527445973945922
+      LavaMapTopChambersDecor_12: -7518748495373872278
+      LavaMapTopChambersDecor_13: -4087968725780924140
+      LavaMapTopChambersDecor_14: 5867002124559391715
+      LavaMapTopChambersDecor_15: 8988089326006781163
+      LavaMapTopChambersDecor_16: -2632297529108152128
+      LavaMapTopChambersDecor_17: 1155614080207980347
+      LavaMapTopChambersDecor_18: -4028894909002399968
+      LavaMapTopChambersDecor_19: -6051977055800242708
+      LavaMapTopChambersDecor_2: -3749602078623365608
+      LavaMapTopChambersDecor_20: -8262149350225968862
+      LavaMapTopChambersDecor_21: 5409072981240740793
+      LavaMapTopChambersDecor_22: -7177583794868877012
+      LavaMapTopChambersDecor_23: 4486301883515223959
+      LavaMapTopChambersDecor_24: 2779388129469880057
+      LavaMapTopChambersDecor_3: 7728345713754254740
+      LavaMapTopChambersDecor_4: -3470666463125316827
+      LavaMapTopChambersDecor_5: -7123769644961094208
+      LavaMapTopChambersDecor_6: -7164050399694115477
+      LavaMapTopChambersDecor_7: 1300342054656489056
+      LavaMapTopChambersDecor_8: -8509003642296491159
+      LavaMapTopChambersDecor_9: -3145522244692786667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

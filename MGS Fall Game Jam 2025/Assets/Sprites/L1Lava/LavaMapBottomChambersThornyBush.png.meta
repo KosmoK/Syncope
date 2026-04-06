@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 555a66e2b692a3a40ae0020405b4f43c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6487300521706203739
+    second: LavaMapBottomChambersThornyBush_0
+  - first:
+      213: 8409689971383618977
+    second: LavaMapBottomChambersThornyBush_1
+  - first:
+      213: 1290161275503931907
+    second: LavaMapBottomChambersThornyBush_2
+  - first:
+      213: -6266405843786678346
+    second: LavaMapBottomChambersThornyBush_3
+  - first:
+      213: 583819423302417069
+    second: LavaMapBottomChambersThornyBush_4
+  - first:
+      213: -7816007778681596453
+    second: LavaMapBottomChambersThornyBush_5
+  - first:
+      213: -5103825174016566625
+    second: LavaMapBottomChambersThornyBush_6
+  - first:
+      213: -4042025889795656447
+    second: LavaMapBottomChambersThornyBush_7
+  - first:
+      213: 1205317991879122171
+    second: LavaMapBottomChambersThornyBush_8
+  - first:
+      213: -5919123762876449092
+    second: LavaMapBottomChambersThornyBush_9
+  - first:
+      213: -3501152907858230414
+    second: LavaMapBottomChambersThornyBush_10
+  - first:
+      213: -5589645854909886168
+    second: LavaMapBottomChambersThornyBush_11
+  - first:
+      213: 7329778190326689046
+    second: LavaMapBottomChambersThornyBush_12
+  - first:
+      213: 1382429408536716682
+    second: LavaMapBottomChambersThornyBush_13
+  - first:
+      213: 4992688878361980661
+    second: LavaMapBottomChambersThornyBush_14
+  - first:
+      213: 1922715211030954585
+    second: LavaMapBottomChambersThornyBush_15
+  - first:
+      213: -9017439877268916926
+    second: LavaMapBottomChambersThornyBush_16
+  - first:
+      213: 1682026032454534506
+    second: LavaMapBottomChambersThornyBush_17
+  - first:
+      213: -5613334171437034188
+    second: LavaMapBottomChambersThornyBush_18
+  - first:
+      213: -7336871580675022870
+    second: LavaMapBottomChambersThornyBush_19
+  - first:
+      213: -6317668015511015874
+    second: LavaMapBottomChambersThornyBush_20
+  - first:
+      213: 2681143322332192362
+    second: LavaMapBottomChambersThornyBush_21
+  - first:
+      213: 8539301418460243089
+    second: LavaMapBottomChambersThornyBush_22
+  - first:
+      213: -8261385349748070417
+    second: LavaMapBottomChambersThornyBush_23
+  - first:
+      213: 8512100177360994115
+    second: LavaMapBottomChambersThornyBush_24
+  - first:
+      213: 1698899528749477137
+    second: LavaMapBottomChambersThornyBush_25
+  - first:
+      213: -7269617853163083522
+    second: LavaMapBottomChambersThornyBush_26
+  - first:
+      213: -7824170804726599936
+    second: LavaMapBottomChambersThornyBush_27
+  - first:
+      213: 2819622114258380295
+    second: LavaMapBottomChambersThornyBush_28
+  - first:
+      213: -6915591938602016015
+    second: LavaMapBottomChambersThornyBush_29
+  - first:
+      213: -2329367260714669550
+    second: LavaMapBottomChambersThornyBush_30
+  - first:
+      213: -156523577193825190
+    second: LavaMapBottomChambersThornyBush_31
+  - first:
+      213: 7949293702254075324
+    second: LavaMapBottomChambersThornyBush_32
+  - first:
+      213: 6958028529375874304
+    second: LavaMapBottomChambersThornyBush_33
+  - first:
+      213: -5451260839794594860
+    second: LavaMapBottomChambersThornyBush_34
+  - first:
+      213: 1631727026005210692
+    second: LavaMapBottomChambersThornyBush_35
+  - first:
+      213: 5004174444887894917
+    second: LavaMapBottomChambersThornyBush_36
+  - first:
+      213: -7795149726705610541
+    second: LavaMapBottomChambersThornyBush_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_0
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1121
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5de74fb8a78f5a0800000000000000
+      internalID: -6487300521706203739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_1
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1166
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad4c77f87835b470800000000000000
+      internalID: 8409689971383618977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_2
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1008
+        width: 99
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302706138d297e110800000000000000
+      internalID: 1290161275503931907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_3
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1045
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfb9aef5114909a0800000000000000
+      internalID: -6266405843786678346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_4
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 895
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaf9ea1ca42a1800800000000000000
+      internalID: 583819423302417069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_5
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 949
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd55ef51656f78390800000000000000
+      internalID: -7816007778681596453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_6
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 837
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9adb03ab029b29b0800000000000000
+      internalID: -5103825174016566625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_7
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 835
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1053cc96ed6d7e7c0800000000000000
+      internalID: -4042025889795656447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_8
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 888
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc975bd3562ab010800000000000000
+      internalID: 1205317991879122171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_9
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 880
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbefc2c6c4c0bdda0800000000000000
+      internalID: -5919123762876449092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_10
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 800
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273c8ceeaf7696fc0800000000000000
+      internalID: -3501152907858230414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_11
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 857
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8219cddc5b69d62b0800000000000000
+      internalID: -5589645854909886168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_12
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 798
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61de3d4ed6a98b560800000000000000
+      internalID: 7329778190326689046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_13
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 819
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8562eef8306f2310800000000000000
+      internalID: 1382429408536716682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_14
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 722
+        width: 142
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe2fcc1518994540800000000000000
+      internalID: 4992688878361980661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_15
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 727
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9528db52c4bdeaa10800000000000000
+      internalID: 1922715211030954585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_16
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 722
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245b1f3453e9bd280800000000000000
+      internalID: -9017439877268916926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_17
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 683
+        width: 219
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a658967c3c1c75710800000000000000
+      internalID: 1682026032454534506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_18
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 564
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4351fe1df4e6912b0800000000000000
+      internalID: -5613334171437034188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_19
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 507
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd4377b223e2a90800000000000000
+      internalID: -7336871580675022870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_20
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 552
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e6e9e89622358a0800000000000000
+      internalID: -6317668015511015874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_21
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 336
+        width: 170
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e558775a5553520800000000000000
+      internalID: 2681143322332192362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_22
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 452
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194ef4d9561b18670800000000000000
+      internalID: 8539301418460243089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_23
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 460
+        width: 157
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe766ab8bc9a95d80800000000000000
+      internalID: -8261385349748070417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_24
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 384
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f3424230e012670800000000000000
+      internalID: 8512100177360994115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_25
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 341
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11de038ce14b39710800000000000000
+      internalID: 1698899528749477137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_26
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 296
+        width: 142
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8606124112d1b90800000000000000
+      internalID: -7269617853163083522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_27
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 267
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fe94a7b16fa6390800000000000000
+      internalID: -7824170804726599936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_28
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 301
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706e439bf5f412720800000000000000
+      internalID: 2819622114258380295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_29
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 257
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f26210b5c1e600a0800000000000000
+      internalID: -6915591938602016015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_30
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 240
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a6da161dc6cafd0800000000000000
+      internalID: -2329367260714669550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_31
+      rect:
+        serializedVersion: 2
+        x: 3391
+        y: 235
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c7366c2aae3ddf0800000000000000
+      internalID: -156523577193825190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_32
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 194
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd9a1a4180915e60800000000000000
+      internalID: 7949293702254075324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_33
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 158
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d8b7e0512ef8060800000000000000
+      internalID: 6958028529375874304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_34
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 173
+        width: 142
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbab02f52b3954b0800000000000000
+      internalID: -5451260839794594860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_35
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 169
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446f17bb51f05a610800000000000000
+      internalID: 1631727026005210692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_36
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 188
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b61a5f426627540800000000000000
+      internalID: 5004174444887894917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomChambersThornyBush_37
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 165
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d09ab0cf9012d390800000000000000
+      internalID: -7795149726705610541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapBottomChambersThornyBush_0: -6487300521706203739
+      LavaMapBottomChambersThornyBush_1: 8409689971383618977
+      LavaMapBottomChambersThornyBush_10: -3501152907858230414
+      LavaMapBottomChambersThornyBush_11: -5589645854909886168
+      LavaMapBottomChambersThornyBush_12: 7329778190326689046
+      LavaMapBottomChambersThornyBush_13: 1382429408536716682
+      LavaMapBottomChambersThornyBush_14: 4992688878361980661
+      LavaMapBottomChambersThornyBush_15: 1922715211030954585
+      LavaMapBottomChambersThornyBush_16: -9017439877268916926
+      LavaMapBottomChambersThornyBush_17: 1682026032454534506
+      LavaMapBottomChambersThornyBush_18: -5613334171437034188
+      LavaMapBottomChambersThornyBush_19: -7336871580675022870
+      LavaMapBottomChambersThornyBush_2: 1290161275503931907
+      LavaMapBottomChambersThornyBush_20: -6317668015511015874
+      LavaMapBottomChambersThornyBush_21: 2681143322332192362
+      LavaMapBottomChambersThornyBush_22: 8539301418460243089
+      LavaMapBottomChambersThornyBush_23: -8261385349748070417
+      LavaMapBottomChambersThornyBush_24: 8512100177360994115
+      LavaMapBottomChambersThornyBush_25: 1698899528749477137
+      LavaMapBottomChambersThornyBush_26: -7269617853163083522
+      LavaMapBottomChambersThornyBush_27: -7824170804726599936
+      LavaMapBottomChambersThornyBush_28: 2819622114258380295
+      LavaMapBottomChambersThornyBush_29: -6915591938602016015
+      LavaMapBottomChambersThornyBush_3: -6266405843786678346
+      LavaMapBottomChambersThornyBush_30: -2329367260714669550
+      LavaMapBottomChambersThornyBush_31: -156523577193825190
+      LavaMapBottomChambersThornyBush_32: 7949293702254075324
+      LavaMapBottomChambersThornyBush_33: 6958028529375874304
+      LavaMapBottomChambersThornyBush_34: -5451260839794594860
+      LavaMapBottomChambersThornyBush_35: 1631727026005210692
+      LavaMapBottomChambersThornyBush_36: 5004174444887894917
+      LavaMapBottomChambersThornyBush_37: -7795149726705610541
+      LavaMapBottomChambersThornyBush_4: 583819423302417069
+      LavaMapBottomChambersThornyBush_5: -7816007778681596453
+      LavaMapBottomChambersThornyBush_6: -5103825174016566625
+      LavaMapBottomChambersThornyBush_7: -4042025889795656447
+      LavaMapBottomChambersThornyBush_8: 1205317991879122171
+      LavaMapBottomChambersThornyBush_9: -5919123762876449092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

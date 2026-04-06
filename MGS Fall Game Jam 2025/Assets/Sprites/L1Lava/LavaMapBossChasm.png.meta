@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: a9f07d3f31359a24cbf8aef2d371f0b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5867875505278299884
+    second: LavaMapBossChasm_0
+  - first:
+      213: -4024463672487229302
+    second: LavaMapBossChasm_1
+  - first:
+      213: -7919252235286414634
+    second: LavaMapBossChasm_2
+  - first:
+      213: 3691252391466468362
+    second: LavaMapBossChasm_3
+  - first:
+      213: 2199399118978320729
+    second: LavaMapBossChasm_4
+  - first:
+      213: 3600375693273840092
+    second: LavaMapBossChasm_5
+  - first:
+      213: 3122344893669552997
+    second: LavaMapBossChasm_6
+  - first:
+      213: 1674210939666117751
+    second: LavaMapBossChasm_7
+  - first:
+      213: 6462771891511263293
+    second: LavaMapBossChasm_8
+  - first:
+      213: 4002140366027672719
+    second: LavaMapBossChasm_9
+  - first:
+      213: -3603129283395706668
+    second: LavaMapBossChasm_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapBossChasm_0
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 3244
+        width: 149
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411dba9315e119ea0800000000000000
+      internalID: -5867875505278299884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_1
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 3234
+        width: 223
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a884fe5cc9b3628c0800000000000000
+      internalID: -4024463672487229302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_2
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 2643
+        width: 238
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6daf80dcc0a291290800000000000000
+      internalID: -7919252235286414634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_3
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2978
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a048ba13e76f93330800000000000000
+      internalID: 3691252391466468362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_4
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2371
+        width: 189
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959820688d5d58e10800000000000000
+      internalID: 2199399118978320729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_5
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 2516
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9b98f0e9a17f130800000000000000
+      internalID: 3600375693273840092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_6
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2356
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563bd6d432cc45b20800000000000000
+      internalID: 3122344893669552997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_7
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 2423
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7743fd1bafdfb3710800000000000000
+      internalID: 1674210939666117751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_8
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 2397
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3088e94bc060b950800000000000000
+      internalID: 6462771891511263293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_9
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 2397
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cc45a65757a8730800000000000000
+      internalID: 4002140366027672719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBossChasm_10
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 2387
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d02467c10d1ffdc0800000000000000
+      internalID: -3603129283395706668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapBossChasm_0: -5867875505278299884
+      LavaMapBossChasm_1: -4024463672487229302
+      LavaMapBossChasm_10: -3603129283395706668
+      LavaMapBossChasm_2: -7919252235286414634
+      LavaMapBossChasm_3: 3691252391466468362
+      LavaMapBossChasm_4: 2199399118978320729
+      LavaMapBossChasm_5: 3600375693273840092
+      LavaMapBossChasm_6: 3122344893669552997
+      LavaMapBossChasm_7: 1674210939666117751
+      LavaMapBossChasm_8: 6462771891511263293
+      LavaMapBossChasm_9: 4002140366027672719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

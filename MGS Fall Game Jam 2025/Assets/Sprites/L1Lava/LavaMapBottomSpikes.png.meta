@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 3b28b69002942d3448eb3ff86b75f972
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5100816693379840071
+    second: LavaMapBottomSpikes_0
+  - first:
+      213: -8602457417632715876
+    second: LavaMapBottomSpikes_1
+  - first:
+      213: 4033723379883051129
+    second: LavaMapBottomSpikes_2
+  - first:
+      213: -8592173157725019805
+    second: LavaMapBottomSpikes_3
+  - first:
+      213: 5972234865497388494
+    second: LavaMapBottomSpikes_4
+  - first:
+      213: 363927700250104523
+    second: LavaMapBottomSpikes_5
+  - first:
+      213: -5044039535541404276
+    second: LavaMapBottomSpikes_6
+  - first:
+      213: -8115928049124609349
+    second: LavaMapBottomSpikes_7
+  - first:
+      213: 572232436191921455
+    second: LavaMapBottomSpikes_8
+  - first:
+      213: 6387817389030148696
+    second: LavaMapBottomSpikes_9
+  - first:
+      213: -7316597923398710653
+    second: LavaMapBottomSpikes_10
+  - first:
+      213: -3339438856695944358
+    second: LavaMapBottomSpikes_11
+  - first:
+      213: -8818012415930540865
+    second: LavaMapBottomSpikes_12
+  - first:
+      213: -6239041131194301389
+    second: LavaMapBottomSpikes_13
+  - first:
+      213: 2085565632919382076
+    second: LavaMapBottomSpikes_14
+  - first:
+      213: 2703485058533675885
+    second: LavaMapBottomSpikes_15
+  - first:
+      213: 3459697963099703370
+    second: LavaMapBottomSpikes_16
+  - first:
+      213: 5965506493029028698
+    second: LavaMapBottomSpikes_17
+  - first:
+      213: -1702667225456470414
+    second: LavaMapBottomSpikes_18
+  - first:
+      213: -4637030068430271542
+    second: LavaMapBottomSpikes_19
+  - first:
+      213: -4181835162592512172
+    second: LavaMapBottomSpikes_20
+  - first:
+      213: -8899507660538620459
+    second: LavaMapBottomSpikes_21
+  - first:
+      213: 1862088432707178607
+    second: LavaMapBottomSpikes_22
+  - first:
+      213: -6181332311952855070
+    second: LavaMapBottomSpikes_23
+  - first:
+      213: -3509530440351589075
+    second: LavaMapBottomSpikes_24
+  - first:
+      213: 1556253977616467168
+    second: LavaMapBottomSpikes_25
+  - first:
+      213: -4330378346327971190
+    second: LavaMapBottomSpikes_26
+  - first:
+      213: 6037691049564446120
+    second: LavaMapBottomSpikes_27
+  - first:
+      213: 2890023025322763431
+    second: LavaMapBottomSpikes_28
+  - first:
+      213: -1731475299818737841
+    second: LavaMapBottomSpikes_29
+  - first:
+      213: -3444355913283252024
+    second: LavaMapBottomSpikes_30
+  - first:
+      213: 2169354004892442523
+    second: LavaMapBottomSpikes_31
+  - first:
+      213: 2938804348050620868
+    second: LavaMapBottomSpikes_32
+  - first:
+      213: -6416147675883734845
+    second: LavaMapBottomSpikes_33
+  - first:
+      213: 1578200000825618302
+    second: LavaMapBottomSpikes_34
+  - first:
+      213: 3289186788416350486
+    second: LavaMapBottomSpikes_35
+  - first:
+      213: -5915943345618184266
+    second: LavaMapBottomSpikes_36
+  - first:
+      213: 2224931691457758764
+    second: LavaMapBottomSpikes_37
+  - first:
+      213: -2753527909297565682
+    second: LavaMapBottomSpikes_38
+  - first:
+      213: 3461947828502306067
+    second: LavaMapBottomSpikes_39
+  - first:
+      213: 2236238399925487931
+    second: LavaMapBottomSpikes_40
+  - first:
+      213: 5791682246100848014
+    second: LavaMapBottomSpikes_41
+  - first:
+      213: -4406762208533569077
+    second: LavaMapBottomSpikes_42
+  - first:
+      213: -7213595374011144673
+    second: LavaMapBottomSpikes_43
+  - first:
+      213: -4761474601644847986
+    second: LavaMapBottomSpikes_44
+  - first:
+      213: -2344501624025859264
+    second: LavaMapBottomSpikes_45
+  - first:
+      213: 4304089382033376934
+    second: LavaMapBottomSpikes_46
+  - first:
+      213: 3977356457091384569
+    second: LavaMapBottomSpikes_47
+  - first:
+      213: 811863012325744956
+    second: LavaMapBottomSpikes_48
+  - first:
+      213: -2833669243079137579
+    second: LavaMapBottomSpikes_49
+  - first:
+      213: -6263565794524461965
+    second: LavaMapBottomSpikes_50
+  - first:
+      213: 1864692657345311789
+    second: LavaMapBottomSpikes_51
+  - first:
+      213: -7180250935395709747
+    second: LavaMapBottomSpikes_52
+  - first:
+      213: 4791640291819863396
+    second: LavaMapBottomSpikes_53
+  - first:
+      213: -1562749877081832097
+    second: LavaMapBottomSpikes_54
+  - first:
+      213: -5935167960467362312
+    second: LavaMapBottomSpikes_55
+  - first:
+      213: 1412562569783424468
+    second: LavaMapBottomSpikes_56
+  - first:
+      213: 6761043570307884051
+    second: LavaMapBottomSpikes_57
+  - first:
+      213: 7869499234705389979
+    second: LavaMapBottomSpikes_58
+  - first:
+      213: -5578836730964917720
+    second: LavaMapBottomSpikes_59
+  - first:
+      213: 6246624937806653912
+    second: LavaMapBottomSpikes_60
+  - first:
+      213: -6560831893186693759
+    second: LavaMapBottomSpikes_61
+  - first:
+      213: 2896450636896317013
+    second: LavaMapBottomSpikes_62
+  - first:
+      213: 4935920817161662854
+    second: LavaMapBottomSpikes_63
+  - first:
+      213: -2087252770960587561
+    second: LavaMapBottomSpikes_64
+  - first:
+      213: -2703750009078196180
+    second: LavaMapBottomSpikes_65
+  - first:
+      213: 4996795356330033729
+    second: LavaMapBottomSpikes_66
+  - first:
+      213: -235896064149836480
+    second: LavaMapBottomSpikes_67
+  - first:
+      213: -8253666377104869038
+    second: LavaMapBottomSpikes_68
+  - first:
+      213: 8402071142346456419
+    second: LavaMapBottomSpikes_69
+  - first:
+      213: -472033937009522303
+    second: LavaMapBottomSpikes_70
+  - first:
+      213: -1924331577378329503
+    second: LavaMapBottomSpikes_71
+  - first:
+      213: 1776798732457025983
+    second: LavaMapBottomSpikes_72
+  - first:
+      213: 4728949164954956753
+    second: LavaMapBottomSpikes_73
+  - first:
+      213: -6023999811497774831
+    second: LavaMapBottomSpikes_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_0
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 2214
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b746be1e324639b0800000000000000
+      internalID: -5100816693379840071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_1
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2214
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9be3927e8eed9880800000000000000
+      internalID: -8602457417632715876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_2
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 2232
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9780e1cda0aaaf730800000000000000
+      internalID: 4033723379883051129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_3
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 2194
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361672d490872c880800000000000000
+      internalID: -8592173157725019805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_4
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 2181
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5bc29c7f3a1e250800000000000000
+      internalID: 5972234865497388494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_5
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2187
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc21551b05eec0500800000000000000
+      internalID: 363927700250104523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_6
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 2211
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d370354c8fff9b0800000000000000
+      internalID: -5044039535541404276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_7
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2116
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb27c49707e6e5f80800000000000000
+      internalID: -8115928049124609349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_8
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2127
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f250d207e5af0f700800000000000000
+      internalID: 572232436191921455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_9
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 2114
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a843b321616a850800000000000000
+      internalID: 6387817389030148696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_10
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 2152
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a857324f8367a90800000000000000
+      internalID: -7316597923398710653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_11
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 2096
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b608d8d0ee7a1d0800000000000000
+      internalID: -3339438856695944358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_12
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2110
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcd9737d6020a580800000000000000
+      internalID: -8818012415930540865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_13
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2113
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334cc14a5297a69a0800000000000000
+      internalID: -6239041131194301389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_14
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 2122
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c382ce1b4ea61fc10800000000000000
+      internalID: 2085565632919382076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_15
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 2105
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63d9794655b48520800000000000000
+      internalID: 2703485058533675885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2021
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4843b897f0530030800000000000000
+      internalID: 3459697963099703370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_17
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2051
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53184e7c8cb9c250800000000000000
+      internalID: 5965506493029028698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_18
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 2044
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27697f7fd29ee58e0800000000000000
+      internalID: -1702667225456470414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_19
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2008
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb886688b5f5afb0800000000000000
+      internalID: -4637030068430271542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_20
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1923
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4577f60731327f5c0800000000000000
+      internalID: -4181835162592512172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_21
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1934
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d55ab13fe89e7480800000000000000
+      internalID: -8899507660538620459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_22
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2003
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6010e3509777d910800000000000000
+      internalID: 1862088432707178607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_23
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1976
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efe76b230f773aa0800000000000000
+      internalID: -6181332311952855070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_24
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1954
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d5c66a8a4ab4fc0800000000000000
+      internalID: -3509530440351589075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_25
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1946
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e44e1c4fbce89510800000000000000
+      internalID: 1556253977616467168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_26
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1931
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae31c56d767e3c0800000000000000
+      internalID: -4330378346327971190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_27
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1865
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad18d045003ac350800000000000000
+      internalID: 6037691049564446120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_28
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1863
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4201921ac6b1820800000000000000
+      internalID: 2890023025322763431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_29
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1836
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe0f8736098f7e0800000000000000
+      internalID: -1731475299818737841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_30
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1788
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05cbcbb803330d0800000000000000
+      internalID: -3444355913283252024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_31
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 1797
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f5fa549f71b1e10800000000000000
+      internalID: 2169354004892442523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_32
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1809
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c14eedebfab8c820800000000000000
+      internalID: 2938804348050620868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_33
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1726
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c87088dea345f6a0800000000000000
+      internalID: -6416147675883734845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_34
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1766
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f6bb10a84e6e510800000000000000
+      internalID: 1578200000825618302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_35
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 1771
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619e67b05f985ad20800000000000000
+      internalID: 3289186788416350486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_36
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1748
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b797150fd856eda0800000000000000
+      internalID: -5915943345618184266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_37
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 1749
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2649dec59b80ee10800000000000000
+      internalID: 2224931691457758764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_38
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 1744
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00d13f84f089c9d0800000000000000
+      internalID: -2753527909297565682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_39
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1704
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d90d4353f4b0030800000000000000
+      internalID: 3461947828502306067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_40
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1718
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3985a40af6b80f10800000000000000
+      internalID: 2236238399925487931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_41
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 1721
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d07c23150306050800000000000000
+      internalID: 5791682246100848014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_42
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 1641
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1adbe8e1908d2c0800000000000000
+      internalID: -4406762208533569077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_43
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1664
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f162aa20a3924eb90800000000000000
+      internalID: -7213595374011144673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_44
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1678
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c0ae1c318dbedb0800000000000000
+      internalID: -4761474601644847986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_45
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1681
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bbc94d138a67fd0800000000000000
+      internalID: -2344501624025859264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_46
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 1646
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a641a92d723bbb30800000000000000
+      internalID: 4304089382033376934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_47
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1683
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c902ff98623730800000000000000
+      internalID: 3977356457091384569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_48
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1578
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3164f7bb11544b00800000000000000
+      internalID: 811863012325744956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_49
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1595
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6615b36d8cca8d0800000000000000
+      internalID: -2833669243079137579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_50
+      rect:
+        serializedVersion: 2
+        x: 2774
+        y: 1595
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374051e78185319a0800000000000000
+      internalID: -6263565794524461965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_51
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 1515
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24b850a718b0e910800000000000000
+      internalID: 1864692657345311789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_52
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1519
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc829d11df9a5c90800000000000000
+      internalID: -7180250935395709747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_53
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1487
+        width: 156
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d3f5d45735f7240800000000000000
+      internalID: 4791640291819863396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_54
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1506
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5580cf344fff4ae0800000000000000
+      internalID: -1562749877081832097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_55
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1495
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd20129f2c02ada0800000000000000
+      internalID: -5935167960467362312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_56
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1508
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d534f25c2e6a9310800000000000000
+      internalID: 1412562569783424468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_57
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 1553
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314e32f3e4d04dd50800000000000000
+      internalID: 6761043570307884051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_58
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1490
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99b2dc0cd3163d60800000000000000
+      internalID: 7869499234705389979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_59
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 1491
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8224fe61d8df392b0800000000000000
+      internalID: -5578836730964917720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_60
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1478
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9ef0fe84870b650800000000000000
+      internalID: 6246624937806653912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_61
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1503
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185bd87672e33f4a0800000000000000
+      internalID: -6560831893186693759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_62
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 1477
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea8a91282423820800000000000000
+      internalID: 2896450636896317013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_63
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 1473
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6817062e4d9ef7440800000000000000
+      internalID: 4935920817161662854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_64
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1396
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c17ed9a69803e0800000000000000
+      internalID: -2087252770960587561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_65
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1438
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c285f6b11b95a7ad0800000000000000
+      internalID: -2703750009078196180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_66
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1443
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1428f5507ee285540800000000000000
+      internalID: 4996795356330033729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_67
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 1435
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04daf6c87cde9bcf0800000000000000
+      internalID: -235896064149836480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_68
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 1426
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259341ae826157d80800000000000000
+      internalID: -8253666377104869038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_69
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1401
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dfe1910372a9470800000000000000
+      internalID: 8402071142346456419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_70
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1380
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1894e9e92aff279f0800000000000000
+      internalID: -472033937009522303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_71
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1342
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c2c4c30a66b45e0800000000000000
+      internalID: -1924331577378329503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_72
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1300
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb12775880578a810800000000000000
+      internalID: 1776798732457025983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_73
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1227
+        width: 156
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d33502e53a90a140800000000000000
+      internalID: 4728949164954956753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSpikes_74
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1236
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111b7a48614766ca0800000000000000
+      internalID: -6023999811497774831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapBottomSpikes_0: -5100816693379840071
+      LavaMapBottomSpikes_1: -8602457417632715876
+      LavaMapBottomSpikes_10: -7316597923398710653
+      LavaMapBottomSpikes_11: -3339438856695944358
+      LavaMapBottomSpikes_12: -8818012415930540865
+      LavaMapBottomSpikes_13: -6239041131194301389
+      LavaMapBottomSpikes_14: 2085565632919382076
+      LavaMapBottomSpikes_15: 2703485058533675885
+      LavaMapBottomSpikes_16: 3459697963099703370
+      LavaMapBottomSpikes_17: 5965506493029028698
+      LavaMapBottomSpikes_18: -1702667225456470414
+      LavaMapBottomSpikes_19: -4637030068430271542
+      LavaMapBottomSpikes_2: 4033723379883051129
+      LavaMapBottomSpikes_20: -4181835162592512172
+      LavaMapBottomSpikes_21: -8899507660538620459
+      LavaMapBottomSpikes_22: 1862088432707178607
+      LavaMapBottomSpikes_23: -6181332311952855070
+      LavaMapBottomSpikes_24: -3509530440351589075
+      LavaMapBottomSpikes_25: 1556253977616467168
+      LavaMapBottomSpikes_26: -4330378346327971190
+      LavaMapBottomSpikes_27: 6037691049564446120
+      LavaMapBottomSpikes_28: 2890023025322763431
+      LavaMapBottomSpikes_29: -1731475299818737841
+      LavaMapBottomSpikes_3: -8592173157725019805
+      LavaMapBottomSpikes_30: -3444355913283252024
+      LavaMapBottomSpikes_31: 2169354004892442523
+      LavaMapBottomSpikes_32: 2938804348050620868
+      LavaMapBottomSpikes_33: -6416147675883734845
+      LavaMapBottomSpikes_34: 1578200000825618302
+      LavaMapBottomSpikes_35: 3289186788416350486
+      LavaMapBottomSpikes_36: -5915943345618184266
+      LavaMapBottomSpikes_37: 2224931691457758764
+      LavaMapBottomSpikes_38: -2753527909297565682
+      LavaMapBottomSpikes_39: 3461947828502306067
+      LavaMapBottomSpikes_4: 5972234865497388494
+      LavaMapBottomSpikes_40: 2236238399925487931
+      LavaMapBottomSpikes_41: 5791682246100848014
+      LavaMapBottomSpikes_42: -4406762208533569077
+      LavaMapBottomSpikes_43: -7213595374011144673
+      LavaMapBottomSpikes_44: -4761474601644847986
+      LavaMapBottomSpikes_45: -2344501624025859264
+      LavaMapBottomSpikes_46: 4304089382033376934
+      LavaMapBottomSpikes_47: 3977356457091384569
+      LavaMapBottomSpikes_48: 811863012325744956
+      LavaMapBottomSpikes_49: -2833669243079137579
+      LavaMapBottomSpikes_5: 363927700250104523
+      LavaMapBottomSpikes_50: -6263565794524461965
+      LavaMapBottomSpikes_51: 1864692657345311789
+      LavaMapBottomSpikes_52: -7180250935395709747
+      LavaMapBottomSpikes_53: 4791640291819863396
+      LavaMapBottomSpikes_54: -1562749877081832097
+      LavaMapBottomSpikes_55: -5935167960467362312
+      LavaMapBottomSpikes_56: 1412562569783424468
+      LavaMapBottomSpikes_57: 6761043570307884051
+      LavaMapBottomSpikes_58: 7869499234705389979
+      LavaMapBottomSpikes_59: -5578836730964917720
+      LavaMapBottomSpikes_6: -5044039535541404276
+      LavaMapBottomSpikes_60: 6246624937806653912
+      LavaMapBottomSpikes_61: -6560831893186693759
+      LavaMapBottomSpikes_62: 2896450636896317013
+      LavaMapBottomSpikes_63: 4935920817161662854
+      LavaMapBottomSpikes_64: -2087252770960587561
+      LavaMapBottomSpikes_65: -2703750009078196180
+      LavaMapBottomSpikes_66: 4996795356330033729
+      LavaMapBottomSpikes_67: -235896064149836480
+      LavaMapBottomSpikes_68: -8253666377104869038
+      LavaMapBottomSpikes_69: 8402071142346456419
+      LavaMapBottomSpikes_7: -8115928049124609349
+      LavaMapBottomSpikes_70: -472033937009522303
+      LavaMapBottomSpikes_71: -1924331577378329503
+      LavaMapBottomSpikes_72: 1776798732457025983
+      LavaMapBottomSpikes_73: 4728949164954956753
+      LavaMapBottomSpikes_74: -6023999811497774831
+      LavaMapBottomSpikes_8: 572232436191921455
+      LavaMapBottomSpikes_9: 6387817389030148696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

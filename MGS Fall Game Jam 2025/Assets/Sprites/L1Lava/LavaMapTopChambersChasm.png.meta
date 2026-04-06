@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 2cbf3625e8ab60e4cab8b831048c6a16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7842604724478931795
+    second: LavaMapTopChambersChasm_0
+  - first:
+      213: 4055589588511442252
+    second: LavaMapTopChambersChasm_1
+  - first:
+      213: 8677403072955858144
+    second: LavaMapTopChambersChasm_2
+  - first:
+      213: -6246419930823116881
+    second: LavaMapTopChambersChasm_3
+  - first:
+      213: 8014369061375449155
+    second: LavaMapTopChambersChasm_4
+  - first:
+      213: -1920919766157684061
+    second: LavaMapTopChambersChasm_5
+  - first:
+      213: 8874944058965302457
+    second: LavaMapTopChambersChasm_6
+  - first:
+      213: 8246974653891580232
+    second: LavaMapTopChambersChasm_7
+  - first:
+      213: 4889527499054692805
+    second: LavaMapTopChambersChasm_8
+  - first:
+      213: 6489337591026873910
+    second: LavaMapTopChambersChasm_9
+  - first:
+      213: 4731506674128451043
+    second: LavaMapTopChambersChasm_10
+  - first:
+      213: -5636796294698756741
+    second: LavaMapTopChambersChasm_11
+  - first:
+      213: -187128181695661614
+    second: LavaMapTopChambersChasm_12
+  - first:
+      213: 6227997518873281310
+    second: LavaMapTopChambersChasm_13
+  - first:
+      213: 4424207749180096469
+    second: LavaMapTopChambersChasm_14
+  - first:
+      213: 3884168830850036703
+    second: LavaMapTopChambersChasm_15
+  - first:
+      213: 6034404899210192049
+    second: LavaMapTopChambersChasm_16
+  - first:
+      213: 1256342181562528563
+    second: LavaMapTopChambersChasm_17
+  - first:
+      213: -6997590772807572529
+    second: LavaMapTopChambersChasm_18
+  - first:
+      213: 954169110913282501
+    second: LavaMapTopChambersChasm_19
+  - first:
+      213: 1389888131751794747
+    second: LavaMapTopChambersChasm_20
+  - first:
+      213: 3527232857491666200
+    second: LavaMapTopChambersChasm_21
+  - first:
+      213: -577128590664845209
+    second: LavaMapTopChambersChasm_22
+  - first:
+      213: 5756321570105155891
+    second: LavaMapTopChambersChasm_23
+  - first:
+      213: 2287224594313826726
+    second: LavaMapTopChambersChasm_24
+  - first:
+      213: -424902874869729980
+    second: LavaMapTopChambersChasm_25
+  - first:
+      213: -5433778227132585757
+    second: LavaMapTopChambersChasm_26
+  - first:
+      213: 4511305521009887760
+    second: LavaMapTopChambersChasm_27
+  - first:
+      213: 6329448823785949948
+    second: LavaMapTopChambersChasm_28
+  - first:
+      213: 4422990715756025297
+    second: LavaMapTopChambersChasm_29
+  - first:
+      213: -8105230411129462489
+    second: LavaMapTopChambersChasm_30
+  - first:
+      213: -6181590041609535659
+    second: LavaMapTopChambersChasm_31
+  - first:
+      213: -5516524064535197401
+    second: LavaMapTopChambersChasm_32
+  - first:
+      213: 1778545879522700935
+    second: LavaMapTopChambersChasm_33
+  - first:
+      213: 5731489575844042437
+    second: LavaMapTopChambersChasm_34
+  - first:
+      213: 5538100052033670059
+    second: LavaMapTopChambersChasm_35
+  - first:
+      213: -5846094278134742810
+    second: LavaMapTopChambersChasm_36
+  - first:
+      213: 5021619736618866371
+    second: LavaMapTopChambersChasm_37
+  - first:
+      213: 5799008630577130378
+    second: LavaMapTopChambersChasm_38
+  - first:
+      213: -6953815389958342352
+    second: LavaMapTopChambersChasm_39
+  - first:
+      213: -3703985528359308787
+    second: LavaMapTopChambersChasm_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_0
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 5704
+        width: 109
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353fd5ce17786dc60800000000000000
+      internalID: 7842604724478931795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_1
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 5744
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c454ff94e39584830800000000000000
+      internalID: 4055589588511442252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_2
+      rect:
+        serializedVersion: 2
+        x: 3348
+        y: 5787
+        width: 161
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecba68be145c6870800000000000000
+      internalID: 8677403072955858144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_3
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 5792
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa73e59fa224059a0800000000000000
+      internalID: -6246419930823116881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_4
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 5716
+        width: 216
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3481a2a0332c83f60800000000000000
+      internalID: 8014369061375449155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_5
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 5645
+        width: 202
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2152076a58755e0800000000000000
+      internalID: -1920919766157684061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_6
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 5673
+        width: 161
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc1714a9922a2b70800000000000000
+      internalID: 8874944058965302457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_7
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 5613
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8419bdcd0c3237270800000000000000
+      internalID: 8246974653891580232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_8
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 5625
+        width: 266
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9b8a4ca571bd340800000000000000
+      internalID: 4889527499054692805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_9
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 5592
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636feb43822ce0a50800000000000000
+      internalID: 6489337591026873910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5389
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5f0d36040b9a140800000000000000
+      internalID: 4731506674128451043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_11
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 5458
+        width: 216
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b751e3f82a316c1b0800000000000000
+      internalID: -5636796294698756741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_12
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 5471
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9b09209ef276df0800000000000000
+      internalID: -187128181695661614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_13
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 5447
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13c47efeba4e6650800000000000000
+      internalID: 6227997518873281310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_14
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 5277
+        width: 216
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dff866e181f56d30800000000000000
+      internalID: 4424207749180096469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 5352
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3f572f8f657e530800000000000000
+      internalID: 3884168830850036703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_16
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 5288
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4ec40c8438eb350800000000000000
+      internalID: 6034404899210192049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_17
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 5334
+        width: 154
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333bf58ce8c6f6110800000000000000
+      internalID: 1256342181562528563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_18
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 5276
+        width: 113
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3e047544093ee90800000000000000
+      internalID: -6997590772807572529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_19
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 5297
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1f2af30c3ed3d00800000000000000
+      internalID: 954169110913282501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_20
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 5294
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38d89254efd94310800000000000000
+      internalID: 1389888131751794747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_21
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5247
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81570e6889f33f030800000000000000
+      internalID: 3527232857491666200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_22
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 5177
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76833b3ca90adf7f0800000000000000
+      internalID: -577128590664845209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_23
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 5272
+        width: 161
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331690f38ff82ef40800000000000000
+      internalID: 5756321570105155891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_24
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 5138
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1dc9976aaddbf10800000000000000
+      internalID: 2287224594313826726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_25
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 5145
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445f85726117a1af0800000000000000
+      internalID: -424902874869729980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_26
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 5102
+        width: 220
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8a287ed775794b0800000000000000
+      internalID: -5433778227132585757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_27
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 5098
+        width: 216
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a8d0d28706b9e30800000000000000
+      internalID: 4511305521009887760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_28
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 5135
+        width: 166
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa86cd9b28b6d750800000000000000
+      internalID: 6329448823785949948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_29
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 5109
+        width: 216
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d51d793f9e916d30800000000000000
+      internalID: 4422990715756025297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_30
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 5213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7216fe962ef648f80800000000000000
+      internalID: -8105230411129462489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_31
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 5021
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f75cecb94963aa0800000000000000
+      internalID: -6181590041609535659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_32
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 4987
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7294c72579e5173b0800000000000000
+      internalID: -5516524064535197401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_33
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 4806
+        width: 300
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e6fa5ed0aaea810800000000000000
+      internalID: 1778545879522700935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_34
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 4943
+        width: 166
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d90a07675a8f40800000000000000
+      internalID: 5731489575844042437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_35
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 4885
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab0a0cb7a84bdc40800000000000000
+      internalID: 5538100052033670059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_36
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 4891
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0c55c5a308edea0800000000000000
+      internalID: -5846094278134742810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_37
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 4760
+        width: 82
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c612467b8060b540800000000000000
+      internalID: 5021619736618866371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_38
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 4790
+        width: 117
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b69f200a73a7050800000000000000
+      internalID: 5799008630577130378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_39
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 4671
+        width: 181
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03973e7eeb51f7f90800000000000000
+      internalID: -6953815389958342352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapTopChambersChasm_40
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 4757
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02b4f859ccc89cc0800000000000000
+      internalID: -3703985528359308787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapTopChambersChasm_0: 7842604724478931795
+      LavaMapTopChambersChasm_1: 4055589588511442252
+      LavaMapTopChambersChasm_10: 4731506674128451043
+      LavaMapTopChambersChasm_11: -5636796294698756741
+      LavaMapTopChambersChasm_12: -187128181695661614
+      LavaMapTopChambersChasm_13: 6227997518873281310
+      LavaMapTopChambersChasm_14: 4424207749180096469
+      LavaMapTopChambersChasm_15: 3884168830850036703
+      LavaMapTopChambersChasm_16: 6034404899210192049
+      LavaMapTopChambersChasm_17: 1256342181562528563
+      LavaMapTopChambersChasm_18: -6997590772807572529
+      LavaMapTopChambersChasm_19: 954169110913282501
+      LavaMapTopChambersChasm_2: 8677403072955858144
+      LavaMapTopChambersChasm_20: 1389888131751794747
+      LavaMapTopChambersChasm_21: 3527232857491666200
+      LavaMapTopChambersChasm_22: -577128590664845209
+      LavaMapTopChambersChasm_23: 5756321570105155891
+      LavaMapTopChambersChasm_24: 2287224594313826726
+      LavaMapTopChambersChasm_25: -424902874869729980
+      LavaMapTopChambersChasm_26: -5433778227132585757
+      LavaMapTopChambersChasm_27: 4511305521009887760
+      LavaMapTopChambersChasm_28: 6329448823785949948
+      LavaMapTopChambersChasm_29: 4422990715756025297
+      LavaMapTopChambersChasm_3: -6246419930823116881
+      LavaMapTopChambersChasm_30: -8105230411129462489
+      LavaMapTopChambersChasm_31: -6181590041609535659
+      LavaMapTopChambersChasm_32: -5516524064535197401
+      LavaMapTopChambersChasm_33: 1778545879522700935
+      LavaMapTopChambersChasm_34: 5731489575844042437
+      LavaMapTopChambersChasm_35: 5538100052033670059
+      LavaMapTopChambersChasm_36: -5846094278134742810
+      LavaMapTopChambersChasm_37: 5021619736618866371
+      LavaMapTopChambersChasm_38: 5799008630577130378
+      LavaMapTopChambersChasm_39: -6953815389958342352
+      LavaMapTopChambersChasm_4: 8014369061375449155
+      LavaMapTopChambersChasm_40: -3703985528359308787
+      LavaMapTopChambersChasm_5: -1920919766157684061
+      LavaMapTopChambersChasm_6: 8874944058965302457
+      LavaMapTopChambersChasm_7: 8246974653891580232
+      LavaMapTopChambersChasm_8: 4889527499054692805
+      LavaMapTopChambersChasm_9: 6489337591026873910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

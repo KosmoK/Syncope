@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: a1e29a40cb88ebf488dc8008daa46b66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2366012943502273043
+    second: LavaMapBottomSecondFloorWALL_0
+  - first:
+      213: 3859944918191304346
+    second: LavaMapBottomSecondFloorWALL_1
+  - first:
+      213: -6748990025944239357
+    second: LavaMapBottomSecondFloorWALL_2
+  - first:
+      213: 9038687302435228783
+    second: LavaMapBottomSecondFloorWALL_3
+  - first:
+      213: -7386768080609684756
+    second: LavaMapBottomSecondFloorWALL_4
+  - first:
+      213: -1442695540981893222
+    second: LavaMapBottomSecondFloorWALL_5
+  - first:
+      213: 649727427997825728
+    second: LavaMapBottomSecondFloorWALL_6
+  - first:
+      213: 1049124887012107087
+    second: LavaMapBottomSecondFloorWALL_7
+  - first:
+      213: -2448139746173619910
+    second: LavaMapBottomSecondFloorWALL_8
+  - first:
+      213: 6511982657355319975
+    second: LavaMapBottomSecondFloorWALL_9
+  - first:
+      213: 6505989434509660985
+    second: LavaMapBottomSecondFloorWALL_10
+  - first:
+      213: 7548973984962794988
+    second: LavaMapBottomSecondFloorWALL_11
+  - first:
+      213: -4664852195007885288
+    second: LavaMapBottomSecondFloorWALL_12
+  - first:
+      213: 8136428331200835705
+    second: LavaMapBottomSecondFloorWALL_13
+  - first:
+      213: -4946639759467996691
+    second: LavaMapBottomSecondFloorWALL_14
+  - first:
+      213: -7801798366237113200
+    second: LavaMapBottomSecondFloorWALL_15
+  - first:
+      213: -1560717725368143141
+    second: LavaMapBottomSecondFloorWALL_16
+  - first:
+      213: -6397063702461796084
+    second: LavaMapBottomSecondFloorWALL_17
+  - first:
+      213: 6557670503933549308
+    second: LavaMapBottomSecondFloorWALL_18
+  - first:
+      213: 5327023587559221465
+    second: LavaMapBottomSecondFloorWALL_19
+  - first:
+      213: 7264833471112197680
+    second: LavaMapBottomSecondFloorWALL_20
+  - first:
+      213: 8325590928325427423
+    second: LavaMapBottomSecondFloorWALL_21
+  - first:
+      213: -3800301022541482677
+    second: LavaMapBottomSecondFloorWALL_22
+  - first:
+      213: -6012212667481233877
+    second: LavaMapBottomSecondFloorWALL_23
+  - first:
+      213: 45353359901196928
+    second: LavaMapBottomSecondFloorWALL_24
+  - first:
+      213: -908386637080526003
+    second: LavaMapBottomSecondFloorWALL_25
+  - first:
+      213: 4859273007345397711
+    second: LavaMapBottomSecondFloorWALL_26
+  - first:
+      213: 4537428596012799913
+    second: LavaMapBottomSecondFloorWALL_27
+  - first:
+      213: 376179665060467729
+    second: LavaMapBottomSecondFloorWALL_28
+  - first:
+      213: -2803221208348659340
+    second: LavaMapBottomSecondFloorWALL_29
+  - first:
+      213: -1549371174484077276
+    second: LavaMapBottomSecondFloorWALL_30
+  - first:
+      213: 6578520334230442542
+    second: LavaMapBottomSecondFloorWALL_31
+  - first:
+      213: 4872018537261990281
+    second: LavaMapBottomSecondFloorWALL_32
+  - first:
+      213: -7262703196180612036
+    second: LavaMapBottomSecondFloorWALL_33
+  - first:
+      213: -8979732257618959759
+    second: LavaMapBottomSecondFloorWALL_34
+  - first:
+      213: 920390336094394482
+    second: LavaMapBottomSecondFloorWALL_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_0
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2399
+        width: 116
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5129873cb3a2fd0800000000000000
+      internalID: -2366012943502273043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2319
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9eed55c377419530800000000000000
+      internalID: 3859944918191304346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_2
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 2238
+        width: 102
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30370fe3455c652a0800000000000000
+      internalID: -6748990025944239357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2271
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c4c79663edf6d70800000000000000
+      internalID: 9038687302435228783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_4
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 2239
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2d015419dec7990800000000000000
+      internalID: -7386768080609684756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1967
+        width: 675
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97fbb89c048afbe0800000000000000
+      internalID: -1442695540981893222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_6
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2078
+        width: 306
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca73a247ab440900800000000000000
+      internalID: 649727427997825728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_7
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1998
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43e067b68d3f8e00800000000000000
+      internalID: 1049124887012107087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_8
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 1870
+        width: 178
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a317ec42fd5760ed0800000000000000
+      internalID: -2448139746173619910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_9
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 1998
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa0b2399b53f5a50800000000000000
+      internalID: 6511982657355319975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_10
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1951
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9339464abeae94a50800000000000000
+      internalID: 6505989434509660985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_11
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1711
+        width: 178
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce55f58d7d753c860800000000000000
+      internalID: 7548973984962794988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_12
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 1890
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8109ad2e4ad134fb0800000000000000
+      internalID: -4664852195007885288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_13
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1715
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97076a565766ae070800000000000000
+      internalID: 8136428331200835705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_14
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 1727
+        width: 178
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de91611e8510a5bb0800000000000000
+      internalID: -4946639759467996691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_15
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1710
+        width: 146
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094c63bb8b17ab390800000000000000
+      internalID: -7801798366237113200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_16
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 1710
+        width: 418
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2b6c07f77375ae0800000000000000
+      internalID: -1560717725368143141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_17
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1742
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c013839a4701937a0800000000000000
+      internalID: -6397063702461796084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_18
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1615
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa140d4496810b50800000000000000
+      internalID: 6557670503933549308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_19
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1682
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d82896aab36de940800000000000000
+      internalID: 5327023587559221465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_20
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1647
+        width: 113
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036b20e1d8fd1d460800000000000000
+      internalID: 7264833471112197680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_21
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1681
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd04d04a6d07a8370800000000000000
+      internalID: 8325590928325427423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_22
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1294
+        width: 498
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b457cd7da5e924bc0800000000000000
+      internalID: -3800301022541482677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_23
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1394
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b266da8de64509ca0800000000000000
+      internalID: -6012212667481233877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_24
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1391
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082084af3a021a000800000000000000
+      internalID: 45353359901196928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_25
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 1375
+        width: 226
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d438a1a9a23c463f0800000000000000
+      internalID: -908386637080526003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_26
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 1358
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf677dfd0b9f6340800000000000000
+      internalID: 4859273007345397711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_27
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1358
+        width: 258
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7da0b844f28fe30800000000000000
+      internalID: 4537428596012799913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_28
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1363
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11497ab8965783500800000000000000
+      internalID: 376179665060467729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_29
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1262
+        width: 178
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4717981c925f819d0800000000000000
+      internalID: -2803221208348659340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_30
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1213
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42595af20278f7ae0800000000000000
+      internalID: -1549371174484077276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_31
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1262
+        width: 114
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e225d75b3699b4b50800000000000000
+      internalID: 6578520334230442542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_32
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 1199
+        width: 610
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9818e9ceb03ec9340800000000000000
+      internalID: 4872018537261990281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_33
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1181
+        width: 228
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c7f8a2ce1b53b90800000000000000
+      internalID: -7262703196180612036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_34
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 1213
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172618e9615916380800000000000000
+      internalID: -8979732257618959759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LavaMapBottomSecondFloorWALL_35
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 1198
+        width: 99
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278db9d5222e5cc00800000000000000
+      internalID: 920390336094394482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LavaMapBottomSecondFloorWALL_0: -2366012943502273043
+      LavaMapBottomSecondFloorWALL_1: 3859944918191304346
+      LavaMapBottomSecondFloorWALL_10: 6505989434509660985
+      LavaMapBottomSecondFloorWALL_11: 7548973984962794988
+      LavaMapBottomSecondFloorWALL_12: -4664852195007885288
+      LavaMapBottomSecondFloorWALL_13: 8136428331200835705
+      LavaMapBottomSecondFloorWALL_14: -4946639759467996691
+      LavaMapBottomSecondFloorWALL_15: -7801798366237113200
+      LavaMapBottomSecondFloorWALL_16: -1560717725368143141
+      LavaMapBottomSecondFloorWALL_17: -6397063702461796084
+      LavaMapBottomSecondFloorWALL_18: 6557670503933549308
+      LavaMapBottomSecondFloorWALL_19: 5327023587559221465
+      LavaMapBottomSecondFloorWALL_2: -6748990025944239357
+      LavaMapBottomSecondFloorWALL_20: 7264833471112197680
+      LavaMapBottomSecondFloorWALL_21: 8325590928325427423
+      LavaMapBottomSecondFloorWALL_22: -3800301022541482677
+      LavaMapBottomSecondFloorWALL_23: -6012212667481233877
+      LavaMapBottomSecondFloorWALL_24: 45353359901196928
+      LavaMapBottomSecondFloorWALL_25: -908386637080526003
+      LavaMapBottomSecondFloorWALL_26: 4859273007345397711
+      LavaMapBottomSecondFloorWALL_27: 4537428596012799913
+      LavaMapBottomSecondFloorWALL_28: 376179665060467729
+      LavaMapBottomSecondFloorWALL_29: -2803221208348659340
+      LavaMapBottomSecondFloorWALL_3: 9038687302435228783
+      LavaMapBottomSecondFloorWALL_30: -1549371174484077276
+      LavaMapBottomSecondFloorWALL_31: 6578520334230442542
+      LavaMapBottomSecondFloorWALL_32: 4872018537261990281
+      LavaMapBottomSecondFloorWALL_33: -7262703196180612036
+      LavaMapBottomSecondFloorWALL_34: -8979732257618959759
+      LavaMapBottomSecondFloorWALL_35: 920390336094394482
+      LavaMapBottomSecondFloorWALL_4: -7386768080609684756
+      LavaMapBottomSecondFloorWALL_5: -1442695540981893222
+      LavaMapBottomSecondFloorWALL_6: 649727427997825728
+      LavaMapBottomSecondFloorWALL_7: 1049124887012107087
+      LavaMapBottomSecondFloorWALL_8: -2448139746173619910
+      LavaMapBottomSecondFloorWALL_9: 6511982657355319975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
