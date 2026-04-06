@@ -309,6 +309,7 @@ public class AnimStatesBase : MonoBehaviour
 
     protected void playAttackSound(EventReference sound)
     {
+        Debug.Log("is this working??");
 
         if (attackInstance.isValid())
         {
