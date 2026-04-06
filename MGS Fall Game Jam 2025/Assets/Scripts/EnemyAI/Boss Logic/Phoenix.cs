@@ -222,6 +222,7 @@ public class Phoenix : MonoBehaviour
         } else if (state == "attack1")
         {
             phase1AttackFunc();
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.flapWing, this.transform.position);
         } else if (state == "waitPhase1Attack")
         {
             phase1AttackWaitFunc();
