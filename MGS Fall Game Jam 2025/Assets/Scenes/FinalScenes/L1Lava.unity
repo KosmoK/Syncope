@@ -3426,6 +3426,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1844056599071406877, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2106154532422505263, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
       propertyPath: m_Name
       value: Player
@@ -6181,6 +6185,7 @@ GameObject:
   - component: {fileID: 634381276}
   - component: {fileID: 634381275}
   - component: {fileID: 634381274}
+  - component: {fileID: 634381279}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -6389,6 +6394,20 @@ MonoBehaviour:
         m_Calls: []
   m_LegacyBlendHint: 0
   m_ComponentOwner: {fileID: 1125196739}
+--- !u!114 &634381279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 634381272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c6556701af9e04380698b89f691b6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioListener
+  nonRigidbodyVelocity: 0
+  attenuationObject: {fileID: 450193587}
 --- !u!1 &637946274
 GameObject:
   m_ObjectHideFlags: 0
@@ -11482,7 +11501,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
 --- !u!4 &1039626817
 Transform:

@@ -42,7 +42,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/SFX.bank
   Name: SFX
   StudioPath: bank:/SFX
-  lastModified: 639110215440176180
+  lastModified: 639110286974241139
   FileSizes: []
   Exists: 1
 --- !u!114 &-7305551115906622847
@@ -589,7 +589,6 @@ MonoBehaviour:
   - {fileID: 194703231590927311}
   - {fileID: -7702026172798168076}
   EditorEvents:
-  - {fileID: 773262878672849875}
   - {fileID: -6449514969893315999}
   - {fileID: -3530817508880444565}
   - {fileID: -30053884819823272}
@@ -618,54 +617,52 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 8152384632324471754}
   cacheVersion: 131858
-  cacheTime: 639110215440176180
+  cacheTime: 639110935553327781
   SerializableEventsDict:
-  - key: event:/Music/Level1Ice
-    index: 0
   - key: event:/Music/Level1Fire
-    index: 1
+    index: 0
   - key: event:/SFX/Ant/AntAttack
-    index: 2
+    index: 1
   - key: event:/SFX/Snake/SnakeMoving
-    index: 3
+    index: 2
   - key: event:/SFX/Enemy Generic/EnemyHit
-    index: 4
+    index: 3
   - key: event:/SFX/Ant/AntLeaderAttack
-    index: 5
+    index: 4
   - key: event:/SFX/Ant/AntMoving
-    index: 6
+    index: 5
   - key: event:/SFX/Ant/AntDeath
-    index: 7
+    index: 6
   - key: event:/SFX/Player/PlayerFootsteps
-    index: 8
+    index: 7
   - key: event:/SFX/Player/PlayerHurt
-    index: 9
+    index: 8
   - key: event:/SFX/Player/PlayerAttack
-    index: 10
+    index: 9
   - key: event:/SFX/Ant/AntAttackNew
-    index: 11
+    index: 10
   - key: event:/Misc/CoinGet
-    index: 12
+    index: 11
   - key: event:/SFX/Sharmadillo/SharWalk
-    index: 13
+    index: 12
   - key: event:/Phoenix Boss/PhoenixScreech
-    index: 14
+    index: 13
   - key: event:/Phoenix Boss/PhoenixFlapWing
-    index: 15
+    index: 14
   - key: event:/SFX/Snake/SnakeAtk
-    index: 16
+    index: 15
   - key: event:/Frog/FrogDeath
-    index: 17
+    index: 16
   - key: event:/SFX/Snake/SnakeDeath
-    index: 18
+    index: 17
   - key: event:/Phoenix Boss/PhoenixSlashLoop
-    index: 19
+    index: 18
   - key: event:/SFX/Sharmadillo/SharDeath
-    index: 20
+    index: 19
   - key: event:/Frog/FrogJump
-    index: 21
+    index: 20
   - key: event:/Phoenix Boss/PhoenixDeath
-    index: 22
+    index: 21
 --- !u!114 &21056612591811762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -708,36 +705,9 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Music.bank
   Name: Music
   StudioPath: bank:/Music
-  lastModified: 639110215440151284
+  lastModified: 639110935553327781
   FileSizes: []
   Exists: 1
---- !u!114 &773262878672849875
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/Music/Level1Ice
-  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
-  Path: event:/Music/Level1Ice
-  Guid:
-    Data1: -698037123
-    Data2: 1285530945
-    Data3: 367593354
-    Data4: -1572912297
-  Banks:
-  - {fileID: 194703231590927311}
-  IsStream: 1
-  Is3D: 0
-  IsOneShot: 0
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 161280
 --- !u!114 &1036289932115809695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1036,7 +1006,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639110215439918435
+  lastModified: 639110286973380989
   FileSizes: []
   Exists: 1
 --- !u!114 &5519010807118625554
@@ -1216,8 +1186,8 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639110215439938370
+  lastModified: 639110935553177748
   FileSizes:
   - Name: 
-    Value: 1934
+    Value: 1888
   Exists: 1
