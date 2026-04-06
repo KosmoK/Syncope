@@ -1,8 +1,9 @@
+using Cinemachine;
 using UnityEngine;
 
 public class GolemBlock : MonoBehaviour
 {
-    [SerializeField] GameObject playerCamera;
+    [SerializeField] CinemachineVirtualCamera playerCamera;
     [SerializeField] GameObject golemBounds;
 
     void OnTriggerExit2D(Collider2D collision)

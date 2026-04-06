@@ -1,5 +1,6 @@
 // source: https://www.youtube.com/watch?v=xlHk1jHwarQ
 
+using Cinemachine;
 using UnityEngine;
 
 public class CameraLetterbox : MonoBehaviour
@@ -8,7 +9,7 @@ public class CameraLetterbox : MonoBehaviour
     [SerializeField] private int _targetYAspect = 9;
     private float _targetAspectRatio;
 
-    private Camera _camera;
+    private Camera _camera; // Unable to switch to CinemachineVirtualCamera due to .rect not existing.
     private float _lastWidth;
     private float _lastHeight;
     private Rect _originalCameraRect;

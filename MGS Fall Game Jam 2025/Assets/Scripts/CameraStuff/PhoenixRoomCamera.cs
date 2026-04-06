@@ -1,12 +1,13 @@
+using Cinemachine;
 using UnityEngine;
 
 public class PhoenixRoomCamera : MonoBehaviour
 {
-    Camera camera;
+    CinemachineVirtualCamera camera;
     void Start()
     {
-        camera = GetComponent<Camera>();
-        camera.aspect = 1f;
+        camera = GetComponent<CinemachineVirtualCamera>();
+        // camera.m_Lens.Aspect = 1f; // No idea how to make this non-read only.
     }
 
     // Update is called once per frame

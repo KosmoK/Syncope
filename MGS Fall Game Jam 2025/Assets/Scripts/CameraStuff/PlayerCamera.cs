@@ -1,3 +1,5 @@
+using System.Collections;
+using Cinemachine;
 using UnityEngine;
 
 public class PlayerCamera : MonoBehaviour
@@ -7,11 +9,13 @@ public class PlayerCamera : MonoBehaviour
     public Vector3 offset = Vector3.zero;
 
     public bool changeSize;
-    Camera camera;
+    public CinemachineVirtualCamera v_cam;
+
+    public bool shakeCamera;
 
     void Start()
     {
-        camera = GetComponent<Camera>();
+        v_cam = GetComponent<CinemachineVirtualCamera>();
     }
 
     // Update is called once per frame
@@ -25,17 +29,39 @@ public class PlayerCamera : MonoBehaviour
         {
             transform.position = Vector3.Lerp(transform.position, new Vector3(followObject.transform.position.x, followObject.transform.position.y, transform.position.z) + offset, 4f*Time.deltaTime);
         }
+        if (shakeCamera)
+        {
+            shakeCamera = false;
+            ShakeCamera(3f, 3f, .5f);
+        }
     }
 
     private void changeSizeFunc()
     {
-        if (camera.orthographicSize < 25f)
+        if (v_cam.m_Lens.OrthographicSize < 25f)
         {
-            camera.orthographicSize += 2f*Time.deltaTime;
+            v_cam.m_Lens.OrthographicSize += 2f*Time.deltaTime;
         } else
         {
-            camera.orthographicSize = 25f;
+            v_cam.m_Lens.OrthographicSize = 25f;
             changeSize = false;
         }
+    }
+
+    public void ShakeCamera(float intensity, float frequency, float duration)
+    {
+        StartCoroutine(ShakeCoroutine(intensity, frequency, duration));
+    }
+
+    private IEnumerator ShakeCoroutine(float intensity, float frequency, float duration)
+    {
+        CinemachineBasicMultiChannelPerlin noise = v_cam.GetCinemachineComponent<CinemachineBasicMultiChannelPerlin> ();
+
+        noise.m_AmplitudeGain = intensity;
+        noise.m_FrequencyGain = frequency;  
+
+        yield return new WaitForSeconds(duration);
+        noise.m_AmplitudeGain = 0;
+        noise.m_FrequencyGain = 0;  
     }
 }

@@ -5,7 +5,7 @@ public class BFGAnimStates : AnimStatesBase
     [SerializeField] AnimationClip idleAwake;
     protected override void animHandler()
     {
-        Debug.Log($"bfg state: {state}");
+        // Debug.Log($"bfg state: {state}");
         if (state == "idle")
         {
             bfgIdle();
