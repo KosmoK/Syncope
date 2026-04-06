@@ -37,7 +37,7 @@ public class HazardDamager : MonoBehaviour
     // }
     public void applyHazardDamage(EntityStatus entity, Movement entityMovement)
     {
-        if (!entity.IsStunned())
+        if (!entity.IsIFramesActive())
         {
             entity.Hurt(damage);
             if(knockBackStrength != 0)

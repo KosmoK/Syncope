@@ -1,0 +1,3032 @@
+fileFormatVersion: 2
+guid: 992aa423a37770e44be1b9ab8009b627
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3437082197202095105
+    second: IceMapBossIceSpikes_0
+  - first:
+      213: 4131091931233900239
+    second: IceMapBossIceSpikes_1
+  - first:
+      213: -5569955977671342051
+    second: IceMapBossIceSpikes_2
+  - first:
+      213: 947264278415838365
+    second: IceMapBossIceSpikes_3
+  - first:
+      213: 7322316355144430244
+    second: IceMapBossIceSpikes_4
+  - first:
+      213: 7203494055843603779
+    second: IceMapBossIceSpikes_5
+  - first:
+      213: -8423848653068769465
+    second: IceMapBossIceSpikes_6
+  - first:
+      213: -4034049567261517441
+    second: IceMapBossIceSpikes_7
+  - first:
+      213: -5296830275297794594
+    second: IceMapBossIceSpikes_8
+  - first:
+      213: -4549972512023475593
+    second: IceMapBossIceSpikes_9
+  - first:
+      213: -2809964830805349462
+    second: IceMapBossIceSpikes_10
+  - first:
+      213: -3291993257371978181
+    second: IceMapBossIceSpikes_11
+  - first:
+      213: -3160904615219582422
+    second: IceMapBossIceSpikes_12
+  - first:
+      213: -9034663832113477148
+    second: IceMapBossIceSpikes_13
+  - first:
+      213: -7079130891811712910
+    second: IceMapBossIceSpikes_14
+  - first:
+      213: -6605979957793668255
+    second: IceMapBossIceSpikes_15
+  - first:
+      213: 3084511555423138043
+    second: IceMapBossIceSpikes_16
+  - first:
+      213: 7595992106460769211
+    second: IceMapBossIceSpikes_17
+  - first:
+      213: 4453947181777771703
+    second: IceMapBossIceSpikes_18
+  - first:
+      213: 3636327215652450947
+    second: IceMapBossIceSpikes_19
+  - first:
+      213: -6491146254336336685
+    second: IceMapBossIceSpikes_20
+  - first:
+      213: -7936575175466090137
+    second: IceMapBossIceSpikes_21
+  - first:
+      213: -340165575941478397
+    second: IceMapBossIceSpikes_22
+  - first:
+      213: -880724031276134156
+    second: IceMapBossIceSpikes_23
+  - first:
+      213: -3009065477795464488
+    second: IceMapBossIceSpikes_24
+  - first:
+      213: 8520195249082887797
+    second: IceMapBossIceSpikes_25
+  - first:
+      213: -8793329728669319964
+    second: IceMapBossIceSpikes_26
+  - first:
+      213: -4033925048898732493
+    second: IceMapBossIceSpikes_27
+  - first:
+      213: -1130072686140132961
+    second: IceMapBossIceSpikes_28
+  - first:
+      213: 3711955862056326819
+    second: IceMapBossIceSpikes_29
+  - first:
+      213: -1409600909801135142
+    second: IceMapBossIceSpikes_30
+  - first:
+      213: -1118285395922984304
+    second: IceMapBossIceSpikes_31
+  - first:
+      213: 8237418350093145458
+    second: IceMapBossIceSpikes_32
+  - first:
+      213: -3553638692400726435
+    second: IceMapBossIceSpikes_33
+  - first:
+      213: -1953255196084917847
+    second: IceMapBossIceSpikes_34
+  - first:
+      213: 7972282880132446244
+    second: IceMapBossIceSpikes_35
+  - first:
+      213: -5913612284469923581
+    second: IceMapBossIceSpikes_36
+  - first:
+      213: -4057457568606547939
+    second: IceMapBossIceSpikes_37
+  - first:
+      213: 7052841518019289116
+    second: IceMapBossIceSpikes_38
+  - first:
+      213: 4372399972411883620
+    second: IceMapBossIceSpikes_39
+  - first:
+      213: -656042231202611414
+    second: IceMapBossIceSpikes_40
+  - first:
+      213: -5012961322195616840
+    second: IceMapBossIceSpikes_41
+  - first:
+      213: 1735151263005950091
+    second: IceMapBossIceSpikes_42
+  - first:
+      213: -2226842960346992710
+    second: IceMapBossIceSpikes_43
+  - first:
+      213: -5523676126062359924
+    second: IceMapBossIceSpikes_44
+  - first:
+      213: 8818394044877812635
+    second: IceMapBossIceSpikes_45
+  - first:
+      213: 4922299913735210692
+    second: IceMapBossIceSpikes_46
+  - first:
+      213: 6378867440192610991
+    second: IceMapBossIceSpikes_47
+  - first:
+      213: 533369918389390371
+    second: IceMapBossIceSpikes_48
+  - first:
+      213: 1974469457428256715
+    second: IceMapBossIceSpikes_49
+  - first:
+      213: -5089814931393839500
+    second: IceMapBossIceSpikes_50
+  - first:
+      213: 6031496145923837767
+    second: IceMapBossIceSpikes_51
+  - first:
+      213: -1234941534306820959
+    second: IceMapBossIceSpikes_52
+  - first:
+      213: -3144636713154866027
+    second: IceMapBossIceSpikes_53
+  - first:
+      213: 413666915059451845
+    second: IceMapBossIceSpikes_54
+  - first:
+      213: 3623716748042105137
+    second: IceMapBossIceSpikes_55
+  - first:
+      213: 7865409354680171540
+    second: IceMapBossIceSpikes_56
+  - first:
+      213: 4114806264922534330
+    second: IceMapBossIceSpikes_57
+  - first:
+      213: 7816514701732466638
+    second: IceMapBossIceSpikes_58
+  - first:
+      213: 4060241038058544736
+    second: IceMapBossIceSpikes_59
+  - first:
+      213: 7179882342884660629
+    second: IceMapBossIceSpikes_60
+  - first:
+      213: -2268989054649629843
+    second: IceMapBossIceSpikes_61
+  - first:
+      213: 448839009437507504
+    second: IceMapBossIceSpikes_62
+  - first:
+      213: 5545428349313925263
+    second: IceMapBossIceSpikes_63
+  - first:
+      213: -4453337410693385299
+    second: IceMapBossIceSpikes_64
+  - first:
+      213: -3519005611630781217
+    second: IceMapBossIceSpikes_65
+  - first:
+      213: -8042397197216154389
+    second: IceMapBossIceSpikes_66
+  - first:
+      213: -4915850837250712868
+    second: IceMapBossIceSpikes_67
+  - first:
+      213: 6729445436524654677
+    second: IceMapBossIceSpikes_68
+  - first:
+      213: 6172094067412496937
+    second: IceMapBossIceSpikes_69
+  - first:
+      213: 8026076913829458027
+    second: IceMapBossIceSpikes_70
+  - first:
+      213: -7101014404884912148
+    second: IceMapBossIceSpikes_71
+  - first:
+      213: -6172540833785549440
+    second: IceMapBossIceSpikes_72
+  - first:
+      213: 8490790450831532270
+    second: IceMapBossIceSpikes_73
+  - first:
+      213: 2803035043893675720
+    second: IceMapBossIceSpikes_74
+  - first:
+      213: 8617425357905044873
+    second: IceMapBossIceSpikes_75
+  - first:
+      213: 2031225913620123426
+    second: IceMapBossIceSpikes_76
+  - first:
+      213: 969352600097779711
+    second: IceMapBossIceSpikes_77
+  - first:
+      213: 789949348557662326
+    second: IceMapBossIceSpikes_78
+  - first:
+      213: -5156493408876356623
+    second: IceMapBossIceSpikes_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.275
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_0
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 3144
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ccc044c08f2bf20800000000000000
+      internalID: 3437082197202095105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_1
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 3170
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6dda75936945930800000000000000
+      internalID: 4131091931233900239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_2
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3147
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1806589c8a83b2b0800000000000000
+      internalID: -5569955977671342051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_3
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 3179
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c8467a7db552d00800000000000000
+      internalID: 947264278415838365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_4
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 3183
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2ba610ee71e9560800000000000000
+      internalID: 7322316355144430244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_5
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 3173
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34522349da3f7f360800000000000000
+      internalID: 7203494055843603779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_6
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 3171
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747ee20184a781b80800000000000000
+      internalID: -8423848653068769465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_7
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 3182
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f791f09ba4d2408c0800000000000000
+      internalID: -4034049567261517441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_8
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 3168
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5275dade0ed76b0800000000000000
+      internalID: -5296830275297794594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_9
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 3175
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a8c0b6b104bd0c0800000000000000
+      internalID: -4549972512023475593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_10
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 3169
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaba18ccfdff009d0800000000000000
+      internalID: -2809964830805349462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_11
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 3164
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36bc5bf29d7052d0800000000000000
+      internalID: -3291993257371978181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_12
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 3170
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2aa1f8eff53224d0800000000000000
+      internalID: -3160904615219582422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_13
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 3166
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e98ec5cc1d6e9280800000000000000
+      internalID: -9034663832113477148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_14
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 3173
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2709113f5ffd1cd90800000000000000
+      internalID: -7079130891811712910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_15
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 3179
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163cb567a38d254a0800000000000000
+      internalID: -6605979957793668255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_16
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 3170
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0759ecae26eca20800000000000000
+      internalID: 3084511555423138043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_17
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 3174
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbe34653926a6960800000000000000
+      internalID: 7595992106460769211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_18
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 3168
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc57322d599fcd30800000000000000
+      internalID: 4453947181777771703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_19
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 3173
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382bc082654d67230800000000000000
+      internalID: 3636327215652450947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_20
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 3180
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcdc2d8fd0dae5a0800000000000000
+      internalID: -6491146254336336685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_21
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 3167
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761092d7dee9bd190800000000000000
+      internalID: -7936575175466090137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_22
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 3169
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3082131063d774bf0800000000000000
+      internalID: -340165575941478397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_23
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 3165
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0d2aae82a07c3f0800000000000000
+      internalID: -880724031276134156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_24
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 3077
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3c1204e6ad36d0800000000000000
+      internalID: -3009065477795464488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_25
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 3111
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e6e86ef60dd3670800000000000000
+      internalID: 8520195249082887797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_26
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 3072
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec78c96331d7f580800000000000000
+      internalID: -8793329728669319964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_27
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 3113
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e37d96a8e9408c0800000000000000
+      internalID: -4033925048898732493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_28
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 3003
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91fe3c11ec2150f0800000000000000
+      internalID: -1130072686140132961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_29
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 3035
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6dbc39034838330800000000000000
+      internalID: 3711955862056326819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_30
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 3016
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad36c30e077107ce0800000000000000
+      internalID: -1409600909801135142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_31
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2951
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092e08a7b5d0b70f0800000000000000
+      internalID: -1118285395922984304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_32
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2920
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275169f7850315270800000000000000
+      internalID: 8237418350093145458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_33
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 2950
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5efe5fef60feaec0800000000000000
+      internalID: -3553638692400726435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_34
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2858
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a92ca97fb4a4e4e0800000000000000
+      internalID: -1953255196084917847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_35
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 2898
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428f83f5a0d33ae60800000000000000
+      internalID: 7972282880132446244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_36
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2788
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301b8cc75f0aeeda0800000000000000
+      internalID: -5913612284469923581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_37
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 2819
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d109cf3b6d301b7c0800000000000000
+      internalID: -4057457568606547939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_38
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2670
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10aaaa3ef9b0e160800000000000000
+      internalID: 7052841518019289116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_39
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2733
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c983eb92edac30800000000000000
+      internalID: 4372399972411883620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_40
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2587
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f738b011545e6f0800000000000000
+      internalID: -656042231202611414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_41
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 2630
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbf1cdbc326e6ab0800000000000000
+      internalID: -5012961322195616840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_42
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2513
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b804a0761ee741810800000000000000
+      internalID: 1735151263005950091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_43
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2551
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf20f9302aa811e0800000000000000
+      internalID: -2226842960346992710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_44
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 2543
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a4fbb34d5f753b0800000000000000
+      internalID: -5523676126062359924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_45
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 2438
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93bc5679aa316a70800000000000000
+      internalID: 8818394044877812635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_46
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2482
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c68f1c21b58f4440800000000000000
+      internalID: 4922299913735210692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_47
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 2455
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa26cf1e32a468850800000000000000
+      internalID: 6378867440192610991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_48
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2379
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c8a776d19e66700800000000000000
+      internalID: 533369918389390371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_49
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 2335
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc79ed5a289b66b10800000000000000
+      internalID: 1974469457428256715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_50
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 2395
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e7ac179485d59b0800000000000000
+      internalID: -5089814931393839500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_51
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2309
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f8de9d9cd24b350800000000000000
+      internalID: 6031496145923837767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_52
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 2308
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac1441b73b9cdee0800000000000000
+      internalID: -1234941534306820959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_53
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2309
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59490c402910c54d0800000000000000
+      internalID: -3144636713154866027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_54
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 2310
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c743771ed3adb500800000000000000
+      internalID: 413666915059451845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_55
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 2321
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131feadde270a4230800000000000000
+      internalID: 3623716748042105137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_56
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2305
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cfeb6a22c872d60800000000000000
+      internalID: 7865409354680171540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_57
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 2305
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1724c2f7aba1930800000000000000
+      internalID: 4114806264922534330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_58
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2309
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfc16225b6d97c60800000000000000
+      internalID: 7816514701732466638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_59
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 2309
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e51f746bfd85830800000000000000
+      internalID: 4060241038058544736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_60
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 2305
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5955db043f014a360800000000000000
+      internalID: 7179882342884660629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_61
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 2305
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d630c56f97ee280e0800000000000000
+      internalID: -2268989054649629843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_62
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2306
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf5cd673b89a3600800000000000000
+      internalID: 448839009437507504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_63
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2307
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80cc38e3b155fc40800000000000000
+      internalID: 5545428349313925263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_64
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2318
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3b9a248319232c0800000000000000
+      internalID: -4453337410693385299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_65
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2307
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc142c6a0bf92fc0800000000000000
+      internalID: -3519005611630781217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_66
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2333
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec755d0c5aa36090800000000000000
+      internalID: -8042397197216154389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_67
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2310
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda5dd475b367cbb0800000000000000
+      internalID: -4915850837250712868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_68
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 2307
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550fc6b68fac36d50800000000000000
+      internalID: 6729445436524654677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_69
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 2321
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922fa686adea7a550800000000000000
+      internalID: 6172094067412496937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_70
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 2309
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60b4ccdd6a526f60800000000000000
+      internalID: 8026076913829458027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_71
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2309
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce727e38501247d90800000000000000
+      internalID: -7101014404884912148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_72
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 2305
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d6e90b0dab65aa0800000000000000
+      internalID: -6172540833785549440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_73
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 2306
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0a71ccde855d570800000000000000
+      internalID: 8490790450831532270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_74
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 2307
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c60144758166e620800000000000000
+      internalID: 2803035043893675720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_75
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 2307
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985af58b4be379770800000000000000
+      internalID: 8617425357905044873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_76
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 2333
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f45efd43d503c10800000000000000
+      internalID: 2031225913620123426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_77
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 2310
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffedeecd05d37d00800000000000000
+      internalID: 969352600097779711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_78
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 2306
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678a4574fb676fa00800000000000000
+      internalID: 789949348557662326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapBossIceSpikes_79
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2306
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb184d90947078b0800000000000000
+      internalID: -5156493408876356623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: -395, y: 181}
+      - {x: -393, y: 189}
+      - {x: -399, y: 199}
+      - {x: -408, y: 226}
+      - {x: -414, y: 242}
+      - {x: -418, y: 247}
+      - {x: -422, y: 247}
+      - {x: -428, y: 229}
+      - {x: -435, y: 177}
+      - {x: -435, y: 175}
+      - {x: -432, y: 172}
+      - {x: -404, y: 172}
+    - - {x: 36, y: 180}
+      - {x: 38, y: 188}
+      - {x: 32, y: 198}
+      - {x: 23, y: 225}
+      - {x: 17, y: 241}
+      - {x: 13, y: 246}
+      - {x: 9, y: 246}
+      - {x: 3, y: 228}
+      - {x: -4, y: 176}
+      - {x: -4, y: 174}
+      - {x: -1, y: 171}
+      - {x: 27, y: 171}
+    - - {x: 315, y: 177}
+      - {x: 317, y: 185}
+      - {x: 311, y: 195}
+      - {x: 296, y: 238}
+      - {x: 292, y: 243}
+      - {x: 290, y: 243}
+      - {x: 286, y: 239}
+      - {x: 284, y: 225}
+      - {x: 282, y: 207}
+      - {x: 275, y: 171}
+      - {x: 277, y: 168}
+      - {x: 307, y: 168}
+    - - {x: -68, y: 175}
+      - {x: -59, y: 182}
+      - {x: -59, y: 190}
+      - {x: -62, y: 210}
+      - {x: -66, y: 231}
+      - {x: -70, y: 234}
+      - {x: -72, y: 234}
+      - {x: -80, y: 218}
+      - {x: -88, y: 207}
+      - {x: -93, y: 189}
+      - {x: -93, y: 179}
+      - {x: -86, y: 174}
+      - {x: -73, y: 174}
+    - - {x: 336, y: 221}
+      - {x: 331, y: 221}
+      - {x: 329, y: 220}
+      - {x: 319, y: 190}
+      - {x: 319, y: 182}
+      - {x: 327, y: 170}
+      - {x: 337, y: 170}
+      - {x: 346, y: 181}
+      - {x: 346, y: 175}
+      - {x: 350, y: 167}
+      - {x: 354, y: 166}
+      - {x: 368, y: 166}
+      - {x: 375, y: 167}
+      - {x: 382, y: 175}
+      - {x: 382, y: 176}
+      - {x: 375, y: 205}
+      - {x: 370, y: 224}
+      - {x: 367, y: 226}
+      - {x: 365, y: 226}
+      - {x: 361, y: 221}
+      - {x: 357, y: 205}
+      - {x: 352, y: 195}
+      - {x: 346, y: 182}
+      - {x: 346, y: 196}
+    - - {x: 205, y: 185}
+      - {x: 205, y: 200}
+      - {x: 195, y: 225}
+      - {x: 190, y: 225}
+      - {x: 188, y: 224}
+      - {x: 178, y: 194}
+      - {x: 178, y: 186}
+      - {x: 186, y: 174}
+      - {x: 196, y: 174}
+    - - {x: -181, y: 166}
+      - {x: -172, y: 173}
+      - {x: -172, y: 181}
+      - {x: -175, y: 201}
+      - {x: -179, y: 222}
+      - {x: -183, y: 225}
+      - {x: -185, y: 225}
+      - {x: -193, y: 209}
+      - {x: -201, y: 198}
+      - {x: -206, y: 180}
+      - {x: -206, y: 170}
+      - {x: -199, y: 165}
+      - {x: -186, y: 165}
+    - - {x: -491, y: 186}
+      - {x: -491, y: 194}
+      - {x: -502, y: 223}
+      - {x: -511, y: 223}
+      - {x: -522, y: 217}
+      - {x: -522, y: 180}
+      - {x: -498, y: 180}
+    - - {x: -20, y: 188}
+      - {x: -20, y: 202}
+      - {x: -31, y: 222}
+      - {x: -34, y: 222}
+      - {x: -36, y: 221}
+      - {x: -48, y: 203}
+      - {x: -48, y: 186}
+      - {x: -45, y: 180}
+      - {x: -25, y: 180}
+    - - {x: -557, y: 182}
+      - {x: -557, y: 199}
+      - {x: -565, y: 222}
+      - {x: -572, y: 222}
+      - {x: -583, y: 205}
+      - {x: -584, y: 197}
+      - {x: -584, y: 184}
+      - {x: -576, y: 171}
+      - {x: -566, y: 171}
+    - - {x: -327, y: 180}
+      - {x: -327, y: 197}
+      - {x: -335, y: 220}
+      - {x: -342, y: 220}
+      - {x: -353, y: 203}
+      - {x: -354, y: 195}
+      - {x: -354, y: 182}
+      - {x: -346, y: 169}
+      - {x: -336, y: 169}
+    - - {x: -578, y: 154}
+      - {x: -576, y: 162}
+      - {x: -582, y: 172}
+      - {x: -591, y: 199}
+      - {x: -597, y: 215}
+      - {x: -601, y: 220}
+      - {x: -605, y: 220}
+      - {x: -611, y: 202}
+      - {x: -618, y: 150}
+      - {x: -618, y: 148}
+      - {x: -615, y: 145}
+      - {x: -587, y: 145}
+    - - {x: -258, y: 182}
+      - {x: -258, y: 190}
+      - {x: -269, y: 219}
+      - {x: -278, y: 219}
+      - {x: -289, y: 213}
+      - {x: -289, y: 176}
+      - {x: -265, y: 176}
+    - - {x: 100, y: 181}
+      - {x: 100, y: 191}
+      - {x: 87, y: 218}
+      - {x: 84, y: 218}
+      - {x: 82, y: 217}
+      - {x: 69, y: 191}
+      - {x: 69, y: 183}
+      - {x: 72, y: 176}
+      - {x: 77, y: 175}
+      - {x: 93, y: 175}
+    - - {x: -105, y: 176}
+      - {x: -105, y: 190}
+      - {x: -107, y: 203}
+      - {x: -114, y: 218}
+      - {x: -119, y: 218}
+      - {x: -127, y: 209}
+      - {x: -132, y: 185}
+      - {x: -144, y: 215}
+      - {x: -149, y: 212}
+      - {x: -161, y: 188}
+      - {x: -161, y: 176}
+      - {x: -154, y: 170}
+      - {x: -139, y: 171}
+      - {x: -128, y: 167}
+      - {x: -114, y: 167}
+    - - {x: -466, y: 189}
+      - {x: -466, y: 196}
+      - {x: -471, y: 214}
+      - {x: -474, y: 217}
+      - {x: -476, y: 217}
+      - {x: -479, y: 215}
+      - {x: -487, y: 202}
+      - {x: -487, y: 190}
+      - {x: -483, y: 184}
+      - {x: -472, y: 184}
+    - - {x: -364, y: 188}
+      - {x: -364, y: 195}
+      - {x: -369, y: 213}
+      - {x: -372, y: 216}
+      - {x: -374, y: 216}
+      - {x: -377, y: 214}
+      - {x: -385, y: 201}
+      - {x: -385, y: 189}
+      - {x: -381, y: 183}
+      - {x: -370, y: 183}
+    - - {x: 230, y: 188}
+      - {x: 230, y: 198}
+      - {x: 223, y: 214}
+      - {x: 219, y: 214}
+      - {x: 217, y: 212}
+      - {x: 209, y: 199}
+      - {x: 209, y: 187}
+      - {x: 212, y: 181}
+      - {x: 226, y: 181}
+    - - {x: -441, y: 176}
+      - {x: -441, y: 195}
+      - {x: -446, y: 209}
+      - {x: -449, y: 210}
+      - {x: -453, y: 210}
+      - {x: -455, y: 208}
+      - {x: -464, y: 187}
+      - {x: -464, y: 180}
+      - {x: -461, y: 174}
+      - {x: -446, y: 174}
+    - - {x: -536, y: 149}
+      - {x: -529, y: 157}
+      - {x: -529, y: 158}
+      - {x: -536, y: 187}
+      - {x: -538, y: 195}
+      - {x: -541, y: 206}
+      - {x: -544, y: 208}
+      - {x: -546, y: 208}
+      - {x: -549, y: 205}
+      - {x: -555, y: 184}
+      - {x: -565, y: 160}
+      - {x: -565, y: 155}
+      - {x: -556, y: 148}
+      - {x: -540, y: 148}
+    - - {x: -208, y: 172}
+      - {x: -208, y: 191}
+      - {x: -213, y: 205}
+      - {x: -216, y: 206}
+      - {x: -220, y: 206}
+      - {x: -222, y: 204}
+      - {x: -231, y: 183}
+      - {x: -231, y: 176}
+      - {x: -228, y: 170}
+      - {x: -213, y: 170}
+    - - {x: 150, y: 173}
+      - {x: 150, y: 182}
+      - {x: 145, y: 203}
+      - {x: 141, y: 205}
+      - {x: 138, y: 205}
+      - {x: 127, y: 182}
+      - {x: 127, y: 176}
+      - {x: 132, y: 169}
+      - {x: 144, y: 169}
+    - - {x: 365, y: 81}
+      - {x: 358, y: 120}
+      - {x: 364, y: 114}
+      - {x: 375, y: 114}
+      - {x: 378, y: 116}
+      - {x: 385, y: 123}
+      - {x: 385, y: 133}
+      - {x: 375, y: 156}
+      - {x: 371, y: 156}
+      - {x: 369, y: 155}
+      - {x: 355, y: 130}
+      - {x: 352, y: 133}
+      - {x: 351, y: 133}
+      - {x: 348, y: 132}
+      - {x: 329, y: 91}
+      - {x: 329, y: 80}
+      - {x: 338, y: 73}
+      - {x: 351, y: 73}
+    - - {x: -569, y: 117}
+      - {x: -569, y: 124}
+      - {x: -574, y: 142}
+      - {x: -577, y: 145}
+      - {x: -579, y: 145}
+      - {x: -582, y: 143}
+      - {x: -590, y: 130}
+      - {x: -590, y: 118}
+      - {x: -586, y: 112}
+      - {x: -575, y: 112}
+    - - {x: -596, y: 79}
+      - {x: -587, y: 86}
+      - {x: -587, y: 94}
+      - {x: -590, y: 114}
+      - {x: -594, y: 135}
+      - {x: -598, y: 138}
+      - {x: -600, y: 138}
+      - {x: -608, y: 122}
+      - {x: -616, y: 111}
+      - {x: -621, y: 93}
+      - {x: -621, y: 83}
+      - {x: -614, y: 78}
+      - {x: -601, y: 78}
+    - - {x: -575, y: 44}
+      - {x: -575, y: 58}
+      - {x: -586, y: 78}
+      - {x: -589, y: 78}
+      - {x: -591, y: 77}
+      - {x: -603, y: 59}
+      - {x: -603, y: 42}
+      - {x: -600, y: 36}
+      - {x: -580, y: 36}
+    - - {x: 379, y: 26}
+      - {x: 379, y: 45}
+      - {x: 378, y: 51}
+      - {x: 372, y: 74}
+      - {x: 370, y: 78}
+      - {x: 368, y: 78}
+      - {x: 365, y: 76}
+      - {x: 344, y: 34}
+      - {x: 344, y: 22}
+      - {x: 356, y: 17}
+      - {x: 371, y: 17}
+    - - {x: -599, y: 6}
+      - {x: -599, y: 25}
+      - {x: -604, y: 39}
+      - {x: -607, y: 40}
+      - {x: -611, y: 40}
+      - {x: -613, y: 38}
+      - {x: -622, y: 17}
+      - {x: -622, y: 10}
+      - {x: -619, y: 4}
+      - {x: -604, y: 4}
+    - - {x: 370, y: -48}
+      - {x: 379, y: -41}
+      - {x: 379, y: -33}
+      - {x: 376, y: -13}
+      - {x: 372, y: 8}
+      - {x: 368, y: 11}
+      - {x: 366, y: 11}
+      - {x: 365, y: 9}
+      - {x: 357, y: -5}
+      - {x: 345, y: -33}
+      - {x: 345, y: -42}
+      - {x: 352, y: -49}
+      - {x: 365, y: -49}
+    - - {x: -588, y: -42}
+      - {x: -588, y: -34}
+      - {x: -599, y: -5}
+      - {x: -608, y: -5}
+      - {x: -619, y: -11}
+      - {x: -619, y: -48}
+      - {x: -595, y: -48}
+    - - {x: -578, y: -74}
+      - {x: -578, y: -67}
+      - {x: -583, y: -49}
+      - {x: -586, y: -46}
+      - {x: -588, y: -46}
+      - {x: -591, y: -48}
+      - {x: -599, y: -61}
+      - {x: -599, y: -73}
+      - {x: -595, y: -79}
+      - {x: -584, y: -79}
+    - - {x: 372, y: -96}
+      - {x: 372, y: -82}
+      - {x: 362, y: -59}
+      - {x: 358, y: -59}
+      - {x: 356, y: -60}
+      - {x: 344, y: -78}
+      - {x: 344, y: -100}
+      - {x: 345, y: -101}
+      - {x: 363, y: -101}
+    - - {x: -582, y: -132}
+      - {x: -580, y: -124}
+      - {x: -586, y: -114}
+      - {x: -595, y: -87}
+      - {x: -601, y: -71}
+      - {x: -605, y: -66}
+      - {x: -609, y: -66}
+      - {x: -615, y: -84}
+      - {x: -622, y: -136}
+      - {x: -622, y: -138}
+      - {x: -619, y: -141}
+      - {x: -591, y: -141}
+    - - {x: 376, y: -168}
+      - {x: 376, y: -161}
+      - {x: 372, y: -143}
+      - {x: 365, y: -112}
+      - {x: 362, y: -107}
+      - {x: 360, y: -107}
+      - {x: 356, y: -110}
+      - {x: 345, y: -139}
+      - {x: 335, y: -157}
+      - {x: 335, y: -164}
+      - {x: 336, y: -170}
+      - {x: 347, y: -179}
+      - {x: 350, y: -180}
+      - {x: 362, y: -180}
+    - - {x: -584, y: -202}
+      - {x: -584, y: -183}
+      - {x: -585, y: -177}
+      - {x: -589, y: -158}
+      - {x: -593, y: -150}
+      - {x: -595, y: -150}
+      - {x: -598, y: -152}
+      - {x: -618, y: -195}
+      - {x: -619, y: -198}
+      - {x: -619, y: -201}
+      - {x: -613, y: -207}
+      - {x: -602, y: -211}
+      - {x: -592, y: -211}
+    - - {x: -566, y: -264}
+      - {x: -558, y: -254}
+      - {x: -558, y: -247}
+      - {x: -561, y: -229}
+      - {x: -569, y: -198}
+      - {x: -572, y: -193}
+      - {x: -574, y: -193}
+      - {x: -578, y: -196}
+      - {x: -589, y: -225}
+      - {x: -599, y: -243}
+      - {x: -599, y: -250}
+      - {x: -598, y: -256}
+      - {x: -587, y: -265}
+      - {x: -586, y: -266}
+      - {x: -573, y: -266}
+    - - {x: -581, y: -320}
+      - {x: -579, y: -312}
+      - {x: -585, y: -302}
+      - {x: -594, y: -275}
+      - {x: -600, y: -259}
+      - {x: -604, y: -254}
+      - {x: -608, y: -254}
+      - {x: -614, y: -272}
+      - {x: -621, y: -324}
+      - {x: -621, y: -326}
+      - {x: -618, y: -329}
+      - {x: -590, y: -329}
+    - - {x: 379, y: -360}
+      - {x: 379, y: -341}
+      - {x: 378, y: -335}
+      - {x: 372, y: -312}
+      - {x: 370, y: -308}
+      - {x: 368, y: -308}
+      - {x: 365, y: -310}
+      - {x: 344, y: -352}
+      - {x: 344, y: -364}
+      - {x: 356, y: -369}
+      - {x: 371, y: -369}
+    - - {x: -582, y: -410}
+      - {x: -574, y: -400}
+      - {x: -574, y: -393}
+      - {x: -577, y: -375}
+      - {x: -585, y: -344}
+      - {x: -588, y: -339}
+      - {x: -590, y: -339}
+      - {x: -594, y: -342}
+      - {x: -605, y: -371}
+      - {x: -615, y: -389}
+      - {x: -615, y: -396}
+      - {x: -614, y: -402}
+      - {x: -603, y: -411}
+      - {x: -602, y: -412}
+      - {x: -589, y: -412}
+    - - {x: 381, y: -444}
+      - {x: 381, y: -437}
+      - {x: 377, y: -419}
+      - {x: 370, y: -388}
+      - {x: 367, y: -383}
+      - {x: 365, y: -383}
+      - {x: 361, y: -386}
+      - {x: 350, y: -415}
+      - {x: 340, y: -433}
+      - {x: 340, y: -440}
+      - {x: 341, y: -446}
+      - {x: 352, y: -455}
+      - {x: 355, y: -456}
+      - {x: 367, y: -456}
+    - - {x: -594, y: -474}
+      - {x: -594, y: -467}
+      - {x: -602, y: -443}
+      - {x: -596, y: -449}
+      - {x: -587, y: -449}
+      - {x: -582, y: -441}
+      - {x: -582, y: -431}
+      - {x: -589, y: -415}
+      - {x: -593, y: -415}
+      - {x: -595, y: -416}
+      - {x: -602, y: -431}
+      - {x: -611, y: -436}
+      - {x: -622, y: -466}
+      - {x: -622, y: -474}
+      - {x: -614, y: -486}
+      - {x: -604, y: -486}
+    - - {x: 382, y: -535}
+      - {x: 384, y: -527}
+      - {x: 378, y: -517}
+      - {x: 363, y: -474}
+      - {x: 359, y: -469}
+      - {x: 357, y: -469}
+      - {x: 353, y: -473}
+      - {x: 351, y: -487}
+      - {x: 349, y: -505}
+      - {x: 342, y: -541}
+      - {x: 344, y: -544}
+      - {x: 374, y: -544}
+    - - {x: -581, y: -556}
+      - {x: -581, y: -504}
+      - {x: -587, y: -488}
+      - {x: -589, y: -484}
+      - {x: -591, y: -484}
+      - {x: -594, y: -486}
+      - {x: -605, y: -504}
+      - {x: -599, y: -517}
+      - {x: -610, y: -539}
+      - {x: -612, y: -544}
+      - {x: -612, y: -555}
+      - {x: -604, y: -561}
+      - {x: -589, y: -561}
+    - - {x: 381, y: -593}
+      - {x: 381, y: -578}
+      - {x: 371, y: -553}
+      - {x: 366, y: -553}
+      - {x: 364, y: -554}
+      - {x: 354, y: -584}
+      - {x: 354, y: -592}
+      - {x: 362, y: -604}
+      - {x: 372, y: -604}
+    - - {x: -595, y: -618}
+      - {x: -595, y: -599}
+      - {x: -600, y: -585}
+      - {x: -603, y: -584}
+      - {x: -607, y: -584}
+      - {x: -609, y: -586}
+      - {x: -618, y: -607}
+      - {x: -618, y: -614}
+      - {x: -615, y: -620}
+      - {x: -600, y: -620}
+    - - {x: -574, y: -655}
+      - {x: -574, y: -636}
+      - {x: -575, y: -630}
+      - {x: -579, y: -611}
+      - {x: -583, y: -603}
+      - {x: -585, y: -603}
+      - {x: -588, y: -605}
+      - {x: -608, y: -648}
+      - {x: -609, y: -651}
+      - {x: -609, y: -654}
+      - {x: -603, y: -660}
+      - {x: -592, y: -664}
+      - {x: -582, y: -664}
+    - - {x: 352, y: -655}
+      - {x: 352, y: -640}
+      - {x: 342, y: -615}
+      - {x: 337, y: -615}
+      - {x: 335, y: -616}
+      - {x: 325, y: -646}
+      - {x: 325, y: -654}
+      - {x: 333, y: -666}
+      - {x: 343, y: -666}
+    - - {x: -39, y: -655}
+      - {x: -39, y: -638}
+      - {x: -47, y: -615}
+      - {x: -54, y: -615}
+      - {x: -65, y: -632}
+      - {x: -66, y: -640}
+      - {x: -66, y: -653}
+      - {x: -58, y: -666}
+      - {x: -48, y: -666}
+    - - {x: 66, y: -670}
+      - {x: 67, y: -669}
+      - {x: 67, y: -650}
+      - {x: 62, y: -620}
+      - {x: 58, y: -617}
+      - {x: 54, y: -617}
+      - {x: 52, y: -618}
+      - {x: 32, y: -663}
+      - {x: 32, y: -669}
+      - {x: 38, y: -674}
+      - {x: 49, y: -678}
+      - {x: 57, y: -678}
+    - - {x: -468, y: -669}
+      - {x: -468, y: -650}
+      - {x: -469, y: -644}
+      - {x: -473, y: -625}
+      - {x: -477, y: -617}
+      - {x: -479, y: -617}
+      - {x: -482, y: -619}
+      - {x: -502, y: -662}
+      - {x: -503, y: -665}
+      - {x: -503, y: -668}
+      - {x: -497, y: -674}
+      - {x: -486, y: -678}
+      - {x: -476, y: -678}
+    - - {x: 331, y: -683}
+      - {x: 333, y: -675}
+      - {x: 327, y: -665}
+      - {x: 312, y: -622}
+      - {x: 308, y: -617}
+      - {x: 306, y: -617}
+      - {x: 302, y: -621}
+      - {x: 300, y: -635}
+      - {x: 298, y: -653}
+      - {x: 291, y: -689}
+      - {x: 293, y: -692}
+      - {x: 323, y: -692}
+    - - {x: -60, y: -683}
+      - {x: -58, y: -675}
+      - {x: -64, y: -665}
+      - {x: -73, y: -638}
+      - {x: -79, y: -622}
+      - {x: -83, y: -617}
+      - {x: -87, y: -617}
+      - {x: -93, y: -635}
+      - {x: -100, y: -687}
+      - {x: -100, y: -689}
+      - {x: -97, y: -692}
+      - {x: -69, y: -692}
+    - - {x: 115, y: -678}
+      - {x: 115, y: -671}
+      - {x: 111, y: -653}
+      - {x: 104, y: -622}
+      - {x: 101, y: -617}
+      - {x: 99, y: -617}
+      - {x: 95, y: -620}
+      - {x: 84, y: -649}
+      - {x: 74, y: -667}
+      - {x: 74, y: -674}
+      - {x: 75, y: -680}
+      - {x: 86, y: -689}
+      - {x: 89, y: -690}
+      - {x: 101, y: -690}
+    - - {x: -132, y: -687}
+      - {x: -132, y: -679}
+      - {x: -117, y: -681}
+      - {x: -109, y: -684}
+      - {x: -99, y: -672}
+      - {x: -99, y: -653}
+      - {x: -100, y: -647}
+      - {x: -104, y: -628}
+      - {x: -108, y: -620}
+      - {x: -110, y: -620}
+      - {x: -113, y: -622}
+      - {x: -131, y: -660}
+      - {x: -143, y: -669}
+      - {x: -147, y: -681}
+      - {x: -147, y: -687}
+      - {x: -142, y: -692}
+      - {x: -137, y: -692}
+    - - {x: -433, y: -692}
+      - {x: -425, y: -682}
+      - {x: -425, y: -675}
+      - {x: -428, y: -657}
+      - {x: -436, y: -626}
+      - {x: -439, y: -621}
+      - {x: -441, y: -621}
+      - {x: -445, y: -624}
+      - {x: -456, y: -653}
+      - {x: -466, y: -671}
+      - {x: -466, y: -678}
+      - {x: -465, y: -684}
+      - {x: -454, y: -693}
+      - {x: -453, y: -694}
+      - {x: -440, y: -694}
+    - - {x: -243, y: -692}
+      - {x: -235, y: -682}
+      - {x: -235, y: -675}
+      - {x: -238, y: -657}
+      - {x: -246, y: -626}
+      - {x: -249, y: -621}
+      - {x: -251, y: -621}
+      - {x: -255, y: -624}
+      - {x: -266, y: -653}
+      - {x: -276, y: -671}
+      - {x: -276, y: -678}
+      - {x: -275, y: -684}
+      - {x: -264, y: -693}
+      - {x: -263, y: -694}
+      - {x: -250, y: -694}
+    - - {x: 373, y: -688}
+      - {x: 380, y: -680}
+      - {x: 380, y: -679}
+      - {x: 373, y: -650}
+      - {x: 368, y: -631}
+      - {x: 365, y: -629}
+      - {x: 363, y: -629}
+      - {x: 359, y: -634}
+      - {x: 355, y: -650}
+      - {x: 350, y: -660}
+      - {x: 344, y: -673}
+      - {x: 344, y: -680}
+      - {x: 348, y: -688}
+      - {x: 352, y: -689}
+      - {x: 366, y: -689}
+    - - {x: -18, y: -688}
+      - {x: -11, y: -680}
+      - {x: -11, y: -679}
+      - {x: -18, y: -650}
+      - {x: -20, y: -642}
+      - {x: -23, y: -631}
+      - {x: -26, y: -629}
+      - {x: -28, y: -629}
+      - {x: -31, y: -632}
+      - {x: -37, y: -653}
+      - {x: -47, y: -677}
+      - {x: -47, y: -682}
+      - {x: -38, y: -689}
+      - {x: -22, y: -689}
+    - - {x: -392, y: -683}
+      - {x: -392, y: -666}
+      - {x: -400, y: -643}
+      - {x: -407, y: -643}
+      - {x: -418, y: -660}
+      - {x: -419, y: -668}
+      - {x: -419, y: -681}
+      - {x: -411, y: -694}
+      - {x: -401, y: -694}
+    - - {x: -336, y: -684}
+      - {x: -336, y: -676}
+      - {x: -347, y: -647}
+      - {x: -356, y: -647}
+      - {x: -367, y: -653}
+      - {x: -367, y: -690}
+      - {x: -343, y: -690}
+    - - {x: 29, y: -686}
+      - {x: 29, y: -678}
+      - {x: 18, y: -649}
+      - {x: 9, y: -649}
+      - {x: -2, y: -655}
+      - {x: -2, y: -692}
+      - {x: 22, y: -692}
+    - - {x: -554, y: -687}
+      - {x: -554, y: -667}
+      - {x: -558, y: -651}
+      - {x: -563, y: -651}
+      - {x: -569, y: -657}
+      - {x: -577, y: -681}
+      - {x: -577, y: -684}
+      - {x: -569, y: -691}
+      - {x: -558, y: -691}
+    - - {x: 142, y: -686}
+      - {x: 142, y: -677}
+      - {x: 137, y: -656}
+      - {x: 133, y: -654}
+      - {x: 130, y: -654}
+      - {x: 119, y: -677}
+      - {x: 119, y: -683}
+      - {x: 124, y: -690}
+      - {x: 136, y: -690}
+    - - {x: 198, y: -659}
+      - {x: 194, y: -654}
+      - {x: 189, y: -654}
+      - {x: 181, y: -659}
+      - {x: 175, y: -685}
+      - {x: 175, y: -687}
+      - {x: 181, y: -694}
+      - {x: 198, y: -694}
+    - - {x: -183, y: -690}
+      - {x: -183, y: -670}
+      - {x: -187, y: -654}
+      - {x: -192, y: -654}
+      - {x: -198, y: -660}
+      - {x: -206, y: -684}
+      - {x: -206, y: -687}
+      - {x: -198, y: -694}
+      - {x: -187, y: -694}
+    - - {x: -300, y: -688}
+      - {x: -300, y: -669}
+      - {x: -305, y: -655}
+      - {x: -308, y: -654}
+      - {x: -312, y: -654}
+      - {x: -314, y: -656}
+      - {x: -323, y: -677}
+      - {x: -323, y: -684}
+      - {x: -320, y: -690}
+      - {x: -305, y: -690}
+    - - {x: -525, y: -686}
+      - {x: -525, y: -675}
+      - {x: -527, y: -662}
+      - {x: -532, y: -657}
+      - {x: -540, y: -657}
+      - {x: -544, y: -673}
+      - {x: -544, y: -689}
+      - {x: -541, y: -690}
+      - {x: -529, y: -690}
+    - - {x: 227, y: -688}
+      - {x: 227, y: -666}
+      - {x: 223, y: -660}
+      - {x: 216, y: -660}
+      - {x: 211, y: -665}
+      - {x: 208, y: -678}
+      - {x: 208, y: -688}
+      - {x: 213, y: -693}
+      - {x: 224, y: -693}
+    - - {x: -154, y: -689}
+      - {x: -154, y: -678}
+      - {x: -156, y: -665}
+      - {x: -161, y: -660}
+      - {x: -169, y: -660}
+      - {x: -173, y: -676}
+      - {x: -173, y: -692}
+      - {x: -170, y: -693}
+      - {x: -158, y: -693}
+    - - {x: -503, y: -685}
+      - {x: -503, y: -677}
+      - {x: -505, y: -665}
+      - {x: -507, y: -664}
+      - {x: -511, y: -664}
+      - {x: -518, y: -675}
+      - {x: -518, y: -682}
+      - {x: -517, y: -685}
+      - {x: -513, y: -689}
+      - {x: -508, y: -689}
+    - - {x: -586, y: -688}
+      - {x: -586, y: -675}
+      - {x: -590, y: -666}
+      - {x: -595, y: -666}
+      - {x: -600, y: -671}
+      - {x: -603, y: -679}
+      - {x: -603, y: -686}
+      - {x: -601, y: -690}
+      - {x: -591, y: -690}
+    - - {x: 249, y: -688}
+      - {x: 249, y: -680}
+      - {x: 247, y: -668}
+      - {x: 245, y: -667}
+      - {x: 242, y: -667}
+      - {x: 238, y: -674}
+      - {x: 235, y: -680}
+      - {x: 234, y: -685}
+      - {x: 235, y: -688}
+      - {x: 239, y: -692}
+      - {x: 244, y: -692}
+    - - {x: 166, y: -687}
+      - {x: 166, y: -680}
+      - {x: 163, y: -671}
+      - {x: 159, y: -669}
+      - {x: 157, y: -669}
+      - {x: 150, y: -680}
+      - {x: 149, y: -684}
+      - {x: 149, y: -688}
+      - {x: 153, y: -693}
+      - {x: 163, y: -693}
+    - - {x: -215, y: -691}
+      - {x: -215, y: -678}
+      - {x: -219, y: -669}
+      - {x: -224, y: -669}
+      - {x: -229, y: -674}
+      - {x: -232, y: -682}
+      - {x: -232, y: -689}
+      - {x: -230, y: -693}
+      - {x: -220, y: -693}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceMapBossIceSpikes_0: 3437082197202095105
+      IceMapBossIceSpikes_1: 4131091931233900239
+      IceMapBossIceSpikes_10: -2809964830805349462
+      IceMapBossIceSpikes_11: -3291993257371978181
+      IceMapBossIceSpikes_12: -3160904615219582422
+      IceMapBossIceSpikes_13: -9034663832113477148
+      IceMapBossIceSpikes_14: -7079130891811712910
+      IceMapBossIceSpikes_15: -6605979957793668255
+      IceMapBossIceSpikes_16: 3084511555423138043
+      IceMapBossIceSpikes_17: 7595992106460769211
+      IceMapBossIceSpikes_18: 4453947181777771703
+      IceMapBossIceSpikes_19: 3636327215652450947
+      IceMapBossIceSpikes_2: -5569955977671342051
+      IceMapBossIceSpikes_20: -6491146254336336685
+      IceMapBossIceSpikes_21: -7936575175466090137
+      IceMapBossIceSpikes_22: -340165575941478397
+      IceMapBossIceSpikes_23: -880724031276134156
+      IceMapBossIceSpikes_24: -3009065477795464488
+      IceMapBossIceSpikes_25: 8520195249082887797
+      IceMapBossIceSpikes_26: -8793329728669319964
+      IceMapBossIceSpikes_27: -4033925048898732493
+      IceMapBossIceSpikes_28: -1130072686140132961
+      IceMapBossIceSpikes_29: 3711955862056326819
+      IceMapBossIceSpikes_3: 947264278415838365
+      IceMapBossIceSpikes_30: -1409600909801135142
+      IceMapBossIceSpikes_31: -1118285395922984304
+      IceMapBossIceSpikes_32: 8237418350093145458
+      IceMapBossIceSpikes_33: -3553638692400726435
+      IceMapBossIceSpikes_34: -1953255196084917847
+      IceMapBossIceSpikes_35: 7972282880132446244
+      IceMapBossIceSpikes_36: -5913612284469923581
+      IceMapBossIceSpikes_37: -4057457568606547939
+      IceMapBossIceSpikes_38: 7052841518019289116
+      IceMapBossIceSpikes_39: 4372399972411883620
+      IceMapBossIceSpikes_4: 7322316355144430244
+      IceMapBossIceSpikes_40: -656042231202611414
+      IceMapBossIceSpikes_41: -5012961322195616840
+      IceMapBossIceSpikes_42: 1735151263005950091
+      IceMapBossIceSpikes_43: -2226842960346992710
+      IceMapBossIceSpikes_44: -5523676126062359924
+      IceMapBossIceSpikes_45: 8818394044877812635
+      IceMapBossIceSpikes_46: 4922299913735210692
+      IceMapBossIceSpikes_47: 6378867440192610991
+      IceMapBossIceSpikes_48: 533369918389390371
+      IceMapBossIceSpikes_49: 1974469457428256715
+      IceMapBossIceSpikes_5: 7203494055843603779
+      IceMapBossIceSpikes_50: -5089814931393839500
+      IceMapBossIceSpikes_51: 6031496145923837767
+      IceMapBossIceSpikes_52: -1234941534306820959
+      IceMapBossIceSpikes_53: -3144636713154866027
+      IceMapBossIceSpikes_54: 413666915059451845
+      IceMapBossIceSpikes_55: 3623716748042105137
+      IceMapBossIceSpikes_56: 7865409354680171540
+      IceMapBossIceSpikes_57: 4114806264922534330
+      IceMapBossIceSpikes_58: 7816514701732466638
+      IceMapBossIceSpikes_59: 4060241038058544736
+      IceMapBossIceSpikes_6: -8423848653068769465
+      IceMapBossIceSpikes_60: 7179882342884660629
+      IceMapBossIceSpikes_61: -2268989054649629843
+      IceMapBossIceSpikes_62: 448839009437507504
+      IceMapBossIceSpikes_63: 5545428349313925263
+      IceMapBossIceSpikes_64: -4453337410693385299
+      IceMapBossIceSpikes_65: -3519005611630781217
+      IceMapBossIceSpikes_66: -8042397197216154389
+      IceMapBossIceSpikes_67: -4915850837250712868
+      IceMapBossIceSpikes_68: 6729445436524654677
+      IceMapBossIceSpikes_69: 6172094067412496937
+      IceMapBossIceSpikes_7: -4034049567261517441
+      IceMapBossIceSpikes_70: 8026076913829458027
+      IceMapBossIceSpikes_71: -7101014404884912148
+      IceMapBossIceSpikes_72: -6172540833785549440
+      IceMapBossIceSpikes_73: 8490790450831532270
+      IceMapBossIceSpikes_74: 2803035043893675720
+      IceMapBossIceSpikes_75: 8617425357905044873
+      IceMapBossIceSpikes_76: 2031225913620123426
+      IceMapBossIceSpikes_77: 969352600097779711
+      IceMapBossIceSpikes_78: 789949348557662326
+      IceMapBossIceSpikes_79: -5156493408876356623
+      IceMapBossIceSpikes_8: -5296830275297794594
+      IceMapBossIceSpikes_9: -4549972512023475593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

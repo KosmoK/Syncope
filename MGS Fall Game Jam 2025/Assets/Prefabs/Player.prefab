@@ -313,7 +313,7 @@ MonoBehaviour:
   - {fileID: -4176643112410405597, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
   - {fileID: -7552387036519475859, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
   - {fileID: -1229477869644370370, guid: 4c47f98edf94da4478a158b10c22add7, type: 3}
-  currExtra: 3
+  currExtra: -1
   attackPrefabs:
   - {fileID: 2813944489988949435, guid: 98c813b65201bdf4b8367fe2fc380e61, type: 3}
   - {fileID: 1628557358903111437, guid: 4e4e859ae9554254991dbd084db84701, type: 3}
@@ -470,7 +470,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 10
+  m_SortingOrder: 30
   m_MaskInteraction: 0
   m_Sprite: {fileID: 494681508968162844, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}

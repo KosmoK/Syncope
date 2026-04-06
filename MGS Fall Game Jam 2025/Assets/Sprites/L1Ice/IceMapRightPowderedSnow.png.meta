@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: 7b719536d9e48c04bbd7608270fa8407
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8668564998011715452
+    second: IceMapRightPowderedSnow_0
+  - first:
+      213: 7420028285369621953
+    second: IceMapRightPowderedSnow_1
+  - first:
+      213: 6781534501616118054
+    second: IceMapRightPowderedSnow_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.15
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceMapRightPowderedSnow_0
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2850
+        width: 484
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4808025ff0213b780800000000000000
+      internalID: -8668564998011715452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightPowderedSnow_1
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 2281
+        width: 440
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd9ecc996c39f660800000000000000
+      internalID: 7420028285369621953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightPowderedSnow_2
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 2598
+        width: 271
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62962e8f2b9dc1e50800000000000000
+      internalID: 6781534501616118054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: 1336, y: -148}
+      - {x: 1363, y: -130}
+      - {x: 1378, y: -128}
+      - {x: 1398, y: -126}
+      - {x: 1412, y: -124}
+      - {x: 1418, y: -117}
+      - {x: 1431, y: -108}
+      - {x: 1446, y: -91}
+      - {x: 1462, y: -81}
+      - {x: 1469, y: -62}
+      - {x: 1476, y: -66}
+      - {x: 1492, y: -70}
+      - {x: 1503, y: -65}
+      - {x: 1525, y: -62}
+      - {x: 1537, y: -34}
+      - {x: 1549, y: -22}
+      - {x: 1561, y: -6}
+      - {x: 1575, y: 0}
+      - {x: 1580, y: 14}
+      - {x: 1577, y: 47}
+      - {x: 1589, y: 55}
+      - {x: 1606, y: 72}
+      - {x: 1606, y: 76}
+      - {x: 1601, y: 90}
+      - {x: 1598, y: 92}
+      - {x: 1589, y: 104}
+      - {x: 1578, y: 107}
+      - {x: 1568, y: 116}
+      - {x: 1546, y: 127}
+      - {x: 1533, y: 129}
+      - {x: 1520, y: 129}
+      - {x: 1516, y: 121}
+      - {x: 1496, y: 157}
+      - {x: 1488, y: 166}
+      - {x: 1488, y: 170}
+      - {x: 1475, y: 189}
+      - {x: 1467, y: 194}
+      - {x: 1455, y: 194}
+      - {x: 1448, y: 191}
+      - {x: 1409, y: 190}
+      - {x: 1399, y: 171}
+      - {x: 1394, y: 155}
+      - {x: 1361, y: 157}
+      - {x: 1352, y: 145}
+      - {x: 1350, y: 129}
+      - {x: 1310, y: 123}
+      - {x: 1298, y: 109}
+      - {x: 1224, y: 106}
+      - {x: 1215, y: 102}
+      - {x: 1211, y: 94}
+      - {x: 1206, y: 91}
+      - {x: 1200, y: 82}
+      - {x: 1189, y: 75}
+      - {x: 1191.04, y: 58}
+      - {x: 1190, y: 58}
+      - {x: 1188, y: 56}
+      - {x: 1188, y: 53}
+      - {x: 1189, y: 52}
+      - {x: 1191.76, y: 52}
+      - {x: 1192, y: 50}
+      - {x: 1178, y: 41}
+      - {x: 1170, y: 30}
+      - {x: 1157, y: 22}
+      - {x: 1137, y: 14}
+      - {x: 1124, y: -3}
+      - {x: 1124, y: -4}
+      - {x: 1130, y: -18}
+      - {x: 1126, y: -23}
+      - {x: 1124, y: -29}
+      - {x: 1124, y: -40}
+      - {x: 1139, y: -44}
+      - {x: 1179, y: -45}
+      - {x: 1176, y: -73}
+      - {x: 1212, y: -81}
+      - {x: 1209, y: -103}
+      - {x: 1217, y: -107}
+      - {x: 1267, y: -108}
+      - {x: 1275, y: -122}
+      - {x: 1291, y: -133}
+      - {x: 1313, y: -149}
+      - {x: 1331, y: -149}
+    - - {x: 1681, y: -400}
+      - {x: 1691, y: -385}
+      - {x: 1702, y: -379}
+      - {x: 1704, y: -366}
+      - {x: 1733, y: -369}
+      - {x: 1737, y: -356}
+      - {x: 1755, y: -353}
+      - {x: 1764, y: -347}
+      - {x: 1775, y: -335}
+      - {x: 1794, y: -320}
+      - {x: 1811, y: -318}
+      - {x: 1817, y: -309}
+      - {x: 1833, y: -278}
+      - {x: 1856, y: -259}
+      - {x: 1866, y: -242}
+      - {x: 1866, y: -219}
+      - {x: 1862, y: -210}
+      - {x: 1819, y: -209}
+      - {x: 1819, y: -203}
+      - {x: 1812, y: -197}
+      - {x: 1789, y: -193}
+      - {x: 1771, y: -185}
+      - {x: 1754, y: -178}
+      - {x: 1713, y: -178}
+      - {x: 1699, y: -164}
+      - {x: 1679, y: -163}
+      - {x: 1605, y: -163}
+      - {x: 1597, y: -176}
+      - {x: 1597, y: -191}
+      - {x: 1603, y: -210}
+      - {x: 1607, y: -233}
+      - {x: 1597, y: -245}
+      - {x: 1597, y: -273}
+      - {x: 1607, y: -285}
+      - {x: 1629, y: -308}
+      - {x: 1622, y: -318}
+      - {x: 1615, y: -336}
+      - {x: 1603, y: -343}
+      - {x: 1607, y: -368}
+      - {x: 1615, y: -386}
+      - {x: 1619, y: -397}
+      - {x: 1647, y: -401}
+      - {x: 1672, y: -401}
+    - - {x: 1427, y: -711}
+      - {x: 1435, y: -701}
+      - {x: 1430, y: -685}
+      - {x: 1431, y: -673}
+      - {x: 1474, y: -658}
+      - {x: 1491, y: -649}
+      - {x: 1512, y: -633}
+      - {x: 1527, y: -615}
+      - {x: 1529, y: -592}
+      - {x: 1525, y: -574}
+      - {x: 1523, y: -567}
+      - {x: 1519, y: -563}
+      - {x: 1511, y: -553}
+      - {x: 1508, y: -521}
+      - {x: 1503, y: -515}
+      - {x: 1484, y: -517}
+      - {x: 1474, y: -500}
+      - {x: 1462, y: -480}
+      - {x: 1489, y: -483}
+      - {x: 1509, y: -477}
+      - {x: 1527, y: -460}
+      - {x: 1558, y: -465}
+      - {x: 1564, y: -449}
+      - {x: 1579, y: -450}
+      - {x: 1590, y: -438}
+      - {x: 1593, y: -427}
+      - {x: 1593, y: -418}
+      - {x: 1586, y: -409}
+      - {x: 1563, y: -401}
+      - {x: 1545, y: -391}
+      - {x: 1519, y: -374}
+      - {x: 1498, y: -373}
+      - {x: 1487, y: -377}
+      - {x: 1463, y: -389}
+      - {x: 1447, y: -388}
+      - {x: 1433, y: -391}
+      - {x: 1428, y: -383}
+      - {x: 1409, y: -368}
+      - {x: 1387, y: -364}
+      - {x: 1371, y: -363}
+      - {x: 1362, y: -369}
+      - {x: 1347, y: -364}
+      - {x: 1341, y: -363}
+      - {x: 1312, y: -363}
+      - {x: 1291, y: -373}
+      - {x: 1286, y: -386}
+      - {x: 1247, y: -388}
+      - {x: 1231, y: -403}
+      - {x: 1223, y: -400}
+      - {x: 1181, y: -404}
+      - {x: 1170, y: -422}
+      - {x: 1161, y: -426}
+      - {x: 1155, y: -440}
+      - {x: 1155, y: -473}
+      - {x: 1169, y: -492}
+      - {x: 1188, y: -512}
+      - {x: 1185, y: -519}
+      - {x: 1194, y: -537}
+      - {x: 1203, y: -561}
+      - {x: 1227, y: -587}
+      - {x: 1246, y: -636}
+      - {x: 1270, y: -635}
+      - {x: 1278, y: -648}
+      - {x: 1283, y: -653}
+      - {x: 1317, y: -672}
+      - {x: 1340, y: -679}
+      - {x: 1345, y: -684}
+      - {x: 1354, y: -694}
+      - {x: 1359, y: -699}
+      - {x: 1361, y: -700}
+      - {x: 1368, y: -701}
+      - {x: 1395, y: -718}
+      - {x: 1413, y: -718}
+    - - {x: 1451, y: -656}
+      - {x: 1450, y: -654}
+      - {x: 1453, y: -654}
+      - {x: 1451, y: -657}
+    - - {x: 1344, y: -46}
+      - {x: 1401, y: -39}
+      - {x: 1403, y: -5}
+      - {x: 1425, y: 15}
+      - {x: 1417, y: 34}
+      - {x: 1382.6826, y: 30.746582}
+      - {x: 1375, y: 60}
+      - {x: 1359, y: 66}
+      - {x: 1337, y: 54}
+      - {x: 1350, y: 30}
+      - {x: 1325, y: 6}
+    - - {x: 1354, y: -562}
+      - {x: 1404, y: -505}
+      - {x: 1349, y: -457}
+      - {x: 1304, y: -484}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceMapRightPowderedSnow_0: -8668564998011715452
+      IceMapRightPowderedSnow_1: 7420028285369621953
+      IceMapRightPowderedSnow_2: 6781534501616118054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

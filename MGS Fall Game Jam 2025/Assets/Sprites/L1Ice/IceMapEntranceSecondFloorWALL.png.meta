@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: b7e9be60a261976468ef74c640230655
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3548533867727147590
+    second: IceMapEntranceSecondFloorWALL_0
+  - first:
+      213: -2743599425978597245
+    second: IceMapEntranceSecondFloorWALL_1
+  - first:
+      213: 1072475673195314761
+    second: IceMapEntranceSecondFloorWALL_2
+  - first:
+      213: 7351538243148263383
+    second: IceMapEntranceSecondFloorWALL_3
+  - first:
+      213: -4681063325068489372
+    second: IceMapEntranceSecondFloorWALL_4
+  - first:
+      213: 602270262264226360
+    second: IceMapEntranceSecondFloorWALL_5
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.9
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceMapEntranceSecondFloorWALL_0
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2655
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd2eac8f3311cec0800000000000000
+      internalID: -3548533867727147590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapEntranceSecondFloorWALL_1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2527
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3808498bbd6cce9d0800000000000000
+      internalID: -2743599425978597245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapEntranceSecondFloorWALL_2
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 2527
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94efd0b41f232ee00800000000000000
+      internalID: 1072475673195314761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapEntranceSecondFloorWALL_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2431
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df2d8ff419e50660800000000000000
+      internalID: 7351538243148263383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapEntranceSecondFloorWALL_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2367
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0f2a05b5890fb0800000000000000
+      internalID: -4681063325068489372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapEntranceSecondFloorWALL_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2319
+        width: 162
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8326a01dc91bb5800800000000000000
+      internalID: 602270262264226360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: -1136, y: -312}
+      - {x: -1152, y: -312}
+      - {x: -1152, y: -344}
+      - {x: -1136, y: -344}
+    - - {x: -1488, y: -424}
+      - {x: -1504, y: -424}
+      - {x: -1505, y: -440}
+      - {x: -1536, y: -440}
+      - {x: -1537, y: -456}
+      - {x: -1570, y: -456}
+      - {x: -1570, y: -472}
+      - {x: -1488, y: -472}
+    - - {x: -1152, y: -440}
+      - {x: -1159, y: -440}
+      - {x: -1168, y: -440}
+      - {x: -1168, y: -472}
+      - {x: -1152, y: -472}
+    - - {x: -1168, y: -536}
+      - {x: -1184, y: -536}
+      - {x: -1184, y: -568}
+      - {x: -1168, y: -568}
+    - - {x: -1279, y: -664}
+      - {x: -1216, y: -664}
+      - {x: -1215, y: -632}
+      - {x: -1184, y: -632}
+      - {x: -1184, y: -600}
+      - {x: -1216, y: -600}
+      - {x: -1216, y: -631}
+      - {x: -1217, y: -632}
+      - {x: -1280, y: -632}
+      - {x: -1281, y: -648}
+      - {x: -1344, y: -648}
+      - {x: -1344, y: -680}
+      - {x: -1280, y: -680}
+    - - {x: -1440, y: -600}
+      - {x: -1488, y: -600}
+      - {x: -1488, y: -632}
+      - {x: -1440, y: -632}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceMapEntranceSecondFloorWALL_0: -3548533867727147590
+      IceMapEntranceSecondFloorWALL_1: -2743599425978597245
+      IceMapEntranceSecondFloorWALL_2: 1072475673195314761
+      IceMapEntranceSecondFloorWALL_3: 7351538243148263383
+      IceMapEntranceSecondFloorWALL_4: -4681063325068489372
+      IceMapEntranceSecondFloorWALL_5: 602270262264226360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

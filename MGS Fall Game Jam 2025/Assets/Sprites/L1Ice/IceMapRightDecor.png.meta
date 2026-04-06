@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: f881a7826a348034aa0c152a4e77baf0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4667611202928306676
+    second: IceMapRightDecor_0
+  - first:
+      213: -4000211124095431110
+    second: IceMapRightDecor_1
+  - first:
+      213: 4170019757607066390
+    second: IceMapRightDecor_2
+  - first:
+      213: 8491491468294700506
+    second: IceMapRightDecor_3
+  - first:
+      213: -2855014431923437683
+    second: IceMapRightDecor_4
+  - first:
+      213: -3830331025765348780
+    second: IceMapRightDecor_5
+  - first:
+      213: 5054855455888099881
+    second: IceMapRightDecor_6
+  - first:
+      213: 1235867615986402661
+    second: IceMapRightDecor_7
+  - first:
+      213: 6862738027937296523
+    second: IceMapRightDecor_8
+  - first:
+      213: -7316518922855126643
+    second: IceMapRightDecor_9
+  - first:
+      213: 3060105170302036913
+    second: IceMapRightDecor_10
+  - first:
+      213: -7972792377945809492
+    second: IceMapRightDecor_11
+  - first:
+      213: -2333235700276815939
+    second: IceMapRightDecor_12
+  - first:
+      213: -50117614489138429
+    second: IceMapRightDecor_13
+  - first:
+      213: 7358208045443527431
+    second: IceMapRightDecor_14
+  - first:
+      213: -1299398830283297385
+    second: IceMapRightDecor_15
+  - first:
+      213: 5502962531321662716
+    second: IceMapRightDecor_16
+  - first:
+      213: 1949497586936038979
+    second: IceMapRightDecor_17
+  - first:
+      213: -4717256299178622385
+    second: IceMapRightDecor_18
+  - first:
+      213: -4484503317682787883
+    second: IceMapRightDecor_19
+  - first:
+      213: 662890626195775962
+    second: IceMapRightDecor_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceMapRightDecor_0
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 3224
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0613db4750593fb0800000000000000
+      internalID: -4667611202928306676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_1
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 3184
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ec9b93d256c78c0800000000000000
+      internalID: -4000211124095431110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_2
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 3120
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b978630e2eed930800000000000000
+      internalID: 4170019757607066390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_3
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 3109
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add37f42086d7d570800000000000000
+      internalID: 8491491468294700506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_4
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 3026
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ff69c2083f068d0800000000000000
+      internalID: -2855014431923437683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_5
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 2980
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a491dd93ee7dac0800000000000000
+      internalID: -3830331025765348780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_6
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 2976
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac72f5144762640800000000000000
+      internalID: 5054855455888099881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_7
+      rect:
+        serializedVersion: 2
+        x: 2971
+        y: 2938
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56547408c0fa62110800000000000000
+      internalID: 1235867615986402661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_8
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 2914
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8074c540e75d3f50800000000000000
+      internalID: 6862738027937296523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_9
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 2865
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89ebc2edc0867a90800000000000000
+      internalID: -7316518922855126643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_10
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 2804
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb6033707da77a20800000000000000
+      internalID: 3060105170302036913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_11
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 2729
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad199ce293fa5190800000000000000
+      internalID: -7972792377945809492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_12
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 2733
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db79dbb1e7eae9fd0800000000000000
+      internalID: -2333235700276815939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_13
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 2688
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b826f8b42fd4ff0800000000000000
+      internalID: -50117614489138429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_14
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 2628
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703351c5b3b9d1660800000000000000
+      internalID: 7358208045443527431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_15
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 2610
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79de76bf5ab97fde0800000000000000
+      internalID: -1299398830283297385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_16
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 2596
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc46bb24437e5c40800000000000000
+      internalID: 5502962531321662716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_17
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 2584
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346cdc7f9b10e0b10800000000000000
+      internalID: 1949497586936038979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_18
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 2519
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f420cf49360f88eb0800000000000000
+      internalID: -4717256299178622385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_19
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 2277
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9e4731ef7d3c1c0800000000000000
+      internalID: -4484503317682787883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapRightDecor_20
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 2166
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1e55b238f033900800000000000000
+      internalID: 662890626195775962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceMapRightDecor_0: -4667611202928306676
+      IceMapRightDecor_1: -4000211124095431110
+      IceMapRightDecor_10: 3060105170302036913
+      IceMapRightDecor_11: -7972792377945809492
+      IceMapRightDecor_12: -2333235700276815939
+      IceMapRightDecor_13: -50117614489138429
+      IceMapRightDecor_14: 7358208045443527431
+      IceMapRightDecor_15: -1299398830283297385
+      IceMapRightDecor_16: 5502962531321662716
+      IceMapRightDecor_17: 1949497586936038979
+      IceMapRightDecor_18: -4717256299178622385
+      IceMapRightDecor_19: -4484503317682787883
+      IceMapRightDecor_2: 4170019757607066390
+      IceMapRightDecor_20: 662890626195775962
+      IceMapRightDecor_3: 8491491468294700506
+      IceMapRightDecor_4: -2855014431923437683
+      IceMapRightDecor_5: -3830331025765348780
+      IceMapRightDecor_6: 5054855455888099881
+      IceMapRightDecor_7: 1235867615986402661
+      IceMapRightDecor_8: 6862738027937296523
+      IceMapRightDecor_9: -7316518922855126643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

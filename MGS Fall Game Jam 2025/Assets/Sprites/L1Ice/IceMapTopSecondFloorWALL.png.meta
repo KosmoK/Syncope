@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: 58a5e33eb236d7644ac4ffcede0e97cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4366857388351888227
+    second: IceMapTopSecondFloorWALL_0
+  - first:
+      213: -5522215907087583924
+    second: IceMapTopSecondFloorWALL_1
+  - first:
+      213: 4706314568489392816
+    second: IceMapTopSecondFloorWALL_2
+  - first:
+      213: -7805170477713717969
+    second: IceMapTopSecondFloorWALL_3
+  - first:
+      213: -3971580530756125964
+    second: IceMapTopSecondFloorWALL_4
+  - first:
+      213: 6977514331636821785
+    second: IceMapTopSecondFloorWALL_5
+  - first:
+      213: -6526994028516348516
+    second: IceMapTopSecondFloorWALL_6
+  - first:
+      213: 4824218594500842131
+    second: IceMapTopSecondFloorWALL_7
+  - first:
+      213: 6417993050427611794
+    second: IceMapTopSecondFloorWALL_8
+  - first:
+      213: 7076443313603085860
+    second: IceMapTopSecondFloorWALL_9
+  - first:
+      213: 6800294288725332004
+    second: IceMapTopSecondFloorWALL_10
+  - first:
+      213: -5022950703260127673
+    second: IceMapTopSecondFloorWALL_11
+  - first:
+      213: -1363912944258354258
+    second: IceMapTopSecondFloorWALL_12
+  - first:
+      213: 1612541704963415789
+    second: IceMapTopSecondFloorWALL_13
+  - first:
+      213: 6680304142927677674
+    second: IceMapTopSecondFloorWALL_14
+  - first:
+      213: 235295610708132468
+    second: IceMapTopSecondFloorWALL_15
+  - first:
+      213: -165080508301248853
+    second: IceMapTopSecondFloorWALL_16
+  - first:
+      213: 4331989314933934745
+    second: IceMapTopSecondFloorWALL_17
+  - first:
+      213: -1969948922863590487
+    second: IceMapTopSecondFloorWALL_18
+  - first:
+      213: 5400041200107687100
+    second: IceMapTopSecondFloorWALL_19
+  - first:
+      213: -8845408619621122022
+    second: IceMapTopSecondFloorWALL_20
+  - first:
+      213: -5275470329326182709
+    second: IceMapTopSecondFloorWALL_21
+  - first:
+      213: -4875491385061520527
+    second: IceMapTopSecondFloorWALL_22
+  - first:
+      213: 3128333579857457577
+    second: IceMapTopSecondFloorWALL_23
+  - first:
+      213: -4442643617309370867
+    second: IceMapTopSecondFloorWALL_24
+  - first:
+      213: 6285469933142040354
+    second: IceMapTopSecondFloorWALL_25
+  - first:
+      213: 1272542712315776567
+    second: IceMapTopSecondFloorWALL_26
+  - first:
+      213: -635350009236575996
+    second: IceMapTopSecondFloorWALL_27
+  - first:
+      213: -365531652668590208
+    second: IceMapTopSecondFloorWALL_28
+  - first:
+      213: -8435295233633757575
+    second: IceMapTopSecondFloorWALL_29
+  - first:
+      213: -6234831038509130932
+    second: IceMapTopSecondFloorWALL_30
+  - first:
+      213: -7698312262424521205
+    second: IceMapTopSecondFloorWALL_31
+  - first:
+      213: -7307161597586358841
+    second: IceMapTopSecondFloorWALL_32
+  - first:
+      213: 2758253265727806754
+    second: IceMapTopSecondFloorWALL_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.8
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_0
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 5279
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94ee76875ec563c0800000000000000
+      internalID: -4366857388351888227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_1
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 5199
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c457805f3e52d53b0800000000000000
+      internalID: -5522215907087583924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_2
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 5128
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba5e083a20305140800000000000000
+      internalID: 4706314568489392816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_3
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 5151
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f250288ddc67ea390800000000000000
+      internalID: -7805170477713717969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_4
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 5055
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa7c63bc8c12e8c0800000000000000
+      internalID: -3971580530756125964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_5
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 5055
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fe860f05c15d060800000000000000
+      internalID: 6977514331636821785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_6
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 5007
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9def2733857b65a0800000000000000
+      internalID: -6526994028516348516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_7
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 5007
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3929e0c704113f240800000000000000
+      internalID: 4824218594500842131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_8
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 5031
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ad9a5ecaa411950800000000000000
+      internalID: 6417993050427611794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_9
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 4783
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426008c73b3943260800000000000000
+      internalID: 7076443313603085860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_10
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 4895
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420579740af7f5e50800000000000000
+      internalID: 6800294288725332004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_11
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 4895
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ea1e7b2f4ea4ab0800000000000000
+      internalID: -5022950703260127673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_12
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 4831
+        width: 130
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea37cec4768621de0800000000000000
+      internalID: -1363912944258354258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_13
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 4783
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deed8d51326e06610800000000000000
+      internalID: 1612541704963415789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_14
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 4783
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae846c6693535bc50800000000000000
+      internalID: 6680304142927677674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_15
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 4735
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472877d7c10f34300800000000000000
+      internalID: 235295610708132468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_16
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 4703
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6fc5ff62485bdf0800000000000000
+      internalID: -165080508301248853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_17
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 4735
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99acc6f74515e1c30800000000000000
+      internalID: 4331989314933934745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_18
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 4735
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a36d0354e559a4e0800000000000000
+      internalID: -1969948922863590487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_19
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 4575
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc84e06cdcc0fa40800000000000000
+      internalID: 5400041200107687100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_20
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 4447
+        width: 386
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a100e46b9bbce3580800000000000000
+      internalID: -8845408619621122022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_21
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 4511
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce5665afa3c9c6b0800000000000000
+      internalID: -5275470329326182709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_22
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 4511
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b4eefaa66c65cb0800000000000000
+      internalID: -4875491385061520527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_23
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 4479
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a17456f0d21a6b20800000000000000
+      internalID: 3128333579857457577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_24
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 4511
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d065e9e0b2f8852c0800000000000000
+      internalID: -4442643617309370867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_25
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 4447
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f54533a997a3750800000000000000
+      internalID: 6285469933142040354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_26
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 4383
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e0819cadaf8a110800000000000000
+      internalID: 1272542712315776567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_27
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 4383
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409a9676888ce27f0800000000000000
+      internalID: -635350009236575996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_28
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 4079
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087f68806ee5deaf0800000000000000
+      internalID: -365531652668590208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_29
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 4031
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976d6b75dafcfea80800000000000000
+      internalID: -8435295233633757575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_30
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 3887
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b551b343e6979a0800000000000000
+      internalID: -6234831038509130932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_31
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 3863
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b061724e8c91a2590800000000000000
+      internalID: -7698312262424521205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_32
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 3839
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd3d73fd3fb79a90800000000000000
+      internalID: -7307161597586358841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceMapTopSecondFloorWALL_33
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 3759
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d54483bb8474620800000000000000
+      internalID: 2758253265727806754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: 752, y: 2296}
+      - {x: 752, y: 2328}
+      - {x: 736, y: 2328}
+      - {x: 735, y: 2312}
+      - {x: 720, y: 2312}
+      - {x: 720, y: 2280}
+      - {x: 736, y: 2280}
+    - - {x: 720, y: 2232}
+      - {x: 720, y: 2264}
+      - {x: 704, y: 2264}
+      - {x: 704, y: 2233}
+      - {x: 688, y: 2232}
+      - {x: 688, y: 2200}
+      - {x: 704, y: 2200}
+    - - {x: 688, y: 2184}
+      - {x: 672, y: 2184}
+      - {x: 672, y: 2152}
+      - {x: 688, y: 2152}
+    - - {x: 561, y: 2135}
+      - {x: 576, y: 2135}
+      - {x: 576, y: 2152}
+      - {x: 544, y: 2168}
+      - {x: 496, y: 2168}
+      - {x: 496, y: 2136}
+      - {x: 543, y: 2136}
+      - {x: 544, y: 2129}
+      - {x: 560, y: 2129}
+    - - {x: 208, y: 2088}
+      - {x: 176, y: 2104}
+      - {x: 144, y: 2104}
+      - {x: 144, y: 2072}
+      - {x: 175, y: 2072}
+      - {x: 176, y: 2056}
+      - {x: 208, y: 2056}
+    - - {x: 448, y: 2088}
+      - {x: 432, y: 2088}
+      - {x: 432, y: 2056}
+      - {x: 448, y: 2056}
+    - - {x: 576, y: 2047}
+      - {x: 544, y: 2047}
+      - {x: 544, y: 2032}
+      - {x: 576, y: 2032}
+    - - {x: 432, y: 2040}
+      - {x: 400, y: 2040}
+      - {x: 400, y: 2008}
+      - {x: 432, y: 2008}
+    - - {x: 304, y: 2040}
+      - {x: 208, y: 2040}
+      - {x: 208, y: 2008}
+      - {x: 304, y: 2008}
+    - - {x: 704, y: 1864}
+      - {x: 688, y: 1865}
+      - {x: 688, y: 1896}
+      - {x: 672, y: 1897}
+      - {x: 672, y: 1912}
+      - {x: 656, y: 1913}
+      - {x: 656, y: 1944}
+      - {x: 640, y: 1945}
+      - {x: 640, y: 1960}
+      - {x: 624, y: 1961}
+      - {x: 624, y: 1976}
+      - {x: 608, y: 1977}
+      - {x: 608, y: 1992}
+      - {x: 592, y: 1993}
+      - {x: 592, y: 2008}
+      - {x: 576, y: 2008}
+      - {x: 576, y: 1976}
+      - {x: 592, y: 1975}
+      - {x: 592, y: 1960}
+      - {x: 608, y: 1959}
+      - {x: 608, y: 1944}
+      - {x: 624, y: 1943}
+      - {x: 624, y: 1928}
+      - {x: 640, y: 1927}
+      - {x: 640, y: 1912}
+      - {x: 655, y: 1912}
+      - {x: 656, y: 1911}
+      - {x: 656, y: 1880}
+      - {x: 671, y: 1880}
+      - {x: 672, y: 1879}
+      - {x: 672, y: 1864}
+      - {x: 687, y: 1864}
+      - {x: 688, y: 1863}
+      - {x: 688, y: 1832}
+      - {x: 704, y: 1832}
+    - - {x: -32, y: 1928}
+      - {x: -48, y: 1928}
+      - {x: -48, y: 1896}
+      - {x: -32, y: 1896}
+    - - {x: -240, y: 1928}
+      - {x: -272, y: 1928}
+      - {x: -272, y: 1896}
+      - {x: -240, y: 1896}
+    - - {x: -959, y: 1800}
+      - {x: -944, y: 1800}
+      - {x: -944, y: 1831}
+      - {x: -928, y: 1832}
+      - {x: -928, y: 1863}
+      - {x: -927, y: 1864}
+      - {x: -896, y: 1864}
+      - {x: -895, y: 1880}
+      - {x: -880, y: 1880}
+      - {x: -880, y: 1912}
+      - {x: -896, y: 1912}
+      - {x: -896, y: 1897}
+      - {x: -897, y: 1896}
+      - {x: -928, y: 1896}
+      - {x: -928, y: 1865}
+      - {x: -936, y: 1864}
+      - {x: -938, y: 1865}
+      - {x: -944, y: 1864}
+      - {x: -944, y: 1833}
+      - {x: -952, y: 1832}
+      - {x: -954, y: 1833}
+      - {x: -960, y: 1832}
+      - {x: -960, y: 1818}
+      - {x: -963, y: 1816}
+      - {x: -976, y: 1816}
+      - {x: -976, y: 1784}
+      - {x: -960, y: 1784}
+    - - {x: 720, y: 1816}
+      - {x: 704, y: 1816}
+      - {x: 704, y: 1784}
+      - {x: 720, y: 1784}
+    - - {x: -224, y: 1816}
+      - {x: -240, y: 1816}
+      - {x: -240, y: 1784}
+      - {x: -224, y: 1784}
+    - - {x: -976, y: 1768}
+      - {x: -985, y: 1769}
+      - {x: -992, y: 1768}
+      - {x: -992, y: 1736}
+      - {x: -976, y: 1736}
+    - - {x: 800, y: 1768}
+      - {x: 720, y: 1768}
+      - {x: 720, y: 1736}
+      - {x: 800, y: 1736}
+    - - {x: 944, y: 1768}
+      - {x: 896, y: 1768}
+      - {x: 896, y: 1736}
+      - {x: 944, y: 1736}
+    - - {x: -208, y: 1736}
+      - {x: -224, y: 1736}
+      - {x: -224, y: 1704}
+      - {x: -208, y: 1704}
+    - - {x: 544, y: 1480}
+      - {x: 433, y: 1480}
+      - {x: 432, y: 1496}
+      - {x: 416, y: 1497}
+      - {x: 416, y: 1528}
+      - {x: 400, y: 1529}
+      - {x: 400, y: 1544}
+      - {x: 384, y: 1545}
+      - {x: 384, y: 1576}
+      - {x: 352, y: 1577}
+      - {x: 352, y: 1608}
+      - {x: 320, y: 1609}
+      - {x: 320, y: 1640}
+      - {x: 288, y: 1641}
+      - {x: 288, y: 1672}
+      - {x: 257, y: 1672}
+      - {x: 256, y: 1688}
+      - {x: 160, y: 1688}
+      - {x: 160, y: 1656}
+      - {x: 255, y: 1656}
+      - {x: 256, y: 1640}
+      - {x: 287, y: 1640}
+      - {x: 288, y: 1639}
+      - {x: 288, y: 1608}
+      - {x: 319, y: 1608}
+      - {x: 320, y: 1607}
+      - {x: 320, y: 1576}
+      - {x: 351, y: 1576}
+      - {x: 352, y: 1575}
+      - {x: 352, y: 1544}
+      - {x: 383, y: 1544}
+      - {x: 384, y: 1543}
+      - {x: 384, y: 1512}
+      - {x: 400, y: 1511}
+      - {x: 400, y: 1496}
+      - {x: 416, y: 1495}
+      - {x: 416, y: 1464}
+      - {x: 432, y: 1463}
+      - {x: 432, y: 1448}
+      - {x: 544, y: 1448}
+    - - {x: -1152, y: 1608}
+      - {x: -1168, y: 1608}
+      - {x: -1168, y: 1576}
+      - {x: -1152, y: 1576}
+    - - {x: -48, y: 1544}
+      - {x: -64, y: 1544}
+      - {x: -64, y: 1512}
+      - {x: -48, y: 1512}
+    - - {x: -944, y: 1544}
+      - {x: -1024, y: 1544}
+      - {x: -1024, y: 1512}
+      - {x: -944, y: 1512}
+    - - {x: -1120, y: 1544}
+      - {x: -1152, y: 1544}
+      - {x: -1152, y: 1512}
+      - {x: -1120, y: 1512}
+    - - {x: -192, y: 1512}
+      - {x: -208, y: 1512}
+      - {x: -208, y: 1480}
+      - {x: -192, y: 1480}
+    - - {x: 672, y: 1480}
+      - {x: 640, y: 1480}
+      - {x: 640, y: 1448}
+      - {x: 672, y: 1448}
+    - - {x: -48, y: 1416}
+      - {x: -96, y: 1416}
+      - {x: -96, y: 1384}
+      - {x: -48, y: 1384}
+    - - {x: -144, y: 1416}
+      - {x: -192, y: 1416}
+      - {x: -192, y: 1384}
+      - {x: -144, y: 1384}
+    - - {x: 1680, y: 1111}
+      - {x: 1696, y: 1112}
+      - {x: 1696, y: 1143}
+      - {x: 1712, y: 1144}
+      - {x: 1712, y: 1175}
+      - {x: 1728, y: 1176}
+      - {x: 1728, y: 1208}
+      - {x: 1712, y: 1208}
+      - {x: 1712, y: 1177}
+      - {x: 1696, y: 1176}
+      - {x: 1696, y: 1145}
+      - {x: 1680, y: 1144}
+      - {x: 1680, y: 1113}
+      - {x: 1664, y: 1112}
+      - {x: 1664, y: 1080}
+      - {x: 1680, y: 1080}
+    - - {x: 1664, y: 1064}
+      - {x: 1632, y: 1064}
+      - {x: 1632, y: 1032}
+      - {x: 1664, y: 1032}
+    - - {x: 1552, y: 919}
+      - {x: 1568, y: 920}
+      - {x: 1569, y: 952}
+      - {x: 1616, y: 952}
+      - {x: 1616, y: 983}
+      - {x: 1632, y: 984}
+      - {x: 1632, y: 1016}
+      - {x: 1616, y: 1016}
+      - {x: 1615, y: 984}
+      - {x: 1568, y: 984}
+      - {x: 1568, y: 953}
+      - {x: 1552, y: 952}
+      - {x: 1551, y: 920}
+      - {x: 1520, y: 920}
+      - {x: 1520, y: 888}
+      - {x: 1552, y: 888}
+    - - {x: 1328, y: 880}
+      - {x: 1296, y: 880}
+      - {x: 1296, y: 864}
+      - {x: 1328, y: 864}
+    - - {x: 1520, y: 872}
+      - {x: 1472, y: 872}
+      - {x: 1472, y: 840}
+      - {x: 1520, y: 840}
+    - - {x: 1441, y: 792}
+      - {x: 1472, y: 792}
+      - {x: 1472, y: 824}
+      - {x: 1440, y: 824}
+      - {x: 1439, y: 792}
+      - {x: 1361, y: 792}
+      - {x: 1360, y: 808}
+      - {x: 1344, y: 809}
+      - {x: 1344, y: 824}
+      - {x: 1328, y: 824}
+      - {x: 1328, y: 792}
+      - {x: 1344, y: 791}
+      - {x: 1344, y: 776}
+      - {x: 1360, y: 775}
+      - {x: 1360, y: 760}
+      - {x: 1440, y: 760}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IceMapTopSecondFloorWALL_0: -4366857388351888227
+      IceMapTopSecondFloorWALL_1: -5522215907087583924
+      IceMapTopSecondFloorWALL_10: 6800294288725332004
+      IceMapTopSecondFloorWALL_11: -5022950703260127673
+      IceMapTopSecondFloorWALL_12: -1363912944258354258
+      IceMapTopSecondFloorWALL_13: 1612541704963415789
+      IceMapTopSecondFloorWALL_14: 6680304142927677674
+      IceMapTopSecondFloorWALL_15: 235295610708132468
+      IceMapTopSecondFloorWALL_16: -165080508301248853
+      IceMapTopSecondFloorWALL_17: 4331989314933934745
+      IceMapTopSecondFloorWALL_18: -1969948922863590487
+      IceMapTopSecondFloorWALL_19: 5400041200107687100
+      IceMapTopSecondFloorWALL_2: 4706314568489392816
+      IceMapTopSecondFloorWALL_20: -8845408619621122022
+      IceMapTopSecondFloorWALL_21: -5275470329326182709
+      IceMapTopSecondFloorWALL_22: -4875491385061520527
+      IceMapTopSecondFloorWALL_23: 3128333579857457577
+      IceMapTopSecondFloorWALL_24: -4442643617309370867
+      IceMapTopSecondFloorWALL_25: 6285469933142040354
+      IceMapTopSecondFloorWALL_26: 1272542712315776567
+      IceMapTopSecondFloorWALL_27: -635350009236575996
+      IceMapTopSecondFloorWALL_28: -365531652668590208
+      IceMapTopSecondFloorWALL_29: -8435295233633757575
+      IceMapTopSecondFloorWALL_3: -7805170477713717969
+      IceMapTopSecondFloorWALL_30: -6234831038509130932
+      IceMapTopSecondFloorWALL_31: -7698312262424521205
+      IceMapTopSecondFloorWALL_32: -7307161597586358841
+      IceMapTopSecondFloorWALL_33: 2758253265727806754
+      IceMapTopSecondFloorWALL_4: -3971580530756125964
+      IceMapTopSecondFloorWALL_5: 6977514331636821785
+      IceMapTopSecondFloorWALL_6: -6526994028516348516
+      IceMapTopSecondFloorWALL_7: 4824218594500842131
+      IceMapTopSecondFloorWALL_8: 6417993050427611794
+      IceMapTopSecondFloorWALL_9: 7076443313603085860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
