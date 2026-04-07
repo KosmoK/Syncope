@@ -1,9 +1,5 @@
 using System;
-using Unity.Mathematics;
-using UnityEditor.Rendering;
 using UnityEngine;
-using UnityEngine.Rendering;
-using UnityEngine.UIElements;
 
 public class GolemIciclePrecursor : MonoBehaviour
 {

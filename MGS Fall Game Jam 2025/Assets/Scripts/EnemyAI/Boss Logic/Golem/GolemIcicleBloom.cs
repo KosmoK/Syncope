@@ -1,8 +1,5 @@
 using System;
 using Unity.VectorGraphics;
-using Unity.VisualScripting;
-using UnityEditor.Embree;
-using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 
 public class GolemIcicleBloom : MonoBehaviour
