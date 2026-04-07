@@ -13,6 +13,7 @@ TagManager:
   - IceEnemy
   - IceBossPong
   - HPUI
+  - Walls
   layers:
   - Default
   - TransparentFX
