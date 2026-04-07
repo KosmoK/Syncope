@@ -112,8 +112,10 @@ public class TraderScript : MonoBehaviour
         if (specialAttacks.purchasingAttack("Neural Impulse"))
         {
             setActiveAttack("Neural Impulse");
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         }
         trader.setFunds();
+        
     }
 
     public void purchaseST()
@@ -121,8 +123,10 @@ public class TraderScript : MonoBehaviour
         if (specialAttacks.purchasingAttack("Sketch Tornado"))
         {
             setActiveAttack("Sketch Tornado");
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         }
         trader.setFunds();
+        
     }
 
     public void purchaseGB()
@@ -130,8 +134,10 @@ public class TraderScript : MonoBehaviour
         if (specialAttacks.purchasingAttack("Gravity Ball"))
         {
             setActiveAttack("Gravity Ball");
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         }
         trader.setFunds();
+        
     }
 
     public void purchaseIB()
@@ -139,8 +145,10 @@ public class TraderScript : MonoBehaviour
         if (specialAttacks.purchasingAttack("Icy Breath"))
         {
             setActiveAttack("Icy Breath");
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         }
         trader.setFunds();
+        
     }
 
     public void purchaseFire()
@@ -149,8 +157,10 @@ public class TraderScript : MonoBehaviour
         {
             drugManager.setActiveDrug("Fire");
             setActiveDrug("Fire");
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         }
         trader.setFunds();
+        
     }
 
     public void purchaseIce()
@@ -159,8 +169,10 @@ public class TraderScript : MonoBehaviour
         {
             drugManager.setActiveDrug("Ice");
             setActiveDrug("Ice");
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         }
         trader.setFunds();
+        
     }
 
     public void purchaseDash()
@@ -169,8 +181,10 @@ public class TraderScript : MonoBehaviour
         {
             drugManager.setActiveDrug("Dash");
             setActiveDrug("Dash");
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         }
         trader.setFunds();
+        
     }
 
     public void purchaseMaxSpeed()
@@ -179,8 +193,10 @@ public class TraderScript : MonoBehaviour
         {
             drugManager.setActiveDrug("Speed");
             setActiveDrug("Speed");
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         }
         trader.setFunds();
+        
     }
 
     private void setActiveAttack(string attackName)
@@ -197,8 +213,10 @@ public class TraderScript : MonoBehaviour
             } else
             {
                 attackReferences[s].sprite = notPurchasedSprite;
+
             }
         }
+
     }
 
     private void setActiveDrug(string drugName)
@@ -209,12 +227,14 @@ public class TraderScript : MonoBehaviour
             if (s == drugName)
             {
                 drugReferences[s].sprite = activeSprite;
+                //NOTE TO SELF: PUT BEEP SOUND FOR SELECTING THING HERE? TALK TO KEAGAN
             } else if (unlocks[s] == true)
             {
                 drugReferences[s].sprite = purchasedSprite;
             } else
             {
                 drugReferences[s].sprite = notPurchasedSprite;
+                
             }
         }
     }

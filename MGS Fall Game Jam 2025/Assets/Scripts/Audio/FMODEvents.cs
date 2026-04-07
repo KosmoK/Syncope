@@ -10,7 +10,10 @@ public class FMODEvents : MonoBehaviour
 
     [field: SerializeField] public EventReference playerHurt { get; private set; }
     [field: SerializeField] public EventReference playerAttack { get; private set; }
-
+    [field: SerializeField] public EventReference gravBall { get; private set; }
+    [field: SerializeField] public EventReference icyBreath { get; private set; }
+    [field: SerializeField] public EventReference neuralImpulse { get; private set; }
+    [field: SerializeField] public EventReference sketchTornado { get; private set; }
     [field: Header("Ant SFX")]
     [field: SerializeField] public EventReference antAttack {get; private set;}
     [field: SerializeField] public EventReference antLeaderAttack { get; private set; }
@@ -31,6 +34,9 @@ public class FMODEvents : MonoBehaviour
     [field: SerializeField] public EventReference slashLoop { get; private set; }
     [field: Header("Misc SFX")]
     [field: SerializeField] public EventReference coinGet { get; private set; }
+    [field: SerializeField] public EventReference purchase { get; private set; }
+    [field: SerializeField] public EventReference itemSelected { get; private set; }
+    [field: SerializeField] public EventReference itemUnaffordable { get; private set; }
     public static FMODEvents instance { get; private set; }
 
     private void Awake()

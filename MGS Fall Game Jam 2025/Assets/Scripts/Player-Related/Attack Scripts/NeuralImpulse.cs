@@ -10,6 +10,7 @@ public class NeuralImpulse : MonoBehaviour
     void Start()
     {
         GameObject.FindGameObjectWithTag("Player").GetComponent<Movement>().setDontMove(true);
+        AudioManager.instance.PlayOneShot(FMODEvents.instance.neuralImpulse, this.transform.position);
     }
 
     void OnDestroy()

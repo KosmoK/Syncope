@@ -14,6 +14,7 @@ public class IcyBreath : MonoBehaviour
         if (p1)
         {
             GameObject.FindGameObjectWithTag("Player").GetComponent<Movement>().setDontMove(true);
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.icyBreath, this.transform.position);
         }
     }
 

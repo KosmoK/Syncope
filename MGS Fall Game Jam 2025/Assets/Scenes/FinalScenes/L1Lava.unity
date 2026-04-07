@@ -23123,6 +23123,34 @@ MonoBehaviour:
       Data3: -980605047
       Data4: -730343592
     Path: event:/SFX/Player/PlayerAttack
+  <gravBall>k__BackingField:
+    Guid:
+      Data1: 367790821
+      Data2: 1134257672
+      Data3: -2004573039
+      Data4: -2123415371
+    Path: event:/SFX/Player/Abilities/GravBall
+  <icyBreath>k__BackingField:
+    Guid:
+      Data1: 418989908
+      Data2: 1253278528
+      Data3: 316700802
+      Data4: 1146400959
+    Path: event:/SFX/Player/Abilities/IcyBreath
+  <neuralImpulse>k__BackingField:
+    Guid:
+      Data1: 1553545296
+      Data2: 1242866302
+      Data3: -596690778
+      Data4: -891294000
+    Path: event:/SFX/Player/Abilities/NeuralImpulse
+  <sketchTornado>k__BackingField:
+    Guid:
+      Data1: -1485316935
+      Data2: 1081273303
+      Data3: 1292311463
+      Data4: -1398345801
+    Path: event:/SFX/Player/Abilities/SketchTornado
   <antAttack>k__BackingField:
     Guid:
       Data1: -1269270733
@@ -23207,6 +23235,27 @@ MonoBehaviour:
       Data3: 1638275493
       Data4: -12918127
     Path: event:/Misc/CoinGet
+  <purchase>k__BackingField:
+    Guid:
+      Data1: 1085589365
+      Data2: 1148992100
+      Data3: 832267952
+      Data4: 2097833773
+    Path: event:/Misc/Purchase
+  <itemSelected>k__BackingField:
+    Guid:
+      Data1: -1496998412
+      Data2: 1280029465
+      Data3: -937225579
+      Data4: 563124768
+    Path: event:/Misc/ItemSelected
+  <itemUnaffordable>k__BackingField:
+    Guid:
+      Data1: 2018860649
+      Data2: 1298559139
+      Data3: 913094051
+      Data4: 825433073
+    Path: event:/Misc/ItemUnaffordable
 --- !u!1 &1640371538
 GameObject:
   m_ObjectHideFlags: 0
