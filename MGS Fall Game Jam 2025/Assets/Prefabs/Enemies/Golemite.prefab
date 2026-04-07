@@ -20,7 +20,7 @@ GameObject:
   - component: {fileID: 7445965337803709506}
   m_Layer: 2
   m_Name: Golemite
-  m_TagString: LavaEnemy
+  m_TagString: IceEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -138,7 +138,7 @@ MonoBehaviour:
   idleToChaseDist: 15
   chaseFollowDist: 25
   attackDist: 1
-  animStates: {fileID: 0}
+  animStates: {fileID: 5738085915439510857}
   layermask:
     serializedVersion: 2
     m_Bits: 887
