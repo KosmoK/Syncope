@@ -308,6 +308,7 @@ GameObject:
   - component: {fileID: 9174404443027345975}
   - component: {fileID: 9040985626312707518}
   - component: {fileID: 5904423265277556177}
+  - component: {fileID: 7840137214786628331}
   m_Layer: 2
   m_Name: Sketch Tornado Special
   m_TagString: Untagged
@@ -356,6 +357,8 @@ MonoBehaviour:
   shakeDuration: 0
   shakeIntensity: 0
   shakeFrequency: 0
+  isBasicAttack1: 0
+  isBasicAttack2: 0
 --- !u!50 &9040985626312707518
 Rigidbody2D:
   serializedVersion: 5
@@ -398,6 +401,19 @@ MonoBehaviour:
   stunDuration: 4
   lingerDuration: 5
   lingerPrefab: {fileID: 8928204460095867674, guid: 611e673b4e0f8aa4286efeed0f090e5f, type: 3}
+--- !u!114 &7840137214786628331
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2813944489988949435}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b67704b69b419a248b6e93b62af52d63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GiveSpecialCooldown
+  cooldownDuration: 5
 --- !u!1 &3229095464579997731
 GameObject:
   m_ObjectHideFlags: 0
