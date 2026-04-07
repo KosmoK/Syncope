@@ -11,6 +11,9 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] float shakeDuration;
     [SerializeField] float shakeIntensity;
     [SerializeField] float shakeFrequency;
+    [Header("Basic attack flags")]
+    [SerializeField] bool isBasicAttack1 = false;
+    [SerializeField] bool isBasicAttack2 = false;
     private int frame;
     private SpriteRenderer spriteRenderer;
     private Sprite lastSprite;
@@ -89,6 +92,14 @@ public class PlayerAttack : MonoBehaviour
         if (asb == null || damage == -1)
         {
             return;
+        }
+
+        if (isBasicAttack1)
+        {
+            damage = GameObject.FindGameObjectWithTag("GameManager").GetComponent<StatManager>().getDamage1();
+        } else if (isBasicAttack2)
+        {
+            damage = GameObject.FindGameObjectWithTag("GameManager").GetComponent<StatManager>().getDamage2();
         }
 
         if (tag == "LavaEnemy")

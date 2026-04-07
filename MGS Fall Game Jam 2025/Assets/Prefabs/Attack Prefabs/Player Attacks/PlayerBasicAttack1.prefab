@@ -256,11 +256,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAttack
   damageClip: {fileID: -2290339137063607040, guid: 4c47f98edf94da4478a158b10c22add7, type: 3}
   frames: 3
-  damage: 2
+  damage: 1
   shakeFrame: -1
   shakeDuration: 0
   shakeIntensity: 0
   shakeFrequency: 0
+  isBasicAttack1: 1
+  isBasicAttack2: 0
 --- !u!50 &1557157084939056633
 Rigidbody2D:
   serializedVersion: 5

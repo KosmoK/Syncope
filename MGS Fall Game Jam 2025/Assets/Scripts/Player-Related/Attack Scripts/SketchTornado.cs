@@ -12,7 +12,7 @@ public class SketchTornado : MonoBehaviour
     }
     void OnDestroy()
     {
-        GameObject g = Instantiate(lingerPrefab);
+        GameObject g = Instantiate(lingerPrefab, GameObject.FindGameObjectWithTag("Player").transform);
         g.transform.position = transform.position;
         SketchTornadoLinger stl = g.GetComponent<SketchTornadoLinger>();
         stl.setStunDuration(stunDuration);

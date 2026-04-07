@@ -48,7 +48,7 @@ public class RattlebonesAnimStates : AnimStatesBase
     }
     private void snakeChase()
     {
-        if (!agent.enabled)
+        if (!agent.enabled && !sketchTornado)
         {
             agent.enabled = true;
         }
