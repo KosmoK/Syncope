@@ -136,7 +136,7 @@ MonoBehaviour:
   enemyType: rattlebones
   idleToChaseDist: 13
   chaseFollowDist: 30
-  attackDist: 3
+  attackDist: 3.5
   animStates: {fileID: 4594499851923927127}
   layermask:
     serializedVersion: 2
@@ -166,7 +166,7 @@ MonoBehaviour:
   coinAnimMaxX: 5
   coinAnimMaxY: 5
   coinAnimDuration: 5
-  coinMinMax: {x: 5, y: 10}
+  coinMinMax: {x: 5, y: 7}
   coinValue: {x: 5, y: 10}
   idle: {fileID: -4574197161511090041, guid: a035d4629fdd89f4fbaaad5278bf81c5, type: 3}
   alert: {fileID: -3745917278484660868, guid: a035d4629fdd89f4fbaaad5278bf81c5, type: 3}
@@ -176,8 +176,8 @@ MonoBehaviour:
   death: {fileID: 4348485665485846014, guid: a035d4629fdd89f4fbaaad5278bf81c5, type: 3}
   attackPrefab: {fileID: 4349396102570145853, guid: 8736894366ef7be448a879af08f0ffca, type: 3}
   damageCooldownAmount: 0.3
-  attackCooldownAmount: 0.3
-  hp: 15
+  attackCooldownAmount: 0.2
+  hp: 20
   dead: 0
   idleAwake: {fileID: 5137946214674073354, guid: a035d4629fdd89f4fbaaad5278bf81c5, type: 3}
   slitherStart: {fileID: -1976904226845481080, guid: a035d4629fdd89f4fbaaad5278bf81c5, type: 3}

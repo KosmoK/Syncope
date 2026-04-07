@@ -188,7 +188,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.05
-  m_Speed: 5
+  m_Speed: 6
   m_Acceleration: 8
   avoidancePriority: 0
   m_AngularSpeed: 160
@@ -213,9 +213,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyMovementState
   enemyType: ember_ant
-  idleToChaseDist: 18
+  idleToChaseDist: 20
   chaseFollowDist: 30
-  attackDist: 3
+  attackDist: 1
   animStates: {fileID: 5986044961697544897}
   layermask:
     serializedVersion: 2

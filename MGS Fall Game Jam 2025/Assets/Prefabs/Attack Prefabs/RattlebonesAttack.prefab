@@ -900,7 +900,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.4, y: 1.4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 4113240747738342113}
@@ -934,7 +934,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EnemyAttack
   damageClip: {fileID: 7638789017473878136, guid: a035d4629fdd89f4fbaaad5278bf81c5, type: 3}
   frames: 14
-  damage: 20
+  damage: 25
 --- !u!50 &3885927831336360989
 Rigidbody2D:
   serializedVersion: 5

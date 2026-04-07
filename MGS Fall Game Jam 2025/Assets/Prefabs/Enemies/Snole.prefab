@@ -213,8 +213,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyMovementState
   enemyType: snole
-  idleToChaseDist: 18
-  chaseFollowDist: 30
+  idleToChaseDist: 8
+  chaseFollowDist: 15
   attackDist: 30
   animStates: {fileID: 0}
   layermask:

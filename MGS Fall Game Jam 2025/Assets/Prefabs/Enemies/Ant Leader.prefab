@@ -135,7 +135,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyMovementState
   enemyType: ember_ant_leader
-  idleToChaseDist: 15
+  idleToChaseDist: 17
   chaseFollowDist: 25
   attackDist: 1
   animStates: {fileID: 1426562144549387437}
