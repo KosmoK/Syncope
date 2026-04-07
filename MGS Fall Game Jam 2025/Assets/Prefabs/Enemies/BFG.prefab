@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 8936709751451543320}
   - component: {fileID: 2924342636600486474}
   - component: {fileID: 3657676925570971380}
+  - component: {fileID: 394925993071201660}
   m_Layer: 2
   m_Name: BFG
   m_TagString: LavaEnemy
@@ -191,7 +192,7 @@ NavMeshAgent:
   m_Acceleration: 8
   avoidancePriority: 0
   m_AngularSpeed: 200
-  m_StoppingDistance: 0.2
+  m_StoppingDistance: 1
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 0
   m_AutoRepath: 1
@@ -212,9 +213,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyMovementState
   enemyType: bfg
-  idleToChaseDist: 15
+  idleToChaseDist: 10
   chaseFollowDist: 25
-  attackDist: 1
+  attackDist: 5
   animStates: {fileID: 6581117245035068122}
   layermask:
     serializedVersion: 2
@@ -450,3 +451,20 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &394925993071201660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5688923966561575526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f370938de3e09e84c85ff6fbd71748b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HazardDamager
+  knockBackStrength: 0
+  damage: 10
+  coefficentOfFriction: 7.5
+  doesDamage: 1
+  isPhoenix: 0
