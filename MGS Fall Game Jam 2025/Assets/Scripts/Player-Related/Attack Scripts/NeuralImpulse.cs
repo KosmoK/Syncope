@@ -23,7 +23,7 @@ public class NeuralImpulse : MonoBehaviour
         nis.setSize(size);
 
         GameObject.FindGameObjectWithTag("Player").GetComponent<Movement>().setDontMove(false);
-        GameObject.FindGameObjectWithTag("MainCamera").GetComponent<PlayerCamera>().ShakeCamera(10, 10, 1);
+        GameObject.FindGameObjectWithTag("MainCamera").GetComponent<PlayerCamera>().ShakeCamera(4, 4, 1);
     }
 
     public void setSLS(int sn, float d, Vector2 s)

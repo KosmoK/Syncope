@@ -105,6 +105,10 @@ public class PlayerAttack : MonoBehaviour
         {
             Golem golem = gameObject.GetComponent<Golem>();
             golem.dealDamage(damage+bonusIceDamage);
+        } else if (tag == "Final Boss")
+        {
+            FinalBoss fb = gameObject.GetComponent<FinalBoss>();
+            fb.dealDamage(damage);
         }
 
         if (asb == null || damage == -1)
