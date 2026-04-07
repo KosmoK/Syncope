@@ -849,7 +849,7 @@ MonoBehaviour:
   damageClip: {fileID: 6317863040252894960, guid: 1de555dcec1f19f47b209fc7b8f9be74, type: 3}
   frames: 6
   damage: 3
-  shakeFrame: 5
+  shakeFrame: 4
   shakeDuration: 0.2
   shakeIntensity: 9
   shakeFrequency: 4
