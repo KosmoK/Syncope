@@ -27,11 +27,41 @@ public class FMODEvents : MonoBehaviour
     [field: Header("Frog SFX")]
     [field: SerializeField] public EventReference frogDeath { get; private set; }
     [field: SerializeField] public EventReference frogJump { get; private set; }
+    [field: SerializeField] public EventReference frogAttack { get; private set; }
     [field: Header("Generic Enemy SFX")]
     [field: SerializeField] public EventReference enemyGenericHit { get; private set; }
     [field: Header("Phoenix SFX")]
     [field: SerializeField] public EventReference flapWing { get; private set; }
     [field: SerializeField] public EventReference slashLoop { get; private set; }
+    [field: SerializeField] public EventReference phoenixDeath { get; private set; }
+    [field: Header("Sharmadillo SFX")]
+    [field: SerializeField] public EventReference sharmadilloWalk { get; private set; }
+    [field: SerializeField] public EventReference sharmadilloAttack { get; private set; }
+    [field: SerializeField] public EventReference sharmadilloDeath { get; private set; }
+
+    [field: Header("Snole SFX")]
+    [field: SerializeField] public EventReference snoleRustle { get; private set; }
+    [field: SerializeField] public EventReference snoleAttack { get; private set; }
+    [field: SerializeField] public EventReference snoleDeath { get; private set; }
+
+    [field: Header("Golemite SFX")]
+    [field: SerializeField] public EventReference golemiteWalk { get; private set; }
+    [field: SerializeField] public EventReference golemiteAttack { get; private set; }
+    [field: SerializeField] public EventReference golemiteDeath { get; private set; }
+
+    [field: Header("Ice Boss SFX")]
+    [field: SerializeField] public EventReference iceBossAwaken { get; private set; }
+    [field: SerializeField] public EventReference iceBossAttack { get; private set; }
+    [field: SerializeField] public EventReference iceBossDeath { get; private set; }
+
+    [field: Header("Final Boss SFX")]
+    [field: SerializeField] public EventReference finalBossStart { get; private set; }
+    [field: SerializeField] public EventReference finalBossScream { get; private set; }
+    [field: SerializeField] public EventReference finalBossDeath { get; private set; }
+    [field: SerializeField] public EventReference finalBossWalk { get; private set; }
+    [field: SerializeField] public EventReference finalBossDistortion { get; private set; }
+    [field: SerializeField] public EventReference finalBossSlash { get; private set; }
+
     [field: Header("Misc SFX")]
     [field: SerializeField] public EventReference coinGet { get; private set; }
     [field: SerializeField] public EventReference purchase { get; private set; }

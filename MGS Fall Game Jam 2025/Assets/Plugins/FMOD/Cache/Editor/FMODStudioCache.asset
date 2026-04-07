@@ -42,7 +42,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/SFX.bank
   Name: SFX
   StudioPath: bank:/SFX
-  lastModified: 639111032028347022
+  lastModified: 639111275516721515
   FileSizes: []
   Exists: 1
 --- !u!114 &-7305551115906622847
@@ -382,6 +382,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &-3732517036659671239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/Level1Ice
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Music/Level1Ice
+  Guid:
+    Data1: 673548246
+    Data2: 1104587069
+    Data3: 351227803
+    Data4: 1621661836
+  Banks:
+  - {fileID: 194703231590927311}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 161332
 --- !u!114 &-3530817508880444565
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -436,6 +463,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1092
+--- !u!114 &-3261004361833209784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Sharmadillo/SharAtk
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Sharmadillo/SharAtk
+  Guid:
+    Data1: -632687049
+    Data2: 1137603922
+    Data3: -398464873
+    Data4: 1746032168
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1644
 --- !u!114 &-2589591728897396627
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -490,6 +544,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1000
+--- !u!114 &-1606217923179019004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Snole/SnoleAtk
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Snole/SnoleAtk
+  Guid:
+    Data1: 211293261
+    Data2: 1174999711
+    Data3: 1976294834
+    Data4: 924607069
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &-1573925863975075500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -512,6 +593,87 @@ MonoBehaviour:
   - {fileID: -7702026172798168076}
   IsStream: 0
   Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1491135448857307186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ice Boss/icebosswhirl2
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Ice Boss/icebosswhirl2
+  Guid:
+    Data1: -1844274065
+    Data2: 1206024363
+    Data3: -248115785
+    Data4: 261558243
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-785854777669811013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Golemite/GolemiteRun
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Golemite/GolemiteRun
+  Guid:
+    Data1: 1988378922
+    Data2: 1164810440
+    Data3: 1279285421
+    Data4: 512389653
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 420
+--- !u!114 &-742112841975442686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Final Boss/finalBossScream
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Final Boss/finalBossScream
+  Guid:
+    Data1: 1400693578
+    Data2: 1154822274
+    Data3: 860788400
+    Data4: -132717467
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
   IsOneShot: 1
   Parameters: []
   MinDistance: 1
@@ -618,13 +780,31 @@ MonoBehaviour:
   - {fileID: 5622543567630025162}
   - {fileID: 2635810396632977244}
   - {fileID: 4996944957280985444}
+  - {fileID: -3261004361833209784}
+  - {fileID: -1606217923179019004}
+  - {fileID: 7172744131981384542}
+  - {fileID: -3732517036659671239}
+  - {fileID: 9027395934222403319}
+  - {fileID: -785854777669811013}
+  - {fileID: 5808112285658198362}
+  - {fileID: -742112841975442686}
+  - {fileID: -1491135448857307186}
+  - {fileID: 7584055048885621199}
+  - {fileID: 3538026188375534199}
+  - {fileID: 4525700981095494007}
+  - {fileID: 5976222841591904039}
+  - {fileID: 2141583787169516756}
+  - {fileID: 3641855607701715869}
+  - {fileID: 4396402428332710246}
+  - {fileID: 6486887334147332355}
+  - {fileID: 5323680326671402048}
   EditorParameters: []
   MasterBanks:
   - {fileID: 5410869328861483941}
   StringsBanks:
   - {fileID: 8152384632324471754}
   cacheVersion: 131858
-  cacheTime: 639111032028347022
+  cacheTime: 639111275516721515
   SerializableEventsDict:
   - key: event:/Music/Level1Fire
     index: 0
@@ -684,6 +864,42 @@ MonoBehaviour:
     index: 27
   - key: event:/Misc/ItemUnaffordable
     index: 28
+  - key: event:/SFX/Sharmadillo/SharAtk
+    index: 29
+  - key: event:/SFX/Snole/SnoleAtk
+    index: 30
+  - key: event:/Music/MenuSong
+    index: 31
+  - key: event:/Music/Level1Ice
+    index: 32
+  - key: event:/SFX/Final Boss/finalBossFootstep
+    index: 33
+  - key: event:/SFX/Golemite/GolemiteRun
+    index: 34
+  - key: event:/SFX/Final Boss/finalBossStart
+    index: 35
+  - key: event:/SFX/Final Boss/finalBossScream
+    index: 36
+  - key: event:/SFX/Ice Boss/icebosswhirl2
+    index: 37
+  - key: event:/SFX/Golemite/GolemiteDeath
+    index: 38
+  - key: event:/SFX/Final Boss/finalBossSlash
+    index: 39
+  - key: event:/SFX/Ice Boss/icebosswhirl1
+    index: 40
+  - key: event:/SFX/Final Boss/finalBossDeath
+    index: 41
+  - key: event:/SFX/Final Boss/finalBossDistort
+    index: 42
+  - key: event:/SFX/Golemite/GolemiteGas
+    index: 43
+  - key: event:/SFX/Snole/SnoleDeath
+    index: 44
+  - key: event:/SFX/Ice Boss/icebossDeath
+    index: 45
+  - key: event:/Frog/FrogAtk
+    index: 46
 --- !u!114 &21056612591811762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -726,7 +942,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Music.bank
   Name: Music
   StudioPath: bank:/Music
-  lastModified: 639111032028327043
+  lastModified: 639111264626427552
   FileSizes: []
   Exists: 1
 --- !u!114 &1036289932115809695
@@ -848,6 +1064,33 @@ MonoBehaviour:
     Data2: 1148992100
     Data3: 832267952
     Data4: 2097833773
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2141583787169516756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Final Boss/finalBossDistort
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Final Boss/finalBossDistort
+  Guid:
+    Data1: 701936589
+    Data2: 1119293313
+    Data3: -1602768488
+    Data4: -1810162839
   Banks:
   - {fileID: -7702026172798168076}
   IsStream: 0
@@ -985,6 +1228,60 @@ MonoBehaviour:
   - Name: Desktop
     Value: 4252576
   Exists: 1
+--- !u!114 &3538026188375534199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Final Boss/finalBossSlash
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Final Boss/finalBossSlash
+  Guid:
+    Data1: 539260821
+    Data2: 1224545718
+    Data3: -251887211
+    Data4: 1903105228
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &3641855607701715869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Golemite/GolemiteGas
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Golemite/GolemiteGas
+  Guid:
+    Data1: 419197941
+    Data2: 1330143270
+    Data3: 800913047
+    Data4: 1697290643
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &4025146536457658268
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1039,6 +1336,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 420
+--- !u!114 &4396402428332710246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Snole/SnoleDeath
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Snole/SnoleDeath
+  Guid:
+    Data1: -227044874
+    Data2: 1318047225
+    Data3: 1360830105
+    Data4: 1403815074
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &4417140568326241391
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1066,6 +1390,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 420
+--- !u!114 &4525700981095494007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ice Boss/icebosswhirl1
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Ice Boss/icebosswhirl1
+  Guid:
+    Data1: -1111667807
+    Data2: 1109473158
+    Data3: -411053160
+    Data4: -575866054
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &4627987988189828029
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1147,6 +1498,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 650
+--- !u!114 &5323680326671402048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Frog/FrogAtk
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Frog/FrogAtk
+  Guid:
+    Data1: -1559217205
+    Data2: 1259765409
+    Data3: -1069775458
+    Data4: 1199503652
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2115
 --- !u!114 &5410869328861483941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1162,7 +1540,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639111032028072922
+  lastModified: 639111275504183814
   FileSizes: []
   Exists: 1
 --- !u!114 &5519010807118625554
@@ -1246,6 +1624,60 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &5808112285658198362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Final Boss/finalBossStart
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Final Boss/finalBossStart
+  Guid:
+    Data1: 1624599857
+    Data2: 1114114099
+    Data3: -1331851101
+    Data4: -1180244045
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &5976222841591904039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Final Boss/finalBossDeath
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Final Boss/finalBossDeath
+  Guid:
+    Data1: 1722499249
+    Data2: 1316480896
+    Data3: -751247186
+    Data4: 1062434084
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &6080206837859221963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1273,6 +1705,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 1776
+--- !u!114 &6486887334147332355
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Ice Boss/icebossDeath
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Ice Boss/icebossDeath
+  Guid:
+    Data1: 1374945673
+    Data2: 1197425648
+    Data3: 1623941564
+    Data4: 1647442463
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5015
 --- !u!114 &6564735961406234453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1354,6 +1813,60 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &7172744131981384542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Music/MenuSong
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Music/MenuSong
+  Guid:
+    Data1: 1466103228
+    Data2: 1321251135
+    Data3: 902987162
+    Data4: 1226345055
+  Banks:
+  - {fileID: 194703231590927311}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 45176
+--- !u!114 &7584055048885621199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Golemite/GolemiteDeath
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Golemite/GolemiteDeath
+  Guid:
+    Data1: 1327123837
+    Data2: 1307938690
+    Data3: 1238171317
+    Data4: -914722033
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &7871255386084873077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1396,8 +1909,35 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639111032028072922
+  lastModified: 639111275504213821
   FileSizes:
   - Name: 
-    Value: 2238
+    Value: 3058
   Exists: 1
+--- !u!114 &9027395934222403319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Final Boss/finalBossFootstep
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Final Boss/finalBossFootstep
+  Guid:
+    Data1: -1290572278
+    Data2: 1169784765
+    Data3: 365496963
+    Data4: 747212361
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0

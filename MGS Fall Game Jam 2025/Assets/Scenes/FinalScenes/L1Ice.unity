@@ -5628,6 +5628,71 @@ Transform:
   - {fileID: 1702999492}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &614558284
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 614558286}
+  - component: {fileID: 614558285}
+  m_Layer: 0
+  m_Name: MusicManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &614558285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 614558284}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28e33859ba3afe846a932ae4864b17b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MusicManager
+  menuSong:
+    Guid:
+      Data1: 1466103228
+      Data2: 1321251135
+      Data3: 902987162
+      Data4: 1226345055
+    Path: event:/Music/MenuSong
+  level1Ice:
+    Guid:
+      Data1: 673548246
+      Data2: 1104587069
+      Data3: 351227803
+      Data4: 1621661836
+    Path: event:/Music/Level1Ice
+  level1Fire:
+    Guid:
+      Data1: 707949460
+      Data2: 1163219283
+      Data3: -1088813396
+      Data4: -1215300634
+    Path: event:/Music/Level1Fire
+--- !u!4 &614558286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 614558284}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 14.00139, y: 2.82624, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &628607743
 GameObject:
   m_ObjectHideFlags: 0
@@ -11476,10 +11541,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sharmadillo
       objectReference: {fileID: 0}
-    - target: {fileID: 3871945243591340415, guid: 92c59631397f9e546833fda43c6301da, type: 3}
-      propertyPath: m_AgentTypeID
-      value: -1372625422
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16453,6 +16514,8 @@ GameObject:
   - component: {fileID: 1527559025}
   - component: {fileID: 1527559024}
   - component: {fileID: 1527559023}
+  - component: {fileID: 1527559027}
+  - component: {fileID: 1527559026}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -16534,6 +16597,64 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1527559026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1527559022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c6556701af9e04380698b89f691b6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioListener
+  nonRigidbodyVelocity: 0
+  attenuationObject: {fileID: 798446169}
+--- !u!114 &1527559027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1527559022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Runtime::UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
+  m_RenderShadows: 1
+  m_RequiresDepthTextureOption: 2
+  m_RequiresOpaqueTextureOption: 2
+  m_CameraType: 0
+  m_Cameras: []
+  m_RendererIndex: -1
+  m_VolumeLayerMask:
+    serializedVersion: 2
+    m_Bits: 1
+  m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
+  m_RenderPostProcessing: 0
+  m_Antialiasing: 0
+  m_AntialiasingQuality: 2
+  m_StopNaN: 0
+  m_Dithering: 0
+  m_ClearDepth: 1
+  m_AllowXRRendering: 1
+  m_AllowHDROutput: 1
+  m_UseScreenCoordOverride: 0
+  m_ScreenSizeOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_ScreenCoordScaleBias: {x: 0, y: 0, z: 0, w: 0}
+  m_RequiresDepthTexture: 0
+  m_RequiresColorTexture: 0
+  m_TaaSettings:
+    m_Quality: 3
+    m_FrameInfluence: 0.1
+    m_JitterScale: 1
+    m_MipBias: 0
+    m_VarianceClampScale: 0.9
+    m_ContrastAdaptiveSharpening: 0
+  m_Version: 2
 --- !u!1 &1527715087
 GameObject:
   m_ObjectHideFlags: 0
@@ -18042,32 +18163,32 @@ MonoBehaviour:
     Path: event:/SFX/Player/PlayerAttack
   <gravBall>k__BackingField:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 367790821
+      Data2: 1134257672
+      Data3: -2004573039
+      Data4: -2123415371
+    Path: event:/SFX/Player/Abilities/GravBall
   <icyBreath>k__BackingField:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 418989908
+      Data2: 1253278528
+      Data3: 316700802
+      Data4: 1146400959
+    Path: event:/SFX/Player/Abilities/IcyBreath
   <neuralImpulse>k__BackingField:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1553545296
+      Data2: 1242866302
+      Data3: -596690778
+      Data4: -891294000
+    Path: event:/SFX/Player/Abilities/NeuralImpulse
   <sketchTornado>k__BackingField:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1485316935
+      Data2: 1081273303
+      Data3: 1292311463
+      Data4: -1398345801
+    Path: event:/SFX/Player/Abilities/SketchTornado
   <antAttack>k__BackingField:
     Guid:
       Data1: -1269270733
@@ -18124,6 +18245,13 @@ MonoBehaviour:
       Data3: 454411650
       Data4: 1479792324
     Path: event:/Frog/FrogJump
+  <frogAttack>k__BackingField:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
   <enemyGenericHit>k__BackingField:
     Guid:
       Data1: 264001390
@@ -18145,6 +18273,139 @@ MonoBehaviour:
       Data3: -612150121
       Data4: 1066636739
     Path: event:/Phoenix Boss/PhoenixSlashLoop
+  <phoenixDeath>k__BackingField:
+    Guid:
+      Data1: 1822004972
+      Data2: 1317869084
+      Data3: -913693250
+      Data4: -582462278
+    Path: event:/Phoenix Boss/PhoenixDeath
+  <sharmadilloWalk>k__BackingField:
+    Guid:
+      Data1: -198856162
+      Data2: 1117264299
+      Data3: 1298253494
+      Data4: 1661889032
+    Path: event:/SFX/Sharmadillo/SharWalk
+  <sharmadilloAttack>k__BackingField:
+    Guid:
+      Data1: -632687049
+      Data2: 1137603922
+      Data3: -398464873
+      Data4: 1746032168
+    Path: event:/SFX/Sharmadillo/SharAtk
+  <sharmadilloDeath>k__BackingField:
+    Guid:
+      Data1: 442210493
+      Data2: 1211199214
+      Data3: -1690584647
+      Data4: -1804433808
+    Path: event:/SFX/Sharmadillo/SharDeath
+  <snoleRustle>k__BackingField:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
+  <snoleAttack>k__BackingField:
+    Guid:
+      Data1: 211293261
+      Data2: 1174999711
+      Data3: 1976294834
+      Data4: 924607069
+    Path: event:/SFX/Snole/SnoleAtk
+  <snoleDeath>k__BackingField:
+    Guid:
+      Data1: -227044874
+      Data2: 1318047225
+      Data3: 1360830105
+      Data4: 1403815074
+    Path: event:/SFX/Snole/SnoleDeath
+  <golemiteWalk>k__BackingField:
+    Guid:
+      Data1: 1988378922
+      Data2: 1164810440
+      Data3: 1279285421
+      Data4: 512389653
+    Path: event:/SFX/Golemite/GolemiteRun
+  <golemiteAttack>k__BackingField:
+    Guid:
+      Data1: 419197941
+      Data2: 1330143270
+      Data3: 800913047
+      Data4: 1697290643
+    Path: event:/SFX/Golemite/GolemiteGas
+  <golemiteDeath>k__BackingField:
+    Guid:
+      Data1: 1327123837
+      Data2: 1307938690
+      Data3: 1238171317
+      Data4: -914722033
+    Path: event:/SFX/Golemite/GolemiteDeath
+  <iceBossAwaken>k__BackingField:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
+  <iceBossAttack>k__BackingField:
+    Guid:
+      Data1: -1111667807
+      Data2: 1109473158
+      Data3: -411053160
+      Data4: -575866054
+    Path: event:/SFX/Ice Boss/icebosswhirl1
+  <iceBossDeath>k__BackingField:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
+  <finalBossStart>k__BackingField:
+    Guid:
+      Data1: 1624599857
+      Data2: 1114114099
+      Data3: -1331851101
+      Data4: -1180244045
+    Path: event:/SFX/Final Boss/finalBossStart
+  <finalBossScream>k__BackingField:
+    Guid:
+      Data1: 1400693578
+      Data2: 1154822274
+      Data3: 860788400
+      Data4: -132717467
+    Path: event:/SFX/Final Boss/finalBossScream
+  <finalBossDeath>k__BackingField:
+    Guid:
+      Data1: 1722499249
+      Data2: 1316480896
+      Data3: -751247186
+      Data4: 1062434084
+    Path: event:/SFX/Final Boss/finalBossDeath
+  <finalBossWalk>k__BackingField:
+    Guid:
+      Data1: -1290572278
+      Data2: 1169784765
+      Data3: 365496963
+      Data4: 747212361
+    Path: event:/SFX/Final Boss/finalBossFootstep
+  <finalBossDistortion>k__BackingField:
+    Guid:
+      Data1: 701936589
+      Data2: 1119293313
+      Data3: -1602768488
+      Data4: -1810162839
+    Path: event:/SFX/Final Boss/finalBossDistort
+  <finalBossSlash>k__BackingField:
+    Guid:
+      Data1: 539260821
+      Data2: 1224545718
+      Data3: -251887211
+      Data4: 1903105228
+    Path: event:/SFX/Final Boss/finalBossSlash
   <coinGet>k__BackingField:
     Guid:
       Data1: 1517383423
@@ -18154,25 +18415,25 @@ MonoBehaviour:
     Path: event:/Misc/CoinGet
   <purchase>k__BackingField:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1085589365
+      Data2: 1148992100
+      Data3: 832267952
+      Data4: 2097833773
+    Path: event:/Misc/Purchase
   <itemSelected>k__BackingField:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1496998412
+      Data2: 1280029465
+      Data3: -937225579
+      Data4: 563124768
+    Path: event:/Misc/ItemSelected
   <itemUnaffordable>k__BackingField:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 2018860649
+      Data2: 1298559139
+      Data3: 913094051
+      Data4: 825433073
+    Path: event:/Misc/ItemUnaffordable
 --- !u!1 &1717530355
 GameObject:
   m_ObjectHideFlags: 0
@@ -21564,7 +21825,8 @@ SceneRoots:
   - {fileID: 798446168}
   - {fileID: 2128671844}
   - {fileID: 1340956879}
-  - {fileID: 3191883379725355794}
   - {fileID: 1009351334}
   - {fileID: 1346810908}
   - {fileID: 1042323794}
+  - {fileID: 209078632}
+  - {fileID: 614558286}

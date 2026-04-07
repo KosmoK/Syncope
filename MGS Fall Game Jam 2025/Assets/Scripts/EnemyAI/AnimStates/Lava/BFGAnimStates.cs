@@ -66,6 +66,7 @@ public class BFGAnimStates : AnimStatesBase
         if (success)
         {
             createAttack();
+            playAttackSound(FMODEvents.instance.frogAttack);
         }
     }
 }

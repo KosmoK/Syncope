@@ -39,8 +39,10 @@ public class SpecialAttacks : MonoBehaviour
         if (!unlocks[attack] && currencyManager.deductMoney(costs[attack]))
         {
             unlocks[attack] = true;
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         } else if (!unlocks[attack])
         {
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.itemUnaffordable, this.transform.position);
             return false;
         }
 

@@ -281,7 +281,25 @@ public class AnimStatesBase : MonoBehaviour
                     case "bfg":
                         AudioManager.instance.PlayOneShot(FMODEvents.instance.frogDeath, this.transform.position);
                         break;
-                    default:
+                    case "sharmadillo":
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.sharmadilloDeath, this.transform.position);
+                        break;
+                    case "golemite":
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.golemiteDeath, this.transform.position);
+                        break;
+                    case "snole":
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.snoleDeath, this.transform.position);
+                        break;
+                    case "iceboss":
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.iceBossDeath, this.transform.position);
+                        break;
+                    case "phoenix": //check the name of it
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.phoenixDeath, this.transform.position);
+                        break;
+                    case "finalboss": //check the name of it
+                        AudioManager.instance.PlayOneShot(FMODEvents.instance.finalBossDeath, this.transform.position);
+                        break;
+                default:
                         break;
             }
         }

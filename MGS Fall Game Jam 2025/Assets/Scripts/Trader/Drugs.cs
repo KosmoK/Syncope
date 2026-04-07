@@ -33,8 +33,10 @@ public class Drugs : MonoBehaviour
         if (!unlocks[drug] && currencyManager.deductMoney(costs[drug]))
         {
             unlocks[drug] = true;
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.purchase, this.transform.position);
         } else if (!unlocks[drug])
         {
+            AudioManager.instance.PlayOneShot(FMODEvents.instance.itemUnaffordable, this.transform.position);
             return false;
         }
 

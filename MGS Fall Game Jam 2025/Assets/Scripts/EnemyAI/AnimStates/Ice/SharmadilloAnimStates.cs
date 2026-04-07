@@ -67,6 +67,7 @@ public class SharmadilloAnimStates : AnimStatesBase
         bool success = setAnimation(attack.name, false);
         if (success)
         {
+            playAttackSound(FMODEvents.instance.sharmadilloAttack);
             createAttack();
             agent.SetDestination(player.truePos);
         }

@@ -68,6 +68,6 @@ public class SnoleAnimStates : AnimStatesBase
     {
         yield return new WaitForSeconds(length);
         createAttack();
-        playAttackSound(FMODEvents.instance.antLeaderAttack);
+        playAttackSound(FMODEvents.instance.snoleAttack);
     }
 }
