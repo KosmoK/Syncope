@@ -18,6 +18,8 @@ public class PlayerMovement : MonoBehaviour
     private InputAction interactAction; // Input System for Interaction
     private InputAction extraAttackAction;
     private InputAction dash;
+    private InputAction lavaBB;
+    private InputAction iceBB;
 
     // Adjust Player settings
     public float dashStrength = 1.0f;
@@ -62,6 +64,8 @@ public class PlayerMovement : MonoBehaviour
         extraAttackAction = InputSystem.actions.FindAction("Extra Attack");
         interactAction = InputSystem.actions.FindAction("Interact");
         dash = InputSystem.actions.FindAction("Dash");
+        lavaBB = InputSystem.actions.FindAction("Fire Boss Button");
+        iceBB = InputSystem.actions.FindAction("Ice Boss Button");
 
         // Dash Coroutine
         StartCoroutine(DashCoroutine());
@@ -123,6 +127,16 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        if (iceBB.WasPressedThisFrame())
+        {
+            transform.position = new Vector3(37.84f, -19.01f, 0);
+        }
+        if (lavaBB.WasPressedThisFrame())
+        {
+            transform.position = new Vector3(-1149.4f, -14.2f, 0);
+        }
+
+
         if (attackAction.WasPressedThisFrame() && !animator.GetCurrentAnimatorStateInfo(0).IsName(dash.name))
         {
             if (animator.GetCurrentAnimatorStateInfo(0).IsName(attack1Anim.name)) //&& animTime > 0.5

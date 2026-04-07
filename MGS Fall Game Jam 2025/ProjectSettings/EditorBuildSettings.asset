@@ -11,24 +11,33 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Titlescreen.unity
     guid: bd3effb27bb6e93429d3b13cbdb1a825
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/drugUI.unity
     guid: ce149db06c9590f4792a0e2a0989a3d6
   - enabled: 1
     path: Assets/Scenes/Level1Transition.unity
     guid: 1f37546c5d897794c8b3f014ca7d1e80
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level1Lava.unity
     guid: 2f97f5d96dae83f428949515b032422a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level1Ice.unity
     guid: 11321ddd18065a24b9c2ed4a28ed41a9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level2.unity
     guid: 77e3bc1e7d18d024384592b7f60d46ed
   - enabled: 1
     path: Assets/Scenes/Endscreen.unity
     guid: 9befd4c9ce08d1648b77c543d82ff92f
+  - enabled: 1
+    path: Assets/Scenes/L1Ice.unity
+    guid: 2d6282ccdd9177d48a2d60ab5792f9b0
+  - enabled: 1
+    path: Assets/Scenes/L1Lava.unity
+    guid: 6da018b5e79fd5642841987059927d93
+  - enabled: 1
+    path: Assets/Scenes/L2.unity
+    guid: a2628f0983009ba4682499b8cd8f4759
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 32b966e0e24e8f641ae4c0559ec3b9f1, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

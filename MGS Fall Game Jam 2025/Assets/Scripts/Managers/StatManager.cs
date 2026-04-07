@@ -8,13 +8,13 @@ public class StatManager : MonoBehaviour
     private int maxHpAmount;
     private float speedAmount;
 
-    private int[] attackCosts = {10, 20, 30, 40};
+    private int[] attackCosts = {100, 125, 150, 175};
     private int[] attack1Amounts = {1, 2, 3, 4};
     private int[] attack2Amounts = {2, 4, 5, 6};
-    private int[] maxHpCosts = {10, 20, 30, 40};
+    private int[] maxHpCosts = {100, 125, 150, 175};
     private int[] maxHpAmounts = {10, 20, 30, 40};
-    private int[] speedCosts = {10, 20, 30, 40};
-    private int[] speedAmounts = {10, 20, 30, 40};
+    private int[] speedCosts = {100, 125, 150, 175};
+    private int[] speedAmounts = {2, 6, 10, 15};
     
     private Movement movement;
     private PlayerMovement playerMovement;

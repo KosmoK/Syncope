@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
     public bool phoenixDefeated = false;
     public bool golemDefeated = false;
     public bool playerDied = false;
-    private bool appliedDrugs = false;
+    private bool startButtonClicked;
 
     private void Awake()
     {
@@ -41,37 +41,36 @@ public class GameManager : MonoBehaviour
 
     private void sceneStateMachine()
     {
-        if ((scene == "Level1Lava" || scene == "Level1Ice") && GameObject.FindGameObjectsWithTag("Player").Length == 0)
+        if ((scene == "L1Lava" || scene == "L1Ice") && GameObject.FindGameObjectsWithTag("Player").Length == 0)
         {
-            SceneManager.LoadScene("drugUI");
-        }
-
-        if (scene == "Level1Lava" || scene == "Level1Ice")
-        {
-            applyDrugs();
+            StartCoroutine(fadeToScene("Level1Transition"));
         }
 
         // Debug.Log($"{sceneTransition} {fadingScreen}");
-        if (!sceneTransition || fadingScreen)
+        if (fadingScreen)
         {
             return;
         }
 
-        sceneTransition = false;
-        if (scene == "Titlescreen")
+        // sceneTransition = false;
+        if (scene == "Titlescreen" && startButtonClicked)
         {
-            StartCoroutine(fadeToScene("drugUI", 1f));  
-        } else if (scene == "drugUI")
+            StartCoroutine(fadeToScene("Level1Transition"));  
+        } else if (scene == "Level1Transition" && sceneTransition)
         {
-            appliedDrugs = false;
-            StartCoroutine(fadeToScene("Level1Transition"));
-        } else if (scene == "Level1Transition")
-        {
-            StartCoroutine(fadeToScene(level1Transition));
-        } else if (scene == "Level1Lava")
+            sceneTransition = false;
+            if (level1Transition == "Level1Lava")
+            {
+                StartCoroutine(fadeToScene("L1Lava"));
+            } else
+            {
+                StartCoroutine(fadeToScene("L1Ice"));
+            }
+            // StartCoroutine(fadeToScene(level1Transition));
+        } else if (scene == "Level1Lava" && sceneTransition)
         {
             StartCoroutine(fadeToScene("level1Transition"));
-        } else if (scene == "Level1Ice")
+        } else if (scene == "Level1Ice" && sceneTransition)
         {
             StartCoroutine(fadeToScene("level1Transition"));
         }
@@ -88,29 +87,9 @@ public class GameManager : MonoBehaviour
         fadingScreen = false;
     }
 
-    private void applyDrugs()
+    public void clickStartButton()
     {
-        if (appliedDrugs)
-        {
-            return;
-        }
-        GameObject player = GameObject.FindGameObjectsWithTag("Player")[0];
-
-        if (drug == "velocity")
-        {
-            player.GetComponent<Movement>().topSpeed = 7f;
-        } else if (drug == "dash")
-        {
-            player.GetComponent<PlayerMovement>().dashStrength = 0.05f;
-        } // else if (drug == "fire")
-        // {
-        //     player.GetComponent<PlayerAttack>().bonusIceDamage = 1;
-        // } else if (drug == "ice")
-        // {
-        //     player.GetComponent<PlayerAttack>().bonusLavaDamage = 1;
-        // }
-
-        appliedDrugs = true;
+        startButtonClicked = true;
     }
 
 }

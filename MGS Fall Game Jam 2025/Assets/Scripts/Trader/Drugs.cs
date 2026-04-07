@@ -13,10 +13,10 @@ public class Drugs : MonoBehaviour
 
     Dictionary<string, int> costs = new Dictionary<string, int>
     {
-        {"Fire", 10},
-        {"Ice", 10},
-        {"Dash", 10},
-        {"Speed", 10},
+        {"Fire", 150},
+        {"Ice", 150},
+        {"Dash", 150},
+        {"Speed", 150},
     };
 
     CurrencyManager currencyManager;
