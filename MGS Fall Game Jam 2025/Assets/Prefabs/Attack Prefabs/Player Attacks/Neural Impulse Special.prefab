@@ -667,6 +667,7 @@ GameObject:
   - component: {fileID: 2540486412275710998}
   - component: {fileID: 6877155051738762478}
   - component: {fileID: 1960563833245273047}
+  - component: {fileID: 2220043785344643806}
   m_Layer: 2
   m_Name: Neural Impulse Special
   m_TagString: Untagged
@@ -717,6 +718,8 @@ MonoBehaviour:
   shakeDuration: 0
   shakeIntensity: 0
   shakeFrequency: 0
+  isBasicAttack1: 0
+  isBasicAttack2: 0
 --- !u!50 &1960563833245273047
 Rigidbody2D:
   serializedVersion: 5
@@ -744,6 +747,19 @@ Rigidbody2D:
   m_SleepingMode: 0
   m_CollisionDetection: 1
   m_Constraints: 0
+--- !u!114 &2220043785344643806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5539540967380617397}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b67704b69b419a248b6e93b62af52d63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GiveSpecialCooldown
+  cooldownDuration: 6
 --- !u!1 &5860342133472725094
 GameObject:
   m_ObjectHideFlags: 0

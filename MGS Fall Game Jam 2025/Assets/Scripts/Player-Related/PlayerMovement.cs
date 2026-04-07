@@ -134,7 +134,7 @@ public class PlayerMovement : MonoBehaviour
             }
         }
 
-        if (currExtra >= 0 && extraAttackAction.WasPressedThisFrame() && !animator.GetCurrentAnimatorStateInfo(0).IsName(dash.name))
+        if (currExtra >= 0 && extraAttackAction.WasPressedThisFrame() && !animator.GetCurrentAnimatorStateInfo(0).IsName(dash.name) && GetComponent<SpecialCooldown>() == null)
         {
             queueExtraAttack = true;
         }

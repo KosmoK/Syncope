@@ -103,6 +103,7 @@ GameObject:
   - component: {fileID: 6402246553355453015}
   - component: {fileID: 1321142269438196659}
   - component: {fileID: 5189607138088870428}
+  - component: {fileID: 3225098134693500301}
   m_Layer: 2
   m_Name: Icy Breath Special
   m_TagString: Untagged
@@ -152,6 +153,8 @@ MonoBehaviour:
   shakeDuration: 0
   shakeIntensity: 0
   shakeFrequency: 0
+  isBasicAttack1: 0
+  isBasicAttack2: 0
 --- !u!50 &1321142269438196659
 Rigidbody2D:
   serializedVersion: 5
@@ -197,6 +200,19 @@ MonoBehaviour:
   p2Prefab: {fileID: 0}
   lingerDuration: 5
   slowDuration: 4
+--- !u!114 &3225098134693500301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2213218567793793197}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b67704b69b419a248b6e93b62af52d63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GiveSpecialCooldown
+  cooldownDuration: 5
 --- !u!1 &2765200077229283219
 GameObject:
   m_ObjectHideFlags: 0
