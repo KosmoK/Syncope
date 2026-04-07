@@ -1,5 +1,4 @@
 using System;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class Golem : MonoBehaviour
@@ -59,6 +58,8 @@ public class Golem : MonoBehaviour
     private Vector3 icicleBurstVector;
     private int icicleNum;
     private int icicleLayerMask;
+
+    private float icicleAttackDuration;
 
     void Start()
     {
@@ -137,7 +138,7 @@ public class Golem : MonoBehaviour
         } else
         {
             hp -= damageAmount;
-            damageCooldown = hurtAnim.length*0.75f;
+            damageCooldown = 0.4f;
             setAnimation(hurtAnim.name, true);   
         }
     }
@@ -291,7 +292,6 @@ public class Golem : MonoBehaviour
     private void chooseAttackState()
     {
         int attack = UnityEngine.Random.Range(0, 3);
-        attack = 2;
 
         if (attack == 0)
         {
@@ -300,6 +300,7 @@ public class Golem : MonoBehaviour
             state = "spinAttack";
         } else if (attack == 1)
         {
+            icicleAttackDuration = 7f;
             state = "icicleAttack";
         } else if (attack == 2)
         {
@@ -332,6 +333,14 @@ public class Golem : MonoBehaviour
         }
 
         icicleCooldown -= Time.deltaTime;
+        icicleAttackDuration -= Time.deltaTime;
+
+        if (icicleAttackDuration < 0)
+        {
+            state = "idle";
+            idleTime = 0;
+            return;
+        }
     }
 
     // private float icicleBurstCooldown;       cooldown between bursts
@@ -351,9 +360,9 @@ public class Golem : MonoBehaviour
     }
     private void icicleBurstFunc()
     {
-        float burstDuration = 1f;
-        float maxBurstOffset = 2f;
-        float maxScale = 4.5f;
+        float burstDuration = 0.7f;
+        float maxBurstOffset = 1f;
+        float maxScale = 9f;
 
         float t = Math.Max(0, Math.Min(1, icicleBurstTime/burstDuration));
         Vector3 position = icicleBurstVector.normalized * icicleBurstVector.magnitude * t;
@@ -379,8 +388,8 @@ public class Golem : MonoBehaviour
         if (icicleBurstTime >= burstDuration || hit)
         {
             state = "idle";
-            // idleTime = 0;
-            // return;
+            idleTime = 0;
+            return;
         }
 
         icicleBurstTime += Time.deltaTime;

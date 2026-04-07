@@ -248,6 +248,10 @@ public class TraderScript : MonoBehaviour
         Dictionary<string, bool> unlocks = specialAttacks.getUnlocks();
         foreach (string s in unlocks.Keys)
         {
+            if (attackReferences[s] == null)
+            {
+                continue;
+            }
             if (s == attackName)
             {
                 attackReferences[s].sprite = activeSprite;
@@ -268,6 +272,10 @@ public class TraderScript : MonoBehaviour
         Dictionary<string, bool> unlocks = drugs.getUnlocks();
         foreach (string s in unlocks.Keys)
         {
+            if (drugReferences[s] == null)
+            {
+                continue;
+            }
             if (s == drugName)
             {
                 drugReferences[s].sprite = activeSprite;
