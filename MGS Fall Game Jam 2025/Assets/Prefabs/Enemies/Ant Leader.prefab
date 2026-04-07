@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 6898237467728040950}
   - component: {fileID: 4779241544640273902}
   - component: {fileID: 44626015645589273}
+  - component: {fileID: -3333440753153783563}
   m_Layer: 2
   m_Name: Ant Leader
   m_TagString: LavaEnemy
@@ -404,6 +405,23 @@ MonoBehaviour:
   OverrideAttenuation: 0
   OverrideMinDistance: 1
   OverrideMaxDistance: 20
+--- !u!114 &-3333440753153783563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5806956607736347407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f370938de3e09e84c85ff6fbd71748b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HazardDamager
+  knockBackStrength: 0
+  damage: 10
+  coefficentOfFriction: 7.5
+  doesDamage: 1
+  isPhoenix: 0
 --- !u!1 &8451712874387500341
 GameObject:
   m_ObjectHideFlags: 0

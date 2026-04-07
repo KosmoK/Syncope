@@ -459,6 +459,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GolemiteAttack
   lingerPrefab: {fileID: 5843976749261464867, guid: 8ec4fa398023c444ab2f9f5297146a86, type: 3}
   lingerDuration: 5
+  damage: 10
 --- !u!50 &6281907764134653847
 Rigidbody2D:
   serializedVersion: 5

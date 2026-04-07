@@ -176,7 +176,7 @@ MonoBehaviour:
   attackPrefab: {fileID: 3173159979882281341, guid: 7d6f0a21bea2d7e4ebd6b4aa4746eb33, type: 3}
   damageCooldownAmount: 0.3
   attackCooldownAmount: 0.3
-  hp: 10
+  hp: 15
   dead: 0
   idleAwake: {fileID: 5137946214674073354, guid: 8db965415b6d28c4d9dc806b7ec1654b, type: 3}
 --- !u!95 &7243837349371402190

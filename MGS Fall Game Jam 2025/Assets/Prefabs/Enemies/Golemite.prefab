@@ -178,7 +178,7 @@ MonoBehaviour:
   attackPrefab: {fileID: 4493342503162078712, guid: b9738114b791d31419bc745a09bc4791, type: 3}
   damageCooldownAmount: 0.3
   attackCooldownAmount: 0.3
-  hp: 10
+  hp: 12
   dead: 0
 --- !u!95 &2232075832450224959
 Animator:
