@@ -7789,11 +7789,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3136030684342725610, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -93.7
+      value: -94.07
       objectReference: {fileID: 0}
     - target: {fileID: 3136030684342725610, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -14.4
+      value: -14.76
       objectReference: {fileID: 0}
     - target: {fileID: 3136030684342725610, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16406,7 +16406,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.025135465, g: 0.7921569, b: 0, a: 1}
+  m_Color: {r: 0.6246822, g: 0.2819508, b: 0.9056604, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -18056,7 +18056,7 @@ MonoBehaviour:
   m_BuildHeightMesh: 0
   m_MinRegionArea: 0
   m_HideEditorLogs: 0
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: 1e9453896ade5ae4dae9b866f821f88d, type: 2}
 --- !u!1 &1823280610
 GameObject:
   m_ObjectHideFlags: 0
@@ -21223,63 +21223,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2129187742}
   m_CullTransparentMesh: 1
---- !u!1001 &3191883379725355794
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -87.106
-      objectReference: {fileID: 0}
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -14.46
-      objectReference: {fileID: 0}
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3019067288071366598, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9218203837671966773, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
-      propertyPath: m_Name
-      value: Snole
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 020020bf2cda5f14999e4ea6c929c2a3, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -21293,4 +21236,3 @@ SceneRoots:
   - {fileID: 798446168}
   - {fileID: 2128671844}
   - {fileID: 1340956879}
-  - {fileID: 3191883379725355794}

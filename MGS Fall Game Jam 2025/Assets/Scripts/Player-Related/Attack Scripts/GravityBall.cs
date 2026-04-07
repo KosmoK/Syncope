@@ -21,6 +21,6 @@ public class GravityBall : MonoBehaviour
 
         gbc.setDuration(1);
         gbc.setGravitySource(ballMiddle);
-        gbc.setGravity(10);
+        gbc.setGravity(15);
     }
 }
