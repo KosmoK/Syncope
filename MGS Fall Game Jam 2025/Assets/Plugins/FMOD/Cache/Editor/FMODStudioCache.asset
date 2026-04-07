@@ -15,7 +15,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/SFX.bank
   Name: SFX
   StudioPath: bank:/SFX
-  lastModified: 639111336969235135
+  lastModified: 639111510019891072
   FileSizes: []
   Exists: 1
 --- !u!114 &-8610660065860057438
@@ -476,7 +476,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: 150896691524198800}
   cacheVersion: 131858
-  cacheTime: 639111336969235135
+  cacheTime: 639111510019891072
   SerializableEventsDict:
   - key: event:/Music/Level1Fire
     index: 0
@@ -551,7 +551,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639111336969096333
+  lastModified: 639111510019433633
   FileSizes:
   - Name: 
     Value: 2238
@@ -733,7 +733,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Music.bank
   Name: Music
   StudioPath: bank:/Music
-  lastModified: 639111336969194719
+  lastModified: 639111510019781058
   FileSizes: []
   Exists: 1
 --- !u!114 &4079195962404391352
@@ -967,6 +967,6 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639110215439918435
+  lastModified: 639111275504183814
   FileSizes: []
   Exists: 1
