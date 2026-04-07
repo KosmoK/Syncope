@@ -89,17 +89,27 @@ public class PlayerAttack : MonoBehaviour
             return;
         }
 
-        if (asb == null || damage == -1)
-        {
-            return;
-        }
-
         if (isBasicAttack1)
         {
             damage = GameObject.FindGameObjectWithTag("GameManager").GetComponent<StatManager>().getDamage1();
         } else if (isBasicAttack2)
         {
             damage = GameObject.FindGameObjectWithTag("GameManager").GetComponent<StatManager>().getDamage2();
+        }
+
+        if (tag == "Phoenix")
+        {
+            Phoenix phoenix = gameObject.GetComponent<Phoenix>();
+            phoenix.dealDamage(damage+bonusFireDamage);
+        } else if (tag == "Golem")
+        {
+            Golem golem = gameObject.GetComponent<Golem>();
+            golem.dealDamage(damage+bonusIceDamage);
+        }
+
+        if (asb == null || damage == -1)
+        {
+            return;
         }
 
         if (tag == "LavaEnemy")

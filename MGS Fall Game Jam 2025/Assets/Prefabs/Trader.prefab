@@ -170,9 +170,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TraderScript
   trader: {fileID: 0}
-  notPurchasedSprite: {fileID: -1172723867, guid: 17ab3d28f8e7c4d488c8c8a4bd24c887, type: 3}
-  purchasedSprite: {fileID: 4051696905649449785, guid: ab2d93e9f1dbf40428fcf2f6c55b61f9, type: 3}
-  activeSprite: {fileID: -1905528833895103769, guid: accd9b01d85d98b428be6fc52cc2d4ca, type: 3}
+  notPurchasedSprite: {fileID: -1007444201154406288, guid: 788b9581c4d0cec45b80a224f0ba93f6, type: 3}
+  purchasedSprite: {fileID: -8256115261370556298, guid: 431744dec016c0942ade1e1e1af21f73, type: 3}
+  activeSprite: {fileID: 7818817431312667982, guid: 4065d48d8865eab49a4f9611ee653392, type: 3}
   neuralImpulse: {fileID: 0}
   sketchKick: {fileID: 0}
   gravityBall: {fileID: 0}
@@ -181,3 +181,6 @@ MonoBehaviour:
   iceDrug: {fileID: 0}
   dashDrug: {fileID: 0}
   speedDrug: {fileID: 0}
+  attackText: {fileID: 0}
+  hpText: {fileID: 0}
+  speedText: {fileID: 0}

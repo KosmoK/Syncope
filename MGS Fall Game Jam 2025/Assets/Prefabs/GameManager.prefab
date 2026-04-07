@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 8737949570995240908}
   - component: {fileID: 1066349658425903016}
   - component: {fileID: 3927743857572148217}
+  - component: {fileID: 8132220994614918065}
   - component: {fileID: 2962046754415809977}
   - component: {fileID: 8802644154456726909}
   m_Layer: 0
@@ -108,6 +109,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84c93ad1cf669d54dbe042314fd2abf1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DrugManager
+--- !u!114 &8132220994614918065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6711324882229464683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a651357efaeec9949adbe0eb7a335bac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::StatManager
 --- !u!114 &2962046754415809977
 MonoBehaviour:
   m_ObjectHideFlags: 0

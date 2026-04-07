@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9ab2e19a9920f9e468e84ca7d10c0275
+guid: 2c964e70dfc672a46b696259cc2bd178
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1214485113976037409
-    second: LavaMapBottomLavaLake_0
+      213: 6099641510602938258
+    second: Lighting - LavaMapBW_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -56,7 +56,7 @@ TextureImporter:
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: 0.2
+  spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -100,50 +100,33 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LavaMapBottomLavaLake_0
+      name: Lighting - LavaMapBW_0
       rect:
         serializedVersion: 2
-        x: 789
-        y: 1703
-        width: 551
-        height: 292
+        x: 159
+        y: 0
+        width: 3841
+        height: 5893
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fdf55743938452fe0800000000000000
-      internalID: -1214485113976037409
+      spriteID: 29717b8f2a746a450800000000000000
+      internalID: 6099641510602938258
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
     customData: 
-    physicsShape:
-    - - {x: -1198, y: -1103}
-      - {x: -979, y: -1298}
-      - {x: -887, y: -1296}
-      - {x: -1067, y: -1093}
-      - {x: -1155, y: -1081}
-    - - {x: -958, y: -1029}
-      - {x: -973, y: -1050}
-      - {x: -809, y: -1217}
-      - {x: -791, y: -1192}
-      - {x: -784, y: -1140}
-      - {x: -712, y: -1136}
-      - {x: -680, y: -1081}
-      - {x: -667, y: -1037}
-      - {x: -708, y: -1008}
-      - {x: -794, y: -1015}
-      - {x: -867, y: -1026}
-      - {x: -903, y: -1025}
+    physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
@@ -152,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      LavaMapBottomLavaLake_0: -1214485113976037409
+      Lighting - LavaMapBW_0: 6099641510602938258
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
