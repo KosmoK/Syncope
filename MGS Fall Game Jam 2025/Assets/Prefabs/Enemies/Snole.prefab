@@ -245,8 +245,8 @@ MonoBehaviour:
   coinAnimMaxX: 2
   coinAnimMaxY: 2
   coinAnimDuration: 1.5
-  coinMinMax: {x: 3, y: 5}
-  coinValue: {x: 1, y: 1}
+  coinMinMax: {x: 4, y: 6}
+  coinValue: {x: 5, y: 6}
   idle: {fileID: -3100369314251171874, guid: 3fd8526cf65b2b144b4776c1c83ac63d, type: 3}
   alert: {fileID: -3745917278484660868, guid: 3fd8526cf65b2b144b4776c1c83ac63d, type: 3}
   move: {fileID: -3100369314251171874, guid: 3fd8526cf65b2b144b4776c1c83ac63d, type: 3}
