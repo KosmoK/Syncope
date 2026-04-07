@@ -11,7 +11,7 @@ public class EnemyMovementState : MonoBehaviour
     [SerializeField] float attackDist;
     [SerializeField] AnimStatesBase animStates;
     PlayerMovement player;
-    public LayerMask layermask;
+    [SerializeField] LayerMask layermask;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

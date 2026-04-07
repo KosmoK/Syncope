@@ -24,7 +24,6 @@ public class GravityBall : MonoBehaviour
         // rb.AddForce(forceVec, ForceMode2D.Impulse);
         gbc.setDuration(1);
         gbc.setGravitySource(ballMiddle);
-        gbc.setGravity(10);
-        
+        gbc.setGravity(15);
     }
 }
