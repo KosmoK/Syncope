@@ -27,7 +27,7 @@ public class Golemite : AnimStatesBase
             Debug.Log($"Golemite running dist {(runToPoint-transform.position).magnitude}");
         }
 
-        if (runningToPoint && (runToPoint-transform.position).magnitude < 2f)
+        if (runningToPoint && (runToPoint-transform.position).magnitude < 4f)
         {
             runningToPoint = false;
             golemiteAttack();
