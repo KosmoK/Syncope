@@ -6,6 +6,10 @@ public class SketchTornado : MonoBehaviour
     [SerializeField] float lingerDuration;
     [SerializeField] GameObject lingerPrefab;
 
+    private void Start()
+    {
+        AudioManager.instance.PlayOneShot(FMODEvents.instance.sketchTornado, this.transform.position);
+    }
     void OnDestroy()
     {
         GameObject g = Instantiate(lingerPrefab);
@@ -21,7 +25,6 @@ public class SketchTornado : MonoBehaviour
         {
             return;
         }
-
         SketchTornadoComponent stc = gameObject.AddComponent<SketchTornadoComponent>();
         stc.setDuration(stunDuration);
     }

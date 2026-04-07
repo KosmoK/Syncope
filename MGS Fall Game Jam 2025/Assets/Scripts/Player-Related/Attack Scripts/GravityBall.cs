@@ -3,6 +3,10 @@ using UnityEngine;
 public class GravityBall : MonoBehaviour
 { 
     [SerializeField] Transform ballMiddle;
+    private void Start()
+    {
+        AudioManager.instance.PlayOneShot(FMODEvents.instance.gravBall, this.transform.position);
+    }
     void OnTriggerEnter2D(Collider2D collision)
     {
         GameObject gameObject = collision.gameObject;
@@ -18,7 +22,6 @@ public class GravityBall : MonoBehaviour
         // Vector3 forceVec = dir.normalized * amount;
         // Debug.Log($"amount: {forceVec}");
         // rb.AddForce(forceVec, ForceMode2D.Impulse);
-
         gbc.setDuration(1);
         gbc.setGravitySource(ballMiddle);
         gbc.setGravity(15);

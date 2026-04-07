@@ -42,7 +42,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/SFX.bank
   Name: SFX
   StudioPath: bank:/SFX
-  lastModified: 639110215440176180
+  lastModified: 639111032950231613
   FileSizes: []
   Exists: 1
 --- !u!114 &-7305551115906622847
@@ -589,7 +589,6 @@ MonoBehaviour:
   - {fileID: 194703231590927311}
   - {fileID: -7702026172798168076}
   EditorEvents:
-  - {fileID: 773262878672849875}
   - {fileID: -6449514969893315999}
   - {fileID: -3530817508880444565}
   - {fileID: -30053884819823272}
@@ -612,60 +611,79 @@ MonoBehaviour:
   - {fileID: -7080097368965692554}
   - {fileID: 4025146536457658268}
   - {fileID: -1573925863975075500}
+  - {fileID: 2386559036329794853}
+  - {fileID: 1771345951954918826}
+  - {fileID: 2045841431530008706}
+  - {fileID: 6979949732654071606}
+  - {fileID: 5622543567630025162}
+  - {fileID: 2635810396632977244}
+  - {fileID: 4996944957280985444}
   EditorParameters: []
   MasterBanks:
   - {fileID: 5410869328861483941}
   StringsBanks:
   - {fileID: 8152384632324471754}
   cacheVersion: 131858
-  cacheTime: 639110215440176180
+  cacheTime: 639111032950231613
   SerializableEventsDict:
-  - key: event:/Music/Level1Ice
-    index: 0
   - key: event:/Music/Level1Fire
-    index: 1
+    index: 0
   - key: event:/SFX/Ant/AntAttack
-    index: 2
+    index: 1
   - key: event:/SFX/Snake/SnakeMoving
-    index: 3
+    index: 2
   - key: event:/SFX/Enemy Generic/EnemyHit
-    index: 4
+    index: 3
   - key: event:/SFX/Ant/AntLeaderAttack
-    index: 5
+    index: 4
   - key: event:/SFX/Ant/AntMoving
-    index: 6
+    index: 5
   - key: event:/SFX/Ant/AntDeath
-    index: 7
+    index: 6
   - key: event:/SFX/Player/PlayerFootsteps
-    index: 8
+    index: 7
   - key: event:/SFX/Player/PlayerHurt
-    index: 9
+    index: 8
   - key: event:/SFX/Player/PlayerAttack
-    index: 10
+    index: 9
   - key: event:/SFX/Ant/AntAttackNew
-    index: 11
+    index: 10
   - key: event:/Misc/CoinGet
-    index: 12
+    index: 11
   - key: event:/SFX/Sharmadillo/SharWalk
-    index: 13
+    index: 12
   - key: event:/Phoenix Boss/PhoenixScreech
-    index: 14
+    index: 13
   - key: event:/Phoenix Boss/PhoenixFlapWing
-    index: 15
+    index: 14
   - key: event:/SFX/Snake/SnakeAtk
-    index: 16
+    index: 15
   - key: event:/Frog/FrogDeath
-    index: 17
+    index: 16
   - key: event:/SFX/Snake/SnakeDeath
-    index: 18
+    index: 17
   - key: event:/Phoenix Boss/PhoenixSlashLoop
-    index: 19
+    index: 18
   - key: event:/SFX/Sharmadillo/SharDeath
-    index: 20
+    index: 19
   - key: event:/Frog/FrogJump
-    index: 21
+    index: 20
   - key: event:/Phoenix Boss/PhoenixDeath
+    index: 21
+  - key: event:/SFX/Player/Abilities/NeuralImpulse
     index: 22
+  - key: event:/SFX/Player/Abilities/IcyBreath
+    index: 23
+  - key: event:/Misc/Purchase
+    index: 24
+  - key: event:/SFX/Player/Abilities/SketchTornado
+    index: 25
+  - key: event:/SFX/Player/Abilities/GravBall
+    index: 26
+  - key: event:/Misc/ItemSelected
+    index: 27
+  - key: event:/Misc/ItemUnaffordable
+    index: 28
 --- !u!114 &21056612591811762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -708,36 +726,9 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Music.bank
   Name: Music
   StudioPath: bank:/Music
-  lastModified: 639110215440151284
+  lastModified: 639111026020051442
   FileSizes: []
   Exists: 1
---- !u!114 &773262878672849875
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/Music/Level1Ice
-  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
-  Path: event:/Music/Level1Ice
-  Guid:
-    Data1: -698037123
-    Data2: 1285530945
-    Data3: 367593354
-    Data4: -1572912297
-  Banks:
-  - {fileID: 194703231590927311}
-  IsStream: 1
-  Is3D: 0
-  IsOneShot: 0
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 161280
 --- !u!114 &1036289932115809695
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -812,6 +803,114 @@ MonoBehaviour:
   - Name: Desktop
     Value: 139136
   Exists: 1
+--- !u!114 &1771345951954918826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Abilities/IcyBreath
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Player/Abilities/IcyBreath
+  Guid:
+    Data1: 418989908
+    Data2: 1253278528
+    Data3: 316700802
+    Data4: 1146400959
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2045841431530008706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Misc/Purchase
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Misc/Purchase
+  Guid:
+    Data1: 1085589365
+    Data2: 1148992100
+    Data3: 832267952
+    Data4: 2097833773
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2386559036329794853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Abilities/NeuralImpulse
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Player/Abilities/NeuralImpulse
+  Guid:
+    Data1: 1553545296
+    Data2: 1242866302
+    Data3: -596690778
+    Data4: -891294000
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &2635810396632977244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Misc/ItemSelected
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Misc/ItemSelected
+  Guid:
+    Data1: -1496998412
+    Data2: 1280029465
+    Data3: -937225579
+    Data4: 563124768
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &2695506692433520471
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -994,6 +1093,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &4996944957280985444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Misc/ItemUnaffordable
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/Misc/ItemUnaffordable
+  Guid:
+    Data1: 2018860649
+    Data2: 1298559139
+    Data3: 913094051
+    Data4: 825433073
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &4999959310517714074
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1036,7 +1162,7 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639110215439918435
+  lastModified: 639111032946500951
   FileSizes: []
   Exists: 1
 --- !u!114 &5519010807118625554
@@ -1066,6 +1192,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 161280
+--- !u!114 &5622543567630025162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Abilities/GravBall
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Player/Abilities/GravBall
+  Guid:
+    Data1: 367790821
+    Data2: 1134257672
+    Data3: -2004573039
+    Data4: -2123415371
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &5771347126735104431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1174,6 +1327,33 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 0
+--- !u!114 &6979949732654071606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Player/Abilities/SketchTornado
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/SFX/Player/Abilities/SketchTornado
+  Guid:
+    Data1: -1485316935
+    Data2: 1081273303
+    Data3: 1292311463
+    Data4: -1398345801
+  Banks:
+  - {fileID: -7702026172798168076}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
 --- !u!114 &7871255386084873077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1216,8 +1396,8 @@ MonoBehaviour:
   Path: Assets/StreamingAssets/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639110215439938370
+  lastModified: 639111032946520950
   FileSizes:
   - Name: 
-    Value: 1934
+    Value: 2238
   Exists: 1

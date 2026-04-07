@@ -309,7 +309,6 @@ public class AnimStatesBase : MonoBehaviour
 
     protected void playAttackSound(EventReference sound)
     {
-
         if (attackInstance.isValid())
         {
             attackInstance.stop(FMOD.Studio.STOP_MODE.IMMEDIATE);
