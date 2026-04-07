@@ -73,6 +73,7 @@ public class AnimStatesBase : MonoBehaviour
     [Header("Enemy Data")]
     [SerializeField] int hp;
     public bool dead = false;
+    protected bool sketchTornado;
 
     private StudioEventEmitter movementEmitter;
 
@@ -328,6 +329,11 @@ public class AnimStatesBase : MonoBehaviour
                                     : FMOD.Studio.STOP_MODE.IMMEDIATE);
             attackInstance.release();
         }
+    }
+
+    public void setSketchTornado(bool st)
+    {
+        sketchTornado = st;
     }
 
 }

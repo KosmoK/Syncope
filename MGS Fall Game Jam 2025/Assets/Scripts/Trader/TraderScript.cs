@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
@@ -20,6 +21,10 @@ public class TraderScript : MonoBehaviour
     [SerializeField] Image iceDrug;
     [SerializeField] Image dashDrug;
     [SerializeField] Image speedDrug;
+    [Header("Hooks to stat labels")]
+    [SerializeField] TextMeshProUGUI attackText;
+    [SerializeField] TextMeshProUGUI hpText;
+    [SerializeField] TextMeshProUGUI speedText;
     Dictionary<string, Image> drugReferences;
 
 
@@ -27,19 +32,27 @@ public class TraderScript : MonoBehaviour
     private bool trading = false;
     private InputAction interactAction;
     private GameObject gameManager;
+    private CurrencyManager currencyManager;
     private SpecialAttacks specialAttacks;
     private Drugs drugs;
     private DrugManager drugManager;
     private Movement playerMovement;
+    private StatManager statManager;
+
+    private int currentAttackCost;
+    private int currentHpCost;
+    private int currentSpeedCost;
     void Start()
     {
         interactAction = InputSystem.actions.FindAction("Interact");
         gameManager = GameObject.FindGameObjectWithTag("GameManager");
         playerMovement = GameObject.FindGameObjectWithTag("Player").GetComponent<Movement>();
+        currencyManager = gameManager.GetComponent<CurrencyManager>();
 
         specialAttacks = gameManager.GetComponent<SpecialAttacks>();
         drugs = gameManager.GetComponent<Drugs>();
         drugManager = gameManager.GetComponent<DrugManager>();
+        statManager = gameManager.GetComponent<StatManager>();
 
         attackReferences = new Dictionary<string, Image>
         {
@@ -56,6 +69,9 @@ public class TraderScript : MonoBehaviour
             {"Dash", dashDrug},
             {"Speed", speedDrug},
         };
+
+        statManager.setInitCosts(out currentAttackCost, out currentHpCost, out currentSpeedCost);
+        updateStatCosts();
     }
 
     // Update is called once per frame
@@ -91,20 +107,48 @@ public class TraderScript : MonoBehaviour
         trading = false;
     }
 
+    void updateStatCosts()
+    {
+        attackText.text = (currentAttackCost == -1) ? "MAXED" : $"${currentAttackCost}";
+        hpText.text = (currentHpCost == -1) ? "MAXED" : $"${currentHpCost}";
+        speedText.text = (currentSpeedCost == -1) ? "MAXED" : $"${currentSpeedCost}";
+    }
+
     // All functions having to do with buying stuff
     public void purchaseAttackUpgrade()
     {
-        
+        if (currencyManager.deductMoney(currentAttackCost))
+        {
+            statManager.setVal("attack", currentAttackCost);
+            currentAttackCost = statManager.getNewCost("attack", currentAttackCost);
+            updateStatCosts();
+        }
+
+        trader.setFunds();
     }
 
     public void purchaseHPUpgrade()
     {
-        
+        if (currencyManager.deductMoney(currentHpCost))
+        {
+            statManager.setVal("hp", currentHpCost);
+            currentHpCost = statManager.getNewCost("hp", currentHpCost);
+            updateStatCosts();
+        }
+
+        trader.setFunds();
     }
 
     public void purchaseSpeedUpgrade()
     {
-        
+        if (currencyManager.deductMoney(currentSpeedCost))
+        {
+            statManager.setVal("speed", currentSpeedCost);
+            currentSpeedCost = statManager.getNewCost("speed", currentSpeedCost);
+            updateStatCosts();
+        }
+
+        trader.setFunds();
     }
 
     public void purchaseNI()

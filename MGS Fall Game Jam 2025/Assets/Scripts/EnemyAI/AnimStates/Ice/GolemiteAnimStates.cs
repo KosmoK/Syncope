@@ -50,7 +50,7 @@ public class Golemite : AnimStatesBase
     }
     private void golemiteRun()
     {
-        if (!agent.enabled)
+        if (!agent.enabled && !sketchTornado)
         {
             agent.enabled = true;
         }

@@ -65,25 +65,25 @@ public class Trader : MonoBehaviour
     IEnumerator activateCoroutine()
     {
         primaryPanel.gameObject.SetActive(true);
-        traderImage.gameObject.SetActive(true);
+        // traderImage.gameObject.SetActive(true);
 
         float time = 0;
 
         float panelX = primaryPanel.anchoredPosition.x;
-        float traderY = traderImage.anchoredPosition.y;
+        // float traderY = traderImage.anchoredPosition.y;
 
         while (time < animLength)
         {
             time += Time.deltaTime;
 
             primaryPanel.anchoredPosition = new Vector2(panelX, initPosPanel-panelCurve.Evaluate(time/animLength)*panelDist);
-            traderImage.anchoredPosition = new Vector2(initPosTrader-traderCurve.Evaluate(time/animLength)*traderDist, traderY);
+            // traderImage.anchoredPosition = new Vector2(initPosTrader-traderCurve.Evaluate(time/animLength)*traderDist, traderY);
 
             yield return null;
         }
         
         primaryPanel.anchoredPosition = new Vector2(panelX, initPosPanel-panelDist);
-        traderImage.anchoredPosition = new Vector2(initPosTrader-traderDist, traderY);
+        // traderImage.anchoredPosition = new Vector2(initPosTrader-traderDist, traderY);
     }
 
     IEnumerator deactivateCoroutine()
@@ -91,22 +91,22 @@ public class Trader : MonoBehaviour
         float time = 0;
 
         float panelX = primaryPanel.anchoredPosition.x;
-        float traderY = traderImage.anchoredPosition.y;
+        // float traderY = traderImage.anchoredPosition.y;
 
         while (time < animLength)
         {
             time += Time.deltaTime;
 
             primaryPanel.anchoredPosition = new Vector2(panelX, initPosPanel-panelCurve.Evaluate(1-time/animLength)*panelDist);
-            traderImage.anchoredPosition = new Vector2(initPosTrader-traderCurve.Evaluate(1-time/animLength)*traderDist, traderY);
+            // traderImage.anchoredPosition = new Vector2(initPosTrader-traderCurve.Evaluate(1-time/animLength)*traderDist, traderY);
 
             yield return null;
         }
         
         primaryPanel.anchoredPosition = new Vector2(panelX, initPosPanel);
-        traderImage.anchoredPosition = new Vector2(initPosTrader, traderY);
+        // traderImage.anchoredPosition = new Vector2(initPosTrader, traderY);
 
         primaryPanel.gameObject.SetActive(false);
-        traderImage.gameObject.SetActive(false);
+        // traderImage.gameObject.SetActive(false);
     }
 }

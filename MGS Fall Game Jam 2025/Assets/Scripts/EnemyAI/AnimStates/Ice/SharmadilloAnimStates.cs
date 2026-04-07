@@ -50,7 +50,7 @@ public class SharmadilloAnimStates : AnimStatesBase
     }
     private void sharmadilloChase()
     {
-        if (!agent.enabled)
+        if (!agent.enabled && !sketchTornado)
         {
             agent.enabled = true;
         }

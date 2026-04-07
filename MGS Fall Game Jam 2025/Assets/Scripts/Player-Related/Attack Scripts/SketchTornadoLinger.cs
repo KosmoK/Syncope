@@ -25,7 +25,7 @@ public class SketchTornadoLinger : MonoBehaviour
             Destroy(gameObject);
         }
 
-        transform.position = player.position;
+        // transform.position = player.position;
 
         t += Time.deltaTime;
     }
@@ -37,7 +37,6 @@ public class SketchTornadoLinger : MonoBehaviour
         {
             return;
         }
-
         SketchTornadoComponent stc = gameObject.AddComponent<SketchTornadoComponent>();
         stc.setDuration(stunDuration);
     }

@@ -6,6 +6,7 @@ public class SketchTornadoComponent : MonoBehaviour
     private float time;
     void Start()
     {
+        GetComponent<AnimStatesBase>().setSketchTornado(true);
         GetComponent<NavMeshAgent>().enabled = false;
     }
 
@@ -16,6 +17,7 @@ public class SketchTornadoComponent : MonoBehaviour
         if (time < 0)
         {
             GetComponent<NavMeshAgent>().enabled = true;
+            GetComponent<AnimStatesBase>().setSketchTornado(false);
             Destroy(this);
         }
     }

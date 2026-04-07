@@ -48,7 +48,7 @@ public class BFGAnimStates : AnimStatesBase
     }
     private void bfgChase()
     {
-        if (!agent.enabled)
+        if (!agent.enabled && !sketchTornado)
         {
             agent.enabled = true;
         }

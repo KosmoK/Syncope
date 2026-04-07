@@ -48,7 +48,7 @@ public class EmberAntLeaderAnimStates : AnimStatesBase
     }
     private void antLeaderChase()
     {
-        if (!agent.enabled)
+        if (!agent.enabled && !sketchTornado)
         {
             agent.enabled = true;
         }
