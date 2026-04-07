@@ -13053,7 +13053,7 @@ GameObject:
   - component: {fileID: 1340956877}
   - component: {fileID: 1340956876}
   - component: {fileID: 1340956875}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Trader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17977,6 +17977,79 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -25}
   m_SizeDelta: {x: 150, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &1793260788
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -89.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -13.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 434917959890099363, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 778249263935302127, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_Name
+      value: Sharmadillo
+      objectReference: {fileID: 0}
+    - target: {fileID: 3871945243591340415, guid: 92c59631397f9e546833fda43c6301da, type: 3}
+      propertyPath: m_AgentTypeID
+      value: -1372625422
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 92c59631397f9e546833fda43c6301da, type: 3}
 --- !u!1 &1811981212
 GameObject:
   m_ObjectHideFlags: 0
@@ -21236,3 +21309,4 @@ SceneRoots:
   - {fileID: 798446168}
   - {fileID: 2128671844}
   - {fileID: 1340956879}
+  - {fileID: 1793260788}

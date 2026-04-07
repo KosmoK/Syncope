@@ -98,7 +98,7 @@ GameObject:
   - component: {fileID: 1077160506556612931}
   m_Layer: 2
   m_Name: Snole
-  m_TagString: LavaEnemy
+  m_TagString: IceEnemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -216,7 +216,7 @@ MonoBehaviour:
   idleToChaseDist: 18
   chaseFollowDist: 30
   attackDist: 30
-  animStates: {fileID: 0}
+  animStates: {fileID: 8708859308428999855}
   layermask:
     serializedVersion: 2
     m_Bits: 0
