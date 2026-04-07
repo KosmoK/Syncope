@@ -19,7 +19,6 @@ public class SharmadilloAnimStates : AnimStatesBase
         } else if (state == "attack")
         {
             GetComponent<NavMeshAgent>().speed = 12f;
-            Debug.Log($"Sharm speed: {GetComponent<NavMeshAgent>().speed}");
             sharmadilloAttack();
         }
     }
