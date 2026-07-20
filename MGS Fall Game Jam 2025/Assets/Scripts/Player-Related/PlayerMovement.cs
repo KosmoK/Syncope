@@ -21,8 +21,11 @@ public class PlayerMovement : MonoBehaviour
     private InputAction iceBB;
 
     // Adjust Player settings
-    public float dashStrength = 1.0f;
+    [SerializeField] public AnimationCurve dashCurve = AnimationCurve.Constant(0f, 1f, 1f);
+    private float dashStrength = 1.0f;
+    public float dashStrengthMultiplier = 1.0f;
     public float dashCooldown = 0.75f;
+    public float dashTime = 0.5f;
     private Vector2 lastKnownDirection = new(1f,0f);
 
     // SFX
@@ -77,6 +80,7 @@ public class PlayerMovement : MonoBehaviour
         animator = transform.GetChild(0).GetComponent<Animator>();
 
         playerAttack = GetComponent<PlayerAttack>();
+        playerAttack.playerMovement = this;
 
         playerFootsteps = AudioManager.instance.CreateEventInstance(FMODEvents.instance.playerFootsteps);
     }
@@ -212,11 +216,14 @@ public class PlayerMovement : MonoBehaviour
 
     IEnumerator DashCoroutine()
     {
+        float dashTimer = 0f;
+        dashStrength = dashCurve.Evaluate(0f);
+
         while(true){
             // Dashing
             if (dash.WasPressedThisFrame() && !playerStatus.IsDead())
             {
-                movement.velocity += lastKnownDirection * dashStrength;
+                movement.velocity = lastKnownDirection * dashStrength;
                 
                 if (Vector2.Dot(lastKnownDirection, new(1f,0f)) < 0 && !isHurt)
                 {
@@ -230,7 +237,13 @@ public class PlayerMovement : MonoBehaviour
                 animator.Play(dashAnim.name);
                 playedAnimationThisFrame = true;
 
-                yield return new WaitForSeconds(dashCooldown);
+                for(dashTimer = 0f; dashTimer < dashTime; dashTimer += Time.fixedDeltaTime)
+                {
+                    dashStrength = dashCurve.Evaluate(dashTimer/dashTime);
+                    movement.velocity = (lastKnownDirection * dashStrength * dashStrengthMultiplier) * Time.fixedDeltaTime;
+                    yield return new WaitForFixedUpdate();
+                }
+                dashTimer = 0f;
             }
             else
             {

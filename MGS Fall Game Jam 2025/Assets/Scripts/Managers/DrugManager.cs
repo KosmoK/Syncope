@@ -87,7 +87,7 @@ public class DrugManager : MonoBehaviour
             bonusIceDamage = 10;
         } else if (activeDrug == "Dash")
         {
-            playerMovement.dashStrength = 0.1f;
+            playerMovement.dashStrengthMultiplier = 0.1f;
         } else if (activeDrug == "Speed")
         {
             movement.topSpeed += 20;
@@ -105,7 +105,7 @@ public class DrugManager : MonoBehaviour
             bonusIceDamage = 0;
         } else if (usedDrug == "Dash")
         {
-            playerMovement.dashStrength = 0.03f;
+            playerMovement.dashStrengthMultiplier = 0.03f;
         } else if (usedDrug == "Speed")
         {
             movement.topSpeed -= 20;

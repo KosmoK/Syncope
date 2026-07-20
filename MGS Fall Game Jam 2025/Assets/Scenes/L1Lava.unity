@@ -5311,6 +5311,54 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[0].time
+      value: 0.0041656494
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[1].time
+      value: 0.991689
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[0].value
+      value: 0.9976196
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[1].value
+      value: -0.00713256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[0].inSlope
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[1].inSlope
+      value: 0.057157256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[0].outSlope
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[1].inWeight
+      value: 0.74258024
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[1].outSlope
+      value: 0.057157256
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[0].outWeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[0].tangentMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3258806928552847842, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
+      propertyPath: dashCurve.m_Curve.Array.data[1].tangentMode
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8291430284576036767, guid: d3547963f2b790444a5b1dc08724c8f1, type: 3}
       propertyPath: health
       value: 150
@@ -43026,6 +43074,10 @@ PrefabInstance:
     - target: {fileID: 4546280245686694889, guid: 6ae0e3f2319e9d043b8e13e67c86a1f7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4773999593514103104, guid: 6ae0e3f2319e9d043b8e13e67c86a1f7, type: 3}
+      propertyPath: m_BodyType
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4780417966172975899, guid: 6ae0e3f2319e9d043b8e13e67c86a1f7, type: 3}
       propertyPath: m_Name

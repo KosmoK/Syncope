@@ -1,5 +1,7 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class PlayerAttack : MonoBehaviour
 {
@@ -20,6 +22,10 @@ public class PlayerAttack : MonoBehaviour
     private Animator animator;
     private int bonusFireDamage;
     private int bonusIceDamage;
+
+    public PlayerMovement playerMovement;
+    public float knockBackStrength = 10f;
+    public float knockBackTime = 0.5f;
     private List<string> enemyTags = new List<string>
     {
         "LavaEnemy",
@@ -76,14 +82,14 @@ public class PlayerAttack : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D collision)
     {
-        GameObject gameObject = collision.gameObject;
-        string tag = gameObject.tag;
+        GameObject collidedGameObject = collision.gameObject;
+        string tag = collidedGameObject.tag;
         AnimStatesBase asb;
         fetchBonusDamage();
 
         if (enemyTags.Contains(tag))
         {
-            asb = gameObject.GetComponent<AnimStatesBase>();
+            asb = collidedGameObject.GetComponent<AnimStatesBase>();
         } else
         {
             return;
@@ -91,23 +97,42 @@ public class PlayerAttack : MonoBehaviour
 
         if (isBasicAttack1)
         {
+            Debug.Log("Basic attack done on " + collidedGameObject.name); // Seems to work perfectly fine in here
             damage = GameObject.FindGameObjectWithTag("GameManager").GetComponent<StatManager>().getDamage1();
         } else if (isBasicAttack2)
         {
             damage = GameObject.FindGameObjectWithTag("GameManager").GetComponent<StatManager>().getDamage2();
         }
+        // Knockback Scripting
+        collidedGameObject.TryGetComponent<Rigidbody2D>(out Rigidbody2D enemyRB);
+        collidedGameObject.TryGetComponent<NavMeshAgent>(out NavMeshAgent enemyNavAgent);
 
+        if (enemyRB != null && enemyNavAgent != null)
+        {
+            StartCoroutine(KnockBackCoroutine(enemyRB, enemyNavAgent, collidedGameObject));
+            // GameObject gameObject = collision.gameObject;
+            // Rigidbody2D rb = gameObject.GetComponent<Rigidbody2D>();
+            // if (gameObject.tag == "Player" || rb == null)
+            // // {
+            // //     return;
+            // // }
+            // Vector3 vec = gameObject.transform.position - transform.position;
+            // vec = vec.normalized;
+            // rb.AddForce(vec * knockBackStrength, ForceMode2D.Impulse); // DOESNT WORK
+        }
+
+        // Boss Attacks
         if (tag == "Phoenix")
         {
-            Phoenix phoenix = gameObject.GetComponent<Phoenix>();
+            Phoenix phoenix = collidedGameObject.GetComponent<Phoenix>();
             phoenix.dealDamage(damage+bonusFireDamage);
         } else if (tag == "Golem")
         {
-            Golem golem = gameObject.GetComponent<Golem>();
+            Golem golem = collidedGameObject.GetComponent<Golem>();
             golem.dealDamage(damage+bonusIceDamage);
         } else if (tag == "Final Boss")
         {
-            FinalBoss fb = gameObject.GetComponent<FinalBoss>();
+            FinalBoss fb = collidedGameObject.GetComponent<FinalBoss>();
             fb.dealDamage(damage);
         }
 
@@ -135,4 +160,33 @@ public class PlayerAttack : MonoBehaviour
         bonusIceDamage = dm.getBonusIceDamage();
     }
 
+    IEnumerator KnockBackCoroutine(Rigidbody2D enemyRB, NavMeshAgent enemyNavAgent, GameObject collidedGameObject)
+    {
+        Debug.Log("Knockback applied to " + collidedGameObject.name);
+        // enemyRB.AddForce(playerMovement.GetLastKnownDirection() * knockBackStrength, ForceMode2D.Impulse);
+        // collidedGameObject.transform.position += new Vector3(5, 0, 0); // Of course this doesnt work cuz it ignores collisions
+        
+        enemyNavAgent.enabled = false;
+
+        //yield return new WaitForSeconds(0.1f); // Wait a bit to ensure the nav agent is disabled before applying force (DOESNT WORK)
+        // FOR SOME REASON IT ISNT APPLYING FORCE?
+        enemyRB.AddForce(new Vector2(1, 0) * knockBackStrength, ForceMode2D.Impulse);
+        yield return new WaitForSeconds(knockBackTime);
+        enemyNavAgent.enabled = true;
+        Debug.Log("KB ended");
+    }
+
+    // private bool canMove(Vector2 direction)
+    // { // Thank you goat : https://www.youtube.com/watch?v=05eWA0TP3AA
+    // // Checks if you are allowed to move. Shrimple as that.
+    //     int count = rb.Cast(
+    //         direction,
+    //         movementFilter,
+    //         castCollisions,
+    //         direction.magnitude //topSpeed * Time.fixedDeltaTime + collisionOffset
+    //         );
+        
+    //     if(count == 0) {return true;} // If you aren't colliding with anything, you're allowed to move.
+    //     else{return false;}
+    // }
 }
